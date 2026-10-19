@@ -1,0 +1,58 @@
+name: Daily Autonomous Job Hunter Sweep
+
+on:
+  schedule:
+    - cron: '30 3 * * *'   # 9:00 AM IST daily
+    - cron: '30 12 * * *'  # 6:00 PM IST daily
+  workflow_dispatch:       # Allows manual 1-click runs
+
+permissions:
+  contents: write
+
+jobs:
+  hunt-jobs:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+         python-version: '3.11'
+         cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run 24-Hour Job Hunter Agent
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          ALERT_EMAIL_TO: ${{ secrets.ALERT_EMAIL_TO }}
+        run: |
+          python job_hunter_agent.py --cli
+
+      - name: Upload Ranked Job Report & CSV Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: verified-jobs-24h-report
+          path: |
+            latest_jobs_24h.csv
+            latest_jobs_report.md
+          retention-days: 14
+
+      - name: Commit latest report & SQLite history back to repository
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -f latest_jobs_24h.csv latest_jobs_report.md jobs_history.db || true
+          git diff --staged --quiet || git commit -m "chore: update daily <24h verified job report [skip ci]"
+          git push
