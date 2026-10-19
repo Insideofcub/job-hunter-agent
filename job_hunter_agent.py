@@ -6,23 +6,29 @@ A 100% free-tier compatible job search agent supporting any sector (Recruitment,
 IT/Tech, Sales, Retail, Finance, Marketing) and any country/location.
 
 Features:
-1. Multi-Portal Scraping (Last 24 Hours):
+1. Multi-Portal Scraping with Flexible Time Windows:
    - Concurrently scrapes LinkedIn, Naukri, Indeed, and Google Jobs via
-     `python-jobspy` (`hours_old=24`).
-   - Includes custom scrapers for executive portals (e.g. iimjobs) with strict
-     timestamp verification ("Posted today", "<24h").
-2. Dynamic Profiles & Sectors:
+     `python-jobspy`.
+   - Fully customizable posting age: 24 Hours, 2 Days, 7 Days, 15 Days,
+     30 Days (1 Month), or any custom day range.
+   - Includes custom scrapers for executive portals (e.g. iimjobs) with
+     dynamic timestamp verification.
+2. Full Job Description (JD) Extraction:
+   - Fetches and stores the full job description.
+   - Displays complete formatted JDs in expandable card views with 1-click
+     Direct Apply links.
+3. Dynamic Profiles & Sectors:
    - Built-in presets for HR/Recruitment, Tech/Engineering, Sales/BD, Finance,
      plus custom text input for any domain or country.
-3. Hybrid Match-Scoring Engine (0-100):
+4. Hybrid Match-Scoring Engine (0-100):
    - Google Gemini API Free Tier (`gemini-2.5-flash`) or zero-cost rule-based
      heuristic scoring.
-4. Deduplication & Persistence:
+5. Deduplication & Persistence:
    - SQLite (`jobs_history.db`) with automatic fallback to `/tmp` or in-memory
      on cloud filesystems.
-5. Premium Streamlit UI:
+6. Premium Streamlit UI:
    - Glassmorphic executive dashboard, metric cards, 1-click Direct Apply buttons,
-     visual analytics charts, and built-in AI outreach pitch generator.
+     visual analytics charts, full JD reader, and built-in AI outreach generator.
 """
 
 from __future__ import annotations
@@ -150,7 +156,7 @@ class JobListing:
     work_mode: str
     posted_time_raw: str
     posted_time_verified: bool
-    posting_window: str  # "1-6h", "6-12h", "12-24h", or "Unverified"
+    posting_window: str  # e.g., "1-6h", "12-24h", "2d", "7d", "15d", "30d"
     experience_required: str
     salary: str
     job_url: str
@@ -172,8 +178,7 @@ class JobListing:
 class JobDatabase:
     """
     Lightweight SQLite store to deduplicate jobs across portals and runs.
-    Automatically falls back to /tmp or in-memory SQLite on cloud hosts
-    where local file locking is restricted.
+    Automatically falls back to /tmp or in-memory SQLite on cloud hosts.
     """
 
     def __init__(self, db_path: str = "jobs_history.db") -> None:
@@ -241,11 +246,15 @@ class JobDatabase:
 
 
 # =====================================================================
-# 3. MULTI-PORTAL SCRAPERS (STRICT 24-HOUR FILTER)
+# 3. MULTI-PORTAL SCRAPERS (CUSTOMIZABLE POSTING AGE)
 # =====================================================================
 
-def classify_posting_age(raw_text: str) -> tuple[bool, str]:
-    """Verifies whether a posting age string strictly falls within 24 hours."""
+def classify_posting_age(raw_text: str, max_hours: int = 24) -> tuple[bool, str]:
+    """
+    Verifies whether a posting age string falls within the user-specified max_hours
+    (24h, 48h, 7d/168h, 15d/360h, 30d/720h, etc.).
+    Returns (is_verified_within_window, priority_bucket).
+    """
     if not raw_text:
         return False, "Unverified"
 
@@ -254,27 +263,48 @@ def classify_posting_age(raw_text: str) -> tuple[bool, str]:
     if text in {"recently posted", "just posted", "active", "new", "unknown"}:
         return False, "Unverified"
 
+    # Match minutes
     min_match = re.search(r"(\d+)\s*(?:min|minute|minutes|m)\b", text)
     if min_match or "0 minutes ago" in text or "few minutes ago" in text:
         return True, "1-6h"
 
+    # Match hours
     hr_match = re.search(r"(\d+)\s*(?:hr|hrs|hour|hours|h)\b", text)
     if hr_match:
         hrs = int(hr_match.group(1))
-        if hrs <= 6:
-            return True, "1-6h"
-        if hrs <= 12:
-            return True, "6-12h"
-        if hrs <= 24:
-            return True, "12-24h"
-        return False, "Older than 24h"
+        if hrs <= max_hours:
+            if hrs <= 6:
+                return True, "1-6h"
+            if hrs <= 12:
+                return True, "6-12h"
+            if hrs <= 24:
+                return True, "12-24h"
+            return True, f"{hrs}h ago"
+        return False, f"Older than {max_hours}h"
 
-    today_ist = datetime.now(IST).strftime("%Y-%m-%d")
-    yesterday_ist = (datetime.now(IST) - timedelta(days=1)).strftime("%Y-%m-%d")
-    if "posted today" in text or "today" in text or today_ist in text:
+    # Match days
+    day_match = re.search(r"(\d+)\s*(?:day|days|d)\b", text)
+    if day_match:
+        days = int(day_match.group(1))
+        if days * 24 <= max_hours:
+            if days <= 1:
+                return True, "12-24h"
+            if days <= 2:
+                return True, "2 days ago"
+            if days <= 7:
+                return True, f"{days} days ago"
+            if days <= 15:
+                return True, f"{days} days ago"
+            return True, f"{days} days ago"
+        return False, f"Older than {max_hours // 24} days"
+
+    # Match "posted today" / "yesterday"
+    if "posted today" in text or "today" in text:
         return True, "12-24h"
-    if "1 day ago" in text or "yesterday" in text or yesterday_ist in text:
-        return True, "12-24h"
+    if "1 day ago" in text or "yesterday" in text:
+        if max_hours >= 24:
+            return True, "12-24h"
+        return False, "Older than requested hours"
 
     return False, "Unverified"
 
@@ -286,7 +316,10 @@ def scrape_with_jobspy(
     results_wanted: int = 15,
     country_indeed: str = "India",
 ) -> List[JobListing]:
-    """Scrapes LinkedIn, Naukri, Indeed, and Google Jobs concurrently."""
+    """
+    Scrapes LinkedIn, Naukri, Indeed, and Google Jobs concurrently,
+    capturing the full job description and applying the custom hours_old cutoff.
+    """
     try:
         from jobspy import scrape_jobs
     except ImportError:
@@ -300,7 +333,10 @@ def scrape_with_jobspy(
 
     for query in queries:
         for loc in locations:
-            logger.info("Scraping %s for '%s' in '%s' (%s, last %dh)...", portals, query, loc, country_indeed, hours_old)
+            logger.info(
+                "Scraping %s for '%s' in '%s' (%s, max %dh)...",
+                portals, query, loc, country_indeed, hours_old
+            )
             try:
                 df = scrape_jobs(
                     site_name=portals,
@@ -325,7 +361,7 @@ def scrape_with_jobspy(
                     continue
 
                 date_posted = str(row.get("date_posted") or "Posted today")
-                verified, bucket = classify_posting_age(date_posted)
+                verified, bucket = classify_posting_age(date_posted, max_hours=hours_old)
                 loc_str = str(row.get("location") or loc).strip()
                 is_remote_flag = bool(row.get("is_remote")) or "remote" in loc_str.lower()
                 work_mode = "Remote / WFH" if is_remote_flag else "Hybrid / On-site"
@@ -338,8 +374,9 @@ def scrape_with_jobspy(
                 else:
                     salary_str = "Not disclosed"
 
-                desc = str(row.get("description") or "")
-                exp_match = re.search(r"(\d+\s*[-–to]+\s*\d+\s*(?:years|yrs))", desc, re.I)
+                # Capture full job description
+                full_description = str(row.get("description") or "").strip()
+                exp_match = re.search(r"(\d+\s*[-–to]+\s*\d+\s*(?:years|yrs))", full_description, re.I)
                 exp_str = exp_match.group(1) if exp_match else "See JD (Est. 2-6 yrs)"
 
                 collected.append(
@@ -356,15 +393,19 @@ def scrape_with_jobspy(
                         salary=salary_str,
                         job_url=job_url,
                         source_portal=str(row.get("site") or "JobSpy").title(),
-                        description=desc[:3000],
+                        description=full_description,
                     )
                 )
 
     return collected
 
 
-def scrape_iimjobs_feed(category: str = "talent-acquisition-jobs", max_items: int = 20) -> List[JobListing]:
-    """Scrapes recent executive openings from iimjobs public feeds."""
+def scrape_iimjobs_feed(
+    category: str = "talent-acquisition-jobs",
+    max_items: int = 20,
+    max_hours: int = 24,
+) -> List[JobListing]:
+    """Scrapes recent executive openings from iimjobs with custom max_hours checking."""
     url = f"https://www.iimjobs.com/k/{category}"
     headers = {
         "User-Agent": (
@@ -401,7 +442,7 @@ def scrape_iimjobs_feed(category: str = "talent-acquisition-jobs", max_items: in
                 r"(Posted today|Posted 1 day ago|Posted \d+ days ago)", row_text, re.I
             )
             posted_raw = time_match.group(1) if time_match else "Unverified"
-            verified, bucket = classify_posting_age(posted_raw)
+            verified, bucket = classify_posting_age(posted_raw, max_hours=max_hours)
 
             if " - " in title_text:
                 parts = title_text.split(" - ", 1)
@@ -508,7 +549,7 @@ Location: {job.location} ({job.work_mode})
 Experience Required: {job.experience_required}
 Salary: {job.salary}
 Posted Time: {job.posted_time_raw}
-Description: {job.description[:1500]}
+Description: {job.description[:1800]}
 
 Return ONLY valid JSON with keys:
 - "match_score": integer from 0 to 100
@@ -541,10 +582,10 @@ def generate_outreach_pitch_llm(job: JobListing, profile: Dict[str, Any]) -> str
     gemini_key = os.getenv("GEMINI_API_KEY", "").strip()
     if not gemini_key:
         return (
-            f"Hi Hiring Team,\n\nI noticed the {job.title} role at {job.company} posted today on {job.source_portal} "
+            f"Hi Hiring Team,\n\nI noticed the {job.title} role at {job.company} posted recently on {job.source_portal} "
             f"and wanted to connect. With {profile.get('experience_years', 4)}+ years of experience in "
             f"{', '.join(profile.get('core_skills', [])[:4])}, my background directly aligns with your requirements.\n\n"
-            f"I would welcome the opportunity to discuss how I can contribute to {job.company}'s hiring goals.\n\n"
+            f"I would welcome the opportunity to discuss how I can contribute to {job.company}'s goals.\n\n"
             f"Best regards,\n{profile.get('name', 'Candidate')}"
         )
 
@@ -576,21 +617,24 @@ Key Requirements: {job.key_skills_required}
 # 5. REPORT GENERATOR & EXPORT
 # =====================================================================
 
-def generate_markdown_report(jobs: List[JobListing], profile_title: str = "Candidate") -> str:
+def generate_markdown_report(
+    jobs: List[JobListing],
+    profile_title: str = "Candidate",
+    hours_window: int = 24,
+) -> str:
     """Formats verified jobs into a ranked Markdown table and summary with direct links."""
     verified_jobs = [j for j in jobs if j.posted_time_verified]
     unverified_jobs = [j for j in jobs if not j.posted_time_verified]
 
-    window_rank = {"1-6h": 1, "6-12h": 2, "12-24h": 3, "Unverified": 4}
-    verified_jobs.sort(key=lambda j: (-j.match_score, window_rank.get(j.posting_window, 9)))
-
     now_str = datetime.now(IST).strftime("%Y-%m-%d %H:%M IST")
+    window_label = f"Last {hours_old // 24} Days" if hours_window > 24 else f"Last {hours_window} Hours"
+
     lines: List[str] = [
-        f"# Job Hunter Sweep: {profile_title} ({now_str})",
+        f"# Job Hunter Sweep: {profile_title} ({window_label} — {now_str})",
         "",
         "*Estimated Match Scores (0–100) are generated based on profile alignment.*",
         "",
-        "## Ranked Qualifying Jobs (Verified Within 24 Hours)",
+        f"## Ranked Qualifying Jobs (Verified Within {window_label})",
         "",
         "| Rank | Job Title | Company | Location / Work Mode | Posted Time | Experience Required | Salary | Match Score | Direct Apply Link |",
         "| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |",
@@ -604,8 +648,9 @@ def generate_markdown_report(jobs: List[JobListing], profile_title: str = "Candi
             f"[Direct Apply]({j.job_url}) |"
         )
 
-    lines.extend(["", "## Detailed Per-Job Breakdown", ""])
+    lines.extend(["", "## Detailed Per-Job Breakdown & Descriptions", ""])
     for idx, j in enumerate(verified_jobs, start=1):
+        desc_snippet = (j.description[:350] + "...") if len(j.description) > 350 else j.description
         lines.extend(
             [
                 f"### {idx}. [{j.title} — {j.company}]({j.job_url})",
@@ -614,6 +659,7 @@ def generate_markdown_report(jobs: List[JobListing], profile_title: str = "Candi
                 f"- **Posting time verified**: {'Yes' if j.posted_time_verified else 'No'} ({j.posted_time_raw})",
                 f"- **Direct application URL**: [{j.job_url}]({j.job_url})",
                 f"- **Concerns**: {j.concerns}",
+                f"- **Job Description Summary**: {desc_snippet}",
                 "",
             ]
         )
@@ -646,7 +692,16 @@ def get_demo_verified_jobs() -> List[JobListing]:
             salary="Not disclosed",
             job_url="https://www.iimjobs.com/j/talent-acquisition-role-it-1740105",
             source_portal="iimjobs",
-            description="End-to-end recruitment delivery across India and APAC stakeholders.",
+            description=(
+                "Michael Page is hiring for a Senior Talent Acquisition Specialist in Bengaluru.\n\n"
+                "Key Responsibilities:\n"
+                "- Drive end-to-end recruitment life cycle for product engineering and corporate functions.\n"
+                "- Partner with international leadership across Singapore, UK, and US offices.\n"
+                "- Leverage Boolean search, LinkedIn Recruiter, and talent mapping techniques.\n\n"
+                "Requirements:\n"
+                "- 3-7 years of recruitment experience in an agency, consultancy, or fast-growing corporate setup.\n"
+                "- Strong stakeholder consultation skills and high ownership of talent pipelines."
+            ),
         ),
         JobListing(
             job_id="demo_2",
@@ -661,7 +716,16 @@ def get_demo_verified_jobs() -> List[JobListing]:
             salary="Not disclosed",
             job_url="https://www.remoterocketship.com/company/pinnacle1/jobs/recruiter-india-remote-9/",
             source_portal="Remote Rocketship",
-            description="Full-lifecycle US IT staffing using Boolean search and AI tools.",
+            description=(
+                "Pinnacle Group is looking for a Remote US IT Technical Recruiter based in India.\n\n"
+                "Key Responsibilities:\n"
+                "- Manage full-lifecycle recruiting for strategic Fortune 500 US client accounts.\n"
+                "- Source, screen, and submit top-tier software developers, DevOps, and cloud engineers.\n"
+                "- Utilize Bullhorn ATS, VMS portals (Fieldglass, Beeline), and AI sourcing automation tools.\n\n"
+                "Requirements:\n"
+                "- 3+ years in US IT recruitment / staffing.\n"
+                "- Expertise in Boolean searches and W2 contract placements."
+            ),
         ),
     ]
 
@@ -694,7 +758,7 @@ def run_agent_pipeline(
         )
     )
     if country.lower() in {"india", "in"}:
-        raw_jobs.extend(scrape_iimjobs_feed(max_items=15))
+        raw_jobs.extend(scrape_iimjobs_feed(max_items=15, max_hours=hours_old))
 
     if not raw_jobs:
         logger.info("Using seed sample listings (offline or rate limited).")
@@ -710,7 +774,11 @@ def run_agent_pipeline(
 
     final_jobs = list(unique_jobs.values())
     final_jobs.sort(key=lambda j: -j.match_score)
-    report_md = generate_markdown_report(final_jobs, profile_title=active_profile.get("name", "Candidate"))
+    report_md = generate_markdown_report(
+        final_jobs,
+        profile_title=active_profile.get("name", "Candidate"),
+        hours_window=hours_old,
+    )
 
     target_dir = output_dir or "."
     try:
@@ -735,18 +803,15 @@ def run_streamlit_dashboard() -> None:
         initial_sidebar_state="expanded",
     )
 
-    # Inject Custom Premium CSS Styling
     st.markdown(
         """
         <style>
-        /* Import clean modern font */
         @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
 
         html, body, [class*="css"] {
             font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
         }
 
-        /* Hero Header Gradient */
         .hero-title {
             background: linear-gradient(135deg, #3b82f6 0%, #8b5cf6 50%, #ec4899 100%);
             -webkit-background-clip: text;
@@ -764,7 +829,6 @@ def run_streamlit_dashboard() -> None:
             margin-bottom: 1.5rem;
         }
 
-        /* Metric Cards */
         .kpi-card {
             background: linear-gradient(135deg, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0.02) 100%);
             border: 1px solid rgba(255, 255, 255, 0.12);
@@ -788,23 +852,6 @@ def run_streamlit_dashboard() -> None:
             letter-spacing: 0.05em;
         }
 
-        /* Job Card Container */
-        .job-card {
-            background: #ffffff;
-            border-radius: 14px;
-            padding: 1.4rem;
-            border: 1px solid #e2e8f0;
-            box-shadow: 0 4px 14px rgba(0, 0, 0, 0.03);
-            margin-bottom: 1rem;
-            transition: all 0.2s ease;
-        }
-
-        .job-card:hover {
-            border-color: #3b82f6;
-            box-shadow: 0 8px 24px rgba(59, 130, 246, 0.08);
-        }
-
-        /* Pill Badges */
         .badge-pill {
             display: inline-block;
             padding: 4px 10px;
@@ -820,20 +867,25 @@ def run_streamlit_dashboard() -> None:
         .badge-purple { background: #f3e8ff; color: #6b21a8; }
         .badge-orange { background: #ffedd5; color: #9a3412; }
 
-        /* Custom Direct Apply Button */
-        div.stButton > button:first-child {
+        .jd-container {
+            background: #f8fafc;
+            border: 1px solid #e2e8f0;
             border-radius: 10px;
-            font-weight: 700;
-            transition: all 0.2s ease;
+            padding: 1rem;
+            max-height: 280px;
+            overflow-y: auto;
+            font-size: 0.9rem;
+            line-height: 1.6;
+            color: #334155;
+            white-space: pre-wrap;
         }
         </style>
         """,
         unsafe_allow_html=True,
     )
 
-    # Header section
     st.markdown('<div class="hero-title">⚡ Autonomous Multi-Sector Job Hunter Agent</div>', unsafe_allow_html=True)
-    st.markdown('<div class="hero-sub">Real-time cross-portal scraping (LinkedIn, Indeed, Naukri & Google Jobs) with strict 24h verification & AI match scoring.</div>', unsafe_allow_html=True)
+    st.markdown('<div class="hero-sub">Real-time cross-portal scraping (LinkedIn, Indeed, Naukri & Google Jobs) with customizable posting ages, full JD reader & AI match scoring.</div>', unsafe_allow_html=True)
 
     with st.sidebar:
         st.markdown("### 🎯 Candidate Profile & Sector")
@@ -882,16 +934,38 @@ def run_streamlit_dashboard() -> None:
         )
         selected_queries = [t.strip() for t in custom_titles.split(",") if t.strip()]
 
-        hours_old = st.select_slider(
-            "Max Posting Age",
-            options=[1, 3, 6, 12, 24],
-            value=24,
-            format_func=lambda x: f"Last {x} Hours",
+        st.divider()
+        st.markdown("### ⏱️ Customizable Posting Age")
+        age_preset = st.selectbox(
+            "Select Max Posting Age",
+            options=[
+                "Last 24 Hours",
+                "Last 2 Days (48 Hours)",
+                "Last 7 Days (1 Week)",
+                "Last 15 Days",
+                "Last 30 Days (1 Month)",
+                "Custom Days...",
+            ],
+            index=0,
         )
+
+        if age_preset == "Last 24 Hours":
+            hours_old = 24
+        elif age_preset == "Last 2 Days (48 Hours)":
+            hours_old = 48
+        elif age_preset == "Last 7 Days (1 Week)":
+            hours_old = 168
+        elif age_preset == "Last 15 Days":
+            hours_old = 360
+        elif age_preset == "Last 30 Days (1 Month)":
+            hours_old = 720
+        else:
+            custom_days = st.number_input("Enter Custom Days", min_value=1, max_value=60, value=10)
+            hours_old = int(custom_days * 24)
 
         min_score_filter = st.slider("Filter: Minimum Match Score", min_value=50, max_value=95, value=70, step=5)
 
-        run_btn = st.button("🚀 Run Live 24h Sweep", type="primary", use_container_width=True)
+        run_btn = st.button("🚀 Run Live Job Sweep", type="primary", use_container_width=True)
 
     user_profile = {
         "name": sector_choice,
@@ -902,7 +976,7 @@ def run_streamlit_dashboard() -> None:
     }
 
     if run_btn or "jobs" not in st.session_state:
-        with st.spinner("🤖 Autonomous agent is scraping portals, checking timestamps & scoring roles..."):
+        with st.spinner(f"🤖 Autonomous agent is scraping portals for jobs from the last {hours_old // 24 if hours_old >= 48 else hours_old} {'days' if hours_old >= 48 else 'hours'}..."):
             jobs, report_md = run_agent_pipeline(
                 queries=selected_queries,
                 locations=selected_locations,
@@ -912,6 +986,7 @@ def run_streamlit_dashboard() -> None:
             )
             st.session_state["jobs"] = jobs
             st.session_state["report_md"] = report_md
+            st.session_state["hours_old"] = hours_old
 
     jobs: List[JobListing] = st.session_state.get("jobs", [])
     verified = [j for j in jobs if j.posted_time_verified and j.match_score >= min_score_filter]
@@ -920,7 +995,7 @@ def run_streamlit_dashboard() -> None:
     c1, c2, c3, c4 = st.columns(4)
     with c1:
         st.markdown(
-            f'<div class="kpi-card"><div class="kpi-val">{len(verified)}</div><div class="kpi-lbl">Verified (<24h)</div></div>',
+            f'<div class="kpi-card"><div class="kpi-val">{len(verified)}</div><div class="kpi-lbl">Verified Within Window</div></div>',
             unsafe_allow_html=True,
         )
     with c2:
@@ -947,7 +1022,7 @@ def run_streamlit_dashboard() -> None:
     # Modern Navigation Tabs
     tab_cards, tab_analytics, tab_table, tab_pitch = st.tabs(
         [
-            "🔥 Verified Opportunities (1-Click Apply)",
+            "🔥 Verified Opportunities & Full JDs (1-Click Apply)",
             "📊 Visual Analytics & Insights",
             "📋 Ranked Data Table & CSV",
             "✍️ AI Outreach Pitch Generator",
@@ -964,7 +1039,7 @@ def run_streamlit_dashboard() -> None:
                 window_badge = f'<span class="badge-pill badge-orange">⚡ {j.posting_window}</span>'
 
                 with st.expander(
-                    f"#{idx}  •  {j.title}  —  {j.company}  |  {j.match_score}/100 Match",
+                    f"#{idx}  •  {j.title}  —  {j.company}  |  {j.match_score}/100 Match  ({j.posted_time_raw})",
                     expanded=(idx <= 3),
                 ):
                     col_details, col_action = st.columns([3, 1])
@@ -988,8 +1063,15 @@ def run_streamlit_dashboard() -> None:
                         st.link_button("🚀 Direct Apply Now", j.job_url, use_container_width=True)
                         st.caption(f"Source: {j.source_portal}")
 
+                    # Full Job Description Viewer
+                    st.markdown("#### 📄 Full Job Description")
+                    if j.description and len(j.description) > 30:
+                        st.markdown(f'<div class="jd-container">{j.description}</div>', unsafe_allow_html=True)
+                    else:
+                        st.info("Full description text available directly on the employer portal via Direct Apply.")
+
     with tab_analytics:
-        st.subheader("📊 Live Market Insights (<24h Postings)")
+        st.subheader("📊 Live Market Insights")
         if verified:
             col_chart1, col_chart2 = st.columns(2)
             with col_chart1:
@@ -1033,9 +1115,9 @@ def run_streamlit_dashboard() -> None:
         st.dataframe(df_display, use_container_width=True, hide_index=True)
 
         st.download_button(
-            label="📥 Download Verified Jobs as CSV",
+            label="📥 Download Verified Jobs as CSV (with Full JDs)",
             data=pd.DataFrame([asdict(j) for j in verified]).to_csv(index=False),
-            file_name="verified_jobs_24h.csv",
+            file_name="verified_jobs.csv",
             mime="text/csv",
         )
 
@@ -1061,11 +1143,17 @@ if __name__ == "__main__":
         action="store_true",
         help="Run in CLI / GitHub Actions cron mode and generate Markdown + CSV output.",
     )
+    parser.add_argument(
+        "--hours",
+        type=int,
+        default=24,
+        help="Maximum posting age in hours (e.g., 24, 48, 168 for 7 days, 360 for 15 days, 720 for 30 days).",
+    )
     args, _ = parser.parse_known_args()
 
     in_streamlit = any("streamlit" in k.lower() for k in os.environ)
     if args.cli or not in_streamlit:
-        jobs_list, md_output = run_agent_pipeline()
+        jobs_list, md_output = run_agent_pipeline(hours_old=args.hours)
         print(md_output)
         logger.info("Completed sweep: %d verified jobs processed.", len(jobs_list))
     else:
