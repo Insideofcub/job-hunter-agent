@@ -2,6 +2,8 @@
 
 # ⚡ Autonomous Global Job Hunter Agent
 
+Web Link : https://job-hunter-agent-jobfinder.streamlit.app/
+
 ### Your AI-powered job search copilot — sweeping the world's top job portals so you don't have to.
 
 <br>
@@ -196,6 +198,14 @@ The agent works with **zero configuration**. To unlock AI deep-scoring and insta
 
 ---
 
+## 👤 Author
+
+**Rinku Lodhi** · `@Insideofcub`
+
+Built and maintained by Rinku Lodhi. Feedback, ideas, and collaborations are always welcome!
+
+---
+
 ## 🤝 Contributing
 
 Contributions, bug reports, and ideas are always welcome!
@@ -218,6 +228,6 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more informa
 
 **If this project helps you land your next role, give it a ⭐ — it means a lot!**
 
-Made with ❤️ for job seekers everywhere.
+Made with ❤️ by **Rinku Lodhi** for job seekers everywhere.
 
 </div>
