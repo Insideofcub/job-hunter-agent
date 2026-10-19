@@ -1,0 +1,41 @@
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Environment Variables & Secrets (Protects API Keys)
+.env
+.env.local
+.env.*.local
+*.env
+
+# Streamlit Local Secrets & Cache
+.streamlit/secrets.toml
+
+# Local SQLite Database & Locks
+jobs_history.db
+jobs_history.db-journal
+jobs_history.db-wal
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Logs & Temporary Files
+*.log
+*.tmp
