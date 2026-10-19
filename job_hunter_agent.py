@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Autonomous Multi-Sector Job Hunter Agent
-========================================
+Autonomous Multi-Sector Job Hunter Agent (Premium Executive Edition)
+===================================================================
 A 100% free-tier compatible job search agent supporting any sector (Recruitment,
 IT/Tech, Sales, Retail, Finance, Marketing) and any country/location.
 
@@ -20,10 +20,9 @@ Features:
 4. Deduplication & Persistence:
    - SQLite (`jobs_history.db`) with automatic fallback to `/tmp` or in-memory
      on cloud filesystems.
-5. Dual Mode (CLI Cron + Streamlit Web App):
-   - CLI / GitHub Actions mode: `python job_hunter_agent.py --cli`
-   - Interactive Web UI: `streamlit run job_hunter_agent.py` with 1-click
-     direct apply buttons.
+5. Premium Streamlit UI:
+   - Glassmorphic executive dashboard, metric cards, 1-click Direct Apply buttons,
+     visual analytics charts, and built-in AI outreach pitch generator.
 """
 
 from __future__ import annotations
@@ -90,7 +89,7 @@ SECTOR_PRESETS: Dict[str, Dict[str, Any]] = {
     "Software Engineering & IT": {
         "name": "Full Stack / Software Engineer",
         "experience_years": 3.5,
-        "domains": ["Frontend", "Backend", "Full Stack", "Cloud"],
+        "domains": ["Frontend", "Backend", "Full Stack", "Cloud Architecture"],
         "core_skills": ["Python", "JavaScript", "React", "Node.js", "SQL", "Docker", "AWS"],
         "default_queries": [
             "Software Engineer",
@@ -537,6 +536,42 @@ Return ONLY valid JSON with keys:
     return job
 
 
+def generate_outreach_pitch_llm(job: JobListing, profile: Dict[str, Any]) -> str:
+    """Generates an executive outreach message for the hiring manager or recruiter."""
+    gemini_key = os.getenv("GEMINI_API_KEY", "").strip()
+    if not gemini_key:
+        return (
+            f"Hi Hiring Team,\n\nI noticed the {job.title} role at {job.company} posted today on {job.source_portal} "
+            f"and wanted to connect. With {profile.get('experience_years', 4)}+ years of experience in "
+            f"{', '.join(profile.get('core_skills', [])[:4])}, my background directly aligns with your requirements.\n\n"
+            f"I would welcome the opportunity to discuss how I can contribute to {job.company}'s hiring goals.\n\n"
+            f"Best regards,\n{profile.get('name', 'Candidate')}"
+        )
+
+    prompt = f"""
+Write a high-converting, professional LinkedIn connection pitch (under 90 words) from this candidate to the hiring manager for this role.
+
+CANDIDATE PROFILE:
+{json.dumps(profile, indent=2)}
+
+TARGET JOB:
+Title: {job.title}
+Company: {job.company}
+Key Requirements: {job.key_skills_required}
+"""
+    try:
+        from google import genai
+
+        client = genai.Client(api_key=gemini_key)
+        resp = client.models.generate_content(
+            model="gemini-2.5-flash",
+            contents=prompt,
+        )
+        return resp.text.strip()
+    except Exception:
+        return f"Hi Hiring Team,\n\nI'm reaching out regarding the {job.title} opening at {job.company}..."
+
+
 # =====================================================================
 # 5. REPORT GENERATOR & EXPORT
 # =====================================================================
@@ -632,7 +667,7 @@ def get_demo_verified_jobs() -> List[JobListing]:
 
 
 # =====================================================================
-# 6. PIPELINE & INTERACTIVE STREAMLIT DASHBOARD
+# 6. PIPELINE & PREMIUM STREAMLIT DASHBOARD
 # =====================================================================
 
 def run_agent_pipeline(
@@ -690,42 +725,143 @@ def run_agent_pipeline(
 
 
 def run_streamlit_dashboard() -> None:
-    """Launches the interactive web dashboard with 1-click Direct Apply buttons."""
+    """Launches the modern, premium-styled executive Streamlit web dashboard."""
     import streamlit as st
 
     st.set_page_config(
-        page_title="Autonomous Multi-Sector Job Hunter Agent",
-        page_icon="💼",
+        page_title="AI Job Hunter Agent | Executive Dashboard",
+        page_icon="⚡",
         layout="wide",
+        initial_sidebar_state="expanded",
     )
-    st.title("💼 Autonomous Multi-Sector Job Hunter Agent (24h Strict Filter)")
-    st.caption("Scrapes LinkedIn, Indeed, Naukri & Google Jobs with real-time 0–100 match scoring and direct apply links.")
+
+    # Inject Custom Premium CSS Styling
+    st.markdown(
+        """
+        <style>
+        /* Import clean modern font */
+        @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
+
+        html, body, [class*="css"] {
+            font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+        }
+
+        /* Hero Header Gradient */
+        .hero-title {
+            background: linear-gradient(135deg, #3b82f6 0%, #8b5cf6 50%, #ec4899 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            font-size: 2.3rem;
+            font-weight: 800;
+            letter-spacing: -0.02em;
+            margin-bottom: 0.2rem;
+        }
+
+        .hero-sub {
+            color: #64748b;
+            font-size: 1.05rem;
+            font-weight: 500;
+            margin-bottom: 1.5rem;
+        }
+
+        /* Metric Cards */
+        .kpi-card {
+            background: linear-gradient(135deg, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0.02) 100%);
+            border: 1px solid rgba(255, 255, 255, 0.12);
+            border-radius: 16px;
+            padding: 1.2rem;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.04);
+            text-align: center;
+        }
+
+        .kpi-val {
+            font-size: 2rem;
+            font-weight: 800;
+            color: #3b82f6;
+        }
+
+        .kpi-lbl {
+            font-size: 0.85rem;
+            color: #94a3b8;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        /* Job Card Container */
+        .job-card {
+            background: #ffffff;
+            border-radius: 14px;
+            padding: 1.4rem;
+            border: 1px solid #e2e8f0;
+            box-shadow: 0 4px 14px rgba(0, 0, 0, 0.03);
+            margin-bottom: 1rem;
+            transition: all 0.2s ease;
+        }
+
+        .job-card:hover {
+            border-color: #3b82f6;
+            box-shadow: 0 8px 24px rgba(59, 130, 246, 0.08);
+        }
+
+        /* Pill Badges */
+        .badge-pill {
+            display: inline-block;
+            padding: 4px 10px;
+            border-radius: 20px;
+            font-size: 0.75rem;
+            font-weight: 700;
+            letter-spacing: 0.02em;
+            margin-right: 6px;
+        }
+
+        .badge-green { background: #dcfce7; color: #166534; }
+        .badge-blue  { background: #dbeafe; color: #1e40af; }
+        .badge-purple { background: #f3e8ff; color: #6b21a8; }
+        .badge-orange { background: #ffedd5; color: #9a3412; }
+
+        /* Custom Direct Apply Button */
+        div.stButton > button:first-child {
+            border-radius: 10px;
+            font-weight: 700;
+            transition: all 0.2s ease;
+        }
+        </style>
+        """,
+        unsafe_allow_html=True,
+    )
+
+    # Header section
+    st.markdown('<div class="hero-title">⚡ Autonomous Multi-Sector Job Hunter Agent</div>', unsafe_allow_html=True)
+    st.markdown('<div class="hero-sub">Real-time cross-portal scraping (LinkedIn, Indeed, Naukri & Google Jobs) with strict 24h verification & AI match scoring.</div>', unsafe_allow_html=True)
 
     with st.sidebar:
-        st.header("🎯 Sector & Candidate Setup")
+        st.markdown("### 🎯 Candidate Profile & Sector")
         sector_choice = st.selectbox(
-            "Select Career Domain",
+            "Target Industry / Domain",
             options=list(SECTOR_PRESETS.keys()),
             index=0,
+            help="Choose an industry preset or select Custom to define your own role.",
         )
         base_preset = SECTOR_PRESETS[sector_choice]
 
-        user_exp = st.number_input(
-            "Your Experience (Years)",
+        user_exp = st.slider(
+            "Total Experience (Years)",
             min_value=0.0,
-            max_value=30.0,
+            max_value=20.0,
             value=float(base_preset.get("experience_years", 3.0)),
             step=0.5,
         )
 
         custom_skills_input = st.text_input(
-            "Core Skills (Comma-separated)",
+            "Core Skills & Technologies",
             value=", ".join(base_preset.get("core_skills", [])),
+            help="Comma-separated skills used to match job descriptions.",
         )
         user_skills = [s.strip() for s in custom_skills_input.split(",") if s.strip()]
 
         st.divider()
-        st.header("🌍 Search Locations & Portals")
+        st.markdown("### 🌍 Search Locations & Filters")
         country_choice = st.selectbox(
             "Target Country",
             options=["India", "USA", "United Kingdom", "Canada", "Australia", "Singapore", "Germany", "UAE"],
@@ -733,18 +869,28 @@ def run_streamlit_dashboard() -> None:
         )
 
         custom_locs = st.text_input(
-            "Cities / Locations (Comma-separated)",
+            "Locations / Cities",
             value=", ".join(base_preset.get("default_locations", ["Remote"])),
+            help="Comma-separated target cities or 'Remote'.",
         )
         selected_locations = [loc.strip() for loc in custom_locs.split(",") if loc.strip()]
 
         custom_titles = st.text_input(
-            "Job Titles to Hunt (Comma-separated)",
+            "Target Job Titles",
             value=", ".join(base_preset.get("default_queries", ["Software Engineer"])),
+            help="Comma-separated job titles to hunt for.",
         )
         selected_queries = [t.strip() for t in custom_titles.split(",") if t.strip()]
 
-        hours_old = st.slider("Max Posting Age (Hours)", min_value=1, max_value=24, value=24)
+        hours_old = st.select_slider(
+            "Max Posting Age",
+            options=[1, 3, 6, 12, 24],
+            value=24,
+            format_func=lambda x: f"Last {x} Hours",
+        )
+
+        min_score_filter = st.slider("Filter: Minimum Match Score", min_value=50, max_value=95, value=70, step=5)
+
         run_btn = st.button("🚀 Run Live 24h Sweep", type="primary", use_container_width=True)
 
     user_profile = {
@@ -756,7 +902,7 @@ def run_streamlit_dashboard() -> None:
     }
 
     if run_btn or "jobs" not in st.session_state:
-        with st.spinner("Scraping live job portals and computing 0–100 match scores..."):
+        with st.spinner("🤖 Autonomous agent is scraping portals, checking timestamps & scoring roles..."):
             jobs, report_md = run_agent_pipeline(
                 queries=selected_queries,
                 locations=selected_locations,
@@ -768,38 +914,144 @@ def run_streamlit_dashboard() -> None:
             st.session_state["report_md"] = report_md
 
     jobs: List[JobListing] = st.session_state.get("jobs", [])
-    verified = [j for j in jobs if j.posted_time_verified]
+    verified = [j for j in jobs if j.posted_time_verified and j.match_score >= min_score_filter]
 
-    m1, m2, m3, m4 = st.columns(4)
-    m1.metric("Verified (<24h)", len(verified))
-    m2.metric("Remote / WFH", sum(1 for j in verified if j.is_remote))
-    m3.metric("Avg Match Score", f"{int(sum(j.match_score for j in verified)/max(1, len(verified)))}/100")
-    m4.metric("Target Country", country_choice)
+    # Executive KPI Metric Cards
+    c1, c2, c3, c4 = st.columns(4)
+    with c1:
+        st.markdown(
+            f'<div class="kpi-card"><div class="kpi-val">{len(verified)}</div><div class="kpi-lbl">Verified (<24h)</div></div>',
+            unsafe_allow_html=True,
+        )
+    with c2:
+        high_matches = sum(1 for j in verified if j.match_score >= 88)
+        st.markdown(
+            f'<div class="kpi-card"><div class="kpi-val">{high_matches}</div><div class="kpi-lbl">High Match (88%+)</div></div>',
+            unsafe_allow_html=True,
+        )
+    with c3:
+        remote_cnt = sum(1 for j in verified if j.is_remote)
+        st.markdown(
+            f'<div class="kpi-card"><div class="kpi-val">{remote_cnt}</div><div class="kpi-lbl">Remote / WFH</div></div>',
+            unsafe_allow_html=True,
+        )
+    with c4:
+        avg_score = int(sum(j.match_score for j in verified) / max(1, len(verified)))
+        st.markdown(
+            f'<div class="kpi-card"><div class="kpi-val">{avg_score}%</div><div class="kpi-lbl">Avg Match Score</div></div>',
+            unsafe_allow_html=True,
+        )
 
-    st.download_button(
-        label="📥 Download Ranked Jobs (CSV)",
-        data=pd.DataFrame([asdict(j) for j in jobs]).to_csv(index=False),
-        file_name="verified_jobs_24h.csv",
-        mime="text/csv",
+    st.write("")
+
+    # Modern Navigation Tabs
+    tab_cards, tab_analytics, tab_table, tab_pitch = st.tabs(
+        [
+            "🔥 Verified Opportunities (1-Click Apply)",
+            "📊 Visual Analytics & Insights",
+            "📋 Ranked Data Table & CSV",
+            "✍️ AI Outreach Pitch Generator",
+        ]
     )
 
-    st.divider()
-    st.subheader("🎯 1-Click Direct Application Cards")
-    for j in verified:
-        with st.expander(f"⭐ {j.match_score}/100 — {j.title} at {j.company} ({j.location})", expanded=True):
-            col_info, col_btn = st.columns([3, 1])
-            with col_info:
-                st.write(f"**Source:** {j.source_portal} | **Posted:** {j.posted_time_raw} ({j.posting_window}) | **Work Mode:** {j.work_mode}")
-                st.write(f"**Experience:** {j.experience_required} | **Salary:** {j.salary}")
-                st.write(f"**Why it matches:** {j.why_matches}")
-                st.write(f"**Key skills:** `{j.key_skills_required}`")
-                if j.concerns and j.concerns != "None identified":
-                    st.caption(f"⚠️ **Note:** {j.concerns}")
-            with col_btn:
-                st.link_button("🚀 Direct Apply Now", j.job_url, use_container_width=True)
+    with tab_cards:
+        if not verified:
+            st.info("No jobs matched your minimum score threshold. Try lowering the match filter in the sidebar.")
+        else:
+            for idx, j in enumerate(verified, start=1):
+                badge_class = "badge-green" if j.match_score >= 88 else ("badge-blue" if j.match_score >= 78 else "badge-orange")
+                remote_badge = '<span class="badge-pill badge-purple">🌐 Remote</span>' if j.is_remote else ""
+                window_badge = f'<span class="badge-pill badge-orange">⚡ {j.posting_window}</span>'
 
-    st.divider()
-    st.markdown(st.session_state.get("report_md", ""))
+                with st.expander(
+                    f"#{idx}  •  {j.title}  —  {j.company}  |  {j.match_score}/100 Match",
+                    expanded=(idx <= 3),
+                ):
+                    col_details, col_action = st.columns([3, 1])
+                    with col_details:
+                        st.markdown(
+                            f"""
+                            <span class="badge-pill {badge_class}">⭐ {j.match_score}/100 Match</span>
+                            <span class="badge-pill badge-blue">🏢 {j.source_portal}</span>
+                            {window_badge}
+                            {remote_badge}
+                            """,
+                            unsafe_allow_html=True,
+                        )
+                        st.write(f"📍 **Location:** {j.location} ({j.work_mode})  •  ⏳ **Experience:** {j.experience_required}  •  💰 **Salary:** {j.salary}")
+                        st.markdown(f"**🎯 Why You Match:** {j.why_matches}")
+                        st.markdown(f"**🔑 Key Skills Looked For:** `{j.key_skills_required}`")
+                        if j.concerns and j.concerns != "None identified":
+                            st.caption(f"⚠️ **Note:** {j.concerns}")
+                    with col_action:
+                        st.write("")
+                        st.link_button("🚀 Direct Apply Now", j.job_url, use_container_width=True)
+                        st.caption(f"Source: {j.source_portal}")
+
+    with tab_analytics:
+        st.subheader("📊 Live Market Insights (<24h Postings)")
+        if verified:
+            col_chart1, col_chart2 = st.columns(2)
+            with col_chart1:
+                st.write("**Top Locations / Hiring Hubs**")
+                loc_counts = pd.Series([j.location.split(",")[0].strip() for j in verified]).value_counts().head(7)
+                st.bar_chart(loc_counts)
+            with col_chart2:
+                st.write("**Work Mode Distribution**")
+                mode_counts = pd.Series([j.work_mode for j in verified]).value_counts()
+                st.bar_chart(mode_counts)
+
+            st.write("**Match Score Distribution**")
+            scores = [j.match_score for j in verified]
+            st.line_chart(scores)
+
+    with tab_table:
+        st.subheader("📋 Ranked Jobs Grid")
+        search_query = st.text_input("🔍 Quick filter by keyword, company, or title:")
+        filtered_jobs = [
+            j for j in verified
+            if search_query.lower() in f"{j.title} {j.company} {j.location}".lower()
+        ] if search_query else verified
+
+        df_display = pd.DataFrame(
+            [
+                {
+                    "Rank": i,
+                    "Match": f"{j.match_score}/100",
+                    "Title": j.title,
+                    "Company": j.company,
+                    "Location": j.location,
+                    "Work Mode": j.work_mode,
+                    "Posted": j.posted_time_raw,
+                    "Experience": j.experience_required,
+                    "Salary": j.salary,
+                    "Direct Apply Link": j.job_url,
+                }
+                for i, j in enumerate(filtered_jobs, start=1)
+            ]
+        )
+        st.dataframe(df_display, use_container_width=True, hide_index=True)
+
+        st.download_button(
+            label="📥 Download Verified Jobs as CSV",
+            data=pd.DataFrame([asdict(j) for j in verified]).to_csv(index=False),
+            file_name="verified_jobs_24h.csv",
+            mime="text/csv",
+        )
+
+    with tab_pitch:
+        st.subheader("✍️ 1-Click AI Outreach Pitch Generator")
+        st.caption("Generate a personalized LinkedIn InMail or cold email message for any hiring manager.")
+        if verified:
+            job_choices = {f"{j.title} at {j.company}": j for j in verified}
+            selected_job_key = st.selectbox("Select Target Job", list(job_choices.keys()))
+            target_job = job_choices[selected_job_key]
+
+            if st.button("Generate Tailored Pitch"):
+                with st.spinner("Generating personalized outreach message..."):
+                    pitch_text = generate_outreach_pitch_llm(target_job, user_profile)
+                    st.text_area("Your Tailored Message (Copy & Paste):", value=pitch_text, height=180)
+                    st.info("💡 Tip: Send this directly to the recruiter or hiring manager on LinkedIn alongside your application!")
 
 
 if __name__ == "__main__":
