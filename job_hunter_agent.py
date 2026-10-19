@@ -26,7 +26,7 @@ Features:
    - Web UI mode: `streamlit run job_hunter_agent.py`
 
 Quick Setup:
-    pip install python-jobspy requests beautifulsoup4 pandas streamlit google-genai
+    pip install -r requirements.txt
 """
 
 from __future__ import annotations
@@ -820,8 +820,8 @@ def run_agent_pipeline(
     final_jobs.sort(key=lambda j: -j.match_score)
     report_md = generate_markdown_report(final_jobs)
 
-    # Save CSV & Markdown outputs safely
-    target_dir = output_dir or tempfile.gettempdir()
+    # Save CSV & Markdown outputs directly into the working directory for GitHub Actions
+    target_dir = output_dir or "."
     try:
         df_out = pd.DataFrame([asdict(j) for j in final_jobs])
         df_out.to_csv(os.path.join(target_dir, "latest_jobs_24h.csv"), index=False)
@@ -829,6 +829,11 @@ def run_agent_pipeline(
             f.write(report_md)
     except OSError as exc:
         logger.warning("Could not write export files to %s: %s", target_dir, exc)
+        fallback_dir = tempfile.gettempdir()
+        df_out = pd.DataFrame([asdict(j) for j in final_jobs])
+        df_out.to_csv(os.path.join(fallback_dir, "latest_jobs_24h.csv"), index=False)
+        with open(os.path.join(fallback_dir, "latest_jobs_report.md"), "w", encoding="utf-8") as f:
+            f.write(report_md)
 
     # Trigger optional alerts
     send_telegram_alert(report_md)
