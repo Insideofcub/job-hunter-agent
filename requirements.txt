@@ -1,0 +1,6 @@
+python-jobspy>=1.1.75
+requests>=2.31.0
+beautifulsoup4>=4.12.3
+pandas>=2.2.0
+streamlit>=1.38.0
+google-genai>=1.0.0
