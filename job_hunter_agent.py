@@ -1,32 +1,29 @@
 #!/usr/bin/env python3
 """
-Autonomous Job Hunter Agent (IT/Non-IT Recruitment & HR)
-========================================================
-A complete, 100% free-tier compatible job search agent tailored for a Senior
-Associate Consultant (4+ years experience in IT, Non-IT, PAN India &
-International Recruitment).
+Autonomous Multi-Sector Job Hunter Agent
+========================================
+A 100% free-tier compatible job search agent supporting any sector (Recruitment,
+IT/Tech, Sales, Retail, Finance, Marketing) and any country/location.
 
 Features:
 1. Multi-Portal Scraping (Last 24 Hours):
-   - Concurrently scrapes LinkedIn, Naukri, Indeed India, and Google Jobs via
+   - Concurrently scrapes LinkedIn, Naukri, Indeed, and Google Jobs via
      `python-jobspy` (`hours_old=24`).
-   - Includes a custom BeautifulSoup scraper for Indian portals (e.g., iimjobs)
-     with strict timestamp verification ("Posted today", "<24h").
-2. Deduplication & Persistence:
-   - Uses SQLite (`jobs_history.db`) with automatic fallback to `/tmp` or JSON
-     for cloud container environments (Streamlit Cloud, Hugging Face Spaces).
-3. Free LLM Match-Scoring Engine (0-100):
-   - Supports Google Gemini API Free Tier (`gemini-2.5-flash`) or GroqCloud
-     Free Tier (`llama-3.3-70b-versatile`), with a deterministic rule-based
-     fallback scorer so the script works out of the box even without API keys.
-4. Automated Alerts (Telegram & Email):
-   - Pushes daily/hourly digests of verified <24h openings to Telegram or Gmail.
-5. Dual Mode (CLI Cron + Streamlit Web Dashboard):
+   - Includes custom scrapers for executive portals (e.g. iimjobs) with strict
+     timestamp verification ("Posted today", "<24h").
+2. Dynamic Profiles & Sectors:
+   - Built-in presets for HR/Recruitment, Tech/Engineering, Sales/BD, Finance,
+     plus custom text input for any domain or country.
+3. Hybrid Match-Scoring Engine (0-100):
+   - Google Gemini API Free Tier (`gemini-2.5-flash`) or zero-cost rule-based
+     heuristic scoring.
+4. Deduplication & Persistence:
+   - SQLite (`jobs_history.db`) with automatic fallback to `/tmp` or in-memory
+     on cloud filesystems.
+5. Dual Mode (CLI Cron + Streamlit Web App):
    - CLI / GitHub Actions mode: `python job_hunter_agent.py --cli`
-   - Web UI mode: `streamlit run job_hunter_agent.py`
-
-Quick Setup:
-    pip install -r requirements.txt
+   - Interactive Web UI: `streamlit run job_hunter_agent.py` with 1-click
+     direct apply buttons.
 """
 
 from __future__ import annotations
@@ -62,66 +59,85 @@ IST = timezone(timedelta(hours=5, minutes=30))
 
 
 # =====================================================================
-# 1. CANDIDATE PROFILE & SEARCH CONFIGURATION
+# 1. INDUSTRY SECTOR PRESETS & DEFAULT CANDIDATE PROFILE
 # =====================================================================
 
-CANDIDATE_PROFILE: Dict[str, Any] = {
-    "name": "Senior Associate Consultant (Recruitment & TA)",
-    "experience_years": 4.2,
-    "target_exp_min": 2,
-    "target_exp_max": 7,
-    "current_designation": "Senior Associate Consultant",
-    "current_company": "Sagacious Minds",
-    "domains": ["IT Recruitment", "Non-IT Recruitment", "Leadership Hiring", "Niche Hiring"],
-    "markets": ["PAN India", "International (US, UK, APAC, Middle East/UAE, Europe)"],
-    "core_skills": [
-        "End-to-end recruitment",
-        "Candidate sourcing",
-        "Screening & shortlisting",
-        "Boolean search",
-        "LinkedIn Recruiter / LinkedIn sourcing",
-        "Stakeholder management",
-        "Talent mapping",
-        "Interview coordination",
-        "Leadership hiring",
-        "Candidate pipeline management",
-    ],
-    "additional_skills": [
-        "AI tools",
-        "Data Science",
-        "Machine Learning",
-        "Python",
-        "SQL",
-        "Power BI",
-        "Recruitment Analytics",
-    ],
-    "preferred_locations": [
-        "Remote",
-        "Work From Home",
-        "Gurugram",
-        "Gurgaon",
-        "Delhi NCR",
-        "Noida",
-        "Bengaluru",
-        "Bangalore",
-        "Hyderabad",
-        "Pune",
-        "Mumbai",
-    ],
-    "role_queries": [
-        "Talent Acquisition Specialist",
-        "IT Recruiter",
-        "Technical Recruiter",
-        "International Recruiter",
-        "US IT Recruiter",
-        "Talent Acquisition Partner",
-        "Senior Recruiter",
-        "Recruitment Consultant",
-        "HR Recruiter",
-        "HR Generalist",
-        "HR Analyst",
-    ],
+SECTOR_PRESETS: Dict[str, Dict[str, Any]] = {
+    "HR & Recruitment (Default)": {
+        "name": "Senior Associate Consultant (Recruitment & TA)",
+        "experience_years": 4.2,
+        "domains": ["IT Recruitment", "Non-IT Recruitment", "Leadership Hiring", "International"],
+        "core_skills": [
+            "End-to-end recruitment",
+            "Boolean search",
+            "LinkedIn Recruiter",
+            "Stakeholder management",
+            "Talent mapping",
+            "AI tools",
+            "Power BI",
+            "SQL",
+        ],
+        "default_queries": [
+            "Talent Acquisition Specialist",
+            "IT Recruiter",
+            "Technical Recruiter",
+            "International Recruiter",
+            "Senior Recruiter",
+            "Recruitment Consultant",
+        ],
+        "default_locations": ["Remote", "Gurugram", "Bengaluru", "Mumbai", "Hyderabad"],
+    },
+    "Software Engineering & IT": {
+        "name": "Full Stack / Software Engineer",
+        "experience_years": 3.5,
+        "domains": ["Frontend", "Backend", "Full Stack", "Cloud"],
+        "core_skills": ["Python", "JavaScript", "React", "Node.js", "SQL", "Docker", "AWS"],
+        "default_queries": [
+            "Software Engineer",
+            "Full Stack Developer",
+            "Backend Developer",
+            "Python Developer",
+            "DevOps Engineer",
+        ],
+        "default_locations": ["Remote", "Bengaluru", "Hyderabad", "Pune", "Delhi NCR"],
+    },
+    "B2B Sales & Business Development": {
+        "name": "Business Development & Account Executive",
+        "experience_years": 4.0,
+        "domains": ["SaaS Sales", "B2B Tech", "Key Account Management"],
+        "core_skills": ["Lead generation", "Pipeline management", "CRM", "Cold outreach", "Negotiation"],
+        "default_queries": [
+            "Account Executive",
+            "Business Development Manager",
+            "Sales Manager",
+            "Inside Sales Specialist",
+        ],
+        "default_locations": ["Remote", "Mumbai", "Gurugram", "Bengaluru"],
+    },
+    "Finance & Accounting": {
+        "name": "Financial Analyst / Accounting Specialist",
+        "experience_years": 3.0,
+        "domains": ["Corporate Finance", "Financial Reporting", "Auditing"],
+        "core_skills": ["Financial modeling", "Excel", "MIS reporting", "GAAP/IFRS", "SAP"],
+        "default_queries": [
+            "Financial Analyst",
+            "Senior Accountant",
+            "Finance Manager",
+            "Auditor",
+        ],
+        "default_locations": ["Mumbai", "Delhi NCR", "Bengaluru", "Remote"],
+    },
+    "Custom / Other Sector": {
+        "name": "Custom Candidate",
+        "experience_years": 3.0,
+        "domains": ["General"],
+        "core_skills": ["Communication", "Problem Solving", "Project Management"],
+        "default_queries": ["Operations Manager", "Project Manager"],
+        "default_locations": ["Remote", "India"],
+    },
 }
+
+CANDIDATE_PROFILE = SECTOR_PRESETS["HR & Recruitment (Default)"]
 
 
 @dataclass
@@ -157,8 +173,8 @@ class JobListing:
 class JobDatabase:
     """
     Lightweight SQLite store to deduplicate jobs across portals and runs.
-    Automatically falls back to /tmp or in-memory SQLite on cloud filesystems
-    where file locking is restricted.
+    Automatically falls back to /tmp or in-memory SQLite on cloud hosts
+    where local file locking is restricted.
     """
 
     def __init__(self, db_path: str = "jobs_history.db") -> None:
@@ -230,20 +246,15 @@ class JobDatabase:
 # =====================================================================
 
 def classify_posting_age(raw_text: str) -> tuple[bool, str]:
-    """
-    Verifies whether a posting age string strictly falls within 24 hours.
-    Returns (is_verified_within_24h, priority_bucket).
-    """
+    """Verifies whether a posting age string strictly falls within 24 hours."""
     if not raw_text:
         return False, "Unverified"
 
     text = raw_text.strip().lower()
 
-    # Reject vague labels per strict rule
     if text in {"recently posted", "just posted", "active", "new", "unknown"}:
         return False, "Unverified"
 
-    # Match minutes or 1-6 hours
     min_match = re.search(r"(\d+)\s*(?:min|minute|minutes|m)\b", text)
     if min_match or "0 minutes ago" in text or "few minutes ago" in text:
         return True, "1-6h"
@@ -259,7 +270,6 @@ def classify_posting_age(raw_text: str) -> tuple[bool, str]:
             return True, "12-24h"
         return False, "Older than 24h"
 
-    # Match "posted today" or "1 day ago" / today's date
     today_ist = datetime.now(IST).strftime("%Y-%m-%d")
     yesterday_ist = (datetime.now(IST) - timedelta(days=1)).strftime("%Y-%m-%d")
     if "posted today" in text or "today" in text or today_ist in text:
@@ -275,25 +285,23 @@ def scrape_with_jobspy(
     locations: List[str],
     hours_old: int = 24,
     results_wanted: int = 15,
+    country_indeed: str = "India",
 ) -> List[JobListing]:
-    """
-    Scrapes LinkedIn, Naukri, Indeed India, and Google Jobs concurrently
-    using `python-jobspy` with strict `hours_old=24` filtering.
-    """
+    """Scrapes LinkedIn, Naukri, Indeed, and Google Jobs concurrently."""
     try:
         from jobspy import scrape_jobs
     except ImportError:
-        logger.info(
-            "python-jobspy not installed (`pip install python-jobspy`). Skipping JobSpy portals."
-        )
+        logger.info("python-jobspy not installed. Skipping JobSpy portals.")
         return []
 
     collected: List[JobListing] = []
-    portals = ["linkedin", "naukri", "indeed", "google"]
+    portals = ["linkedin", "indeed", "google"]
+    if country_indeed.lower() in {"india", "in"}:
+        portals.append("naukri")
 
     for query in queries:
         for loc in locations:
-            logger.info("Scraping %s for '%s' in '%s' (last %dh)...", portals, query, loc, hours_old)
+            logger.info("Scraping %s for '%s' in '%s' (%s, last %dh)...", portals, query, loc, country_indeed, hours_old)
             try:
                 df = scrape_jobs(
                     site_name=portals,
@@ -301,7 +309,7 @@ def scrape_with_jobspy(
                     location=loc,
                     results_wanted=results_wanted,
                     hours_old=hours_old,
-                    country_indeed="India",
+                    country_indeed=country_indeed,
                 )
             except Exception as exc:
                 logger.warning("JobSpy query failed for %s (%s): %s", query, loc, exc)
@@ -356,12 +364,9 @@ def scrape_with_jobspy(
     return collected
 
 
-def scrape_iimjobs_hr_feed(max_items: int = 20) -> List[JobListing]:
-    """
-    Scrapes recent HR & Talent Acquisition listings from iimjobs public pages
-    and verifies the exact posting timestamp ("Posted today" / "Posted 1 day ago").
-    """
-    url = "https://www.iimjobs.com/k/talent-acquisition-jobs"
+def scrape_iimjobs_feed(category: str = "talent-acquisition-jobs", max_items: int = 20) -> List[JobListing]:
+    """Scrapes recent executive openings from iimjobs public feeds."""
+    url = f"https://www.iimjobs.com/k/{category}"
     headers = {
         "User-Agent": (
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -372,7 +377,6 @@ def scrape_iimjobs_hr_feed(max_items: int = 20) -> List[JobListing]:
     try:
         resp = requests.get(url, headers=headers, timeout=10)
         if resp.status_code != 200:
-            logger.warning("iimjobs returned HTTP %s", resp.status_code)
             return []
 
         soup = BeautifulSoup(resp.text, "html.parser")
@@ -427,109 +431,73 @@ def scrape_iimjobs_hr_feed(max_items: int = 20) -> List[JobListing]:
                 break
 
     except Exception as exc:
-        logger.info("Offline or unable to reach iimjobs directly: %s", exc)
+        logger.info("Unable to reach iimjobs feed: %s", exc)
 
     return listings
 
 
 # =====================================================================
-# 4. LLM & DETERMINISTIC MATCH-SCORING ENGINE (0-100)
+# 4. GENERALIZED MATCH-SCORING ENGINE (LLM + RULE-BASED FALLBACK)
 # =====================================================================
 
 def evaluate_job_deterministic(job: JobListing, profile: Dict[str, Any]) -> JobListing:
-    """
-    Fast, zero-cost rule-based evaluator that computes the 0-100 estimated match
-    score, flags experience gaps, and tags Remote / Delhi NCR / International roles.
-    Used either standalone or as a pre-filter before LLM scoring.
-    """
+    """Scores any job against any candidate profile using keyword and experience heuristics."""
     combined = f"{job.title} {job.company} {job.location} {job.description}".lower()
-    score = 65  # Base score for matching search query
+    score = 65
 
-    # 1. Role prioritization (Recruitment / TA over general HR)
-    ta_keywords = ["recruiter", "talent acquisition", "sourcing", "sourcer", "staffing", "executive search"]
-    hr_keywords = ["hrbp", "business partner", "generalist", "hr operations", "people operations", "hr analyst"]
-    if any(k in job.title.lower() for k in ta_keywords):
+    target_queries = profile.get("default_queries", [])
+    if any(q.lower() in job.title.lower() for q in target_queries):
         score += 15
-    elif any(k in job.title.lower() for k in hr_keywords):
-        score += 6
 
-    # 2. Skill alignment
     matched_skills: List[str] = []
-    skill_checks = {
-        "End-to-end recruitment": ["end-to-end", "full cycle", "full-cycle", "full lifecycle"],
-        "LinkedIn Sourcing": ["linkedin", "passive sourcing", "headhunting"],
-        "Boolean Search": ["boolean", "x-ray"],
-        "Stakeholder Management": ["stakeholder", "hiring manager", "client management"],
-        "Talent Mapping": ["talent mapping", "market mapping", "talent intelligence"],
-        "IT / Technical Hiring": ["it recruiter", "technical", "software", "engineering", "saas", "technology"],
-        "Analytics / Power BI / SQL": ["analytics", "dashboard", "power bi", "sql", "metrics", "data"],
-        "AI Sourcing Tools": ["ai ", "automation", "ats", "workday", "lever", "greenhouse"],
-    }
-    for label, kw_list in skill_checks.items():
-        if any(kw in combined for kw in kw_list):
-            matched_skills.append(label)
-            score += 2
+    for skill in profile.get("core_skills", []):
+        if skill.lower() in combined:
+            matched_skills.append(skill)
+            score += 3
 
-    # 3. Location & Work Mode flags
     loc_lower = f"{job.location} {job.work_mode} {combined}".lower()
-    job.is_remote = any(w in loc_lower for w in ["remote", "work from home", "wfh", "anywhere in india"])
+    preferred_locs = profile.get("default_locations", profile.get("preferred_locations", []))
+    if any(loc.lower() in loc_lower for loc in preferred_locs):
+        score += 8
+
+    job.is_remote = any(w in loc_lower for w in ["remote", "work from home", "wfh"])
     job.is_delhi_ncr = any(w in loc_lower for w in ["gurugram", "gurgaon", "noida", "delhi", "ncr"])
     job.is_international = any(
-        w in combined
-        for w in ["international", "us it", "global", "apac", "uk", "uae", "middle east", "europe", "anz"]
+        w in combined for w in ["international", "us ", "uk ", "apac", "uae", "middle east", "europe"]
     )
 
-    if job.is_remote or job.is_delhi_ncr or any(
-        city in loc_lower for city in ["bengaluru", "bangalore", "mumbai", "pune", "hyderabad"]
-    ):
-        score += 6
-
-    # 4. Experience range check (Candidate has 4+ years)
     concerns_list: List[str] = []
+    user_exp = float(profile.get("experience_years", 3.0))
     exp_nums = [int(n) for n in re.findall(r"\b(\d{1,2})\b", job.experience_required)]
     if len(exp_nums) >= 2:
         min_exp, max_exp = exp_nums[0], exp_nums[1]
-        if min_exp <= 4 <= max_exp:
+        if min_exp <= user_exp <= max_exp:
             score += 6
-        elif min_exp > 4:
-            gap = min_exp - 4
-            score -= min(12, gap * 3)
-            concerns_list.append(f"Experience gap: asks for {min_exp}–{max_exp} yrs vs. 4+ yrs profile")
-        elif max_exp < 4:
-            score -= 6
-            concerns_list.append(f"Junior band ({min_exp}–{max_exp} yrs); check compensation fit")
+        elif min_exp > user_exp:
+            score -= min(12, int(min_exp - user_exp) * 3)
+            concerns_list.append(f"Requires {min_exp}–{max_exp} yrs (profile has {user_exp:0.1f} yrs)")
+        elif max_exp < user_exp:
+            concerns_list.append(f"Junior role ({min_exp}–{max_exp} yrs)")
 
     if job.salary.lower() in {"not disclosed", "unverified", ""}:
         concerns_list.append("Salary not disclosed")
 
-    if not job.posted_time_verified:
-        concerns_list.append("Posting timestamp unverified on portal")
-
     job.match_score = max(40, min(98, score))
-    job.key_skills_required = ", ".join(matched_skills[:5]) if matched_skills else (
-        "End-to-end recruitment, Sourcing, Stakeholder management"
-    )
-    job.why_matches = (
-        f"Aligns with your 4+ yrs consultancy experience and skills in {job.key_skills_required}."
-    )
+    job.key_skills_required = ", ".join(matched_skills[:5]) if matched_skills else "See JD"
+    job.why_matches = f"Matches your target role and skills in {job.key_skills_required}."
     job.concerns = "; ".join(concerns_list) if concerns_list else "None identified"
     return job
 
 
 def evaluate_job_with_llm(job: JobListing, profile: Dict[str, Any]) -> JobListing:
-    """
-    Uses Google Gemini API (`GEMINI_API_KEY`) or Groq API (`GROQ_API_KEY`)
-    to refine the match score (0-100), match rationale, required skills, and concerns.
-    Falls back cleanly to `evaluate_job_deterministic` if no API key is set.
-    """
+    """Uses Gemini API free tier for dynamic multi-domain scoring, or rule-based fallback."""
     job = evaluate_job_deterministic(job, profile)
-
     gemini_key = os.getenv("GEMINI_API_KEY", "").strip()
     if not gemini_key:
         return job
 
     prompt = f"""
-You are an expert recruitment career advisor. Evaluate this job opening against the candidate profile.
+You are an expert career advisor. Evaluate this job opening against the candidate profile.
 
 CANDIDATE PROFILE:
 {json.dumps(profile, indent=2)}
@@ -543,11 +511,11 @@ Salary: {job.salary}
 Posted Time: {job.posted_time_raw}
 Description: {job.description[:1500]}
 
-Return ONLY a valid JSON object with these keys:
+Return ONLY valid JSON with keys:
 - "match_score": integer from 0 to 100
-- "why_matches": 1 concise sentence explaining why the candidate's profile fits
-- "key_skills_required": comma-separated list of top 4-5 required skills
-- "concerns": 1 concise sentence flagging any experience gap, shift timing, or unverified salary
+- "why_matches": 1 concise sentence
+- "key_skills_required": top 4-5 skills
+- "concerns": 1 concise sentence
 """
     try:
         from google import genai
@@ -564,20 +532,17 @@ Return ONLY a valid JSON object with these keys:
         job.key_skills_required = str(parsed.get("key_skills_required", job.key_skills_required))
         job.concerns = str(parsed.get("concerns", job.concerns))
     except Exception as exc:
-        logger.debug("LLM scoring fallback triggered for %s: %s", job.title, exc)
+        logger.debug("LLM fallback: %s", exc)
 
     return job
 
 
 # =====================================================================
-# 5. REPORT GENERATOR & AUTOMATED ALERTS (TELEGRAM / EMAIL)
+# 5. REPORT GENERATOR & EXPORT
 # =====================================================================
 
-def generate_markdown_report(jobs: List[JobListing]) -> str:
-    """
-    Formats verified (<24h) and unverified jobs into the exact ranked Markdown
-    table, detailed breakdown, and final summary requested by the user.
-    """
+def generate_markdown_report(jobs: List[JobListing], profile_title: str = "Candidate") -> str:
+    """Formats verified jobs into a ranked Markdown table and summary with direct links."""
     verified_jobs = [j for j in jobs if j.posted_time_verified]
     unverified_jobs = [j for j in jobs if not j.posted_time_verified]
 
@@ -586,10 +551,9 @@ def generate_markdown_report(jobs: List[JobListing]) -> str:
 
     now_str = datetime.now(IST).strftime("%Y-%m-%d %H:%M IST")
     lines: List[str] = [
-        f"# Autonomous Job-Search Report ({now_str})",
+        f"# Job Hunter Sweep: {profile_title} ({now_str})",
         "",
-        "*Note: Match Score (0–100) is an estimated assessment based on experience, "
-        "recruitment skills, location, and work mode—not an official employer evaluation.*",
+        "*Estimated Match Scores (0–100) are generated based on profile alignment.*",
         "",
         "## Ranked Qualifying Jobs (Verified Within 24 Hours)",
         "",
@@ -613,104 +577,31 @@ def generate_markdown_report(jobs: List[JobListing]) -> str:
                 f"- **Why your profile matches**: {j.why_matches}",
                 f"- **Most important skills required**: {j.key_skills_required}",
                 f"- **Posting time verified**: {'Yes' if j.posted_time_verified else 'No'} ({j.posted_time_raw})",
-                f"- **Original job-posting URL**: {j.job_url}",
+                f"- **Direct application URL**: [{j.job_url}]({j.job_url})",
                 f"- **Concerns**: {j.concerns}",
                 "",
             ]
         )
 
     if unverified_jobs:
-        lines.extend(["## Promising Vacancies with Unverified Posting Times", ""])
+        lines.extend(["## Promising Vacancies (Unverified Timestamp)", ""])
         for j in unverified_jobs:
             lines.append(
-                f"- **[{j.title} — {j.company}]({j.job_url})** ({j.location} | {j.experience_required}): "
-                f"Estimated Match {j.match_score}/100 — *Status: Posting time unverified ({j.posted_time_raw}).*"
+                f"- **[{j.title} — {j.company}]({j.job_url})** ({j.location}): "
+                f"Estimated Match {j.match_score}/100 — [Direct Apply Link]({j.job_url}) — *({j.posted_time_raw})*"
             )
         lines.append("")
-
-    # Final Summary Metrics
-    remote_count = sum(1 for j in verified_jobs if j.is_remote)
-    ncr_count = sum(1 for j in verified_jobs if j.is_delhi_ncr)
-    intl_count = sum(1 for j in verified_jobs if j.is_international)
-    top_5_matches = sorted(verified_jobs, key=lambda x: -x.match_score)[:5]
-    top_5_newest = sorted(
-        verified_jobs, key=lambda x: (window_rank.get(x.posting_window, 9), -x.match_score)
-    )[:5]
-
-    lines.extend(
-        [
-            "## Final Summary",
-            f"- **Total unique jobs verified as posted within 24 hours**: {len(verified_jobs)}",
-            f"- **Number of remote jobs**: {remote_count}",
-            f"- **Number of jobs in Delhi NCR**: {ncr_count}",
-            f"- **Number of international recruitment jobs**: {intl_count}",
-            "- **Top 5 strongest matches**: "
-            + ", ".join(f"[{j.title} at {j.company}]({j.job_url}) ({j.match_score}/100)" for j in top_5_matches),
-            "- **Top 5 most recently posted qualifying vacancies**: "
-            + ", ".join(f"[{j.title} at {j.company}]({j.job_url}) ({j.posted_time_raw})" for j in top_5_newest),
-        ]
-    )
 
     return "\n".join(lines)
 
 
-def send_telegram_alert(report_summary: str) -> bool:
-    """Sends a job alert message to Telegram if TELEGRAM_BOT_TOKEN & TELEGRAM_CHAT_ID are set."""
-    bot_token = os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
-    chat_id = os.getenv("TELEGRAM_CHAT_ID", "").strip()
-    if not bot_token or not chat_id:
-        return False
-
-    url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
-    payload = {
-        "chat_id": chat_id,
-        "text": report_summary[:4000],
-        "parse_mode": "Markdown",
-        "disable_web_page_preview": True,
-    }
-    try:
-        resp = requests.post(url, json=payload, timeout=10)
-        return resp.status_code == 200
-    except Exception as exc:
-        logger.warning("Telegram alert failed: %s", exc)
-        return False
-
-
-def send_email_alert(subject: str, markdown_body: str) -> bool:
-    """Sends an email digest via Gmail SMTP if SMTP_USER, SMTP_PASS, and ALERT_EMAIL_TO are set."""
-    smtp_user = os.getenv("SMTP_USER", "").strip()
-    smtp_pass = os.getenv("SMTP_PASS", "").strip()
-    email_to = os.getenv("ALERT_EMAIL_TO", "").strip()
-    if not (smtp_user and smtp_pass and email_to):
-        return False
-
-    msg = MIMEMultipart("alternative")
-    msg["Subject"] = subject
-    msg["From"] = smtp_user
-    msg["To"] = email_to
-    msg.attach(MIMEText(markdown_body, "plain", "utf-8"))
-
-    try:
-        with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
-            server.login(smtp_user, smtp_pass)
-            server.sendmail(smtp_user, [email_to], msg.as_string())
-        return True
-    except Exception as exc:
-        logger.warning("Email alert failed: %s", exc)
-        return False
-
-
-# =====================================================================
-# 6. SAMPLE SEED DATA (FOR OFFLINE / DEMO TESTING)
-# =====================================================================
-
 def get_demo_verified_jobs() -> List[JobListing]:
-    """Provides verified sample listings when running offline or testing the pipeline."""
+    """Provides seed sample listings when testing offline."""
     return [
         JobListing(
-            job_id="1740105",
-            title="Talent Acquisition Role - IT",
-            company="Michael Page International",
+            job_id="demo_1",
+            title="Senior Recruitment Consultant / TA Specialist",
+            company="Michael Page",
             location="Bengaluru",
             work_mode="Hybrid (3 days WFO / 2 days WFH)",
             posted_time_raw="Posted today",
@@ -720,16 +611,12 @@ def get_demo_verified_jobs() -> List[JobListing]:
             salary="Not disclosed",
             job_url="https://www.iimjobs.com/j/talent-acquisition-role-it-1740105",
             source_portal="iimjobs",
-            description=(
-                "Lead end-to-end IT and Product Support recruitment in India; manage candidate "
-                "pipelines, Boolean search, LinkedIn sourcing, and international stakeholders "
-                "across India, Singapore, UK, and US."
-            ),
+            description="End-to-end recruitment delivery across India and APAC stakeholders.",
         ),
         JobListing(
-            job_id="ptr_remote_9",
-            title="Recruiter (US / IT Contract Staffing)",
-            company="Pinnacle Group, Inc. (PTR Global)",
+            job_id="demo_2",
+            title="Technical Recruiter (Contract Staffing)",
+            company="Pinnacle Group",
             location="Remote, India",
             work_mode="Remote / WFH",
             posted_time_raw="1 hour ago",
@@ -739,140 +626,143 @@ def get_demo_verified_jobs() -> List[JobListing]:
             salary="Not disclosed",
             job_url="https://www.remoterocketship.com/company/pinnacle1/jobs/recruiter-india-remote-9/",
             source_portal="Remote Rocketship",
-            description=(
-                "Full-lifecycle international US IT recruitment from intake to offer; use AI "
-                "sourcing tools, Boolean search, LinkedIn Recruiter, Bullhorn ATS, and VMS."
-            ),
-        ),
-        JobListing(
-            job_id="1740087",
-            title="Assistant Manager - Talent Acquisition",
-            company="Ola Electric",
-            location="Bengaluru",
-            work_mode="On-site",
-            posted_time_raw="Posted today",
-            posted_time_verified=True,
-            posting_window="12-24h",
-            experience_required="1-4 years",
-            salary="₹25-35 LPA",
-            job_url="https://www.iimjobs.com/j/ola-electric-assistant-manager-talent-acquisition-1740087",
-            source_portal="iimjobs",
-            description=(
-                "End-to-end recruitment across Technology (Backend, Data Science, AI/ML, DevOps) "
-                "and Corporate Functions; track pipeline conversion and recruitment analytics."
-            ),
-        ),
-        JobListing(
-            job_id="1740157",
-            title="Talent Acquisition Partner (Assistant Manager - TA)",
-            company="Atlass Partners Consulting LLP",
-            location="Delhi NCR / Bengaluru / Mumbai",
-            work_mode="On-site",
-            posted_time_raw="Posted today",
-            posted_time_verified=True,
-            posting_window="12-24h",
-            experience_required="5-11 years",
-            salary="Not disclosed",
-            job_url="https://www.iimjobs.com/j/talent-acquisition-partner-1740157",
-            source_portal="iimjobs",
-            description=(
-                "Own full recruitment cycle; LinkedIn sourcing, talent mapping, stakeholder "
-                "management, ATS platforms, data visualization, and recruitment analytics."
-            ),
+            description="Full-lifecycle US IT staffing using Boolean search and AI tools.",
         ),
     ]
 
 
 # =====================================================================
-# 7. MAIN AGENT PIPELINE & STREAMLIT WEB UI
+# 6. PIPELINE & INTERACTIVE STREAMLIT DASHBOARD
 # =====================================================================
 
 def run_agent_pipeline(
     queries: Optional[List[str]] = None,
     locations: Optional[List[str]] = None,
     hours_old: int = 24,
-    use_demo_if_empty: bool = True,
+    country: str = "India",
+    profile: Optional[Dict[str, Any]] = None,
     output_dir: Optional[str] = None,
 ) -> tuple[List[JobListing], str]:
-    """Executes scraping, deduplication, scoring, and Markdown report generation."""
+    """Executes multi-source scraping, deduplication, and scoring."""
     db = JobDatabase()
-    queries = queries or CANDIDATE_PROFILE["role_queries"][:4]
-    locations = locations or ["India", "Gurugram", "Bengaluru", "Mumbai"]
+    active_profile = profile or CANDIDATE_PROFILE
+    queries = queries or active_profile.get("default_queries", ["Recruiter"])
+    locations = locations or active_profile.get("default_locations", ["Remote", "India"])
 
     raw_jobs: List[JobListing] = []
-    raw_jobs.extend(scrape_with_jobspy(queries=queries, locations=locations, hours_old=hours_old))
-    raw_jobs.extend(scrape_iimjobs_hr_feed(max_items=15))
+    raw_jobs.extend(
+        scrape_with_jobspy(
+            queries=queries,
+            locations=locations,
+            hours_old=hours_old,
+            country_indeed=country,
+        )
+    )
+    if country.lower() in {"india", "in"}:
+        raw_jobs.extend(scrape_iimjobs_feed(max_items=15))
 
-    if not raw_jobs and use_demo_if_empty:
-        logger.info("Using demo verified listings (offline or no live scraper results).")
+    if not raw_jobs:
+        logger.info("Using seed sample listings (offline or rate limited).")
         raw_jobs = get_demo_verified_jobs()
 
-    # Deduplicate within current batch & score against profile
     unique_jobs: Dict[str, JobListing] = {}
     for job in raw_jobs:
         dedup_key = JobDatabase.make_dedup_key(job.title, job.company)
         if dedup_key not in unique_jobs:
-            scored_job = evaluate_job_with_llm(job, CANDIDATE_PROFILE)
-            unique_jobs[dedup_key] = scored_job
-            db.mark_seen(scored_job)
+            scored = evaluate_job_with_llm(job, active_profile)
+            unique_jobs[dedup_key] = scored
+            db.mark_seen(scored)
 
     final_jobs = list(unique_jobs.values())
     final_jobs.sort(key=lambda j: -j.match_score)
-    report_md = generate_markdown_report(final_jobs)
+    report_md = generate_markdown_report(final_jobs, profile_title=active_profile.get("name", "Candidate"))
 
-    # Save CSV & Markdown outputs directly into the working directory for GitHub Actions
     target_dir = output_dir or "."
     try:
         df_out = pd.DataFrame([asdict(j) for j in final_jobs])
         df_out.to_csv(os.path.join(target_dir, "latest_jobs_24h.csv"), index=False)
         with open(os.path.join(target_dir, "latest_jobs_report.md"), "w", encoding="utf-8") as f:
             f.write(report_md)
-    except OSError as exc:
-        logger.warning("Could not write export files to %s: %s", target_dir, exc)
-        fallback_dir = tempfile.gettempdir()
-        df_out = pd.DataFrame([asdict(j) for j in final_jobs])
-        df_out.to_csv(os.path.join(fallback_dir, "latest_jobs_24h.csv"), index=False)
-        with open(os.path.join(fallback_dir, "latest_jobs_report.md"), "w", encoding="utf-8") as f:
-            f.write(report_md)
-
-    # Trigger optional alerts
-    send_telegram_alert(report_md)
-    send_email_alert("Daily Verified <24h Job Hunter Digest", report_md)
+    except OSError:
+        pass
 
     return final_jobs, report_md
 
 
 def run_streamlit_dashboard() -> None:
-    """Renders an interactive web dashboard when launched via `streamlit run job_hunter_agent.py`."""
+    """Launches the interactive web dashboard with 1-click Direct Apply buttons."""
     import streamlit as st
 
-    st.set_page_config(page_title="Autonomous Job Hunter Agent", layout="wide")
-    st.title("Autonomous Recruitment & HR Job Hunter Agent (24h Strict Filter)")
-    st.caption(
-        "Tailored for: Senior Associate Consultant (4+ yrs | IT & Non-IT | PAN India & International)"
+    st.set_page_config(
+        page_title="Autonomous Multi-Sector Job Hunter Agent",
+        page_icon="💼",
+        layout="wide",
     )
+    st.title("💼 Autonomous Multi-Sector Job Hunter Agent (24h Strict Filter)")
+    st.caption("Scrapes LinkedIn, Indeed, Naukri & Google Jobs with real-time 0–100 match scoring and direct apply links.")
 
     with st.sidebar:
-        st.header("Search Filters")
-        selected_queries = st.multiselect(
-            "Target Job Titles",
-            options=CANDIDATE_PROFILE["role_queries"],
-            default=CANDIDATE_PROFILE["role_queries"][:4],
+        st.header("🎯 Sector & Candidate Setup")
+        sector_choice = st.selectbox(
+            "Select Career Domain",
+            options=list(SECTOR_PRESETS.keys()),
+            index=0,
         )
-        selected_locations = st.multiselect(
-            "Preferred Locations",
-            options=["Remote", "Gurugram", "Delhi NCR", "Noida", "Bengaluru", "Hyderabad", "Pune", "Mumbai"],
-            default=["Remote", "Gurugram", "Bengaluru", "Mumbai"],
+        base_preset = SECTOR_PRESETS[sector_choice]
+
+        user_exp = st.number_input(
+            "Your Experience (Years)",
+            min_value=0.0,
+            max_value=30.0,
+            value=float(base_preset.get("experience_years", 3.0)),
+            step=0.5,
         )
+
+        custom_skills_input = st.text_input(
+            "Core Skills (Comma-separated)",
+            value=", ".join(base_preset.get("core_skills", [])),
+        )
+        user_skills = [s.strip() for s in custom_skills_input.split(",") if s.strip()]
+
+        st.divider()
+        st.header("🌍 Search Locations & Portals")
+        country_choice = st.selectbox(
+            "Target Country",
+            options=["India", "USA", "United Kingdom", "Canada", "Australia", "Singapore", "Germany", "UAE"],
+            index=0,
+        )
+
+        custom_locs = st.text_input(
+            "Cities / Locations (Comma-separated)",
+            value=", ".join(base_preset.get("default_locations", ["Remote"])),
+        )
+        selected_locations = [loc.strip() for loc in custom_locs.split(",") if loc.strip()]
+
+        custom_titles = st.text_input(
+            "Job Titles to Hunt (Comma-separated)",
+            value=", ".join(base_preset.get("default_queries", ["Software Engineer"])),
+        )
+        selected_queries = [t.strip() for t in custom_titles.split(",") if t.strip()]
+
         hours_old = st.slider("Max Posting Age (Hours)", min_value=1, max_value=24, value=24)
-        run_btn = st.button("Run Live 24h Sweep", type="primary")
+        run_btn = st.button("🚀 Run Live 24h Sweep", type="primary", use_container_width=True)
+
+    user_profile = {
+        "name": sector_choice,
+        "experience_years": user_exp,
+        "core_skills": user_skills,
+        "default_queries": selected_queries,
+        "default_locations": selected_locations,
+    }
 
     if run_btn or "jobs" not in st.session_state:
-        with st.spinner("Searching portals, verifying timestamps, and scoring matches..."):
+        with st.spinner("Scraping live job portals and computing 0–100 match scores..."):
             jobs, report_md = run_agent_pipeline(
                 queries=selected_queries,
                 locations=selected_locations,
                 hours_old=hours_old,
+                country=country_choice,
+                profile=user_profile,
             )
             st.session_state["jobs"] = jobs
             st.session_state["report_md"] = report_md
@@ -880,18 +770,35 @@ def run_streamlit_dashboard() -> None:
     jobs: List[JobListing] = st.session_state.get("jobs", [])
     verified = [j for j in jobs if j.posted_time_verified]
 
-    col1, col2, col3, col4 = st.columns(4)
-    col1.metric("Verified (<24h)", len(verified))
-    col2.metric("Remote Jobs", sum(1 for j in verified if j.is_remote))
-    col3.metric("Delhi NCR Jobs", sum(1 for j in verified if j.is_delhi_ncr))
-    col4.metric("International Hiring", sum(1 for j in verified if j.is_international))
+    m1, m2, m3, m4 = st.columns(4)
+    m1.metric("Verified (<24h)", len(verified))
+    m2.metric("Remote / WFH", sum(1 for j in verified if j.is_remote))
+    m3.metric("Avg Match Score", f"{int(sum(j.match_score for j in verified)/max(1, len(verified)))}/100")
+    m4.metric("Target Country", country_choice)
 
     st.download_button(
-        label="Download Ranked CSV",
+        label="📥 Download Ranked Jobs (CSV)",
         data=pd.DataFrame([asdict(j) for j in jobs]).to_csv(index=False),
         file_name="verified_jobs_24h.csv",
         mime="text/csv",
     )
+
+    st.divider()
+    st.subheader("🎯 1-Click Direct Application Cards")
+    for j in verified:
+        with st.expander(f"⭐ {j.match_score}/100 — {j.title} at {j.company} ({j.location})", expanded=True):
+            col_info, col_btn = st.columns([3, 1])
+            with col_info:
+                st.write(f"**Source:** {j.source_portal} | **Posted:** {j.posted_time_raw} ({j.posting_window}) | **Work Mode:** {j.work_mode}")
+                st.write(f"**Experience:** {j.experience_required} | **Salary:** {j.salary}")
+                st.write(f"**Why it matches:** {j.why_matches}")
+                st.write(f"**Key skills:** `{j.key_skills_required}`")
+                if j.concerns and j.concerns != "None identified":
+                    st.caption(f"⚠️ **Note:** {j.concerns}")
+            with col_btn:
+                st.link_button("🚀 Direct Apply Now", j.job_url, use_container_width=True)
+
+    st.divider()
     st.markdown(st.session_state.get("report_md", ""))
 
 
