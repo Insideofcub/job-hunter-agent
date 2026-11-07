@@ -1,4 +1,4 @@
-# Job Hunter Sweep: Senior Associate Consultant (Recruitment & TA) (Last 24 Hours — 2026-11-07 01:17 IST)
+# Job Hunter Sweep: Senior Associate Consultant (Recruitment & TA) (Last 24 Hours — 2026-11-07 16:11 IST)
 
 *Estimated Match Scores (0–100) are generated based on profile alignment.*
 
@@ -7,645 +7,415 @@
 | Rank | Job Title | Company | Location / Work Mode | Posted Time | Experience Required | Salary | Match Score | Direct Apply Link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | [Senior Recruitment Consultant / TA Specialist](https://www.iimjobs.com/j/talent-acquisition-role-it-1740105) | Michael Page | Bengaluru, India (Hybrid (3 days WFO / 2 days WFH)) | 1 hour ago (1-6h) | 3-7 years | INR 18,00,000 - 28,00,000 | 98/100 | [Direct Apply](https://www.iimjobs.com/j/talent-acquisition-role-it-1740105) |
-| 2 | [Senior Recruiter – Trade Sales Hiring](https://in.indeed.com/viewjob?jk=1980b544ae52cc7a) | AMS | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 5–10 years | Not disclosed | 97/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=1980b544ae52cc7a) |
-| 3 | [Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4486222699) | Nextenti Tech Private Limited | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486222699) |
-| 4 | [It Recruiter](https://www.naukri.com/job-listings-it-recruiter-orangemantra-bengaluru-2-to-4-years-061126012625) | OrangeMantra | Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 275,000 - 600,000 | 94/100 | [Direct Apply](https://www.naukri.com/job-listings-it-recruiter-orangemantra-bengaluru-2-to-4-years-061126012625) |
-| 5 | [US Non-IT Recruiter](https://www.naukri.com/job-listings-us-non-it-recruiter-avani-technology-solutions-visakhapatnam-hyderabad-bengaluru-1-to-6-years-061126026099) | Avani Technology Solutions | Visakhapatnam, Hyderabad, Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 300,000 - 800,000 | 94/100 | [Direct Apply](https://www.naukri.com/job-listings-us-non-it-recruiter-avani-technology-solutions-visakhapatnam-hyderabad-bengaluru-1-to-6-years-061126026099) |
-| 6 | [Walk-in || US Non It Recruiter](https://www.naukri.com/job-listings-us-non-it-recruiter-avani-technology-solutions-bengaluru-2-to-5-years-061126026012) | Avani Technology Solutions | Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.naukri.com/job-listings-us-non-it-recruiter-avani-technology-solutions-bengaluru-2-to-5-years-061126026012) |
-| 7 | [Job Description Domestic IT Recruiter](https://www.naukri.com/job-listings-description-domestic-it-recruiter-the-aes-group-hyderabad-2-to-4-years-061126024366) | The Aes Group | Hyderabad, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 50,000 - 70,000 | 94/100 | [Direct Apply](https://www.naukri.com/job-listings-description-domestic-it-recruiter-the-aes-group-hyderabad-2-to-4-years-061126024366) |
-| 8 | [It Recruiter](https://www.naukri.com/job-listings-it-recruiter-teamlease-digital-bengaluru-0-to-2-years-061126023985) | TeamLease Digital | Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 50,000 - 250,000 | 94/100 | [Direct Apply](https://www.naukri.com/job-listings-it-recruiter-teamlease-digital-bengaluru-0-to-2-years-061126023985) |
-| 9 | [Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4486789891) | Knowmax | Gurugram, Haryana, India (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486789891) |
-| 10 | [Consultant - Talent Acquisition Specialist](https://www.naukri.com/job-listings-consultant-talent-acquisition-specialist-godrej-properties-gurugram-3-to-8-years-061126013437) | Godrej Properties | Gurugram, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.naukri.com/job-listings-consultant-talent-acquisition-specialist-godrej-properties-gurugram-3-to-8-years-061126013437) |
-| 11 | [Talent Acquisition Specialist || Mobikwik || Gurgaon](https://www.naukri.com/job-listings-talent-acquisition-specialist-mobikwik-gurgaon-mobikwik-gurugram-8-to-12-years-061126012677) | Mobikwik | Gurugram, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.naukri.com/job-listings-talent-acquisition-specialist-mobikwik-gurgaon-mobikwik-gurugram-8-to-12-years-061126012677) |
-| 12 | [IT Recruiter](https://www.naukri.com/job-listings-it-recruiter-yechte-consulting-gurugram-1-to-4-years-061126501305) | Yechte | Gurugram, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.naukri.com/job-listings-it-recruiter-yechte-consulting-gurugram-1-to-4-years-061126501305) |
-| 13 | [Senior Recruiter](https://www.linkedin.com/jobs/view/4486970315) | Digantara | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486970315) |
-| 14 | [Senior Technical Recruiter](https://www.linkedin.com/jobs/view/4472384994) | Dexian India | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4472384994) |
-| 15 | [Technical Recruiter](https://www.linkedin.com/jobs/view/4484152979) | ManpowerGroup | Greater Bengaluru Area (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4484152979) |
-| 16 | [Senior Recruiter (Non- IT)](https://www.linkedin.com/jobs/view/4487300289) | Korn Ferry | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487300289) |
-| 17 | [Specialist, Technical Recruiter](https://www.linkedin.com/jobs/view/4486244163) | Randstad Enterprise | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486244163) |
-| 18 | [Senior Talent Acquisition Specialist (Work From Office)](https://www.naukri.com/job-listings-senior-talent-acquisition-specialist-work-from-office-solutions-centric-global-bengaluru-3-to-5-years-061126023131) | Solutions Centric Global | Bengaluru(MG Road), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.naukri.com/job-listings-senior-talent-acquisition-specialist-work-from-office-solutions-centric-global-bengaluru-3-to-5-years-061126023131) |
-| 19 | [Non IT Recruiter / TA](https://www.naukri.com/job-listings-non-it-recruiter-ta-delight-hr-services-pvt-ltd-bengaluru-2-to-5-years-061126920823) | Delight HR | Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.naukri.com/job-listings-non-it-recruiter-ta-delight-hr-services-pvt-ltd-bengaluru-2-to-5-years-061126920823) |
-| 20 | [Non IT Recruiter](https://www.naukri.com/job-listings-non-it-recruiter-delight-hr-services-pvt-ltd-bengaluru-2-to-5-years-061126920803) | Delight HR | Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.naukri.com/job-listings-non-it-recruiter-delight-hr-services-pvt-ltd-bengaluru-2-to-5-years-061126920803) |
-| 21 | [Talent Acquisition Specialist (contract role)or Recruiter](https://www.naukri.com/job-listings-talent-acquisition-specialist-contract-role-or-recruiter-delight-hr-services-pvt-ltd-bengaluru-4-to-9-years-061126920540) | Delight HR | Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.naukri.com/job-listings-talent-acquisition-specialist-contract-role-or-recruiter-delight-hr-services-pvt-ltd-bengaluru-4-to-9-years-061126920540) |
-| 22 | [Non It Recruiter](https://www.naukri.com/job-listings-non-it-recruiter-kalyani-motors-bengaluru-1-to-4-years-061126013359) | Kalyani Motors | Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 225,000 - 400,000 | 94/100 | [Direct Apply](https://www.naukri.com/job-listings-non-it-recruiter-kalyani-motors-bengaluru-1-to-4-years-061126013359) |
-| 23 | [Technical Recruiter](https://www.naukri.com/job-listings-technical-recruiter-fornax-technology-services-private-limited-bengaluru-1-to-6-years-061126012395) | FORNAX TECHNOLOGY SERVICES PRIVATE LIMITED | Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 300,000 - 700,000 | 94/100 | [Direct Apply](https://www.naukri.com/job-listings-technical-recruiter-fornax-technology-services-private-limited-bengaluru-1-to-6-years-061126012395) |
-| 24 | [Hiring For IT Recruiter-C2h/WFH](https://www.naukri.com/job-listings-hiring-for-it-recruiter-c2h-wfh-orcapod-consulting-services-bengaluru-2-to-4-years-230926025096) | Orcapod Consulting Services | India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 100,000 - 225,000 | 94/100 | [Direct Apply](https://www.naukri.com/job-listings-hiring-for-it-recruiter-c2h-wfh-orcapod-consulting-services-bengaluru-2-to-4-years-230926025096) |
-| 25 | [Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4486235883) | Randstad Enterprise | Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486235883) |
-| 26 | [Senior Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4486212883) | Randstad Enterprise | Navi Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486212883) |
-| 27 | [Non IT recruiter - Mumbai](https://www.naukri.com/job-listings-non-it-recruiter-mumbai-trigent-software-mumbai-all-areas-2-to-7-years-070426030648) | Trigent Software | Mumbai (All Areas), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 100,000 - 500,000 | 94/100 | [Direct Apply](https://www.naukri.com/job-listings-non-it-recruiter-mumbai-trigent-software-mumbai-all-areas-2-to-7-years-070426030648) |
-| 28 | [Talent Acquisition Specialist – EU & LATAM](https://www.linkedin.com/jobs/view/4486208080) | Intelli Owl | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486208080) |
-| 29 | [US IT Technical Recruiter (Night Shift)](https://www.linkedin.com/jobs/view/4482228251) | Syntek Digital | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4482228251) |
-| 30 | [US Non-IT Recruiter (Pharma & Lifesciences)](https://www.linkedin.com/jobs/view/4482162918) | ALGOBRAINZ | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4482162918) |
-| 31 | [International Recruiter (Night Shift)](https://www.linkedin.com/jobs/view/4487539057) | Futran Solutions | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487539057) |
-| 32 | [US IT Technical Recruiter](https://www.linkedin.com/jobs/view/4485894811) | My3Tech | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4485894811) |
-| 33 | [Bench Sales Recruiter & Technical Recruiter – US IT Staffing](https://www.linkedin.com/jobs/view/4486994877) | TMT IT Solutions | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486994877) |
-| 34 | [US Technical Recruiter](https://www.linkedin.com/jobs/view/4486920186) | PURVIEW | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486920186) |
-| 35 | [Talent Acquisition Specialist](https://www.naukri.com/job-listings-talent-acquisition-specialist-direct-dialogue-initiatives-hyderabad-1-to-6-years-061126015392) | Direct Dialogue Initiatives | Hyderabad, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 300,000 - 450,000 | 94/100 | [Direct Apply](https://www.naukri.com/job-listings-talent-acquisition-specialist-direct-dialogue-initiatives-hyderabad-1-to-6-years-061126015392) |
-| 36 | [It Recruiter](https://www.naukri.com/job-listings-it-recruiter-deloitte-shared-services-india-hyderabad-2-to-7-years-221026015173) | Deloitte Shared Services India | Hyderabad, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.naukri.com/job-listings-it-recruiter-deloitte-shared-services-india-hyderabad-2-to-7-years-221026015173) |
-| 37 | [US IT Technical Recruiter](https://www.naukri.com/job-listings-us-it-technical-recruiter-innocore-solutions-hyderabad-5-to-10-years-061126009378) | Innocore Solutions | Hyderabad(Gachibowli +1), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 50,000 - 150,000 | 94/100 | [Direct Apply](https://www.naukri.com/job-listings-us-it-technical-recruiter-innocore-solutions-hyderabad-5-to-10-years-061126009378) |
-| 38 | [BH  Technical Recruiter Salesforce  MarTech Remote US Time](https://www.naukri.com/job-listings-bh-technical-recruiter-salesforce-martech-remote-us-time-skynetappdev-hyderabad-1-to-6-years-061126008206) | Skynetappdev | India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.naukri.com/job-listings-bh-technical-recruiter-salesforce-martech-remote-us-time-skynetappdev-hyderabad-1-to-6-years-061126008206) |
-| 39 | [Immediate openings For Freshers: US IT Recruiter/BPO positions.](https://www.naukri.com/job-listings-immediate-openings-for-freshers-us-it-recruiter-bpo-positions-mariosoft-technologies-hyderabad-0-to-2-years-280526018923) | Mariosoft Technologies | Hyderabad(Masab Tank +1), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.naukri.com/job-listings-immediate-openings-for-freshers-us-it-recruiter-bpo-positions-mariosoft-technologies-hyderabad-0-to-2-years-280526018923) |
-| 40 | [US IT Talent Acquisition Specialist(60 Days Internship) Night Shifts](https://www.naukri.com/job-listings-us-it-talent-acquisition-specialist-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126000469) | Vcloud Technologies Investment | Hyderabad, India (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.naukri.com/job-listings-us-it-talent-acquisition-specialist-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126000469) |
-| 41 | [US IT Recruiter (60 Days Internship) Night Shifts](https://www.naukri.com/job-listings-us-it-recruiter-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126000454) | Vcloud Technologies Investment | Hyderabad, India (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.naukri.com/job-listings-us-it-recruiter-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126000454) |
-| 42 | [IT Recruiter - Remote Work](https://www.linkedin.com/jobs/view/4486792884) | BairesDev | Cajamarca, Peru (Remote / WFH) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486792884) |
-| 43 | [Technical Recruiter](https://www.linkedin.com/jobs/view/4486931651) | Techinduct Services Pvt. Ltd | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486931651) |
-| 44 | [Senior SAP Talent Acquisition Specialist](https://www.naukri.com/job-listings-senior-sap-talent-acquisition-specialist-thoucentric-bengaluru-6-to-8-years-061126008450) | Thoucentric | Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.naukri.com/job-listings-senior-sap-talent-acquisition-specialist-thoucentric-bengaluru-6-to-8-years-061126008450) |
-| 45 | [Oracle Technical Recruiter / Sr. Recruitment Specialist](https://www.naukri.com/job-listings-oracle-technical-recruiter-sr-recruitment-specialist-proffer-it-consultancy-private-limited-bengaluru-3-to-7-years-061126501897) | Proffer It Consultancy | Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.naukri.com/job-listings-oracle-technical-recruiter-sr-recruitment-specialist-proffer-it-consultancy-private-limited-bengaluru-3-to-7-years-061126501897) |
-| 46 | [Senior US IT Recruiter](https://in.indeed.com/viewjob?jk=6867c82cf1babf12) | encore infotech services | TS, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 20,000 - 30,000 | 94/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=6867c82cf1babf12) |
-| 47 | [Sr. IT Recruiter](https://www.naukri.com/job-listings-sr-it-recruiter-btranz-technological-solutions-hyderabad-5-to-10-years-061126501248) | Btranz Technological Solutions | Hyderabad, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.naukri.com/job-listings-sr-it-recruiter-btranz-technological-solutions-hyderabad-5-to-10-years-061126501248) |
-| 48 | [US IT Technical Recruiter (60 Days Internship) Night Shifts](https://www.naukri.com/job-listings-us-it-technical-recruiter-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126000461) | Vcloud Technologies Investment | Hyderabad, India (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.naukri.com/job-listings-us-it-technical-recruiter-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126000461) |
-| 49 | [Recruitment Consultant (Remote)](https://www.linkedin.com/jobs/view/4486979662) | Hongkong Xiqi International Limited | Ho Chi Minh City, Vietnam (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486979662) |
-| 50 | [Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4486212066) | Mohammed Rasool Khoory & Sons | Abu Dhabi Emirate, United Arab Emirates (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486212066) |
-| 51 | [Bilingual - Sr Talent Acquisition Specialist (French + English)](https://www.linkedin.com/jobs/view/4461306568) | Epiroc | Sudbury, Ontario, Canada (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4461306568) |
-| 52 | [Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4488164586) | Castle Trust Bank | Basingstoke, England, UK (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488164586) |
-| 53 | [Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4463122222) | Leavitt Industrial Group | Greater Vancouver, British Columbia, Canada (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4463122222) |
-| 54 | [Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4486229404) | Girteka | Vilnius, Vilniaus, Lithuania (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486229404) |
-| 55 | [Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4480300297) | Aria Care Partners | Overland Park, KS, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4480300297) |
-| 56 | [Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4488175891) | Covenant | Chattanooga, TN, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488175891) |
-| 57 | [Talent Acquisition Specialist - Operations & Supply Chain](https://www.linkedin.com/jobs/view/4471893600) | Picnic Technologies | Paris, Île-de-France, France (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4471893600) |
-| 58 | [Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4477310133) | Michels Corporation | Green Bay, WI, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4477310133) |
-| 59 | [Senior Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4486252228) | HR Path | Greater Madrid Metropolitan Area (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486252228) |
-| 60 | [Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4488189356) | SEGULA Technologies | Montreal, Quebec, Canada (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488189356) |
-| 61 | [Talent Acquisition Specialist with French (M/F)](https://www.linkedin.com/jobs/view/4488155780) | ARCHE Consulting | Łódź, Łódzkie, Poland (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488155780) |
-| 62 | [Sr. Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4486220950) | KLA | Hsinchu City, Taiwan, Taiwan (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486220950) |
-| 63 | [Talent Acquisition Specialist | SEB, Vilnius](https://www.linkedin.com/jobs/view/4480316883) | SEB | Vilnius, Vilniaus, Lithuania (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4480316883) |
-| 64 | [Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4488161011) | Customs Support Group | Saint Pierre, Moka, Mauritius (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488161011) |
-| 65 | [Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4486230045) | Spore.Bio | Paris, Île-de-France, France (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486230045) |
-| 66 | [Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4485861689) | InteLogix | Cairo, Cairo, Egypt (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4485861689) |
-| 67 | [Talent Acquisition Specialist / Recruiter](https://www.linkedin.com/jobs/view/4486798805) | Brunswick Lift Rentals | Edmonton, Alberta, Canada (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486798805) |
-| 68 | [Senior Recruiter](https://www.naukri.com/job-listings-senior-recruiter-zocdoc-pune-4-to-8-years-061126026231) | Zocdoc | Pune, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.naukri.com/job-listings-senior-recruiter-zocdoc-pune-4-to-8-years-061126026231) |
-| 69 | [Talent Acquisition Specialist](https://www.naukri.com/job-listings-talent-acquisition-specialist-zuci-systems-india-chennai-0-to-1-years-061126025820) | Zuci Systems India | Chennai(Thoraipakkam), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.naukri.com/job-listings-talent-acquisition-specialist-zuci-systems-india-chennai-0-to-1-years-061126025820) |
-| 70 | [Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4486591383) | High On Sales (HOS) | New Delhi, Delhi, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486591383) |
-| 71 | [Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4487335652) | MY NONU | Noida, Uttar Pradesh, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487335652) |
-| 72 | [IT Recruiter (10k/Target based/from Consultancy)](https://www.linkedin.com/jobs/view/4486992569) | CAREERBLOC ~ | Delhi, Delhi, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486992569) |
-| 73 | [US Non -IT Recruiter](https://www.linkedin.com/jobs/view/4475789508) | InfiCare Staffing | Noida, Uttar Pradesh, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4475789508) |
-| 74 | [US IT Recruiter](https://www.linkedin.com/jobs/view/4488159927) | Teamware Solutions | Noida, Uttar Pradesh, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488159927) |
-| 75 | [Healthcare & Pharma/Non-IT Recruiter](https://www.linkedin.com/jobs/view/4469786911) | Select Source International | Noida, Uttar Pradesh, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4469786911) |
-| 76 | [Sr Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4488138865) | F5 | Bangalore Rural District, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488138865) |
-| 77 | [Senior IT Recruiter](https://www.linkedin.com/jobs/view/4488162070) | Randstad Digital Romania | Romania (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488162070) |
-| 78 | [Senior Technical Recruiter](https://www.linkedin.com/jobs/view/4488190314) | SteerBridge | Vienna, VA, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488190314) |
-| 79 | [Senior UK IT Recruiter](https://www.linkedin.com/jobs/view/4486962714) | Falcon Smart IT (FalconSmartIT) | Tiruchirappalli, Tamil Nadu, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486962714) |
-| 80 | [US IT Recruiter](https://www.linkedin.com/jobs/view/4488170386) | InfoStride | Mohali district, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488170386) |
-| 81 | [Senior Technical Recruiter](https://www.linkedin.com/jobs/view/4480160125) | Anduril Industries | Washington, DC, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4480160125) |
-| 82 | [US IT Recruiter / Senior US IT Recruiter - Trichy](https://www.linkedin.com/jobs/view/4483254409) | Lorven Technologies Inc. | Tiruchirappalli, Tamil Nadu, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4483254409) |
-| 83 | [IT Recruiter](https://www.linkedin.com/jobs/view/4486969534) | twenty8 | Brussels Metropolitan Area (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486969534) |
-| 84 | [Senior Technical Recruiter](https://www.linkedin.com/jobs/view/4488050940) | HeadFirst Group | Charlotte, NC, USA (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488050940) |
-| 85 | [Us It Recruiter](https://www.naukri.com/job-listings-us-it-recruiter-apptad-chennai-2-to-6-years-061126023640) | Apptad | Chennai, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 200,000 - 600,000 | 86/100 | [Direct Apply](https://www.naukri.com/job-listings-us-it-recruiter-apptad-chennai-2-to-6-years-061126023640) |
-| 86 | [US IT Recruiter](https://www.linkedin.com/jobs/view/4475967052) | InfiCare Staffing | Noida, Uttar Pradesh, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4475967052) |
-| 87 | [Technical Recruiter (RPO)](https://www.linkedin.com/jobs/view/4486229487) | IBM | Quezon City, National Capital Region, Philippines (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486229487) |
-| 88 | [Technical Recruiter](https://www.linkedin.com/jobs/view/4486930302) | ZimZee Recruiting | Wichita, Kansas Metropolitan Area (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486930302) |
-| 89 | [Senior Technical Recruiter](https://www.linkedin.com/jobs/view/4400454423) | K2 Space Corporation | Los Angeles, CA, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4400454423) |
-| 90 | [Technical Recruiter](https://www.linkedin.com/jobs/view/4477352064) | Howmet Aerospace | Torrance, CA, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4477352064) |
-| 91 | [Technical Recruiter](https://www.linkedin.com/jobs/view/4486208009) | Quindar | Arvada, CO, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486208009) |
-| 92 | [Technical Recruiter](https://www.linkedin.com/jobs/view/4411574461) | K2 Space Corporation | Los Angeles, CA, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4411574461) |
-| 93 | [Mid-Level Technical Recruiter](https://www.linkedin.com/jobs/view/4488093595) | Success Matcher Recruitment | Manila, National Capital Region, Philippines (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488093595) |
-| 94 | [Technical Recruiter](https://www.linkedin.com/jobs/view/4385394943) | Etched | San Jose, CA, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4385394943) |
-| 95 | [Technical Recruiter](https://www.linkedin.com/jobs/view/4486965573) | Haystack | Greater Seattle Area (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486965573) |
-| 96 | [Senior Technical Recruiter](https://www.linkedin.com/jobs/view/4425290584) | Radiant | El Segundo, CA, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4425290584) |
-| 97 | [Technical Recruiter](https://www.linkedin.com/jobs/view/4488080088) | 4Consulting, Inc. | Harrisburg, PA, USA (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488080088) |
-| 98 | [International Recruiter (English-Speaking) | No Experience Required](https://www.linkedin.com/jobs/view/4488172213) | Archer - The IT Recruitment Consultancy (Malta) | Sliema, Malta (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488172213) |
-| 99 | [Senior Recruiter](https://www.linkedin.com/jobs/view/4488157707) | Joom | Lisbon, Portugal (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488157707) |
-| 100 | [Senior Recruiter - Global Oil & Gas Industry Client](https://www.linkedin.com/jobs/view/4479152803) | AMS | WP. Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4479152803) |
-| 101 | [Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4479885339) | Abbott | Zwolle, Overijssel, Netherlands (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4479885339) |
-| 102 | [Trilingual Senior Recruiter](https://www.linkedin.com/jobs/view/4488162468) | Cielo Talent | São Paulo, São Paulo, Brazil (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488162468) |
-| 103 | [Senior Recruiter, Core AI](https://www.linkedin.com/jobs/view/4463356035) | Microsoft | Redmond, WA, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4463356035) |
-| 104 | [Senior Recruiter](https://www.linkedin.com/jobs/view/4486981172) | AMS | Singapore, Singapore (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486981172) |
-| 105 | [Senior Recruiter / Talent Lead](https://www.linkedin.com/jobs/view/4486972034) | Hawke Media | Santa Monica, CA, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486972034) |
-| 106 | [Recruiter/Senior Recruiter - Experienced Hiring -Beijing](https://www.linkedin.com/jobs/view/4471412647) | Deloitte | Beijing, Beijing, China (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4471412647) |
-| 107 | [Senior Recruiter, Leadership](https://www.linkedin.com/jobs/view/4488177861) | Duolingo | New York, NY, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488177861) |
-| 108 | [Senior Recruiter](https://www.linkedin.com/jobs/view/4480154859) | Coinbase | Seattle, WA, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4480154859) |
-| 109 | [Senior Recruiter](https://www.linkedin.com/jobs/view/4484373537) | 11 Investments | City of Cape Town, Western Cape, South Africa (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4484373537) |
-| 110 | [Senior/Recruitment Consultant - HR](https://www.linkedin.com/jobs/view/4486975011) | Morgan McKinley | Singapore, Singapore (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486975011) |
-| 111 | [Senior Recruiter (French/English)](https://www.linkedin.com/jobs/view/4487303330) | ManpowerGroup Talent Solutions | Lima Metropolitan Area (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487303330) |
-| 112 | [Senior Recruiter](https://www.linkedin.com/jobs/view/4486271054) | 3Search | Austin, Texas Metropolitan Area (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486271054) |
-| 113 | [Senior Recruiter- Wealth Management](https://www.linkedin.com/jobs/view/4488061292) | U.S. Bank | Charlotte, NC, USA (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488061292) |
-| 114 | [Senior Recruiter](https://www.linkedin.com/jobs/view/4483718982) | Blend | Guadalajara, Mexico Metropolitan Area (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4483718982) |
-| 115 | [IT Recruiter ( 2 To 4 Years)](https://www.naukri.com/job-listings-it-recruiter-2-to-4-years-vme-vhire-solutions-sholinganallur-2-to-4-years-061126020453) | VME Vhire Solutions | Sholinganallur, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.naukri.com/job-listings-it-recruiter-2-to-4-years-vme-vhire-solutions-sholinganallur-2-to-4-years-061126020453) |
-| 116 | [Technical Recruiter Intern](https://www.naukri.com/job-listings-technical-recruiter-intern-cloud-synapps-indore-0-to-1-years-061126023196) | Cloud Synapps | Indore, India (Hybrid / On-site) | Posted today (12-24h) | See JD (Est. 2-6 yrs) | INR 15,000 - 15,000 | 86/100 | [Direct Apply](https://www.naukri.com/job-listings-technical-recruiter-intern-cloud-synapps-indore-0-to-1-years-061126023196) |
-| 117 | [Senior Recruitment Consultant- Health Care and Life Sciences](https://www.linkedin.com/jobs/view/4486134987) | Michael Page | Singapore, Singapore (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486134987) |
-| 118 | [Human Resource / Recruitment Consultant](https://www.linkedin.com/jobs/view/4486940414) | SearchAsia Consulting | Singapore, Singapore (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486940414) |
-| 119 | [Senior Recruitment Consultant (Consumer Practice)](https://www.linkedin.com/jobs/view/4486202035) | Kerry Consulting | Singapore, Singapore (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486202035) |
-| 120 | [Graduate Recruitment Consultant - March 2027 Start](https://www.linkedin.com/jobs/view/4486258130) | Phaidon International | City Of London, England, UK (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486258130) |
-| 121 | [Graduate Recruitment Consultant - February 2027 Start](https://www.linkedin.com/jobs/view/4486239836) | Phaidon International | City Of London, England, UK (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486239836) |
-| 122 | [Recruitment Consultant](https://www.linkedin.com/jobs/view/4486202121) | Clear IT Recruitment Ltd | Norwich, England, UK (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486202121) |
-| 123 | [Senior Recruitment Consultant - Night Shift - 3PM - 12AM](https://www.linkedin.com/jobs/view/4488153945) | NES Fircroft | Cairo, Egypt (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488153945) |
-| 124 | [Graduate Recruitment Consultant](https://www.linkedin.com/jobs/view/4486254129) | Seven Search and Selection Ltd | Leeds, England, UK (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486254129) |
-| 125 | [Recruitment Consultant](https://www.linkedin.com/jobs/view/4484074919) | Levin | London Area, UK (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4484074919) |
-| 126 | [Recruitment Consultant (Work-From-Home)](https://www.linkedin.com/jobs/view/4486934466) | PeopleLAKE Group | Singapore (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486934466) |
-| 127 | [Junior Recruitment Consultant](https://www.linkedin.com/jobs/view/4486253369) | McFly & Brown | Amsterdam, North Holland, Netherlands (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486253369) |
-| 128 | [Recruitment Consultant](https://www.linkedin.com/jobs/view/4488104299) | FastCo | Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488104299) |
-| 129 | [Entry Level Recruitment Consultant](https://www.linkedin.com/jobs/view/4488408826) | Levin | Manhattan, NY, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488408826) |
-| 130 | [Recruitment Consultant](https://www.linkedin.com/jobs/view/4486246682) | Fawkes & Reece | London Area, UK (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486246682) |
-| 131 | [Recruitment Consultant : Career Changers Welcome](https://www.linkedin.com/jobs/view/4487736481) | Access Healthcare | Greater Dublin (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487736481) |
-| 132 | [Recruitment Consultant](https://www.linkedin.com/jobs/view/4484666839) | Hays | Exeter, England, UK (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4484666839) |
-| 133 | [Recruitment Consultant – US Legal Recruitment (London or New York)](https://www.linkedin.com/jobs/view/4488062178) | Tribeca Recruitment | London, England, UK (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488062178) |
-| 134 | [PMO Specialist](https://in.indeed.com/viewjob?jk=f064b61c41c25807) | BT Group | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 85/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=f064b61c41c25807) |
-| 135 | [Data Governance Controls Manager](https://in.indeed.com/viewjob?jk=285678dba7c46d62) | BT Group | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 85/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=285678dba7c46d62) |
-| 136 | [Implementation Lead](https://in.indeed.com/viewjob?jk=ed30eca75ed14484) | Uber | KA, India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 85/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=ed30eca75ed14484) |
-| 137 | [US Technical Sourcer](https://in.indeed.com/viewjob?jk=59cfcaee7bb2f793) | World Wide Technology | MH, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 85/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=59cfcaee7bb2f793) |
-| 138 | [SAP Analytics Cloud Developer – Specialist - Hyderabad](https://in.indeed.com/viewjob?jk=7d81319a84d53eba) | Deloitte | TS, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 3–6 years | Not disclosed | 85/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=7d81319a84d53eba) |
-| 139 | [Looking For Oracle PLSQL Developer/Immediate/8-20 years/Hybrid](https://www.naukri.com/job-listings-looking-for-oracle-plsql-developer-immediate-8-20-years-hybrid-vipany-global-hyderabad-chennai-bengaluru-8-to-13-years-061126010056) | Vipany Global | Bengaluru, Hyderabad, Chennai, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 2,500,000 - 3,500,000 | 82/100 | [Direct Apply](https://www.naukri.com/job-listings-looking-for-oracle-plsql-developer-immediate-8-20-years-hybrid-vipany-global-hyderabad-chennai-bengaluru-8-to-13-years-061126010056) |
-| 140 | [specialist, talent partnership, enterprise](https://in.indeed.com/viewjob?jk=7be9da69d1b56dbb) | Randstad | TS, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 82/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=7be9da69d1b56dbb) |
-| 141 | [Recruitment Specialist (Non-IT) – Logistics & Supply Chain](https://in.indeed.com/viewjob?jk=73482e79d6b4972c) | Chronicle LLC FZ | Remote, India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 82/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=73482e79d6b4972c) |
-| 142 | [Senior Product Manager, Data Ingestion & Customer Onboarding](https://in.indeed.com/viewjob?jk=c3e22704bc6bb99f) | Vertex | Remote, India (Remote / WFH) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | INR 2,033,010 - 2,657,550 | 82/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=c3e22704bc6bb99f) |
-| 143 | [Systems Engineering Specialist Advisor](https://in.indeed.com/viewjob?jk=7c2cf8cf8c9ca1fa) | NTT DATA | UP, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 82/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=7c2cf8cf8c9ca1fa) |
-| 144 | [Technical Software Engineering Lead -Lead Software Engineer II](https://in.indeed.com/viewjob?jk=4e112e08bbc0ef84) | Deloitte | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 82/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=4e112e08bbc0ef84) |
-| 145 | [Vulnerability Management](https://in.indeed.com/viewjob?jk=e81753f96ee07c6a) | NTT DATA | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 82/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=e81753f96ee07c6a) |
-| 146 | [Agentic AI Developer - AI and Data Science Engineer III](https://in.indeed.com/viewjob?jk=13e643b1ba9d0244) | Deloitte | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 82/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=13e643b1ba9d0244) |
-| 147 | [Specialist - Information Lifecycle Management](https://in.indeed.com/viewjob?jk=6ac8655d6fe1704f) | BT Group | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 82/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=6ac8655d6fe1704f) |
-| 148 | [Lead, Technical Services Engineer - Partners](https://in.indeed.com/viewjob?jk=57ba7f4cc2505e2a) | MongoDB | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 82/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=57ba7f4cc2505e2a) |
-| 149 | [Strategic Business Planning Analyst](https://in.indeed.com/viewjob?jk=34f1aa2f455d1c4b) | BT Group | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 82/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=34f1aa2f455d1c4b) |
-| 150 | [Data Reliability Manager](https://in.indeed.com/viewjob?jk=090fd9721c9741cd) | BT Group | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 82/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=090fd9721c9741cd) |
-| 151 | [Systems Engineering Advisor - EUC Applications - Infrastructure Engineer](https://in.indeed.com/viewjob?jk=7f7854b84a8b6edc) | NTT DATA | TS, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 82/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=7f7854b84a8b6edc) |
-| 152 | [Manager - Immigration Compliance](https://in.indeed.com/viewjob?jk=70bcc9cf44b6ede9) | Deloitte | TS, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 82/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=70bcc9cf44b6ede9) |
-| 153 | [Applied AI Product Leader – Group Product Manager](https://in.indeed.com/viewjob?jk=17563683de7f3140) | Deloitte | TS, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 82/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=17563683de7f3140) |
-| 154 | [Oracle Fusion Cloud Integration Senior Technical Consultant- 14496](https://in.indeed.com/viewjob?jk=d335893ee51d7a71) | Fujitsu | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 82/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=d335893ee51d7a71) |
-| 155 | [Salesforce Developer](https://in.indeed.com/viewjob?jk=47ef8f7bb68c9125) | CGI | TS, India (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 82/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=47ef8f7bb68c9125) |
-| 156 | [Senior Full Stack Software Engineer (Python & React)](https://automattic.com/work-with-us/) | Automattic | Worldwide Remote (Remote / WFH) | 2 hours ago (1-6h) | 4-8 years | USD $120,000 - $160,000 | 82/100 | [Direct Apply](https://automattic.com/work-with-us/) |
-| 157 | [FP&A Lead (Strategic Growth & Forecasting)](https://stripe.com/jobs) | Stripe | Remote (Global / USA) (Remote / WFH) | Posted today (12-24h) | 4-8 years | USD $125,000 - $165,000 | 82/100 | [Direct Apply](https://stripe.com/jobs) |
-| 158 | [Technical Talent Sourcing Specialist](https://careers.microsoft.com/us/en/job/1749102) | Microsoft | Bengaluru / Hyderabad, India (Hybrid (3 days WFO / 2 days WFH)) | 2 hours ago (1-6h) | 3-7 years | INR 24,00,000 - 35,00,000 | 82/100 | [Direct Apply](https://careers.microsoft.com/us/en/job/1749102) |
-| 159 | [Senior Business Execution Consultant](https://in.indeed.com/viewjob?jk=68c97bdd98f2d536) | Wells Fargo | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 80/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=68c97bdd98f2d536) |
-| 160 | [Recruiter- Female](https://www.naukri.com/job-listings-recruiter-female-plan-b-consulting-delhi-ncr-1-to-3-years-250926004506) | Plan B Consulting | India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 150,000 - 250,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-recruiter-female-plan-b-consulting-delhi-ncr-1-to-3-years-250926004506) |
-| 161 | [Fresh MBA - HR Consultants -IT](https://www.naukri.com/job-listings-fresh-mba-hr-consultants-it-talent-track-services-bengaluru-0-to-0-years-080926027193) | Talent Track Services | Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 250,000 - 250,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-fresh-mba-hr-consultants-it-talent-track-services-bengaluru-0-to-0-years-080926027193) |
-| 162 | [Immediate Hiring For US Recruiter- Only Direct clients](https://www.naukri.com/job-listings-immediate-hiring-for-us-recruiter-only-direct-clients-sunrise-biztech-systems-bengaluru-1-to-6-years-071126000036) | Sunrise Biztech Systems | Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-immediate-hiring-for-us-recruiter-only-direct-clients-sunrise-biztech-systems-bengaluru-1-to-6-years-071126000036) |
-| 163 | [US / UK Flight sales agent ll PPC / Meta ll 60k Gurgaon](https://www.naukri.com/job-listings-us-uk-flight-sales-agent-ll-ppc-meta-ll-60k-gurgaon-sharda-consultancy-services-noida-new-delhi-gurugram-1-to-6-years-061126026201) | Sharda Consultancy Services | Noida, New Delhi, Gurugram, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 400,000 - 600,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-us-uk-flight-sales-agent-ll-ppc-meta-ll-60k-gurgaon-sharda-consultancy-services-noida-new-delhi-gurugram-1-to-6-years-061126026201) |
-| 164 | [Talent Acquisition Executive](https://www.naukri.com/job-listings-talent-acquisition-executive-novel-office-bengaluru-0-to-1-years-030926028645) | Novel Office | Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 225,000 - 300,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-talent-acquisition-executive-novel-office-bengaluru-0-to-1-years-030926028645) |
-| 165 | [Assistant Manager (Product Hiring)](https://www.naukri.com/job-listings-assistant-manager-product-hiring-peoplelogic-business-solutions-bengaluru-6-to-10-years-070826018621) | Peoplelogic Business Solutions | Bengaluru(C V Raman Nagar), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-assistant-manager-product-hiring-peoplelogic-business-solutions-bengaluru-6-to-10-years-070826018621) |
-| 166 | [Business Development Executive - IT Staffing](https://www.naukri.com/job-listings-business-development-executive-it-staffing-sequenza-global-kochi-bengaluru-thiruvananthapuram-0-to-2-years-061126025355) | Sequenza Global | Kochi, Bengaluru, Thiruvananthapuram, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-business-development-executive-it-staffing-sequenza-global-kochi-bengaluru-thiruvananthapuram-0-to-2-years-061126025355) |
-| 167 | [Assistant Manager - HR - Talent Acquisition](https://www.naukri.com/job-listings-assistant-manager-hr-talent-acquisition-shahi-bengaluru-3-to-6-years-061126025225) | Shahi | Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-assistant-manager-hr-talent-acquisition-shahi-bengaluru-3-to-6-years-061126025225) |
-| 168 | [Talent Acquisition Executive](https://www.naukri.com/job-listings-talent-acquisition-executive-uberlife-consulting-bengaluru-4-to-9-years-070426035600) | Uberlife Consulting | India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-talent-acquisition-executive-uberlife-consulting-bengaluru-4-to-9-years-070426035600) |
-| 169 | [Bench Sales Recruiter](https://www.naukri.com/job-listings-bench-sales-recruiter-alphabyte-insights-vijayawada-hyderabad-2-to-7-years-061126025157) | Alphabyte Insights | Vijayawada(Bhavanipuram), Hyderabad(HITEC City), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 200,000 - 600,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-bench-sales-recruiter-alphabyte-insights-vijayawada-hyderabad-2-to-7-years-061126025157) |
-| 170 | [Permanent Work From Home - HR Recruiter - Commission based](https://www.naukri.com/job-listings-permanent-work-from-home-hr-recruiter-commission-based-wrixty-services-mumbai-all-areas-0-to-3-years-061126024944) | Wrixty Services | India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 50,000 - 300,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-permanent-work-from-home-hr-recruiter-commission-based-wrixty-services-mumbai-all-areas-0-to-3-years-061126024944) |
-| 171 | [Recruitment Partner (Career Break) with Seventh Contact, Pune (Remote)](https://www.naukri.com/job-listings-recruitment-partner-career-break-with-seventh-contact-pune-remote-seventh-contact-hiring-solutions-pune-1-to-6-years-200726018175) | Seventh Contact Hiring Solutions | India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 150,000 - 175,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-recruitment-partner-career-break-with-seventh-contact-pune-remote-seventh-contact-hiring-solutions-pune-1-to-6-years-200726018175) |
-| 172 | [Talent Acquisition Executive](https://www.naukri.com/job-listings-talent-acquisition-executive-msm-global-education-gurugram-0-to-2-years-061126023955) | MSM Global Education | India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 275,000 - 325,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-talent-acquisition-executive-msm-global-education-gurugram-0-to-2-years-061126023955) |
-| 173 | [Talent Acquisition Partner](https://www.linkedin.com/jobs/view/4488194895) | DIAGEO India | Gurugram, Haryana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488194895) |
-| 174 | [Technical Recruiting Specialist](https://www.linkedin.com/jobs/view/4486204547) | NPS Prism | Gurugram, Haryana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486204547) |
-| 175 | [Executive / Senior Executive](https://www.linkedin.com/jobs/view/4486954935) | Nation with NaMo | Gurugram, Haryana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486954935) |
-| 176 | [Founder's Office and talent Acquisition Intern](https://www.linkedin.com/jobs/view/4486969669) | Mirai School of Technology | Gurugram, Haryana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486969669) |
-| 177 | [Senior Human Resource Executive](https://www.naukri.com/job-listings-senior-human-resource-executive-tecnova-india-gurugram-3-to-6-years-061126023771) | Tecnova India | Gurugram(Udyog Vihar), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-senior-human-resource-executive-tecnova-india-gurugram-3-to-6-years-061126023771) |
-| 178 | [Recruiter](https://www.naukri.com/job-listings-recruiter-chartered-club-gurugram-10-to-16-years-061126021146) | Chartered Club | Gurugram, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-recruiter-chartered-club-gurugram-10-to-16-years-061126021146) |
-| 179 | [History Researcher (Freelancer)](https://www.naukri.com/job-listings-history-researcher-freelancer-soul-ai-gurugram-1-to-4-years-061126917339) | Soul Ai | Gurugram, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-history-researcher-freelancer-soul-ai-gurugram-1-to-4-years-061126917339) |
-| 180 | [Human Resource Executive](https://www.naukri.com/job-listings-human-resource-executive-300plus-innovative-solutions-new-delhi-gurugram-delhi-ncr-0-to-1-years-061126011416) | 300plus Innovative Solutions | Gurugram, New Delhi, Delhi / NCR, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 50,000 - 200,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-human-resource-executive-300plus-innovative-solutions-new-delhi-gurugram-delhi-ncr-0-to-1-years-061126011416) |
-| 181 | [Talent Acquisition Partner](https://www.linkedin.com/jobs/view/4488158097) | GE Vernova | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488158097) |
-| 182 | [Human Resources Specialist](https://www.linkedin.com/jobs/view/4486990073) | Frutta - Corporate Refreshment & Experience Specialist | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486990073) |
-| 183 | [Talent Acquisition Executive (Tech, Product, SaaS)](https://www.linkedin.com/jobs/view/4488164801) | TalentXO | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488164801) |
-| 184 | [Associate - US Recruiting](https://www.linkedin.com/jobs/view/4470993500) | Clean Harbors | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4470993500) |
-| 185 | [Talent Acquisition Recruiter](https://www.linkedin.com/jobs/view/4486997008) | SyncUp | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486997008) |
-| 186 | [Associate - Supply Operations in Bangalore](https://www.linkedin.com/jobs/view/4488076653) | PeopleX Ventures | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488076653) |
-| 187 | [Talent Acquisition Consultant - UK Hiring](https://www.linkedin.com/jobs/view/4486264131) | Version 1 | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486264131) |
-| 188 | [Curation Specialist - India](https://www.linkedin.com/jobs/view/4486991496) | Raise | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486991496) |
-| 189 | [Assistant Talent Acquisition Manager](https://www.linkedin.com/jobs/view/4486217808) | Nextenti Tech Private Limited | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486217808) |
-| 190 | [Talent Acquisition Trainee](https://www.linkedin.com/jobs/view/4488163434) | NES Fircroft | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488163434) |
-| 191 | [Program Specialist](https://www.linkedin.com/jobs/view/4481124244) | Allegis Global Solutions | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4481124244) |
-| 192 | [Recruitment Manager](https://www.linkedin.com/jobs/view/4487317655) | Datasoft Technologies, Inc. | Greater Bengaluru Area (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487317655) |
-| 193 | [Early Careers Program Specialist](https://www.linkedin.com/jobs/view/4477335509) | Booking Holdings (NASDAQ: BKNG) | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4477335509) |
-| 194 | [Talent Operations Coordinator](https://www.linkedin.com/jobs/view/4479991036) | OnePay | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4479991036) |
-| 195 | [Talent Acquisition | Senior Executive Search Consultant | Headhunter](https://www.linkedin.com/jobs/view/4486224940) | Quest Global | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486224940) |
-| 196 | [Associate Consultant – Recruitment](https://www.linkedin.com/jobs/view/4485896817) | MyCareernet | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4485896817) |
-| 197 | [Executive Recruiter](https://www.linkedin.com/jobs/view/4479878454) | Guidewire Software | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4479878454) |
-| 198 | [Human Resources Executive](https://www.linkedin.com/jobs/view/4486965899) | Mercom India | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486965899) |
-| 199 | [Talent Acquisition Intern](https://www.linkedin.com/jobs/view/4488116891) | Media.net | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488116891) |
-| 200 | [Recruiter, TA Stores](https://www.linkedin.com/jobs/view/4471120665) | Amazon | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4471120665) |
-| 201 | [Freelance Field Recruiter](https://www.linkedin.com/jobs/view/4486251012) | Nemat industries | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486251012) |
-| 202 | [Telecalling Executive](https://www.naukri.com/job-listings-telecalling-executive-msb-fintech-solutions-bengaluru-5-to-10-years-061126023026) | MSB Fintech Solutions | Bengaluru(Vijay Nagar), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 250,000 - 750,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-telecalling-executive-msb-fintech-solutions-bengaluru-5-to-10-years-061126023026) |
-| 203 | [HR Recruiter / TA](https://www.naukri.com/job-listings-hr-recruiter-ta-delight-hr-services-pvt-ltd-bengaluru-1-to-2-years-061126920772) | Delight HR | Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-hr-recruiter-ta-delight-hr-services-pvt-ltd-bengaluru-1-to-2-years-061126920772) |
-| 204 | [TA / Recruiter / Sr HR Executive](https://www.naukri.com/job-listings-ta-recruiter-sr-hr-executive-delight-hr-services-pvt-ltd-bengaluru-2-to-6-years-061126920686) | Delight HR | Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-ta-recruiter-sr-hr-executive-delight-hr-services-pvt-ltd-bengaluru-2-to-6-years-061126920686) |
-| 205 | [Key Accounts Manager](https://www.naukri.com/job-listings-key-accounts-manager-sarvaastra-bangalore-bengaluru-6-to-10-years-061126020595) | Sarvaastra Bangalore | Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-key-accounts-manager-sarvaastra-bangalore-bengaluru-6-to-10-years-061126020595) |
-| 206 | [Looking For SAP Vistex Technical/Immediate/8-20 Years](https://www.naukri.com/job-listings-looking-for-sap-vistex-technical-immediate-8-20-years-vipany-global-hyderabad-chennai-bengaluru-8-to-13-years-061126018650) | Vipany Global | Bengaluru, Hyderabad, Chennai, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 2,500,000 - 4,000,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-looking-for-sap-vistex-technical-immediate-8-20-years-vipany-global-hyderabad-chennai-bengaluru-8-to-13-years-061126018650) |
-| 207 | [Recruiter - AI & Data Engineering Hiring](https://www.naukri.com/job-listings-recruiter-ai-data-engineering-hiring-embitel-technologies-bengaluru-2-to-5-years-061126017710) | Embitel Technologies | Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-recruiter-ai-data-engineering-hiring-embitel-technologies-bengaluru-2-to-5-years-061126017710) |
-| 208 | [Recruiter](https://www.naukri.com/job-listings-recruiter-samvith-technologies-bengaluru-1-to-5-years-061126010950) | Samvith Technologies | Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-recruiter-samvith-technologies-bengaluru-1-to-5-years-061126010950) |
-| 209 | [Oracle Ebs Finance Functional Consultant](https://www.naukri.com/job-listings-oracle-ebs-finance-functional-consultant-buxton-consulting-hyderabad-pune-bengaluru-6-to-10-years-061126008760) | Buxton Consulting | Bengaluru, Hyderabad, Pune, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 1,300,000 - 2,300,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-oracle-ebs-finance-functional-consultant-buxton-consulting-hyderabad-pune-bengaluru-6-to-10-years-061126008760) |
-| 210 | [Senior HR Recruiter F&A (Finance & Accounts)](https://www.linkedin.com/jobs/view/4486971983) | San | Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486971983) |
-| 211 | [Full Life Cycle Recruiter, Amazon Web Services](https://www.linkedin.com/jobs/view/4480362643) | Amazon Web Services (AWS) | Mumbai Metropolitan Region (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4480362643) |
-| 212 | [Assistant Manager Talent Acquisition](https://www.linkedin.com/jobs/view/4487329175) | Neuberg Diagnostics | Mumbai Metropolitan Region (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487329175) |
-| 213 | [APAC Workforce Operations Specialist](https://www.linkedin.com/jobs/view/4486975907) | Murex | Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486975907) |
-| 214 | [Executive Search Consultant](https://www.linkedin.com/jobs/view/4484325546) | HR Anexi | Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4484325546) |
-| 215 | [Human Resources Generalist- Immediate Joiner](https://www.linkedin.com/jobs/view/4486210946) | MummaMitra | Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486210946) |
-| 216 | [Recruitment Manager](https://www.linkedin.com/jobs/view/4486984202) | NetAmbit | Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486984202) |
-| 217 | [Manager, Human Resources](https://www.linkedin.com/jobs/view/4480192340) | Marriott International | Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4480192340) |
-| 218 | [HR & Culture Associate](https://www.linkedin.com/jobs/view/4486208602) | Style Supply | Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486208602) |
-| 219 | [Human Resources Manager](https://www.linkedin.com/jobs/view/4486224863) | Orbit Verify | Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486224863) |
-| 220 | [Junior HR Generalist](https://www.linkedin.com/jobs/view/4486223719) | Holistic Mind Therapy | Mumbai Metropolitan Region (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486223719) |
-| 221 | [Talent Acquisition Consultant (Fixed Term Contract)](https://www.linkedin.com/jobs/view/4471069083) | Piramal Pharma Ltd | Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4471069083) |
-| 222 | [Manager - Talent and Culture](https://www.linkedin.com/jobs/view/4486232463) | Antarang Foundation | Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486232463) |
-| 223 | [Human Resources (HR) Internship in Mumbai](https://www.linkedin.com/jobs/view/4488074729) | ENPOINTE | Mumbai Metropolitan Region (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488074729) |
-| 224 | [Human Resources (HR) Manager in Mumbai](https://www.linkedin.com/jobs/view/4488075696) | ENPOINTE | Mumbai Metropolitan Region (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488075696) |
-| 225 | [Associate, Client Solution](https://www.linkedin.com/jobs/view/4470092886) | GLG | Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4470092886) |
-| 226 | [Marine Personnel Assistant • Marine HR](https://www.linkedin.com/jobs/view/4488134052) | Anglo-Eastern | Mumbai Metropolitan Region (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488134052) |
-| 227 | [Human Resources Manager](https://www.linkedin.com/jobs/view/4486960367) | Jesseena Human Resources | Mumbai Metropolitan Region (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486960367) |
-| 228 | [Placement Assistant](https://www.linkedin.com/jobs/view/4486210202) | SVKM Central Office | Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486210202) |
-| 229 | [Human Resources Manager](https://www.linkedin.com/jobs/view/4486219678) | TajSATS | Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486219678) |
-| 230 | [Retail HRBP](https://www.linkedin.com/jobs/view/4486215783) | Foodstories | Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486215783) |
-| 231 | [Sourcing Specialist](https://www.linkedin.com/jobs/view/4486232925) | Randstad Enterprise | Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486232925) |
-| 232 | [Human Resource Intern](https://www.naukri.com/job-listings-human-resource-intern-orcapod-consulting-services-mumbai-all-areas-0-to-2-years-061126020293) | Orcapod Consulting Services | India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 50,000 - 125,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-human-resource-intern-orcapod-consulting-services-mumbai-all-areas-0-to-2-years-061126020293) |
-| 233 | [Hr Recruitment Professional](https://www.naukri.com/job-listings-hr-recruitment-professional-orcapod-consulting-services-mumbai-all-areas-1-to-4-years-011026034948) | Orcapod Consulting Services | India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 50,000 - 200,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-hr-recruitment-professional-orcapod-consulting-services-mumbai-all-areas-1-to-4-years-011026034948) |
-| 234 | [Ta](https://www.naukri.com/job-listings-ta-hind-rectifiers-ltd-mumbai-mumbai-suburban-navi-mumbai-3-to-8-years-061126013235) | HIND RECTIFIERS LTD | Mumbai, Mumbai Suburban, Navi Mumbai, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-ta-hind-rectifiers-ltd-mumbai-mumbai-suburban-navi-mumbai-3-to-8-years-061126013235) |
-| 235 | [Talent Acquisition Executive](https://www.naukri.com/job-listings-talent-acquisition-executive-astaguru-mumbai-all-areas-2-to-4-years-061126013170) | Astaguru | Mumbai (All Areas), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-talent-acquisition-executive-astaguru-mumbai-all-areas-2-to-4-years-061126013170) |
-| 236 | [Associate Talent Acquisition](https://www.naukri.com/job-listings-associate-talent-acquisition-hinduja-global-solutions-hgs-mumbai-all-areas-0-to-3-years-061126011861) | Hinduja Global Solutions (HGS) | Mumbai (All Areas)(Goregaon East), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-associate-talent-acquisition-hinduja-global-solutions-hgs-mumbai-all-areas-0-to-3-years-061126011861) |
-| 237 | [HR Recruiter](https://www.naukri.com/job-listings-hr-recruiter-butterfly-learnings-mumbai-thane-0-to-1-years-061126009778) | Butterfly Learnings | Mumbai(Thane West), Thane, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-hr-recruiter-butterfly-learnings-mumbai-thane-0-to-1-years-061126009778) |
-| 238 | [Adobe Workfront Specialist](https://www.naukri.com/job-listings-adobe-workfront-specialist-suzva-software-technology-mumbai-goregaon-8-to-12-years-061126908719) | Suzva Software Technologies | Mumbai, Goregaon, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-adobe-workfront-specialist-suzva-software-technology-mumbai-goregaon-8-to-12-years-061126908719) |
-| 239 | [Human Resource Recruiter](https://www.naukri.com/job-listings-human-resource-recruiter-orcapod-consulting-services-mumbai-all-areas-1-to-3-years-131026032981) | Orcapod Consulting Services | India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 50,000 - 200,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-human-resource-recruiter-orcapod-consulting-services-mumbai-all-areas-1-to-3-years-131026032981) |
-| 240 | [People Associate - Employee Engagement & TA](https://www.naukri.com/job-listings-people-associate-employee-engagement-ta-1-club-mumbai-1-to-3-years-061126501420) | The 1% Club | Mumbai, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-people-associate-employee-engagement-ta-1-club-mumbai-1-to-3-years-061126501420) |
-| 241 | [Recruiter](https://www.naukri.com/job-listings-recruiter-tata-realty-and-infrastructure-mumbai-6-to-10-years-061126500764) | Tata Realty | Mumbai, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-recruiter-tata-realty-and-infrastructure-mumbai-6-to-10-years-061126500764) |
-| 242 | [Talent Acquisition Partner](https://www.linkedin.com/jobs/view/4488199577) | Invesco | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488199577) |
-| 243 | [Sourcing Specialist - US Recruitment (Non IT)](https://www.linkedin.com/jobs/view/4486227607) | Randstad Enterprise | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486227607) |
-| 244 | [Recruiter I](https://www.linkedin.com/jobs/view/4472061632) | Conduent | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4472061632) |
-| 245 | [Human Resources Executive](https://www.linkedin.com/jobs/view/4486966293) | Evol Jewels | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486966293) |
-| 246 | [Bench Sales Recruiter](https://www.linkedin.com/jobs/view/4486255920) | HIKMATRIX | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486255920) |
-| 247 | [HR & Franchise Operations Associate](https://www.linkedin.com/jobs/view/4486246537) | Vision Square INC | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486246537) |
-| 248 | [Full Lifecycle Recruiter I, WWAS TA](https://www.linkedin.com/jobs/view/4468135510) | Amazon | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4468135510) |
-| 249 | [TA Manager - Trainers POD](https://www.linkedin.com/jobs/view/4488117003) | r3 Consultant | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488117003) |
-| 250 | [Non IT Bench Sales Recruiters](https://www.linkedin.com/jobs/view/4488416406) | United Pharma | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488416406) |
-| 251 | [Human Resources Service Center Support Entry Professional](https://www.linkedin.com/jobs/view/4488081232) | Hitachi Digital | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488081232) |
-| 252 | [Manager – Strategic Intelligence Group (Engagement Manager) – Financial Research](https://www.linkedin.com/jobs/view/4480119346) | D. E. Shaw India Private Limited | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4480119346) |
-| 253 | [Asst Mgr Sourcing & Proc (IND)](https://www.linkedin.com/jobs/view/4488122045) | Carelon Global Solutions India | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488122045) |
-| 254 | [US Non IT BenchSales Recruiter](https://www.linkedin.com/jobs/view/4488430037) | Virtue America | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488430037) |
-| 255 | [Engineering Recruiter](https://www.linkedin.com/jobs/view/4488043595) | Futran Solutions | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488043595) |
-| 256 | [US IT, Non-IT & Pharma Bench Sales Recruiter](https://www.linkedin.com/jobs/view/4488045283) | Virtue America | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488045283) |
-| 257 | [Talent Acquisition Lead](https://www.linkedin.com/jobs/view/4488042681) | Krasan Consulting Services | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488042681) |
-| 258 | [US Non-IT & Pharma Bench Sales Recruiter](https://www.linkedin.com/jobs/view/4486791909) | United Consulting Hub | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486791909) |
-| 259 | [Senior Human Resource Business Partner](https://www.naukri.com/job-listings-senior-human-resource-business-partner-intouchcx-hyderabad-2-to-4-years-220926016346) | IntouchCX | Hyderabad, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 450,000 - 600,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-senior-human-resource-business-partner-intouchcx-hyderabad-2-to-4-years-220926016346) |
-| 260 | [Walk-in || Hiring For Recruiters (IT / Non-IT / Pharma)](https://www.naukri.com/job-listings-hiring-for-it-non-it-pharma-cliff-consultancy-services-hyderabad-1-to-5-years-061126020134) | Cliff Consultancy Services | Hyderabad(HITEC City), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-hiring-for-it-non-it-pharma-cliff-consultancy-services-hyderabad-1-to-5-years-061126020134) |
-| 261 | [Human Resource Recruiter](https://www.naukri.com/job-listings-human-resource-recruiter-hearing-solutions-hyderabad-1-to-5-years-061126013781) | Hearing Solutions | Hyderabad, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 100,000 - 225,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-human-resource-recruiter-hearing-solutions-hyderabad-1-to-5-years-061126013781) |
-| 262 | [Immediate Hiring For HR Recruiter Talent Acquisition](https://www.naukri.com/job-listings-immediate-hiring-for-hr-recruiter-talent-acquisition-regalix-hyderabad-1-to-6-years-201026011080) | Regalix | Hyderabad(Gachibowli), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-immediate-hiring-for-hr-recruiter-talent-acquisition-regalix-hyderabad-1-to-6-years-201026011080) |
-| 263 | [US IT Recruiting Associate (60 Days Internship) Night Shifts](https://www.naukri.com/job-listings-us-it-recruiting-associate-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126012929) | Vcloud Technologies Investment | Hyderabad, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-us-it-recruiting-associate-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126012929) |
-| 264 | [Senior Executive Recruiter](https://www.naukri.com/job-listings-senior-executive-recruiter-aparna-enterprises-ael-hyderabad-4-to-6-years-061126011129) | Aparna Enterprises (AEL) | Hyderabad(Jubilee Hills), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-senior-executive-recruiter-aparna-enterprises-ael-hyderabad-4-to-6-years-061126011129) |
-| 265 | [US Recruiter](https://www.naukri.com/job-listings-us-recruiter-panzer-technologies-hyderabad-0-to-1-years-061126909771) | Panzer Technologies | Hyderabad, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-us-recruiter-panzer-technologies-hyderabad-0-to-1-years-061126909771) |
-| 266 | [HR Recruiter](https://www.naukri.com/job-listings-hr-recruiter-nareshit-hyderabad-0-to-3-years-061126008191) | NareshIT | Hyderabad(Ameerpet), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 175,000 - 275,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-hr-recruiter-nareshit-hyderabad-0-to-3-years-061126008191) |
-| 267 | [Us It Bench Sales Recruiter](https://www.naukri.com/job-listings-us-it-bench-sales-recruiter-jupiterglobal-it-hyderabad-0-to-4-years-061126000576) | Jupiterglobal It | Hyderabad(Ameerpet), India (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | INR 175,000 - 500,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-us-it-bench-sales-recruiter-jupiterglobal-it-hyderabad-0-to-4-years-061126000576) |
-| 268 | [US IT Talent Acquisition Partner (60 Days Internship) Night Shifts](https://www.naukri.com/job-listings-us-it-talent-acquisition-partner-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126000490) | Vcloud Technologies Investment | Hyderabad, India (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-us-it-talent-acquisition-partner-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126000490) |
-| 269 | [Talent Sourcer - 6 Months contract Role](https://www.linkedin.com/jobs/view/4479355277) | Ciena | Gurugram, Haryana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4479355277) |
-| 270 | [Staff Mobile Engineer (Engineer, Mobile - 5)](https://in.indeed.com/viewjob?jk=86dd0149205fe0bc) | Careers at Tide | DL, India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=86dd0149205fe0bc) |
-| 271 | [Healthcare Senior Specialist1](https://in.indeed.com/viewjob?jk=c39e9949093a25c0) | NTT DATA | UP, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=c39e9949093a25c0) |
-| 272 | [Talent Acquisition Partner](https://www.linkedin.com/jobs/view/4479590422) | emagine | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4479590422) |
-| 273 | [Assistant Manager](https://www.linkedin.com/jobs/view/4488141429) | PeopleLogic | Greater Bengaluru Area (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488141429) |
-| 274 | [Recruiter](https://www.linkedin.com/jobs/view/4488118349) | PRI INDIA IT SERVICES PRIVATE LIMITED | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488118349) |
-| 275 | [Freelance Recruiter ( Sales & Electrical Industry Only)](https://www.linkedin.com/jobs/view/4486967337) | Talent Integrators | Greater Bengaluru Area (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486967337) |
-| 276 | [SDC Recruiter](https://www.linkedin.com/jobs/view/4475536953) | Stripe | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4475536953) |
-| 277 | [Software Engineer Consultant II -](https://in.indeed.com/viewjob?jk=1ecc2ae1478e9199) | Allstate Insurance | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=1ecc2ae1478e9199) |
-| 278 | [Staff Quality Engineer - India](https://in.indeed.com/viewjob?jk=b363a6024c14d3bf) | JumpCloud | KA, India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=b363a6024c14d3bf) |
-| 279 | [Systems Integration Senior Analyst](https://in.indeed.com/viewjob?jk=054869d8fb0ad21b) | NTT DATA | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=054869d8fb0ad21b) |
-| 280 | [Messaging Services Senior Specialist-Enterprise Voice Administrator](https://in.indeed.com/viewjob?jk=ce9923c7ed28e97e) | NTT DATA | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=ce9923c7ed28e97e) |
-| 281 | [Sr Director, Product Mgmt (UI/UX)](https://in.indeed.com/viewjob?jk=496ab516a9f90195) | NetApp | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=496ab516a9f90195) |
-| 282 | [Enterprise Resource Planning analyst](https://in.indeed.com/viewjob?jk=bb941718ee946091) | NTT DATA | KA, India (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=bb941718ee946091) |
-| 283 | [Management Trainee - US Recruitment](https://www.naukri.com/job-listings-management-trainee-us-recruitment-rapsys-tech-solutions-pvt-ltd-bengaluru-5-to-6-years-061126501813) | Rapsys Tech Solutions | Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-management-trainee-us-recruitment-rapsys-tech-solutions-pvt-ltd-bengaluru-5-to-6-years-061126501813) |
-| 284 | [Sr. Executive](https://www.naukri.com/job-listings-sr-executive-infinite-computer-solutions-india-pvt-ltd-bengaluru-5-to-10-years-061126500608) | Infinite | Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-sr-executive-infinite-computer-solutions-india-pvt-ltd-bengaluru-5-to-10-years-061126500608) |
-| 285 | [Practice Leader – Tech, Startups & Venture Capital Ecosystem (PSS07666)](https://www.linkedin.com/jobs/view/4462772632) | Personnel Search Services Group | Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4462772632) |
-| 286 | [Head of Human Resources](https://www.linkedin.com/jobs/view/4486244494) | DoubleTick | Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486244494) |
-| 287 | [RECRUITER L2 1 1](https://in.indeed.com/viewjob?jk=020b51bdaa19c7fa) | Wipro | MH, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=020b51bdaa19c7fa) |
-| 288 | [Senior Total Reward Analyst](https://in.indeed.com/viewjob?jk=314ffdc053b3afd6) | Eide Bailly | MH, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 3-5 years | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=314ffdc053b3afd6) |
-| 289 | [Head of TA – IT Lateral Hiring](https://www.linkedin.com/jobs/view/4488126512) | r3 Consultant | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488126512) |
-| 290 | [System Analyst](https://in.indeed.com/viewjob?jk=e4f56c2a00a53481) | Salesforce | TS, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 0-3 years | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=e4f56c2a00a53481) |
-| 291 | [Bench Sales Recruiter - USA](https://in.indeed.com/viewjob?jk=51246bc6356ed3c6) | Derex Technologies inc | TS, India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=51246bc6356ed3c6) |
-| 292 | [Recruiter](https://www.naukri.com/job-listings-recruiter-techinduct-services-private-limited-hyderabad-2-to-3-years-061126501931) | Tech Induct Services | Hyderabad, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-recruiter-techinduct-services-private-limited-hyderabad-2-to-3-years-061126501931) |
-| 293 | [Industry Lead / Recruitment manager / Recruitment senior manager](https://www.naukri.com/job-listings-industry-lead-recruitment-manager-recruitment-senior-manager-uberlife-consulting-bengaluru-7-to-11-years-170426029736) | Uberlife Consulting | India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-industry-lead-recruitment-manager-recruitment-senior-manager-uberlife-consulting-bengaluru-7-to-11-years-170426029736) |
-| 294 | [SAP ABAP Technical](https://in.indeed.com/viewjob?jk=9036bffee93526e2) | NTT DATA | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 3-5 yrs | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=9036bffee93526e2) |
-| 295 | [RSC Job dev124 05-11](https://www.linkedin.com/jobs/view/4486966971) | iCIMS Middleware Test Company | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486966971) |
-| 296 | [RSC Job dev115](https://www.linkedin.com/jobs/view/4486988052) | iCIMS Middleware Test Company | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486988052) |
-| 297 | [Manager- Integration Solution & Technical Leadership (US Shift)](https://www.linkedin.com/jobs/view/4480364050) | Darwinbox | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4480364050) |
-| 298 | [Senior Director, India Global Delivery Center (GDC)-Services](https://www.linkedin.com/jobs/view/4471640042) | GE Vernova | Greater Hyderabad Area (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4471640042) |
-| 299 | [Senior Executive- Industry Relations](https://www.linkedin.com/jobs/view/4485893832) | Neil Gogte Institute of Technology | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4485893832) |
-| 300 | [Recruiter (IT & Advertising) | Remote](https://www.linkedin.com/jobs/view/4486236978) | NDA | Ukraine (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486236978) |
-| 301 | [Territory Operations Manager - India & Subcontinent](https://www.naukri.com/job-listings-territory-operations-manager-india-subcontinent-accuray-remote-7-to-11-years-061126504555) | Accuray | India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-territory-operations-manager-india-subcontinent-accuray-remote-7-to-11-years-061126504555) |
-| 302 | [Technical Support Engineer 2](https://www.naukri.com/job-listings-technical-support-engineer-2-twilio-remote-3-to-8-years-061126503106) | Twilio | India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-technical-support-engineer-2-twilio-remote-3-to-8-years-061126503106) |
-| 303 | [eLearning Developer, Articulate Rise Contractror](https://www.naukri.com/job-listings-elearning-developer-articulate-rise-contractror-crossfit-gym-remote-0-to-5-years-061126503059) | Crossfit | India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-elearning-developer-articulate-rise-contractror-crossfit-gym-remote-0-to-5-years-061126503059) |
-| 304 | [Human Resources Executive](https://www.naukri.com/job-listings-human-resources-executive-learntastic-remote-1-to-3-years-061126503065) | Learntastic | India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-human-resources-executive-learntastic-remote-1-to-3-years-061126503065) |
-| 305 | [Patient Screening & Enrollment Research Coordinator](https://www.naukri.com/job-listings-patient-screening-enrollment-research-coordinator-cvausa-remote-0-to-3-years-061126503050) | Cardiovascular Associates Of America | India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-patient-screening-enrollment-research-coordinator-cvausa-remote-0-to-3-years-061126503050) |
-| 306 | [Sr Developer, AI and Agentforce](https://www.naukri.com/job-listings-sr-developer-ai-and-agentforce-neuraflash-india-pvt-ltd-remote-3-to-8-years-061126501691) | Neuraflash India | India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-sr-developer-ai-and-agentforce-neuraflash-india-pvt-ltd-remote-3-to-8-years-061126501691) |
-| 307 | [CAD Technician - Pavement](https://in.indeed.com/viewjob?jk=a71fe8cdc4fa8a46) | WSP | UP, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=a71fe8cdc4fa8a46) |
-| 308 | [Senior Consultant - Sales Support](https://in.indeed.com/viewjob?jk=5735068a950a9090) | WSP | UP, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=5735068a950a9090) |
-| 309 | [BIM Technician - ELV](https://in.indeed.com/viewjob?jk=220aa7ff54745778) | WSP | UP, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=220aa7ff54745778) |
-| 310 | [Senior Coordinator, Executive Administrative Support](https://in.indeed.com/viewjob?jk=a7aa59998f81a815) | WSP | UP, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=a7aa59998f81a815) |
-| 311 | [Senior Engineer - Building Technology Systems](https://in.indeed.com/viewjob?jk=088333d2afaacdbe) | WSP | UP, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=088333d2afaacdbe) |
-| 312 | [Delhi- Health Insurance Manager- Aditya Birla Health Insurance Co.](https://www.naukri.com/job-listings-delhi-health-insurance-manager-aditya-birla-health-insurance-co-ideal-jobs-staffing-solution-noida-ghaziabad-new-delhi-faridabad-gurugram-delhi-ncr-1-to-6-years-061126026512) | Ideal Jobs Staffing Solution | Gurugram, Noida, Ghaziabad, New Delhi, Faridabad, Delhi / NCR, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 100,000 - 450,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-delhi-health-insurance-manager-aditya-birla-health-insurance-co-ideal-jobs-staffing-solution-noida-ghaziabad-new-delhi-faridabad-gurugram-delhi-ncr-1-to-6-years-061126026512) |
-| 313 | [Delhi/NCR- Sales Manager- Axis Max Life Insurance Co.](https://www.naukri.com/job-listings-delhi-ncr-sales-manager-axis-max-life-insurance-co-ideal-jobs-staffing-solution-noida-ghaziabad-new-delhi-faridabad-gurugram-delhi-ncr-1-to-6-years-061126026496) | Ideal Jobs Staffing Solution | Gurugram, Noida, Ghaziabad, New Delhi, Faridabad, Delhi / NCR, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 100,000 - 425,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-delhi-ncr-sales-manager-axis-max-life-insurance-co-ideal-jobs-staffing-solution-noida-ghaziabad-new-delhi-faridabad-gurugram-delhi-ncr-1-to-6-years-061126026496) |
-| 314 | [Inside Sales Executive](https://www.naukri.com/job-listings-inside-sales-executive-paradise-recruitment-consultant-noida-gurugram-delhi-ncr-2-to-5-years-281026034711) | Paradise Recruitment Consultant | Gurugram, Noida, Delhi / NCR, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 300,000 - 350,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-inside-sales-executive-paradise-recruitment-consultant-noida-gurugram-delhi-ncr-2-to-5-years-281026034711) |
-| 315 | [Associate Centre Manager](https://www.naukri.com/job-listings-associate-centre-manager-paradise-recruitment-consultant-noida-gurugram-delhi-ncr-2-to-5-years-281026034686) | Paradise Recruitment Consultant | Gurugram, Noida, Delhi / NCR, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 300,000 - 350,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-associate-centre-manager-paradise-recruitment-consultant-noida-gurugram-delhi-ncr-2-to-5-years-281026034686) |
-| 316 | [Human Resource & Admin Coordinator](https://www.naukri.com/job-listings-human-resource-admin-coordinator-retrotech-gurugram-3-to-5-years-061126026291) | Retrotech | Gurugram(DLF Phase 1), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 375,000 - 500,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-human-resource-admin-coordinator-retrotech-gurugram-3-to-5-years-061126026291) |
-| 317 | [CHRO / Head HR / TA Lead - Leading Large Organization](https://www.naukri.com/job-listings-chro-head-hr-ta-lead-leading-large-organization-anjraj-talent-network-noida-gurugram-delhi-ncr-15-to-24-years-061126025403) | Anjraj Talent Network | Gurugram, Noida, Delhi / NCR, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-chro-head-hr-ta-lead-leading-large-organization-anjraj-talent-network-noida-gurugram-delhi-ncr-15-to-24-years-061126025403) |
-| 318 | [Hiring For Freshers || Experience II Voice Process || Gurgaon](https://www.naukri.com/job-listings-hiring-for-freshers-experience-ii-voice-process-gurgaon-the-career-artist-noida-gurugram-delhi-ncr-0-to-4-years-061126025391) | THE Career Artist | Gurugram, Noida, Delhi / NCR, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 200,000 - 550,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-hiring-for-freshers-experience-ii-voice-process-gurgaon-the-career-artist-noida-gurugram-delhi-ncr-0-to-4-years-061126025391) |
-| 319 | [Hiring For || Voice || Blended || Experience || Fresher || Gurgaon ||](https://www.naukri.com/job-listings-hiring-for-voice-blended-experience-fresher-gurgaon-the-career-artist-new-delhi-gurugram-delhi-ncr-0-to-4-years-061126025315) | THE Career Artist | Gurugram, New Delhi, Delhi / NCR, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 250,000 - 500,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-hiring-for-voice-blended-experience-fresher-gurgaon-the-career-artist-new-delhi-gurugram-delhi-ncr-0-to-4-years-061126025315) |
-| 320 | [Walk-in || Customer Care Executive II 6 months experience](https://www.naukri.com/job-listings-customer-care-executive-ii-6-months-experience-globiva-gurugram-0-to-2-years-291026035527) | Globiva | Gurugram(Udyog Vihar Phase 4), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 150,000 - 200,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-customer-care-executive-ii-6-months-experience-globiva-gurugram-0-to-2-years-291026035527) |
-| 321 | [Senior HR Manager](https://www.naukri.com/job-listings-senior-hr-manager-tagbin-services-private-limited-gurugram-india-haryana-2-to-5-years-061126024408) | Tagbin Services | Gurugram, India, Haryana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-senior-hr-manager-tagbin-services-private-limited-gurugram-india-haryana-2-to-5-years-061126024408) |
-| 322 | [Administration Executive](https://www.naukri.com/job-listings-administration-executive-independent-recruitment-consultant-freelancer-gurugram-2-to-5-years-061126024166) | Independent Recruitment Consultant (freelancer) | Gurugram(Udyog Vihar Phase 4), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 200,000 - 500,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-administration-executive-independent-recruitment-consultant-freelancer-gurugram-2-to-5-years-061126024166) |
-| 323 | [CA Fresher - Statutory Audit - Non FS](https://www.naukri.com/job-listings-ca-fresher-statutory-audit-non-fs-acme-services-gurugram-0-to-1-years-061126023477) | Acme Services | Gurugram, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-ca-fresher-statutory-audit-non-fs-acme-services-gurugram-0-to-1-years-061126023477) |
-| 324 | [Associate Manager](https://www.naukri.com/job-listings-associate-manager-select-source-international-gurugram-8-to-13-years-061126023467) | Select Source International | Gurugram, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 600,000 - 1,600,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-associate-manager-select-source-international-gurugram-8-to-13-years-061126023467) |
-| 325 | [Development/Relationship Manager - Health Agency](https://www.naukri.com/job-listings-development-relationship-manager-health-agency-icici-lombard-gurugram-1-to-6-years-280926028512) | ICICI Lombard | Gurugram, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 100,000 - 400,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-development-relationship-manager-health-agency-icici-lombard-gurugram-1-to-6-years-280926028512) |
-| 326 | [HR Recruiter_1 Year Contractual Role_Fintech Company_Gurgaon](https://www.naukri.com/job-listings-hr-recruiter-1-year-contractual-role-fintech-company-gurgaon-true-credits-gurugram-0-to-3-years-061126022948) | True Credits | Gurugram, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-hr-recruiter-1-year-contractual-role-fintech-company-gurgaon-true-credits-gurugram-0-to-3-years-061126022948) |
-| 327 | [Food And Beverage Executive](https://www.naukri.com/job-listings-food-and-beverage-executive-artemis-medicare-gurugram-1-to-4-years-061126022915) | Artemis Medicare | Gurugram, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 50,000 - 300,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-food-and-beverage-executive-artemis-medicare-gurugram-1-to-4-years-061126022915) |
-| 328 | [International Customer Support Associate](https://www.naukri.com/job-listings-international-customer-support-associate-thriving-talent-recruitment-services-noida-gurugram-delhi-ncr-0-to-5-years-281026008714) | Thriving Talent Recruitment Services | Gurugram, Noida, Delhi / NCR, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 200,000 - 475,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-international-customer-support-associate-thriving-talent-recruitment-services-noida-gurugram-delhi-ncr-0-to-5-years-281026008714) |
-| 329 | [Human Resource Generalist](https://www.naukri.com/job-listings-human-resource-generalist-genius-consultants-gurugram-1-to-3-years-061126021846) | Genius Consultants | Gurugram, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 125,000 - 325,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-human-resource-generalist-genius-consultants-gurugram-1-to-3-years-061126021846) |
-| 330 | [Bulk Hiring !! Customer Care Executive !! Apply Now !!](https://www.naukri.com/job-listings-bulk-hiring-customer-care-executive-apply-now-globiva-gurugram-0-to-3-years-311026014301) | Globiva | Gurugram, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 175,000 - 275,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-bulk-hiring-customer-care-executive-apply-now-globiva-gurugram-0-to-3-years-311026014301) |
-| 331 | [Customer support || Urgent Hiring || Immediate Joiners](https://www.naukri.com/job-listings-customer-support-urgent-hiring-immediate-joiners-globiva-gurugram-0-to-2-years-240926016961) | Globiva | Gurugram, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 150,000 - 275,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-customer-support-urgent-hiring-immediate-joiners-globiva-gurugram-0-to-2-years-240926016961) |
-| 332 | [Bulk Hiring || Customer Support Executive || Immediate joiners](https://www.naukri.com/job-listings-bulk-hiring-customer-support-executive-immediate-joiners-globiva-gurugram-0-to-4-years-211026021745) | Globiva | Gurugram, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 175,000 - 275,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-bulk-hiring-customer-support-executive-immediate-joiners-globiva-gurugram-0-to-4-years-211026021745) |
-| 333 | [Hiring For Customer Support Executive || Fresher and experienced](https://www.naukri.com/job-listings-hiring-for-customer-support-executive-fresher-and-experienced-globiva-gurugram-0-to-3-years-120826011369) | Globiva | Gurugram, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 175,000 - 275,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-hiring-for-customer-support-executive-fresher-and-experienced-globiva-gurugram-0-to-3-years-120826011369) |
-| 334 | [Marine and Coastal Modeller](https://in.indeed.com/viewjob?jk=93ab075780d54f83) | WSP | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 3 to 8 years | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=93ab075780d54f83) |
-| 335 | [Assistant Consultant- Ecology](https://in.indeed.com/viewjob?jk=ab92c1c2d10651dd) | WSP | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=ab92c1c2d10651dd) |
-| 336 | [Senior Engineer - Electrical](https://in.indeed.com/viewjob?jk=52c8eb0f319c63e9) | WSP | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=52c8eb0f319c63e9) |
-| 337 | [Immigration Compliance - Tax Consultant II, Tax Services](https://in.indeed.com/viewjob?jk=e426607a3c7625f0) | Deloitte | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 2-5 years | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=e426607a3c7625f0) |
-| 338 | [Senior BIM Technician – Electrical](https://in.indeed.com/viewjob?jk=3d7bebcb34627578) | WSP | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=3d7bebcb34627578) |
-| 339 | [Technical Program Manager - Voice AI - Automotive (India)](https://in.indeed.com/viewjob?jk=0a4aa8cc233e2353) | SoundHound AI | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=0a4aa8cc233e2353) |
-| 340 | [Senior BIM Technician – Mechanical](https://in.indeed.com/viewjob?jk=769817c75ef24154) | WSP | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=769817c75ef24154) |
-| 341 | [Business Development](https://www.naukri.com/job-listings-business-development-yellow-box-hr-services-kolkata-bengaluru-2-to-5-years-061126010522) | Yellow Box Hr Services | Bengaluru, Kolkata(Sector 5 Salt Lake), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 300,000 - 600,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-business-development-yellow-box-hr-services-kolkata-bengaluru-2-to-5-years-061126010522) |
-| 342 | [International chat support | 4.3 CTC | 2ways cab](https://www.naukri.com/job-listings-international-chat-support-4-3-ctc-2ways-cab-campusmarg-innovative-tech-services-llp-visakhapatnam-hyderabad-bengaluru-1-to-6-years-031126021452) | Campusmarg Innovative Tech Services Llp | Bengaluru, Visakhapatnam, Hyderabad, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 300,000 - 450,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-international-chat-support-4-3-ctc-2ways-cab-campusmarg-innovative-tech-services-llp-visakhapatnam-hyderabad-bengaluru-1-to-6-years-031126021452) |
-| 343 | [Bangalore - Sales Manager- Axis Max Life Insurance Co.](https://www.naukri.com/job-listings-bangalore-sales-manager-axis-max-life-insurance-co-ideal-jobs-staffing-solution-mysuru-bengaluru-1-to-6-years-061126026523) | Ideal Jobs Staffing Solution | Bengaluru(Yelahanka +1), Mysuru(Rajarajeshwari Nagar), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 100,000 - 450,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-bangalore-sales-manager-axis-max-life-insurance-co-ideal-jobs-staffing-solution-mysuru-bengaluru-1-to-6-years-061126026523) |
-| 344 | [Tele Sales Executive](https://www.naukri.com/job-listings-tele-sales-executive-paradise-recruitment-consultant-hyderabad-chennai-bengaluru-2-to-5-years-281026034704) | Paradise Recruitment Consultant | Bengaluru, Hyderabad, Chennai, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 300,000 - 350,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-tele-sales-executive-paradise-recruitment-consultant-hyderabad-chennai-bengaluru-2-to-5-years-281026034704) |
-| 345 | [Electrical Engineer](https://www.naukri.com/job-listings-electrical-engineer-cv-information-bengaluru-1-to-3-years-061126026281) | CV Information | Bengaluru(Magadi Road +1), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 350,000 - 400,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-electrical-engineer-cv-information-bengaluru-1-to-3-years-061126026281) |
-| 346 | [HR Executive - LADY](https://www.naukri.com/job-listings-hr-executive-lady-hoysala-consultants-bengaluru-4-to-7-years-061126026262) | Hoysala Consultants | Bengaluru(Seshadripuram), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 400,000 - 650,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-hr-executive-lady-hoysala-consultants-bengaluru-4-to-7-years-061126026262) |
-| 347 | [International Voice & Chat Support Executive](https://www.naukri.com/job-listings-international-voice-chat-support-executive-crafle-consulting-mumbai-noida-chandigarh-bengaluru-0-to-5-years-061126025883) | Crafle Consulting Mumbai | Bengaluru, Noida, Chandigarh, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-international-voice-chat-support-executive-crafle-consulting-mumbai-noida-chandigarh-bengaluru-0-to-5-years-061126025883) |
-| 348 | [Product Owner](https://www.naukri.com/job-listings-product-owner-boots2suits-consultancy-bengaluru-3-to-7-years-061126025781) | Boots2suits Consultancy | Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 400,000 - 750,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-product-owner-boots2suits-consultancy-bengaluru-3-to-7-years-061126025781) |
-| 349 | [Hiring Fresher CAT- Gold Loan (BLR-2)](https://www.naukri.com/job-listings-hiring-fresher-cat-gold-loan-blr-2-muthoot-finance-bengaluru-0-to-0-years-061126025648) | Muthoot Finance | Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-hiring-fresher-cat-gold-loan-blr-2-muthoot-finance-bengaluru-0-to-0-years-061126025648) |
-| 350 | [Internal- SM/Director](https://www.naukri.com/job-listings-internal-sm-director-ey-bengaluru-10-to-16-years-081026028895) | EY | Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 3,250,000 - 4,750,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-internal-sm-director-ey-bengaluru-10-to-16-years-081026028895) |
-| 351 | [WALK-IN DRIVE | Engineering & Finance Professionals | Fertilizer & EPC](https://www.naukri.com/job-listings-walk-in-drive-engineering-finance-professionals-fertilizer-epc-ballestra-engineering-and-projects-and-pvt-ltd-bengaluru-8-to-13-years-061126025620) | Ballestra Engineering And Projects and Pvt Ltd | Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-walk-in-drive-engineering-finance-professionals-fertilizer-epc-ballestra-engineering-and-projects-and-pvt-ltd-bengaluru-8-to-13-years-061126025620) |
-| 352 | [Hiring Fresher CAT -Gold Loan (BLR-1)](https://www.naukri.com/job-listings-hiring-fresher-cat-gold-loan-blr-1-muthoot-finance-bengaluru-0-to-0-years-061126025597) | Muthoot Finance | Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-hiring-fresher-cat-gold-loan-blr-1-muthoot-finance-bengaluru-0-to-0-years-061126025597) |
-| 353 | [Revenue Operations Manager](https://www.naukri.com/job-listings-revenue-operations-manager-hiregenie-bengaluru-5-to-10-years-061126025466) | Hiregenie | India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 3,000,000 - 4,000,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-revenue-operations-manager-hiregenie-bengaluru-5-to-10-years-061126025466) |
-| 354 | [Operation Intelligence Lead](https://www.naukri.com/job-listings-operation-intelligence-lead-woolworths-bengaluru-10-to-15-years-061126025366) | Woolworths | Bengaluru(Manayata Tech Park), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-operation-intelligence-lead-woolworths-bengaluru-10-to-15-years-061126025366) |
-| 355 | [Procurement Manager - Opex](https://www.naukri.com/job-listings-procurement-manager-opex-bhive-workspace-bengaluru-8-to-12-years-061126025139) | Bhive Workspace | Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 1,200,000 - 1,500,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-procurement-manager-opex-bhive-workspace-bengaluru-8-to-12-years-061126025139) |
-| 356 | [Walk-in || Process Associate- International Voice](https://www.naukri.com/job-listings-process-associate-international-voice-24-7-ai-bengaluru-0-to-2-years-061026029711) | 24 7 ai | Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 300,000 - 400,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-process-associate-international-voice-24-7-ai-bengaluru-0-to-2-years-061026029711) |
-| 357 | [HR Recruiter Intern](https://www.naukri.com/job-listings-hr-recruiter-intern-novel-office-bengaluru-0-to-1-years-261026010285) | Novel Office | Bengaluru, India (Hybrid / On-site) | Posted today (12-24h) | See JD (Est. 2-6 yrs) | INR 10,000 - 10,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-hr-recruiter-intern-novel-office-bengaluru-0-to-1-years-261026010285) |
-| 358 | [Talent Acquisition Intern](https://www.naukri.com/job-listings-talent-acquisition-intern-novel-office-bengaluru-0-to-1-years-261026010103) | Novel Office | Bengaluru, India (Hybrid / On-site) | Posted today (12-24h) | See JD (Est. 2-6 yrs) | INR 10,000 - 10,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-talent-acquisition-intern-novel-office-bengaluru-0-to-1-years-261026010103) |
-| 359 | [Associate/Senior Associate-Global Mobility-Mumbai](https://www.linkedin.com/jobs/view/4488117411) | BDO India | Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488117411) |
-| 360 | [Crew Coordinator](https://www.linkedin.com/jobs/view/4453080278) | V.Group | Mumbai Metropolitan Region (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4453080278) |
-| 361 | [Executive Assistant](https://www.linkedin.com/jobs/view/4488110658) | HR PLACEMENT CONSULTANTS (HRPC) | Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488110658) |
-| 362 | [Human Resources Manager](https://www.linkedin.com/jobs/view/4486928746) | Numoo Hiring Solutions | Mumbai Metropolitan Region (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486928746) |
-| 363 | [AVP Enterprise Applications](https://www.naukri.com/job-listings-avp-enterprise-applications-lighthouse-learning-mumbai-all-areas-10-to-15-years-231026010204) | Lighthouse Learning | Mumbai (All Areas), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-avp-enterprise-applications-lighthouse-learning-mumbai-all-areas-10-to-15-years-231026010204) |
-| 364 | [Tasc Relationship Manager](https://www.naukri.com/job-listings-tasc-relationship-manager-bharti-consultants-mumbai-3-to-8-years-061126023625) | Bharti Consultants | Mumbai(Western Railway Colony +1), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 700,000 - 1,400,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-tasc-relationship-manager-bharti-consultants-mumbai-3-to-8-years-061126023625) |
-| 365 | [Sales And Marketing Executive](https://www.naukri.com/job-listings-sales-and-marketing-executive-quadrangle-solutions-mumbai-all-areas-0-to-3-years-071126000029) | Quadrangle Solutions | India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 150,000 - 300,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-sales-and-marketing-executive-quadrangle-solutions-mumbai-all-areas-0-to-3-years-071126000029) |
-| 366 | [Marketing and Growth Associate](https://www.naukri.com/job-listings-marketing-and-growth-associate-goodword-mumbai-all-areas-0-to-1-years-061126026493) | Goodword | India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 1,500,000 - 1,500,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-marketing-and-growth-associate-goodword-mumbai-all-areas-0-to-1-years-061126026493) |
-| 367 | [Voice process  Shipping and Logistics Process](https://www.naukri.com/job-listings-voice-process-shipping-and-logistics-process-paradise-recruitment-consultant-thane-navi-mumbai-1-to-5-years-061126026378) | Paradise Recruitment Consultant | Navi Mumbai, Thane, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 350,000 - 450,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-voice-process-shipping-and-logistics-process-paradise-recruitment-consultant-thane-navi-mumbai-1-to-5-years-061126026378) |
-| 368 | [French Language Expert  Travel process](https://www.naukri.com/job-listings-french-language-expert-travel-process-paradise-recruitment-consultant-thane-navi-mumbai-0-to-5-years-061126026363) | Paradise Recruitment Consultant | Navi Mumbai, Thane, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 700,000 - 900,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-french-language-expert-travel-process-paradise-recruitment-consultant-thane-navi-mumbai-0-to-5-years-061126026363) |
-| 369 | [Mumbai- Sales Manager-Axis Max Life Ins](https://www.naukri.com/job-listings-mumbai-sales-manager-axis-max-life-ins-ideal-jobs-staffing-solution-mumbai-panvel-1-to-6-years-061126026321) | Ideal Jobs Staffing Solution | Mumbai(Ghatkopar +1), Panvel, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 100,000 - 500,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-mumbai-sales-manager-axis-max-life-ins-ideal-jobs-staffing-solution-mumbai-panvel-1-to-6-years-061126026321) |
-| 370 | [International Voice Process Executive](https://www.naukri.com/job-listings-international-voice-process-executive-paradise-recruitment-consultant-navi-mumbai-1-to-5-years-061126026308) | Paradise Recruitment Consultant | Navi Mumbai, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 400,000 - 475,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-international-voice-process-executive-paradise-recruitment-consultant-navi-mumbai-1-to-5-years-061126026308) |
-| 371 | [Back Office Executive](https://www.naukri.com/job-listings-back-office-executive-paradise-recruitment-consultant-navi-mumbai-1-to-5-years-061126026307) | Paradise Recruitment Consultant | Navi Mumbai, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 350,000 - 400,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-back-office-executive-paradise-recruitment-consultant-navi-mumbai-1-to-5-years-061126026307) |
-| 372 | [US Voice Process](https://www.naukri.com/job-listings-us-voice-process-paradise-recruitment-consultant-navi-mumbai-1-to-5-years-061126026290) | Paradise Recruitment Consultant | Navi Mumbai, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 350,000 - 400,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-us-voice-process-paradise-recruitment-consultant-navi-mumbai-1-to-5-years-061126026290) |
-| 373 | [Mutual Fund Sales](https://www.naukri.com/job-listings-mutual-fund-sales-paradise-recruitment-consultant-navi-mumbai-0-to-1-years-061126026247) | Paradise Recruitment Consultant | Navi Mumbai, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 200,000 - 225,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-mutual-fund-sales-paradise-recruitment-consultant-navi-mumbai-0-to-1-years-061126026247) |
-| 374 | [Chartered Accountant - Borivali](https://www.naukri.com/job-listings-chartered-accountant-borivali-new-horizon-mumbai-all-areas-2-to-5-years-061126026217) | New Horizon | Mumbai (All Areas)(Borivali East), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 1,300,000 - 1,700,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-chartered-accountant-borivali-new-horizon-mumbai-all-areas-2-to-5-years-061126026217) |
-| 375 | [Insurance Renewal Executive](https://www.naukri.com/job-listings-insurance-renewal-executive-paradise-recruitment-consultant-navi-mumbai-0-to-1-years-061126026211) | Paradise Recruitment Consultant | Navi Mumbai, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 200,000 - 200,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-insurance-renewal-executive-paradise-recruitment-consultant-navi-mumbai-0-to-1-years-061126026211) |
-| 376 | [Facility Executive - Soft Service](https://www.naukri.com/job-listings-facility-executive-soft-service-genius-consultants-navi-mumbai-mumbai-all-areas-2-to-5-years-061126025159) | Genius Consultants | Navi Mumbai, Mumbai (All Areas), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 250,000 - 450,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-facility-executive-soft-service-genius-consultants-navi-mumbai-mumbai-all-areas-2-to-5-years-061126025159) |
-| 377 | [IT Bid Manager](https://www.naukri.com/job-listings-it-bid-manager-mafatlal-industries-mumbai-5-to-6-years-061126024881) | Mafatlal Industries | Mumbai(Mahape), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 1,200,000 - 1,500,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-it-bid-manager-mafatlal-industries-mumbai-5-to-6-years-061126024881) |
-| 378 | [Shift Incharge - CFS Operations](https://www.naukri.com/job-listings-shift-incharge-cfs-operations-roots-recruitment-navi-mumbai-3-to-6-years-061126024789) | Roots Recruitment | Navi Mumbai, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 350,000 - 600,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-shift-incharge-cfs-operations-roots-recruitment-navi-mumbai-3-to-6-years-061126024789) |
-| 379 | [Plant Head HR ( IR Only + Manufacturing / Chemical) Beyond Thane](https://www.naukri.com/job-listings-plant-head-hr-ir-only-manufacturing-chemical-beyond-thane-quotient-consultancy-mumbai-all-areas-15-to-20-years-200126040578) | Quotient Consultancy | Mumbai (All Areas), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 1,800,000 - 2,000,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-plant-head-hr-ir-only-manufacturing-chemical-beyond-thane-quotient-consultancy-mumbai-all-areas-15-to-20-years-200126040578) |
-| 380 | [Walk-in || Sales head ( Gym, Fitness )](https://www.naukri.com/job-listings-sales-head-gym-fitness-proficient-hr-services-thane-mumbai-6-to-10-years-061126024688) | Proficient Hr Services Thane | Mumbai(Andheri), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 1,200,000 - 1,300,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-sales-head-gym-fitness-proficient-hr-services-thane-mumbai-6-to-10-years-061126024688) |
-| 381 | [Service  Relationship Manager](https://www.naukri.com/job-listings-service-relationship-manager-wow-softech-hyderabad-bengaluru-mumbai-all-areas-4-to-9-years-061126024605) | WOW Softech | Mumbai (All Areas), Hyderabad, Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 1,000,000 - 2,000,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-service-relationship-manager-wow-softech-hyderabad-bengaluru-mumbai-all-areas-4-to-9-years-061126024605) |
-| 382 | [Leading Private Bank - Credit Analyst - SCF - Mumbai & Bangalore](https://www.naukri.com/job-listings-leading-private-bank-credit-analyst-scf-mumbai-bangalore-amogh-software-solutions-bengaluru-mumbai-all-areas-4-to-9-years-061126024506) | Amogh Software Solutions | Mumbai (All Areas), Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-leading-private-bank-credit-analyst-scf-mumbai-bangalore-amogh-software-solutions-bengaluru-mumbai-all-areas-4-to-9-years-061126024506) |
-| 383 | [Walk-in || Recruiter Coordinator](https://www.naukri.com/job-listings-recruiter-coordinator-soundlines-consultancy-mumbai-all-areas-0-to-2-years-061126024386) | Soundlines Consultancy | Mumbai (All Areas)(Colaba), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-recruiter-coordinator-soundlines-consultancy-mumbai-all-areas-0-to-2-years-061126024386) |
-| 384 | [Analytical Manager](https://www.naukri.com/job-listings-analytical-manager-thyrocare-navi-mumbai-5-to-9-years-070926005579) | Thyrocare | Navi Mumbai, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 2,750,000 - 3,000,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-analytical-manager-thyrocare-navi-mumbai-5-to-9-years-070926005579) |
-| 385 | [Walk-in || Sourcing Executive](https://www.naukri.com/job-listings-sourcing-executive-soundlines-consultancy-mumbai-all-areas-0-to-1-years-061126024099) | Soundlines Consultancy | Mumbai (All Areas)(Colaba), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-sourcing-executive-soundlines-consultancy-mumbai-all-areas-0-to-1-years-061126024099) |
-| 386 | [Walk-in || HR Admin](https://www.naukri.com/job-listings-hr-admin-soundlines-consultancy-mumbai-all-areas-0-to-2-years-061126023928) | Soundlines Consultancy | Mumbai (All Areas)(Colaba), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-hr-admin-soundlines-consultancy-mumbai-all-areas-0-to-2-years-061126023928) |
-| 387 | [Freelance Electrical Engineer (Mumbai, Bhiwandi,Thane)](https://www.naukri.com/job-listings-freelance-electrical-engineer-mumbai-bhiwandi-thane-stem-consultancy-thane-bhiwandi-navi-mumbai-8-to-12-years-061126023890) | Stem Consultancy | Navi Mumbai, Thane, Bhiwandi, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-freelance-electrical-engineer-mumbai-bhiwandi-thane-stem-consultancy-thane-bhiwandi-navi-mumbai-8-to-12-years-061126023890) |
-| 388 | [Tele Caller](https://www.naukri.com/job-listings-tele-caller-sharp-hrd-services-mumbai-1-to-4-years-061126023887) | Sharp Hrd Services | Mumbai(Andheri), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 100,000 - 300,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-tele-caller-sharp-hrd-services-mumbai-1-to-4-years-061126023887) |
-| 389 | [Mainframe Specialist](https://www.naukri.com/job-listings-mainframe-specialist-experity-global-hr-solutionz-mumbai-pune-10-to-14-years-061126023634) | Experity Global Hr Solutionz | Mumbai, Pune, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-mainframe-specialist-experity-global-hr-solutionz-mumbai-pune-10-to-14-years-061126023634) |
-| 390 | [Hdfc Sales hiring Home Loan Officer / Mortgage loan.](https://www.naukri.com/job-listings-hdfc-sales-hiring-home-loan-officer-mortgage-loan-ayka-communication-mumbai-bengaluru-delhi-ncr-0-to-5-years-061126023632) | Ayka Communication | Mumbai, Bengaluru, Delhi / NCR, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 250,000 - 400,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-hdfc-sales-hiring-home-loan-officer-mortgage-loan-ayka-communication-mumbai-bengaluru-delhi-ncr-0-to-5-years-061126023632) |
-| 391 | [Global External Communications & Business Partnering](https://www.naukri.com/job-listings-global-external-communications-business-partnering-bigwig-ship-management-mumbai-9-to-14-years-061126023545) | Bigwig Ship Management | Mumbai, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 2,500,000 - 3,000,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-global-external-communications-business-partnering-bigwig-ship-management-mumbai-9-to-14-years-061126023545) |
-| 392 | [Walk-in || Mega Walkin Drive For Blended Process-Only Exp Imm Joiner](https://www.naukri.com/job-listings-mega-walkin-drive-for-blended-process-only-exp-imm-joiner-intouchcx-hyderabad-1-to-4-years-071126000026) | IntouchCX | Hyderabad, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 250,000 - 400,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-mega-walkin-drive-for-blended-process-only-exp-imm-joiner-intouchcx-hyderabad-1-to-4-years-071126000026) |
-| 393 | [Walk-in || Immediate Joiner-International Voice Process-Excellent communication](https://www.naukri.com/job-listings-immediate-joiner-international-voice-process-excellent-communication-intouchcx-hyderabad-0-to-3-years-061126026558) | IntouchCX | Hyderabad, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 250,000 - 375,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-immediate-joiner-international-voice-process-excellent-communication-intouchcx-hyderabad-0-to-3-years-061126026558) |
-| 394 | [Hr Admin](https://www.naukri.com/job-listings-hr-admin-softworld-technologies-llc-hyderabad-0-to-0-years-061126026532) | Softworld Technologies Llc | Hyderabad(HITEC City), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 125,000 - 250,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-hr-admin-softworld-technologies-llc-hyderabad-0-to-0-years-061126026532) |
-| 395 | [Bench Sales Recruiter](https://www.naukri.com/job-listings-bench-sales-recruiter-softworld-technologies-llc-hyderabad-1-to-4-years-061126026529) | Softworld Technologies Llc | Hyderabad(HITEC City), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 175,000 - 500,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-bench-sales-recruiter-softworld-technologies-llc-hyderabad-1-to-4-years-061126026529) |
-| 396 | [Business Development Manager - Inside Sales B2B](https://www.naukri.com/job-listings-business-development-manager-inside-sales-b2b-talentsync-solutions-hyderabad-2-to-7-years-071026046919) | Talentsync Solutions | Hyderabad, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 300,000 - 800,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-business-development-manager-inside-sales-b2b-talentsync-solutions-hyderabad-2-to-7-years-071026046919) |
-| 397 | [Admission Counsellor](https://www.naukri.com/job-listings-admission-counsellor-talentsync-solutions-hyderabad-3-to-7-years-041126018806) | Talentsync Solutions | Hyderabad, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 400,000 - 650,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-admission-counsellor-talentsync-solutions-hyderabad-3-to-7-years-041126018806) |
-| 398 | [Inside Sales Associate](https://www.naukri.com/job-listings-inside-sales-associate-talentsync-solutions-hyderabad-2-to-7-years-090526005528) | Talentsync Solutions | Hyderabad, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 400,000 - 700,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-inside-sales-associate-talentsync-solutions-hyderabad-2-to-7-years-090526005528) |
-| 399 | [Fleet Manager](https://www.naukri.com/job-listings-fleet-manager-jobs-territory-kochi-hyderabad-2-to-4-years-061126026339) | Jobs Territory | Hyderabad, Kochi, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-fleet-manager-jobs-territory-kochi-hyderabad-2-to-4-years-061126026339) |
-| 400 | [Walk-in || Mega Walk-in  Drive For International Voice process](https://www.naukri.com/job-listings-mega-walk-in-drive-for-international-voice-process-intouchcx-hyderabad-1-to-6-years-061126026284) | IntouchCX | Hyderabad, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 250,000 - 400,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-mega-walk-in-drive-for-international-voice-process-intouchcx-hyderabad-1-to-6-years-061126026284) |
-| 401 | [Revenue Data Operations Specialist](https://www.naukri.com/job-listings-revenue-data-operations-specialist-crowe-hyderabad-0-to-4-years-061126026215) | Crowe | Hyderabad, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-revenue-data-operations-specialist-crowe-hyderabad-0-to-4-years-061126026215) |
-| 402 | [Walk-in || International Voice Process-Only Experienced Are Eligible](https://www.naukri.com/job-listings-international-voice-process-only-experienced-are-eligible-intouchcx-hyderabad-1-to-3-years-061126025252) | IntouchCX | Hyderabad, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 200,000 - 400,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-international-voice-process-only-experienced-are-eligible-intouchcx-hyderabad-1-to-3-years-061126025252) |
-| 403 | [Field credit card sales](https://www.naukri.com/job-listings-field-credit-card-sales-genius-consultants-hyderabad-0-to-0-years-061126025137) | Genius Consultants | Hyderabad(Begumpet), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-field-credit-card-sales-genius-consultants-hyderabad-0-to-0-years-061126025137) |
-| 404 | [Walk-in || International Voice Process-Only International voice Exp. Required](https://www.naukri.com/job-listings-international-voice-process-only-international-voice-exp-required-intouchcx-hyderabad-1-to-3-years-051026018307) | IntouchCX | Hyderabad, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 250,000 - 400,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-international-voice-process-only-international-voice-exp-required-intouchcx-hyderabad-1-to-3-years-051026018307) |
-| 405 | [Wanted Teachers (All subjects)](https://www.naukri.com/job-listings-wanted-teachers-all-subjects-beta-education-hyderabad-telangana-andhra-pradesh-2-to-7-years-061126024712) | Beta Education | Hyderabad, Telangana, Andhra Pradesh, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 450,000 - 750,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-wanted-teachers-all-subjects-beta-education-hyderabad-telangana-andhra-pradesh-2-to-7-years-061126024712) |
-| 406 | [R&D HEAD/Academic Head (Primary school)Hyderabad-2 (Females only)](https://www.naukri.com/job-listings-r-d-head-academic-head-primary-school-hyderabad-2-females-only-nspira-management-services-hyderabad-9-to-14-years-230625001679) | Nspira Management Services | Hyderabad, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-r-d-head-academic-head-primary-school-hyderabad-2-females-only-nspira-management-services-hyderabad-9-to-14-years-230625001679) |
-| 407 | [Team Lead - Banking Chat Process](https://www.naukri.com/job-listings-team-lead-banking-chat-process-turiyam-consultancy-hyderabad-1-to-6-years-061126023747) | Turiyam Consultancy | Hyderabad, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 600,000 - 850,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-team-lead-banking-chat-process-turiyam-consultancy-hyderabad-1-to-6-years-061126023747) |
-| 408 | [Mainframe Storage System Administrator](https://www.naukri.com/job-listings-mainframe-storage-system-administrator-zettamine-labs-noida-hyderabad-bengaluru-15-to-25-years-061126023326) | Zettamine Labs | Hyderabad, Noida, Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-mainframe-storage-system-administrator-zettamine-labs-noida-hyderabad-bengaluru-15-to-25-years-061126023326) |
-| 409 | [International voice](https://www.naukri.com/job-listings-international-voice-tech-mahindra-hyderabad-1-to-5-years-061126022647) | Tech Mahindra | Hyderabad, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 250,000 - 500,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-international-voice-tech-mahindra-hyderabad-1-to-5-years-061126022647) |
-| 410 | [People Partner](https://www.naukri.com/job-listings-people-partner-cyient-limited-hyderabad-5-to-9-years-061126022065) | Cyient | Hyderabad, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-people-partner-cyient-limited-hyderabad-5-to-9-years-061126022065) |
-| 411 | [Walk-in | AR Voice Process Executive AR | Fresher](https://www.naukri.com/job-listings-walk-in-ar-voice-process-executive-ar-fresher-omega-healthcare-hyderabad-0-to-1-years-061126021905) | Omega Healthcare | Hyderabad, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-walk-in-ar-voice-process-executive-ar-fresher-omega-healthcare-hyderabad-0-to-1-years-061126021905) |
-| 412 | [Managing Partner Advocates,](https://www.naukri.com/job-listings-managing-partner-advocates-aj-solutions-hyderabad-15-to-18-years-061126021515) | Aj Solutions | Hyderabad, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 5,500,000 - 7,000,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-managing-partner-advocates-aj-solutions-hyderabad-15-to-18-years-061126021515) |
-| 413 | [REMOTE TELECALLER & APPOINTMENT SETTER ( Excellent spoken English skills required)](https://in.indeed.com/viewjob?jk=cfcf45e897181d4f) | QuantM Technologies Inc | Remote, India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 30,000 - 60,000 | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=cfcf45e897181d4f) |
-| 414 | [Sr Recruiter executive (Recruitment) Work from Home](https://www.naukri.com/job-listings-sr-recruiter-executive-recruitment-work-from-home-ayka-communication-ranchi-1-to-6-years-061126023801) | Ayka Communication | India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 200,000 - 300,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-sr-recruiter-executive-recruitment-work-from-home-ayka-communication-ranchi-1-to-6-years-061126023801) |
-| 415 | [Recruitment Partner with Seventh Contact, Pune (Remote)](https://www.naukri.com/job-listings-recruitment-partner-with-seventh-contact-pune-remote-seventh-contact-hiring-solutions-pune-1-to-4-years-020426028255) | Seventh Contact Hiring Solutions | India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 150,000 - 225,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-recruitment-partner-with-seventh-contact-pune-remote-seventh-contact-hiring-solutions-pune-1-to-4-years-020426028255) |
-| 416 | [IT Female Recruiter](https://www.naukri.com/job-listings-it-female-recruiter-intellics-global-services-delhi-ncr-3-to-7-years-030926016373) | Intellics Global Services | India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 125,000 - 225,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-it-female-recruiter-intellics-global-services-delhi-ncr-3-to-7-years-030926016373) |
-| 417 | [Regional Human Resources Business Partner](https://www.linkedin.com/jobs/view/4488123703) | Axis Mutual Fund | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488123703) |
-| 418 | [Senior Associate Recruiter (Contract)](https://www.naukri.com/job-listings-senior-associate-recruiter-contract-pearl-bengaluru-3-to-6-years-061126011795) | Pearl | India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-senior-associate-recruiter-contract-pearl-bengaluru-3-to-6-years-061126011795) |
-| 419 | [Workday Recruiting Consultant / Sr. Specialist](https://www.naukri.com/job-listings-workday-recruiting-consultant-sr-specialist-clovio-consulting-bengaluru-4-to-9-years-061126502002) | Clovio Consulting | Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-workday-recruiting-consultant-sr-specialist-clovio-consulting-bengaluru-4-to-9-years-061126502002) |
-| 420 | [Recruiting Senior Manager](https://www.naukri.com/job-listings-recruiting-senior-manager-accenture-solutions-pvt-ltd-navi-mumbai-16-to-25-years-061126914279) | Accenture | Navi Mumbai, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-recruiting-senior-manager-accenture-solutions-pvt-ltd-navi-mumbai-16-to-25-years-061126914279) |
-| 421 | [Staffing Fronters Consultant - Remote Work](https://www.linkedin.com/jobs/view/4487338610) | BairesDev | Cajamarca, Peru (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487338610) |
-| 422 | [Full-Cycle Recruiter (Remote, Chiclayo)](https://www.linkedin.com/jobs/view/4488419163) | Blacksmith Agency | Peru (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488419163) |
-| 423 | [Remote Enterprise Recruiter — End-to-end Hiring](https://www.linkedin.com/jobs/view/4486267807) | Altametrics | Cebu, Central Visayas, Philippines (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486267807) |
-| 424 | [Salesforce QA](https://www.naukri.com/job-listings-salesforce-qa-carnation-infotech-remote-6-to-9-years-061126503082) | Carnation Infotech | India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-salesforce-qa-carnation-infotech-remote-6-to-9-years-061126503082) |
-| 425 | [Graphic Designer (Fully Remote)](https://www.naukri.com/job-listings-graphic-designer-fully-remote-voxturr-consulting-private-limited-remote-2-to-7-years-061126503055) | Voxturr | India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-graphic-designer-fully-remote-voxturr-consulting-private-limited-remote-2-to-7-years-061126503055) |
-| 426 | [T&T - ET&P - Consultant - SAP HR - Gurugram](https://in.indeed.com/viewjob?jk=e670411007a90028) | Deloitte | HR, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=e670411007a90028) |
-| 427 | [Consultant](https://in.indeed.com/viewjob?jk=942aafedb572c54f) | Guidehouse | HR, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 3 to 6 years | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=942aafedb572c54f) |
-| 428 | [Walk-in || Wipro is Hiring Freshers | NON-VOICE Backend Process](https://www.naukri.com/job-listings-wipro-is-hiring-freshers-non-voice-backend-process-wipro-gurugram-0-to-1-years-061126020474) | Wipro | Gurugram, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 250,000 - 300,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-wipro-is-hiring-freshers-non-voice-backend-process-wipro-gurugram-0-to-1-years-061126020474) |
-| 429 | [Civil Engineer | Exp. in Plants (Power, Oil & Gas Or Water) 10-12 Lacs](https://www.naukri.com/job-listings-civil-engineer-exp-in-plants-power-oil-gas-or-water-10-12-lacs-seligo-consultants-gurugram-2-to-6-years-061126017331) | Seligo Consultants | Gurugram, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 800,000 - 1,200,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-civil-engineer-exp-in-plants-power-oil-gas-or-water-10-12-lacs-seligo-consultants-gurugram-2-to-6-years-061126017331) |
-| 430 | [Technical Documentation Writer](https://www.naukri.com/job-listings-technical-documentation-writer-tagbin-services-private-limited-gurugram-2-to-5-years-061126016131) | Tagbin Services | India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-technical-documentation-writer-tagbin-services-private-limited-gurugram-2-to-5-years-061126016131) |
-| 431 | [Customer Care Specialist - Customer Value](https://www.naukri.com/job-listings-customer-care-specialist-customer-value-talent-advisors-gurugram-1-to-6-years-160626031597) | Talent Advisors | Gurugram, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 425,000 - 425,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-customer-care-specialist-customer-value-talent-advisors-gurugram-1-to-6-years-160626031597) |
-| 432 | [Software Engineer And Developer](https://www.naukri.com/job-listings-software-engineer-and-developer-independent-recruitment-consultant-freelancer-noida-gurugram-delhi-ncr-0-to-5-years-040824001512) | Independent Recruitment Consultant (freelancer) | Gurugram, Noida, Delhi / NCR, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 150,000 - 450,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-software-engineer-and-developer-independent-recruitment-consultant-freelancer-noida-gurugram-delhi-ncr-0-to-5-years-040824001512) |
-| 433 | [Hiring International Travel Sales Exe. || CTC upto 6.5LPA || Gurgaon](https://www.naukri.com/job-listings-hiring-international-travel-sales-exe-ctc-upto-6-5lpa-gurgaon-thr-consultants-gurugram-0-to-4-years-100926019894) | THR Consultants | Gurugram, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 425,000 - 650,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-hiring-international-travel-sales-exe-ctc-upto-6-5lpa-gurgaon-thr-consultants-gurugram-0-to-4-years-100926019894) |
-| 434 | [Senior Grid Connection Engineer](https://in.indeed.com/viewjob?jk=969eccd487a028f0) | Fluence Energy | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=969eccd487a028f0) |
-| 435 | [Corporate Travel Coordinator | On-Site, Bangalore](https://in.indeed.com/viewjob?jk=c5f47641a341ee9d) | Optiv | KA, India (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=c5f47641a341ee9d) |
-| 436 | [Senior Accountant Specialist](https://www.naukri.com/job-listings-senior-accountant-specialist-tya-business-solutions-bengaluru-8-to-10-years-061126025126) | TYA Business Solutions | Bengaluru(5th block Koramangala), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 1,200,000 - 1,800,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-senior-accountant-specialist-tya-business-solutions-bengaluru-8-to-10-years-061126025126) |
-| 437 | [Human Resource Coordinator](https://www.naukri.com/job-listings-human-resource-coordinator-synmac-consultants-pvt-ltd-chennai-bengaluru-0-to-2-years-061126024909) | Synmac Consultants Pvt. Ltd. | Bengaluru(Malleswaram), Chennai(Kodambakkam), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 80,000 - 200,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-human-resource-coordinator-synmac-consultants-pvt-ltd-chennai-bengaluru-0-to-2-years-061126024909) |
-| 438 | [Human Resource Associate](https://www.naukri.com/job-listings-human-resource-associate-cropin-technology-solutions-bengaluru-0-to-1-years-061126023204) | Cropin Technology Solutions | Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-human-resource-associate-cropin-technology-solutions-bengaluru-0-to-1-years-061126023204) |
-| 439 | [Specialist-HR-BGV](https://www.naukri.com/job-listings-specialist-hr-bgv-altenindia-bengaluru-0-to-0-years-061126021822) | Alten | Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 300,000 - 500,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-specialist-hr-bgv-altenindia-bengaluru-0-to-0-years-061126021822) |
-| 440 | [Sales Assistant (Non-Voice) - German Language](https://www.naukri.com/job-listings-sales-assistant-non-voice-german-language-ensales-mumbai-chennai-bengaluru-0-to-3-years-061126021083) | Ensales | Bengaluru, Mumbai(Mumbai Central), Chennai, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 300,000 - 500,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-sales-assistant-non-voice-german-language-ensales-mumbai-chennai-bengaluru-0-to-3-years-061126021083) |
-| 441 | [Charactered accountant](https://www.naukri.com/job-listings-charactered-accountant-delight-hr-services-pvt-ltd-bengaluru-6-to-11-years-061126920788) | Delight HR | Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-charactered-accountant-delight-hr-services-pvt-ltd-bengaluru-6-to-11-years-061126920788) |
-| 442 | [Qa Engineer](https://www.naukri.com/job-listings-qa-engineer-delight-hr-services-pvt-ltd-bengaluru-3-to-8-years-061126920775) | Delight HR | Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-qa-engineer-delight-hr-services-pvt-ltd-bengaluru-3-to-8-years-061126920775) |
-| 443 | [Technical Trainer's WFH--(AI/ML and Python/.Net full stack )](https://www.naukri.com/job-listings-technical-trainer-s-wfh-ai-ml-and-python-net-full-stack-sharda-consultancy-services-kanpur-pune-bengaluru-6-to-11-years-061126020576) | Sharda Consultancy Services | Bengaluru, Kanpur, Pune, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 550,000 - 1,550,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-technical-trainer-s-wfh-ai-ml-and-python-net-full-stack-sharda-consultancy-services-kanpur-pune-bengaluru-6-to-11-years-061126020576) |
-| 444 | [HR Manager](https://www.naukri.com/job-listings-hr-manager-ciel-hr-bengaluru-8-to-12-years-240926031823) | CIEL HR | Bengaluru(Chamarajapet), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 1,000,000 - 1,300,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-hr-manager-ciel-hr-bengaluru-8-to-12-years-240926031823) |
-| 445 | [Settlement Specialist](https://www.naukri.com/job-listings-settlement-specialist-altisource-bengaluru-2-to-7-years-061126014666) | Altisource | India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-settlement-specialist-altisource-bengaluru-2-to-7-years-061126014666) |
-| 446 | [HR recruitment and Admin](https://www.naukri.com/job-listings-hr-recruitment-and-admin-talent-grade-bengaluru-1-to-2-years-061126013115) | Talent Grade | Bengaluru(7th Block Koramangala), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 250,000 - 300,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-hr-recruitment-and-admin-talent-grade-bengaluru-1-to-2-years-061126013115) |
-| 447 | [Hiring Software Engineers - Fresher & Experienced Both](https://www.naukri.com/job-listings-hiring-software-engineers-fresher-experienced-both-independent-recruitment-consultant-freelancer-hyderabad-chennai-bengaluru-0-to-5-years-110323003865) | Independent Recruitment Consultant (freelancer) | Bengaluru, Hyderabad, Chennai, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 300,000 - 800,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-hiring-software-engineers-fresher-experienced-both-independent-recruitment-consultant-freelancer-hyderabad-chennai-bengaluru-0-to-5-years-110323003865) |
-| 448 | [Leading Software Company - Web Developers](https://www.naukri.com/job-listings-leading-software-company-web-developers-independent-recruitment-consultant-freelancer-hyderabad-chennai-bengaluru-0-to-5-years-090924014779) | Independent Recruitment Consultant (freelancer) | Bengaluru, Hyderabad, Chennai, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-leading-software-company-web-developers-independent-recruitment-consultant-freelancer-hyderabad-chennai-bengaluru-0-to-5-years-090924014779) |
-| 449 | [Principal Engineer Agentic AI & Python](https://www.naukri.com/job-listings-principal-engineer-agentic-ai-python-globallogic-bengaluru-10-to-15-years-061126012359) | Globallogic | Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-principal-engineer-agentic-ai-python-globallogic-bengaluru-10-to-15-years-061126012359) |
-| 450 | [Business Development Executive](https://www.linkedin.com/jobs/view/4486949242) | Numoo Hiring Solutions | Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486949242) |
-| 451 | [Civil Engineer - Infrastructure](https://in.indeed.com/viewjob?jk=005b1e4accf942f1) | Arup | MH, India (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=005b1e4accf942f1) |
-| 452 | [Travel Process Associate](https://www.naukri.com/job-listings-travel-process-associate-paradise-recruitment-consultant-navi-mumbai-0-to-1-years-061126021401) | Paradise Recruitment Consultant | Navi Mumbai, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 200,000 - 225,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-travel-process-associate-paradise-recruitment-consultant-navi-mumbai-0-to-1-years-061126021401) |
-| 453 | [Customer Service Executive](https://www.naukri.com/job-listings-customer-service-executive-paradise-recruitment-consultant-navi-mumbai-0-to-1-years-061126019855) | Paradise Recruitment Consultant | Navi Mumbai, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 150,000 - 175,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-customer-service-executive-paradise-recruitment-consultant-navi-mumbai-0-to-1-years-061126019855) |
-| 454 | [1147: Talent Brand (APAC) - Senior Analyst](https://www.naukri.com/job-listings-1147-talent-brand-apac-senior-analyst-accenture-solutions-pvt-ltd-mumbai-5-to-10-years-061126914152) | Accenture | Mumbai, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-1147-talent-brand-apac-senior-analyst-accenture-solutions-pvt-ltd-mumbai-5-to-10-years-061126914152) |
-| 455 | [Legal Research Associate](https://www.naukri.com/job-listings-legal-research-associate-lumina-datamatics-noida-new-delhi-mumbai-all-areas-0-to-0-years-061126009795) | Lumina Datamatics | Mumbai (All Areas), Noida, New Delhi, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-legal-research-associate-lumina-datamatics-noida-new-delhi-mumbai-all-areas-0-to-0-years-061126009795) |
-| 456 | [Online Teacher - Part time (Work from Home)](https://www.naukri.com/job-listings-online-teacher-part-time-work-from-home-planetspark-mumbai-hyderabad-bengaluru-0-to-5-years-130125003318) | PlanetSpark | Mumbai, Hyderabad, Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 400,000 - 550,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-online-teacher-part-time-work-from-home-planetspark-mumbai-hyderabad-bengaluru-0-to-5-years-130125003318) |
-| 457 | [Work From Home Tutor - Part time](https://www.naukri.com/job-listings-work-from-home-tutor-part-time-planetspark-kolkata-mumbai-faridabad-1-to-5-years-100125006129) | PlanetSpark | Mumbai, Kolkata, Faridabad, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 400,000 - 550,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-work-from-home-tutor-part-time-planetspark-kolkata-mumbai-faridabad-1-to-5-years-100125006129) |
-| 458 | [Work from Home Teacher - Part Time](https://www.naukri.com/job-listings-work-from-home-teacher-part-time-planetspark-mumbai-hyderabad-bengaluru-1-to-5-years-010823010124) | PlanetSpark | Mumbai, Hyderabad, Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 500,000 - 600,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-work-from-home-teacher-part-time-planetspark-mumbai-hyderabad-bengaluru-1-to-5-years-010823010124) |
-| 459 | [Company Secretary & Legal Counsel (E-com)- Remote](https://www.naukri.com/job-listings-company-secretary-legal-counsel-e-com-remote-symphoni-hr-mumbai-all-areas-3-to-8-years-221026030291) | Symphoni Hr | India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 600,000 - 1,200,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-company-secretary-legal-counsel-e-com-remote-symphoni-hr-mumbai-all-areas-3-to-8-years-221026030291) |
-| 460 | [online econimics Teacher](https://www.naukri.com/job-listings-online-econimics-teacher-artisan-field-inc-mumbai-1-to-3-years-061126501808) | Artisan Field | Mumbai, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-online-econimics-teacher-artisan-field-inc-mumbai-1-to-3-years-061126501808) |
-| 461 | [Virtual Assistant - Work from Home](https://www.naukri.com/job-listings-virtual-assistant-work-from-home-faff-technologies-mumbai-all-areas-0-to-1-years-071126000052) | Faff Technologies | India (Remote / WFH) | Posted today (12-24h) | See JD (Est. 2-6 yrs) | INR 19,500 - 19,500 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-virtual-assistant-work-from-home-faff-technologies-mumbai-all-areas-0-to-1-years-071126000052) |
-| 462 | [Account Executive - Talent Solutions](https://www.linkedin.com/jobs/view/4488113815) | LinkedIn | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488113815) |
-| 463 | [Managing Partner](https://www.linkedin.com/jobs/view/4486930799) | Antal International | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486930799) |
-| 464 | [HR Recruiter](https://in.indeed.com/viewjob?jk=b75871e0dcc41faa) | shaik consultancy | TS, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 13,000 - 15,000 | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=b75871e0dcc41faa) |
-| 465 | [Process Executive](https://www.naukri.com/job-listings-process-executive-evoke-technologies-hyderabad-1-to-6-years-061126025564) | Evoke Technologies | India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 100,000 - 600,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-process-executive-evoke-technologies-hyderabad-1-to-6-years-061126025564) |
-| 466 | [Production Support](https://www.naukri.com/job-listings-production-support-mphasis-hyderabad-5-to-10-years-061126024554) | Mphasis | Hyderabad, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-production-support-mphasis-hyderabad-5-to-10-years-061126024554) |
-| 467 | [IELTS Affiliate Trainer](https://www.naukri.com/job-listings-ielts-affiliate-trainer-next-education-india-hyderabad-1-to-2-years-061126013384) | Next Education India | India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 100,000 - 300,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-ielts-affiliate-trainer-next-education-india-hyderabad-1-to-2-years-061126013384) |
-| 468 | [US IT Client Acquisition Specialist (60 Days Internship) Night Shifts](https://www.naukri.com/job-listings-us-it-client-acquisition-specialist-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126012836) | Vcloud Technologies Investment | Hyderabad, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-us-it-client-acquisition-specialist-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126012836) |
-| 469 | [Inside Sales Executives  US B2C  Remote](https://www.naukri.com/job-listings-inside-sales-executives-us-b2c-remote-optim-hire-hyderabad-2-to-6-years-061126012557) | Optim Hire | India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-inside-sales-executives-us-b2c-remote-optim-hire-hyderabad-2-to-6-years-061126012557) |
-| 470 | [Junior Executive - Talent Acquisition](https://www.naukri.com/job-listings-junior-executive-talent-acquisition-ntt-data-business-solutions-hyderabad-0-to-1-years-061126011568) | NTT DATA BUSINESS SOLUTIONS | Hyderabad(Mind Space), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-junior-executive-talent-acquisition-ntt-data-business-solutions-hyderabad-0-to-1-years-061126011568) |
-| 471 | [HR Recruiter | Freshers & Experienced | Up To 15-20K | Day Shift | HYD](https://www.naukri.com/job-listings-hr-recruiter-freshers-experienced-up-to-15-20k-day-shift-hyd-axis-services-hyderabad-0-to-3-years-061126009767) | Axis Services | Hyderabad, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-hr-recruiter-freshers-experienced-up-to-15-20k-day-shift-hyd-axis-services-hyderabad-0-to-3-years-061126009767) |
-| 472 | [Tutor (Part time) - Work From Home](https://www.naukri.com/job-listings-tutor-part-time-work-from-home-planetspark-noida-hyderabad-bengaluru-1-to-5-years-090724004710) | PlanetSpark | Hyderabad, Noida, Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 300,000 - 500,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-tutor-part-time-work-from-home-planetspark-noida-hyderabad-bengaluru-1-to-5-years-090724004710) |
-| 473 | [Key Account Manager (IT Infra & System Integration MNC) 10-12LPA](https://www.naukri.com/job-listings-key-account-manager-it-infra-system-integration-mnc-10-12lpa-adonis-recruitment-consultants-hyderabad-chennai-bengaluru-5-to-8-years-061126009230) | Adonis Recruitment Consultants | Hyderabad, Chennai, Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 1,000,000 - 1,200,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-key-account-manager-it-infra-system-integration-mnc-10-12lpa-adonis-recruitment-consultants-hyderabad-chennai-bengaluru-5-to-8-years-061126009230) |
-| 474 | [Opening For Biotechnology Engineer & Biomedical Engineer](https://www.naukri.com/job-listings-opening-for-biotechnology-engineer-biomedical-engineer-achievers-spot-hyderabad-chennai-kanyakumari-0-to-0-years-061126009130) | Achievers Spot | Hyderabad, Chennai, Kanyakumari, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 325,000 - 450,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-opening-for-biotechnology-engineer-biomedical-engineer-achievers-spot-hyderabad-chennai-kanyakumari-0-to-0-years-061126009130) |
-| 475 | [Whatsapp Chat Fresher/Work From Home / Non Voice Support/Remote / WFH](https://www.naukri.com/job-listings-whatsapp-chat-fresher-work-from-home-non-voice-support-remote-wfh-ujobs-consulting-vijayawada-warangal-hyderabad-0-to-0-years-061126008098) | Ujobs Consulting | Hyderabad, Vijayawada, Warangal, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 150,000 - 500,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-whatsapp-chat-fresher-work-from-home-non-voice-support-remote-wfh-ujobs-consulting-vijayawada-warangal-hyderabad-0-to-0-years-061126008098) |
-| 476 | [US IT Hiring Coordinator (60 Days Internship) Night Shifts](https://www.naukri.com/job-listings-us-it-hiring-coordinator-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126000499) | Vcloud Technologies Investment | Hyderabad, India (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-us-it-hiring-coordinator-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126000499) |
-| 477 | [US Recruitment Specialist (60 Days Internship) Night Shifts](https://www.naukri.com/job-listings-us-recruitment-specialist-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126000483) | Vcloud Technologies Investment | Hyderabad, India (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-us-recruitment-specialist-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126000483) |
-| 478 | [US IT Staffing Specialist (60 Days Internship) Night Shifts](https://www.naukri.com/job-listings-us-it-staffing-specialist-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126000476) | Vcloud Technologies Investment | Hyderabad, India (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-us-it-staffing-specialist-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126000476) |
-| 479 | [Lead Technical Talent Partner](https://www.thoughtworks.com/careers/jobs) | Thoughtworks | Hyderabad, India (Hybrid (2 days WFO)) | 5 hours ago (1-6h) | 4-7 years | INR 20,00,000 - 30,00,000 | 79/100 | [Direct Apply](https://www.thoughtworks.com/careers/jobs) |
-| 480 | [Global People Operations & HR Generalist](https://www.deel.com/careers) | Deel | Worldwide Remote (Remote / WFH) | 8 hours ago (6-12h) | 3-6 years | USD $70,000 - $90,000 | 79/100 | [Direct Apply](https://www.deel.com/careers) |
-| 481 | [Applied AI / Machine Learning Engineer](https://huggingface.co/jobs) | Hugging Face | Remote / San Francisco, CA (Remote / WFH) | 5 hours ago (1-6h) | 3-6 years | USD $130,000 - $175,000 | 79/100 | [Direct Apply](https://huggingface.co/jobs) |
-| 482 | [Strategic Partnerships & Enterprise BD Lead](https://www.notion.so/careers) | Notion | San Francisco, CA / Remote (Hybrid / Remote) | Posted today (12-24h) | 4-8 years | USD $130,000 - $165,000 + Equity | 79/100 | [Direct Apply](https://www.notion.so/careers) |
-| 483 | [Technical Content & SEO Strategist](https://www.cloudflare.com/careers/) | Cloudflare | Austin, TX / Remote (Remote / WFH) | Posted today (12-24h) | 3-6 years | USD $90,000 - $120,000 | 79/100 | [Direct Apply](https://www.cloudflare.com/careers/) |
-| 484 | [Senior Financial Analyst (M&A Advisory)](https://www2.deloitte.com/careers) | Deloitte | Mumbai, India (Hybrid (3 days WFO)) | 2 hours ago (1-6h) | 3-6 years | INR 16,00,000 - 24,00,000 | 79/100 | [Direct Apply](https://www2.deloitte.com/careers) |
-| 485 | [Sr. Consultant - Advanced Analytics](https://in.indeed.com/viewjob?jk=7d5373d89d18782b) | Deloitte | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 6–8 years | Not disclosed | 76/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=7d5373d89d18782b) |
-| 486 | [Products Operations Support – Associate II - Hyderabad](https://in.indeed.com/viewjob?jk=f6dcfda3282d444c) | Deloitte | TS, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 1-3 years | Not disclosed | 76/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=f6dcfda3282d444c) |
-| 487 | [Snr Talent Acquisition Business Partner, India](https://in.indeed.com/viewjob?jk=77ffdf191137f6d1) | OTIS | UP, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 74/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=77ffdf191137f6d1) |
-| 488 | [HR Executive (HR Recruiter / Talent Acquisition)](https://in.indeed.com/viewjob?jk=5fa75cd31d4933b2) | HavStrategy | UP, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 1–3 years | INR 20,000 - 25,000 | 74/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=5fa75cd31d4933b2) |
-| 489 | [User Interface/User Experience Designer](https://in.indeed.com/viewjob?jk=f75c11a4300bae69) | Salesforce | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 3 to 6 years | Not disclosed | 74/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=f75c11a4300bae69) |
-| 490 | [Senior Software Engineer](https://in.indeed.com/viewjob?jk=2d07cf4fdce0cc9c) | Fivetran | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 74/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=2d07cf4fdce0cc9c) |
-| 491 | [Product Accessibility Engineer](https://in.indeed.com/viewjob?jk=9ebf3878504d17bf) | Salesforce | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 74/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=9ebf3878504d17bf) |
-| 492 | [HR Recruiter](https://in.indeed.com/viewjob?jk=afb3dce40b042d78) | Bioweal Product Pvt Ltd | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 9,400 - 35,000 | 74/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=afb3dce40b042d78) |
-| 493 | [HR Recruiter](https://in.indeed.com/viewjob?jk=fafc93df13877ac1) | LivetechIndia Institute | MH, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 15,000 - 25,000 | 74/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=fafc93df13877ac1) |
-| 494 | [Principal Consultant](https://in.indeed.com/viewjob?jk=a8a925573195562f) | Chubb Fire & Security | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 74/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=a8a925573195562f) |
-| 495 | [Senior Specialist - Package Implementation](https://in.indeed.com/viewjob?jk=546cc679e443ad4f) | LTM Limited | KA, India (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 74/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=546cc679e443ad4f) |
-| 496 | [Immigration Compliance - Senior, Tax Services](https://in.indeed.com/viewjob?jk=473863dedf6efbba) | Deloitte | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 5-8 years | Not disclosed | 73/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=473863dedf6efbba) |
-| 497 | [Talent Acquisition Executive](https://in.indeed.com/viewjob?jk=bbf4ad39c959ce1b) | Navata Road Transport | TS, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 1 to 2 Years | INR 20,000 - 25,000 | 73/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=bbf4ad39c959ce1b) |
-| 498 | [Senior Full Stack Developer – .NET Core & React](https://in.indeed.com/viewjob?jk=2b6cf0b040f3fcd5) | WSP | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 6-8 years | Not disclosed | 73/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=2b6cf0b040f3fcd5) |
-| 499 | [Assistant Engineer - Bridges](https://in.indeed.com/viewjob?jk=cf07664060d756ce) | WSP | MH, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 2 to 3 years | Not disclosed | 73/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=cf07664060d756ce) |
-| 500 | [Senior Consultant - System Management](https://in.indeed.com/viewjob?jk=daab77c71d046cec) | LTM Limited | TS, India (Hybrid / On-site) | 2026-11-05 (Active Opening) | 5-8 yrs | Not disclosed | 73/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=daab77c71d046cec) |
-| 501 | [Officer / Sr. Officer - Recruiter](https://www.linkedin.com/jobs/view/4487309624) | Renault Nissan Technology & Business Centre India | Chennai, Tamil Nadu, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487309624) |
-| 502 | [Starszy Specjalista/ka ds. Rekrutacji](https://www.linkedin.com/jobs/view/4486969462) | e-work HR Company Poland Sp. z o.o. | Stryków, Łódzkie, Poland (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486969462) |
-| 503 | [Associate/Senior Associate, Talent Acquisition](https://www.linkedin.com/jobs/view/4479875958) | Sea | Singapore, Singapore (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4479875958) |
-| 504 | [HR Recruiter Executive](https://www.linkedin.com/jobs/view/4486250077) | Selfcraft Media | Rajkot, Gujarat, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486250077) |
-| 505 | [Talent Acquisition Graduate (TikTok Shop) - 2027 Start](https://www.linkedin.com/jobs/view/4460603661) | TikTok | Singapore, Singapore (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4460603661) |
-| 506 | [Especialista de reclutamiento](https://www.linkedin.com/jobs/view/4486222304) | J&T Express México | Chihuahua, Mexico (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486222304) |
-| 507 | [Talent Acquisition Partner - Italian Speaker](https://www.linkedin.com/jobs/view/4471661544) | GE HealthCare | Budapest, Budapest, Hungary (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4471661544) |
-| 508 | [Talent Acquisition Partner](https://www.linkedin.com/jobs/view/4487342008) | Trinity Health | Ann Arbor, MI, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487342008) |
-| 509 | [HR Specialist/Recruiting Specialist](https://www.linkedin.com/jobs/view/4488408701) | RDO Equipment Co. | Fargo, ND, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488408701) |
-| 510 | [Talent Acquisition Executive](https://www.naukri.com/job-listings-talent-acquisition-executive-bachpan-new-delhi-1-to-2-years-221026011610) | BACHPAN | New Delhi(Karol Bagh +1), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.naukri.com/job-listings-talent-acquisition-executive-bachpan-new-delhi-1-to-2-years-221026011610) |
-| 511 | [Hiring For a NON-IT ( BFSI ) recruiter For Work From Home & Pune](https://www.naukri.com/job-listings-hiring-for-a-non-it-bfsi-recruiter-for-work-from-home-pune-bharathire-com-private-limited-pune-1-to-6-years-290925910523) | BharatHire.Com Private Limited | Pune, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.naukri.com/job-listings-hiring-for-a-non-it-bfsi-recruiter-for-work-from-home-pune-bharathire-com-private-limited-pune-1-to-6-years-290925910523) |
-| 512 | [Walk-in || TL/Recruiter - Non IT/BFSI](https://www.naukri.com/job-listings-tl-recruiter-non-it-bfsi-bharathire-com-private-limited-pune-0-to-7-years-210826020776) | BharatHire.Com Private Limited | Pune(Camp), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.naukri.com/job-listings-tl-recruiter-non-it-bfsi-bharathire-com-private-limited-pune-0-to-7-years-210826020776) |
-| 513 | [Walk-in || Recruiter  and Tele calle](https://www.naukri.com/job-listings-recruiter-and-tele-calle-abhi-resource-management-kanpur-0-to-6-years-061126012343) | Abhi Resource Management | Kanpur(Juhi), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.naukri.com/job-listings-recruiter-and-tele-calle-abhi-resource-management-kanpur-0-to-6-years-061126012343) |
-| 514 | [Walk-in || Talent Acquisition](https://www.naukri.com/job-listings-talent-acquisition-infinx-visakhapatnam-1-to-3-years-061126025720) | INFINX | Visakhapatnam, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.naukri.com/job-listings-talent-acquisition-infinx-visakhapatnam-1-to-3-years-061126025720) |
-| 515 | [Walk-in || Urgent Hiring - Talent Acquisition Executive](https://www.naukri.com/job-listings-urgent-hiring-talent-acquisition-executive-hdb-financial-services-alandur-chennai-1-to-5-years-061126024931) | HDB Financial Services | Alandur, Chennai, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.naukri.com/job-listings-urgent-hiring-talent-acquisition-executive-hdb-financial-services-alandur-chennai-1-to-5-years-061126024931) |
-| 516 | [Senior Human Resource Executive (On Contract)](https://www.naukri.com/job-listings-senior-human-resource-executive-on-contract-emerson-pune-4-to-7-years-061126024280) | Emerson | Pune(Talegaon), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 400,000 - 700,000 | 71/100 | [Direct Apply](https://www.naukri.com/job-listings-senior-human-resource-executive-on-contract-emerson-pune-4-to-7-years-061126024280) |
-| 517 | [Candidate Manager/Senior Candidate Manager](https://www.naukri.com/job-listings-candidate-manager-senior-candidate-manager-allegis-group-chennai-3-to-6-years-061126024171) | Allegis Group | Chennai(Ekkaduthangal), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 100,000 - 500,000 | 71/100 | [Direct Apply](https://www.naukri.com/job-listings-candidate-manager-senior-candidate-manager-allegis-group-chennai-3-to-6-years-061126024171) |
-| 518 | [HR- Retainer Contractual](https://www.naukri.com/job-listings-hr-retainer-contractual-piramal-finance-kolkata-0-to-1-years-061126024061) | Piramal Finance | Kolkata(Rash Behari), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 125,000 - 250,000 | 71/100 | [Direct Apply](https://www.naukri.com/job-listings-hr-retainer-contractual-piramal-finance-kolkata-0-to-1-years-061126024061) |
-| 519 | [Selection Specialist](https://www.linkedin.com/jobs/view/4486233255) | IBM | Gurgaon, Haryana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486233255) |
-| 520 | [HR Operations & Recruitment Executive (Digital Agency)](https://www.linkedin.com/jobs/view/4487313867) | Krwizard | Defence Colony, Delhi, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487313867) |
-| 521 | [HR-Talent Acquistion](https://www.linkedin.com/jobs/view/4487327772) | Tsaaro People Consulting | Noida, Uttar Pradesh, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487327772) |
-| 522 | [HR Operations and Delivery Associate IV](https://www.linkedin.com/jobs/view/4485231292) | Conduent | Noida, Uttar Pradesh, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4485231292) |
-| 523 | [Specialist-Talent Acquisition](https://www.linkedin.com/jobs/view/4488183195) | Ujjivan Small Finance Bank | Noida, Uttar Pradesh, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488183195) |
-| 524 | [US Healthcare / Senior Healthcare Recruiter](https://www.linkedin.com/jobs/view/4486980006) | InfiCare Staffing | Noida, Uttar Pradesh, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486980006) |
-| 525 | [Snr Talent Acquisition Business Partner, India](https://www.linkedin.com/jobs/view/4487307091) | Otis Elevator Co. | Noida, Uttar Pradesh, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487307091) |
-| 526 | [HR Executive (Operation + recruitment/ from marketing agency)](https://www.linkedin.com/jobs/view/4487310681) | MG | New Delhi, Delhi, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487310681) |
-| 527 | [JOB Hr Recruiter For Consultancy End to End Recruitment (TA) Only Female](https://www.linkedin.com/jobs/view/4486970270) | Niyukti Systems, Inc | Delhi, Delhi, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486970270) |
-| 528 | [Talent Acquisition Lead - US IT Recruitment](https://www.linkedin.com/jobs/view/4486966448) | WhilterAI | Gurgaon, Haryana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486966448) |
-| 529 | [Assistant Manager](https://www.linkedin.com/jobs/view/4488135588) | Comviva | Tauru, Haryana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488135588) |
-| 530 | [HR Solutions Services Associate II](https://www.linkedin.com/jobs/view/4485232271) | Conduent | Noida, Uttar Pradesh, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4485232271) |
-| 531 | [HR Intern – Talent Acquisition](https://www.linkedin.com/jobs/view/4486951920) | Tsaaro People Consulting | Noida, Uttar Pradesh, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486951920) |
-| 532 | [Senior Recruitment Specialist](https://www.linkedin.com/jobs/view/4486915010) | ACL Digital | Noida, Uttar Pradesh, India (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486915010) |
-| 533 | [Senior Information Technology Recruiter](https://www.linkedin.com/jobs/view/4488057912) | CFACT India Pvt Ltd | Noida, Uttar Pradesh, India (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488057912) |
-| 534 | [Assistant Recruitment Manager](https://www.linkedin.com/jobs/view/4485876555) | Success Pact | Noida, Uttar Pradesh, India (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4485876555) |
-| 535 | [Talent Acquisition Executive](https://in.indeed.com/viewjob?jk=f9b42af28ae406e6) | BYLD Group | DL, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 2 – 3 years | INR 25,000 - 40,000 | 71/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=f9b42af28ae406e6) |
-| 536 | [GSS - Tech Sourcing Recruiter , WWAS TA C Sourcing](https://www.linkedin.com/jobs/view/4480112593) | Amazon | Bangalore Urban, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4480112593) |
-| 537 | [BPO HR Recruiter](https://www.naukri.com/job-listings-bpo-hr-recruiter-wroots-global-private-limited-bangalore-rural-0-to-1-years-081026932388) | Wroots Global | Bangalore Rural, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.naukri.com/job-listings-bpo-hr-recruiter-wroots-global-private-limited-bangalore-rural-0-to-1-years-081026932388) |
-| 538 | [Senior Executive Talent Acquisition](https://www.linkedin.com/jobs/view/4486994422) | Zoo Media | Worli, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486994422) |
-| 539 | [Junior – Human Resources Operations](https://www.linkedin.com/jobs/view/4486988558) | Zoo Media | Worli, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486988558) |
-| 540 | [Human Resources Intern](https://www.linkedin.com/jobs/view/4486228644) | Johnson Matthey | Panvel, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486228644) |
-| 541 | [Admin/EA Executive](https://www.linkedin.com/jobs/view/4487318613) | GLOBELANCE | Eastern Suburbs, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487318613) |
-| 542 | [Recruiter](https://www.linkedin.com/jobs/view/4486271098) | Neuland Laboratories Limited | Gummadidala, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486271098) |
-| 543 | [Post-Placement Operations & Compliance Specialist (US IT Staffing)](https://www.linkedin.com/jobs/view/4485873503) | MAES Solutions | Uppal, Telangana, India (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4485873503) |
-| 544 | [Senior Talent Acquisition Partner - Software Engineering](https://www.linkedin.com/jobs/view/4462728409) | Capital One | Nottingham, England, UK (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4462728409) |
-| 545 | [Talent Specialist - Technology & Projects Recruitment](https://www.linkedin.com/jobs/view/4486972170) | Hudson | Brisbane, Queensland, Australia (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486972170) |
-| 546 | [Information Technology Recruiter](https://www.linkedin.com/jobs/view/4486248553) | PrimeIT | Morocco (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486248553) |
-| 547 | [Recruiter](https://www.linkedin.com/jobs/view/4486954260) | Halian | Managed Services, Recruitment Agency & Contract Staffing | Dubai, United Arab Emirates (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486954260) |
-| 548 | [Talent Acquisition Partner](https://www.linkedin.com/jobs/view/4486956493) | Morgan McKinley | Singapore, Singapore (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486956493) |
-| 549 | [Conseiller ou conseillère en attraction de talents en technologies de l’information (TI)](https://www.linkedin.com/jobs/view/4465682669) | Alithya | Montreal, Quebec, Canada (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4465682669) |
-| 550 | [Talent Acquisition Partner – Tieto Banktech (m/f/d)](https://www.linkedin.com/jobs/view/4443917634) | Tieto | Oslo, Oslo, Norway (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4443917634) |
-| 551 | [Tech People Recruiter](https://www.linkedin.com/jobs/view/4487310028) | GRiT Solutions | Lisbon, Portugal (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487310028) |
-| 552 | [Rekrutteringspartner med erfaring inden for IT-rekrutteringer](https://www.linkedin.com/jobs/view/4485068984) | Politiets Efterretningstjeneste (PET) | Copenhagen, Capital Region of Denmark, Denmark (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4485068984) |
-| 553 | [Rekruter IT](https://www.linkedin.com/jobs/view/4486915878) | Ness Solution | Warsaw, Mazowieckie, Poland (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486915878) |
-| 554 | [Tech Talent Scout & IT Recruitment Specialist](https://www.linkedin.com/jobs/view/4485864109) | Metacom Careers | Hagonoy, Central Luzon, Philippines (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4485864109) |
-| 555 | [Recruiter](https://www.linkedin.com/jobs/view/4485881284) | Long View Systems | Calgary, Alberta, Canada (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4485881284) |
-| 556 | [Senior Hr recruiter /Manager For Job Solutions](https://www.naukri.com/job-listings-senior-hr-recruiter-manager-for-solutions-solutions-zirakpur-3-to-8-years-090126024445) | Job Solutions | Zirakpur, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.naukri.com/job-listings-senior-hr-recruiter-manager-for-solutions-solutions-zirakpur-3-to-8-years-090126024445) |
-| 557 | [HR Admin-Surat-3 LPA](https://www.naukri.com/job-listings-hr-admin-surat-3-lpa-rishi-jobs-surat-5-to-9-years-061126923370) | Rishi Jobs | Surat, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.naukri.com/job-listings-hr-admin-surat-3-lpa-rishi-jobs-surat-5-to-9-years-061126923370) |
-| 558 | [HR Executive-Surat-4 LPA](https://www.naukri.com/job-listings-hr-executive-surat-4-lpa-rishi-jobs-surat-2-to-5-years-061126923368) | Rishi Jobs | Surat, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.naukri.com/job-listings-hr-executive-surat-4-lpa-rishi-jobs-surat-2-to-5-years-061126923368) |
-| 559 | [Recruiting Intern](https://www.linkedin.com/jobs/view/4486582372) | Yellow Octo LLP | Noida, Uttar Pradesh, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486582372) |
-| 560 | [Human Resources Manager](https://www.linkedin.com/jobs/view/4486939868) | Vedic Legal & Co. | Noida, Uttar Pradesh, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486939868) |
-| 561 | [Global Capability Lead – DFIR and Crisis Response](https://in.indeed.com/viewjob?jk=67df6d36faf73805) | NTT DATA | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=67df6d36faf73805) |
-| 562 | [Recruiter – Technology Hiring](https://www.linkedin.com/jobs/view/4469769964) | IBM | Research Park, CA, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4469769964) |
-| 563 | [Technology Recruiter | Leading Quantitative Research Firm](https://www.linkedin.com/jobs/view/4485873108) | Hawkwood | London Area, UK (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4485873108) |
-| 564 | [On-Site Tech Recruiter: End-to-End Hiring Expert](https://www.linkedin.com/jobs/view/4485858487) | Alsons/AWS Information Systems Inc. | Makati, National Capital Region, Philippines (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4485858487) |
-| 565 | [Human Resources Intern](https://www.linkedin.com/jobs/view/4486929534) | Cook N Klean | New Delhi, Delhi, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486929534) |
-| 566 | [Senior Manager, Learning and Development](https://in.indeed.com/viewjob?jk=1fb988a02cee1b19) | NTT DATA | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=1fb988a02cee1b19) |
-| 567 | [Trainers, Engineers, Interns and Administrative staff](https://www.linkedin.com/jobs/view/4486240740) | Central Institute of Tool Design | Balanagar, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486240740) |
-| 568 | [Recruiter, GTM - Seoul](https://www.linkedin.com/jobs/view/4486978065) | Anthropic | Seoul, Seoul, South Korea (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486978065) |
-| 569 | [Junior Recruiter](https://www.linkedin.com/jobs/view/4486222494) | Akkodis | Zaltbommel, Gelderland, Netherlands (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486222494) |
-| 570 | [Recruiting Partner – France, Belgium & Luxembourg (f/m/d) – based in Paris area](https://www.linkedin.com/jobs/view/4486255493) | Siemens Healthineers | Paris, Île-de-France, France (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486255493) |
-| 571 | [Recruiter, International](https://www.linkedin.com/jobs/view/4486935913) | Venture Global LNG | Houston, TX, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486935913) |
-| 572 | [Recruiting Partner – Belgium, Luxembourg & France (f/m/d) - based in Brussels area](https://www.linkedin.com/jobs/view/4486258391) | Siemens Healthineers | Dilbeek, Flemish Region, Belgium (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486258391) |
-| 573 | [Talent Acquisition — Global Recruitment](https://www.linkedin.com/jobs/view/4486954429) | Mars Renewable | Suzhou, Jiangsu, China (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486954429) |
-| 574 | [Full Lifecycle Recruiter](https://www.linkedin.com/jobs/view/4488174154) | AMS International UAE | Dubai, United Arab Emirates (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488174154) |
-| 575 | [Global Recruitment and HR](https://www.linkedin.com/jobs/view/4486951117) | United World Inc | Japan (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486951117) |
-| 576 | [海外招聘专员](https://www.linkedin.com/jobs/view/4485885658) | United Service Technology Ltd. | Shanghai, Shanghai, China (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4485885658) |
-| 577 | [Recruitment Partner - EMEA](https://www.linkedin.com/jobs/view/4460734544) | Elanco | Warsaw, Mazowieckie, Poland (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4460734544) |
-| 578 | [Full Lifecyle Recruiter, Amazon University Talent Acquisition](https://www.linkedin.com/jobs/view/4488155309) | Amazon | Tokyo, Japan (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488155309) |
-| 579 | [Talent Acquisition Partner](https://www.linkedin.com/jobs/view/4486248700) | Adform | Vilnius, Vilniaus, Lithuania (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486248700) |
-| 580 | [Recruiter, GTM - Singapore](https://www.linkedin.com/jobs/view/4486968724) | Anthropic | Singapore (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486968724) |
-| 581 | [RPO Recruiter (Global Real Estate Services Firm), Tokyo](https://www.linkedin.com/jobs/view/4464897080) | Korn Ferry | Tokyo, Japan (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4464897080) |
-| 582 | [Strategic Resourcer (Recruiter) - Middle East](https://www.linkedin.com/jobs/view/4480341092) | Airswift | Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4480341092) |
-| 583 | [Talent Acquisition Partner Europe](https://www.linkedin.com/jobs/view/4488122652) | Anonymous | Île-de-France, France (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488122652) |
-| 584 | [Recruiter (High Volume) | Schiphol | Cargo & Passage](https://www.linkedin.com/jobs/view/4422215184) | dnata | Schiphol, North Holland, Netherlands (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4422215184) |
-| 585 | [Talent Sourcing Specialist – EMEA & APAC](https://www.linkedin.com/jobs/view/4486243058) | PeopleScout | Greater London, England, UK (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486243058) |
-| 586 | [Global Overseas Talent Acquisition Partner- Tech Hiring-Sunnyvale](https://www.linkedin.com/jobs/view/4486220706) | Alibaba Cloud | Sunnyvale, CA, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486220706) |
-| 587 | [Associate Manager, HR, India](https://www.linkedin.com/jobs/view/4459154194) | QIAGEN | Delhi, Delhi, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4459154194) |
-| 588 | [Senior Analyst](https://in.indeed.com/viewjob?jk=38f0127d365153f3) | Northern Trust Corp. | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=38f0127d365153f3) |
-| 589 | [Team Leader](https://www.linkedin.com/jobs/view/4486960514) | Global Services | Kalyan, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486960514) |
-| 590 | [Senior Talent Acquisition Partner](https://www.linkedin.com/jobs/view/4480181490) | Versaterm | Ottawa, Ontario, Canada (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4480181490) |
-| 591 | [Senior Talent Acquisition Partner](https://www.linkedin.com/jobs/view/4480186942) | Rosendin | Nashville, TN, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4480186942) |
-| 592 | [Senior Talent Acquisition Partner](https://www.linkedin.com/jobs/view/4488184382) | Coca-Cola HBC | Dunaharaszti, Pest, Hungary (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488184382) |
-| 593 | [Sr. Client Lead Recruiter, Space Vehicles](https://www.linkedin.com/jobs/view/4472986425) | Blue Origin | Merritt Island, FL, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4472986425) |
-| 594 | [Sr. Talent Acquisition Partner](https://www.linkedin.com/jobs/view/4486935929) | Acadia Pharmaceuticals | San Diego, CA, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486935929) |
-| 595 | [Senior Talent Acquisition Recruiter - Colombia](https://www.linkedin.com/jobs/view/4475468839) | Riveron | Medellin, Antioquia, Colombia (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4475468839) |
-| 596 | [Principal Recruiter](https://www.linkedin.com/jobs/view/4480130894) | Coinbase | Seattle, WA, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4480130894) |
-| 597 | [Senior Employee Recruiter](https://www.linkedin.com/jobs/view/4488095751) | Salesforce | Sydney, New South Wales, Australia (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488095751) |
-| 598 | [Global Senior TA Partner — Strategic Tech Recruiter](https://www.linkedin.com/jobs/view/4486266777) | KMC Careers | Metro Manila (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486266777) |
-| 599 | [Sr. Recruiter](https://www.linkedin.com/jobs/view/4486918286) | Jabil | Florence, KY, USA (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486918286) |
-| 600 | [Senior Executive Talent Acquisition Partner – Wealth & USCC](https://www.linkedin.com/jobs/view/4486903942) | Citi | New York, NY, USA (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486903942) |
-| 601 | [Senior Bench Sales Recruiter](https://www.naukri.com/job-listings-senior-bench-sales-recruiter-sainar-solutions-private-limited-visakhapatnam-0-to-6-years-061126025902) | Sainar Solutions | Visakhapatnam(MVP Colony), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.naukri.com/job-listings-senior-bench-sales-recruiter-sainar-solutions-private-limited-visakhapatnam-0-to-6-years-061126025902) |
-| 602 | [Wanted Primary and Middle school teachers](https://www.naukri.com/job-listings-wanted-primary-and-middle-school-teachers-beta-education-karimnagar-khammam-nalgonda-2-to-7-years-061126024649) | Beta Education | Karimnagar, Khammam, Nalgonda, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 225,000 - 425,000 | 71/100 | [Direct Apply](https://www.naukri.com/job-listings-wanted-primary-and-middle-school-teachers-beta-education-karimnagar-khammam-nalgonda-2-to-7-years-061126024649) |
-| 603 | [English Teacher](https://www.naukri.com/job-listings-english-teacher-beta-education-kadapa-siddipet-nizamabad-2-to-7-years-061126023548) | Beta Education | Kadapa, Siddipet, Nizamabad, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 450,000 - 750,000 | 71/100 | [Direct Apply](https://www.naukri.com/job-listings-english-teacher-beta-education-kadapa-siddipet-nizamabad-2-to-7-years-061126023548) |
-| 604 | [Urgent Hiring || Team Leaders](https://www.naukri.com/job-listings-urgent-hiring-team-leaders-ienergizer-noida-1-to-6-years-061126022694) | Ienergizer | Noida(Block A Sector 60), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 300,000 - 450,000 | 71/100 | [Direct Apply](https://www.naukri.com/job-listings-urgent-hiring-team-leaders-ienergizer-noida-1-to-6-years-061126022694) |
-| 605 | [Talent Acquisition Executive](https://www.naukri.com/job-listings-talent-acquisition-executive-endurance-technologies-pune-2-to-5-years-310826025230) | Endurance Technologies | Pune, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.naukri.com/job-listings-talent-acquisition-executive-endurance-technologies-pune-2-to-5-years-310826025230) |
-| 606 | [Talent Acquisition Executive (Non-IT) Female Chennai](https://www.naukri.com/job-listings-talent-acquisition-executive-non-it-female-chennai-shivoham-infosolutions-chennai-1-to-4-years-061126020717) | Shivoham Infosolutions | Chennai, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 50,000 - 225,000 | 71/100 | [Direct Apply](https://www.naukri.com/job-listings-talent-acquisition-executive-non-it-female-chennai-shivoham-infosolutions-chennai-1-to-4-years-061126020717) |
-| 607 | [Hiring For FnA Team Leader Profile !! Salary Upto 10lpa](https://www.naukri.com/job-listings-hiring-for-fna-team-leader-profile-salary-upto-10lpa-ishmeet-consultant-chandigarh-jaipur-4-to-8-years-061126020668) | Ishmeet Consultant | Chandigarh, Jaipur, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 600,000 - 1,000,000 | 71/100 | [Direct Apply](https://www.naukri.com/job-listings-hiring-for-fna-team-leader-profile-salary-upto-10lpa-ishmeet-consultant-chandigarh-jaipur-4-to-8-years-061126020668) |
-| 608 | [Human Resources Business Manager](https://www.linkedin.com/jobs/view/4488111660) | Amitoje India | Noida, Uttar Pradesh, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488111660) |
-| 609 | [Consultant(e) en recrutement](https://www.linkedin.com/jobs/view/4469707751) | Catamania | Rabat, Rabat-Salé-Kénitra, Morocco (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4469707751) |
-| 610 | [Embedded Delivery Consultant](https://www.linkedin.com/jobs/view/4486996834) | Energize Group | Greater Manchester, England, UK (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486996834) |
-| 611 | [Delivery Consultant (London)](https://www.linkedin.com/jobs/view/4426320099) | Experts Group International | London Area, UK (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4426320099) |
-| 612 | [Recruiter](https://www.linkedin.com/jobs/view/4487347234) | Identifiers | Technical Recruiters | Lahore, Punjab, Pakistan (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487347234) |
-| 613 | [Recruiter Intern](https://www.linkedin.com/jobs/view/4486950209) | Iklavya | Noida, Uttar Pradesh, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486950209) |
-| 614 | [Analyst - Group Retiree](https://in.indeed.com/viewjob?jk=cebece02a279c3d9) | Aptia Group | HR, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=cebece02a279c3d9) |
-| 615 | [Talent Acquisition Manager (Hospitality)](https://in.indeed.com/viewjob?jk=3e8958ecd9a58ae8) | Locobear | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 5–8 years | INR 60,000 - 90,000 | 71/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=3e8958ecd9a58ae8) |
-| 616 | [Senior Engineer EHS & Security](https://in.indeed.com/viewjob?jk=ed14e8bd44e71fae) | GlobalFoundries | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=ed14e8bd44e71fae) |
-| 617 | [SME - SAP Tax](https://in.indeed.com/viewjob?jk=d5ed67bf2f94ef14) | Elanco | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=d5ed67bf2f94ef14) |
-| 618 | [HR and Payroll Executive](https://in.indeed.com/viewjob?jk=85bdbdd30b144187) | Radhakrishna IVF and Multispeciality Hospital | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 2–5 years | INR 15,000 - 25,000 | 71/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=85bdbdd30b144187) |
-| 619 | [Associate Principal - Architecture](https://in.indeed.com/viewjob?jk=d7c586c05cbd7e7c) | LTM Limited | KA, India (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=d7c586c05cbd7e7c) |
-| 620 | [Advanced People Capability Business Partner](https://in.indeed.com/viewjob?jk=0389866d9607df5d) | Light & Wonder | KA, India (Hybrid / On-site) | 2026-11-05 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=0389866d9607df5d) |
-| 621 | [L40: Assistant Manager – Business Information Security Officer (CONSULTING BISO)](https://in.indeed.com/viewjob?jk=fc9ec0ba42daa33a) | Deloitte | TS, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 6-9 years | Not disclosed | 70/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=fc9ec0ba42daa33a) |
-| 622 | [Talent Acquisition Manager](https://in.indeed.com/viewjob?jk=a46a4864c6ba1852) | VFORM TECNOPACKS LTD | MH, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 8–12 years | INR 250,000 - 800,000 | 70/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=a46a4864c6ba1852) |
-| 623 | [Head of Talent Acquisition (Global Engineering)](https://www.iimjobs.com/j/head-talent-acquisition-zomato-1748291) | Zomato | Gurugram, India (Hybrid (3 days WFO)) | 3 hours ago (1-6h) | 6-10 years | INR 35,00,000 - 50,00,000 | 70/100 | [Direct Apply](https://www.iimjobs.com/j/head-talent-acquisition-zomato-1748291) |
-| 624 | [HR Recruiter](https://in.indeed.com/viewjob?jk=17c18f5a26f99ec0) | Aadvay manufacturing pvt .ltd | UP, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 1–3 Years | INR 22,000 - 25,000 | 68/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=17c18f5a26f99ec0) |
-| 625 | [Senior Specialist - Architecture](https://in.indeed.com/viewjob?jk=1fb4fb3d1f67d3cc) | LTM Limited | KA, India (Hybrid / On-site) | 2026-11-05 (Active Opening) | 10- 12years | Not disclosed | 68/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=1fb4fb3d1f67d3cc) |
-| 626 | [Senior Specialist - Program & Project Management](https://in.indeed.com/viewjob?jk=a6bf78cababaf63b) | LTM Limited | KA, India (Hybrid / On-site) | 2026-11-05 (Active Opening) | 8- 12years | Not disclosed | 68/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=a6bf78cababaf63b) |
-| 627 | [Senior Business Execution Consultant [ISO 20022, Business Requirements, JIRA, Payments]](https://in.indeed.com/viewjob?jk=f51e98ae8882d8f7) | Wells Fargo | TS, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 3–4 years | Not disclosed | 68/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=f51e98ae8882d8f7) |
-| 628 | [Talent Acquisition Partner](https://in.indeed.com/viewjob?jk=b43219f9abeb6f6b) | Siemens | MH, India (Hybrid / On-site) | 2026-11-05 (Active Opening) | 8–12 years | Not disclosed | 67/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=b43219f9abeb6f6b) |
-| 629 | [Manager - Legal](https://in.indeed.com/viewjob?jk=be684c96d4843375) | WSP | UP, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 7-10 years | Not disclosed | 67/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=be684c96d4843375) |
-| 630 | [R&D Tax Senior Consultant (Technical)](https://in.indeed.com/viewjob?jk=de7711eab1007237) | Version 1 | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 8 to 12 years | Not disclosed | 67/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=de7711eab1007237) |
-| 631 | [Director (Corporate Finance & Strategy)](https://www.iimjobs.com/j/director-corporate-finance-flipkart-1749283) | Flipkart | Bengaluru, India (Hybrid / On-site) | 4 hours ago (1-6h) | 7-12 years | INR 40,00,000 - 58,00,000 | 67/100 | [Direct Apply](https://www.iimjobs.com/j/director-corporate-finance-flipkart-1749283) |
-| 632 | [Solution Test Engineer with 2-4 years experience - Bangalore](https://in.indeed.com/viewjob?jk=4099785e3221b829) | Cisco | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 2-4 years | Not disclosed | 65/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=4099785e3221b829) |
-| 633 | [Senior Security Analyst](https://in.indeed.com/viewjob?jk=77b38060a97dc654) | NetraDyne | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 5–8 years | Not disclosed | 65/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=77b38060a97dc654) |
-| 634 | [HR & Admin Executive](https://in.indeed.com/viewjob?jk=f32b1a7082ed45fb) | Virtual Street Group | UP, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 1–3 years | INR 15,000 - 22,000 | 65/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=f32b1a7082ed45fb) |
-| 635 | [Business & AI Transformation Consultant](https://in.indeed.com/viewjob?jk=568d50df51d2dba0) | Cargill | HR, India (Hybrid / On-site) | 2026-11-05 (Active Opening) | 2-3 years | Not disclosed | 65/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=568d50df51d2dba0) |
-| 636 | [Senior Consultant - Package Implementation](https://in.indeed.com/viewjob?jk=3ae7a3d0b3d4da52) | LTM Limited | KA, India (Hybrid / On-site) | 2026-11-05 (Active Opening) | 1 to 4 years | Not disclosed | 65/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=3ae7a3d0b3d4da52) |
-| 637 | [Networking (Security/Routing/Switching) - Lead Managed Services Engineer II](https://in.indeed.com/viewjob?jk=822d5686525c99bf) | Deloitte | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 8–14 years | Not disclosed | 64/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=822d5686525c99bf) |
-| 638 | [Vice President (Institutional & B2B Sales)](https://www.iimjobs.com/j/vp-institutional-sales-icici-1749811) | ICICI Securities | Mumbai, India (On-site / Hybrid) | 5 hours ago (1-6h) | 8-14 years | INR 38,00,000 - 55,00,000 | 64/100 | [Direct Apply](https://www.iimjobs.com/j/vp-institutional-sales-icici-1749811) |
-| 639 | [End User Computing (EUC) - Lead Managed Services Engineer II](https://in.indeed.com/viewjob?jk=273e24319f95b5bb) | Deloitte | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 10–14 years | Not disclosed | 61/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=273e24319f95b5bb) |
-| 640 | [Lead Functional Engineer AP S2P](https://in.indeed.com/viewjob?jk=a80e90b779a2adb4) | Signify | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 8–12 years | Not disclosed | 59/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=a80e90b779a2adb4) |
+| 2 | [Talent Acquisition Specialist](https://www.naukri.com/job-listings-talent-acquisition-specialist-oyo-gurugram-bengaluru-2-to-6-years-290926028823) | OYO | Gurugram, Bengaluru, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 200,000 - 475,000 | 94/100 | [Direct Apply](https://www.naukri.com/job-listings-talent-acquisition-specialist-oyo-gurugram-bengaluru-2-to-6-years-290926028823) |
+| 3 | [Candidate Manager (IT Recruiter)](https://www.naukri.com/job-listings-candidate-manager-it-recruiter-allegis-group-hyderabad-1-to-5-years-071126007907) | Allegis Group | Hyderabad, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.naukri.com/job-listings-candidate-manager-it-recruiter-allegis-group-hyderabad-1-to-5-years-071126007907) |
+| 4 | [Walk-in || HR- IT Recruiter](https://www.naukri.com/job-listings-hr-it-recruiter-black-and-white-business-solutions-bengaluru-0-to-0-years-071126007704) | Black And White Business Solutions | Bengaluru, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.naukri.com/job-listings-hr-it-recruiter-black-and-white-business-solutions-bengaluru-0-to-0-years-071126007704) |
+| 5 | [Talent Acquisition Specialist](https://www.naukri.com/job-listings-talent-acquisition-specialist-bluemavericks-bengaluru-0-to-1-years-071126007354) | Bluemavericks | Bengaluru(Vasanth nagar), India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 200,000 - 300,000 | 94/100 | [Direct Apply](https://www.naukri.com/job-listings-talent-acquisition-specialist-bluemavericks-bengaluru-0-to-1-years-071126007354) |
+| 6 | [Technical Recruiter (Whitefield, Bangalore) (Contract to Full-time)](https://www.linkedin.com/jobs/view/4488497522) | WEX | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488497522) |
+| 7 | [Technical Recruiter](https://www.linkedin.com/jobs/view/4484152979) | ManpowerGroup | Greater Bengaluru Area (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4484152979) |
+| 8 | [Senior Recruiter (Non- IT)](https://www.linkedin.com/jobs/view/4487300289) | Korn Ferry | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487300289) |
+| 9 | [Specialist, Technical Recruiter](https://www.linkedin.com/jobs/view/4486244163) | Randstad Enterprise | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486244163) |
+| 10 | [Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4486235883) | Randstad Enterprise | Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486235883) |
+| 11 | [HR – Talent Acquisition specialist (Hotel Industry)](https://in.indeed.com/viewjob?jk=88f3bd9a46beaa99) | Madcherry Hospitality | MH, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 120,000 - 180,000 | 94/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=88f3bd9a46beaa99) |
+| 12 | [US IT Technical Recruiter (Night Shift)](https://www.linkedin.com/jobs/view/4482228251) | Syntek Digital | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4482228251) |
+| 13 | [Technical Recruiter](https://www.linkedin.com/jobs/view/4487370248) | ALL KNOWN SERVICES | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487370248) |
+| 14 | [US Non-IT - Senior Recruiter](https://www.linkedin.com/jobs/view/4460742699) | W3Global | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4460742699) |
+| 15 | [US Non-IT Recruiter (Pharma & Lifesciences)](https://www.linkedin.com/jobs/view/4482162918) | ALGOBRAINZ | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4482162918) |
+| 16 | [US IT Recruiter (0–3 Years Experience)](https://www.linkedin.com/jobs/view/4487354583) | Quebec Solution Inc | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487354583) |
+| 17 | [US IT Recruiter](https://www.linkedin.com/jobs/view/4486294236) | Headway Tek Inc | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486294236) |
+| 18 | [International Recruiter (Night Shift)](https://www.linkedin.com/jobs/view/4487539057) | Futran Solutions | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487539057) |
+| 19 | [Technical Recruiter - Engineering](https://www.linkedin.com/jobs/view/4486285546) | Headway Tek Inc | Greater Hyderabad Area (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486285546) |
+| 20 | [Bench Sales Recruiter & Technical Recruiter – US IT Staffing](https://www.linkedin.com/jobs/view/4486994877) | TMT IT Solutions | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486994877) |
+| 21 | [IT Recruiter - Remote Work](https://www.linkedin.com/jobs/view/4487353077) | BairesDev | Santo Domingo, Distrito Nacional, Dominican Republic (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487353077) |
+| 22 | [NON-IT Recruiter || Day Shift || UPTO 20k TH || Incentives UPTO 10k](https://www.naukri.com/job-listings-non-it-recruiter-day-shift-upto-20k-th-incentives-upto-10k-axis-services-hyderabad-0-to-1-years-071126006753) | Axis Services | Hyderabad, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 150,000 - 250,000 | 94/100 | [Direct Apply](https://www.naukri.com/job-listings-non-it-recruiter-day-shift-upto-20k-th-incentives-upto-10k-axis-services-hyderabad-0-to-1-years-071126006753) |
+| 23 | [Senior US IT Recruiter](https://in.indeed.com/viewjob?jk=6867c82cf1babf12) | encore infotech services | TS, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 20,000 - 30,000 | 94/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=6867c82cf1babf12) |
+| 24 | [US Non-IT Recruiter](https://www.naukri.com/job-listings-us-non-it-recruiter-avani-technology-solutions-visakhapatnam-hyderabad-bengaluru-1-to-6-years-061126026099) | Avani Technology Solutions | Hyderabad, Visakhapatnam, Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 300,000 - 800,000 | 94/100 | [Direct Apply](https://www.naukri.com/job-listings-us-non-it-recruiter-avani-technology-solutions-visakhapatnam-hyderabad-bengaluru-1-to-6-years-061126026099) |
+| 25 | [Job Description Domestic IT Recruiter](https://www.naukri.com/job-listings-description-domestic-it-recruiter-the-aes-group-hyderabad-2-to-4-years-061126024366) | The Aes Group | Hyderabad, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 50,000 - 70,000 | 94/100 | [Direct Apply](https://www.naukri.com/job-listings-description-domestic-it-recruiter-the-aes-group-hyderabad-2-to-4-years-061126024366) |
+| 26 | [It Recruiter](https://www.naukri.com/job-listings-it-recruiter-orangemantra-bengaluru-2-to-4-years-061126012625) | OrangeMantra | Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 275,000 - 600,000 | 94/100 | [Direct Apply](https://www.naukri.com/job-listings-it-recruiter-orangemantra-bengaluru-2-to-4-years-061126012625) |
+| 27 | [Senior Recruiter](https://www.linkedin.com/jobs/view/4488457138) | Remote Team Solutions | Torreón, Coahuila, Mexico (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488457138) |
+| 28 | [Senior Recruiter (Remote, Cali)](https://www.linkedin.com/jobs/view/4488415065) | Blacksmith Agency | Colombia (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 94/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488415065) |
+| 29 | [Technical Recruiter (Whitefield, Bangalore) (Contract to Full-time)](https://in.indeed.com/viewjob?jk=f7958dba89cf2e37) | WEX Inc. | KA, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 92/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=f7958dba89cf2e37) |
+| 30 | [Talent Acquisition Specialist - Paris - CDI](https://www.linkedin.com/jobs/view/4487392409) | WOLD | Paris, Île-de-France, France (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487392409) |
+| 31 | [Talent Acquisition Specialist (US Market)](https://www.linkedin.com/jobs/view/4487382322) | Level 3 BOS | Karachi Division, Sindh, Pakistan (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487382322) |
+| 32 | [Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4487604101) | Togatha People | Trivandrum, Kerala, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487604101) |
+| 33 | [Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4461793403) | Capgemini Invent | Oslo, Oslo, Norway (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4461793403) |
+| 34 | [Bilingual - Sr Talent Acquisition Specialist (French + English)](https://www.linkedin.com/jobs/view/4461306568) | Epiroc | Sudbury, Ontario, Canada (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4461306568) |
+| 35 | [Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4488164586) | Castle Trust Bank | Basingstoke, England, UK (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488164586) |
+| 36 | [Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4463122222) | Leavitt Industrial Group | Greater Vancouver, British Columbia, Canada (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4463122222) |
+| 37 | [Bilingual Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4487352440) | Confidentiel | Greater Toronto Area, Canada (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487352440) |
+| 38 | [Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4485861689) | InteLogix | Cairo, Cairo, Egypt (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4485861689) |
+| 39 | [Global Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4487361150) | Eskimi | Barcelona, Catalonia, Spain (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487361150) |
+| 40 | [Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4480300297) | Aria Care Partners | Overland Park, KS, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4480300297) |
+| 41 | [Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4488175891) | Covenant | Chattanooga, TN, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488175891) |
+| 42 | [Talent Acquisition Specialist - Operations & Supply Chain](https://www.linkedin.com/jobs/view/4471893600) | Picnic Technologies | Paris, Île-de-France, France (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4471893600) |
+| 43 | [Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4477310133) | Michels Corporation | Green Bay, WI, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4477310133) |
+| 44 | [Senior Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4486252228) | HR Path | Greater Madrid Metropolitan Area (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486252228) |
+| 45 | [Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4488189356) | SEGULA Technologies | Montreal, Quebec, Canada (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488189356) |
+| 46 | [Senior Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4486843932) | WNC Corporation | El Paso, TX, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486843932) |
+| 47 | [Talent Acquisition Specialist with French (M/F)](https://www.linkedin.com/jobs/view/4488155780) | ARCHE Consulting | Łódź, Łódzkie, Poland (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488155780) |
+| 48 | [Sr. Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4486220950) | KLA | Hsinchu City, Taiwan, Taiwan (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486220950) |
+| 49 | [Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4488161011) | Customs Support Group | Saint Pierre, Moka, Mauritius (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488161011) |
+| 50 | [Sr. Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4485625234) | Plexus Corp. | Neenah, WI, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4485625234) |
+| 51 | [Talent Acquisition Specialist- Oil& Gas industry](https://www.linkedin.com/jobs/view/4486629748) | EduRun Group | Noida, Uttar Pradesh, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486629748) |
+| 52 | [Technical Recruiter (10k/Target based/from Consultancy)](https://www.linkedin.com/jobs/view/4487393624) | CAREERBLOC ~ | Delhi, Delhi, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487393624) |
+| 53 | [Talent Acquisition Specialist – Creative & Marketing Agencies](https://www.linkedin.com/jobs/view/4486591383) | High On Sales (HOS) | New Delhi, Delhi, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486591383) |
+| 54 | [US Non-IT Recruiter](https://www.linkedin.com/jobs/view/4486982731) | InfiCare Staffing | Noida, Uttar Pradesh, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486982731) |
+| 55 | [Healthcare & Pharma/Non-IT Recruiter](https://www.linkedin.com/jobs/view/4469786911) | Select Source International | Noida, Uttar Pradesh, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4469786911) |
+| 56 | [Sr Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4488138865) | F5 | Bangalore Rural District, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488138865) |
+| 57 | [Senior Technical Recruiter](https://www.linkedin.com/jobs/view/4488712183) | Amjaad Technology | Qesm El Maadi, Cairo, Egypt (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488712183) |
+| 58 | [Senior IT Recruiter | Lead End-to-End Talent Acquisition](https://www.linkedin.com/jobs/view/4486615924) | Emixa | ’s-Hertogenbosch, North Brabant, Netherlands (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486615924) |
+| 59 | [IT Recruitment Consultant](https://www.linkedin.com/jobs/view/4488480088) | JMT TalentLink | Ahmedabad, Gujarat, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488480088) |
+| 60 | [Senior Technical Recruiter](https://www.linkedin.com/jobs/view/4469694578) | Vibe.co | Paris, Île-de-France, France (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4469694578) |
+| 61 | [Senior IT Recruiter](https://www.linkedin.com/jobs/view/4488162070) | Randstad Digital Romania | Romania (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488162070) |
+| 62 | [Principal Technical Recruiter](https://www.linkedin.com/jobs/view/4487357401) | nCino | Greater Wilmington Area (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487357401) |
+| 63 | [Senior Technical Recruiter](https://www.linkedin.com/jobs/view/4488190314) | SteerBridge | Vienna, VA, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488190314) |
+| 64 | [Technical Recruiter](https://www.linkedin.com/jobs/view/4486290545) | Dew Software Inc | Vadodara, Gujarat, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486290545) |
+| 65 | [IT Recruiter Semi Senior](https://www.linkedin.com/jobs/view/4480521331) | Capgemini | Greater Buenos Aires (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4480521331) |
+| 66 | [US IT Recruiter](https://www.linkedin.com/jobs/view/4488170386) | InfoStride | Mohali district, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488170386) |
+| 67 | [Senior Technical Recruiter](https://www.linkedin.com/jobs/view/4480160125) | Anduril Industries | Washington, DC, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4480160125) |
+| 68 | [US IT Recruiter / Senior US IT Recruiter - Trichy](https://www.linkedin.com/jobs/view/4483254409) | Lorven Technologies Inc. | Tiruchirappalli, Tamil Nadu, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4483254409) |
+| 69 | [Technical Recruiter](https://www.linkedin.com/jobs/view/4488425465) | STL 1st | Greater St. Louis (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488425465) |
+| 70 | [US IT Recruiter](https://www.linkedin.com/jobs/view/4487368432) | Lorven Technologies Inc. | Tiruchirappalli, Tamil Nadu, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487368432) |
+| 71 | [US IT Recruiter](https://www.linkedin.com/jobs/view/4488452318) | Martian Wall | Nashik, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488452318) |
+| 72 | [Senior Technical Recruiter](https://www.linkedin.com/jobs/view/4319145413) | Talentful | New York, NY, USA (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4319145413) |
+| 73 | [Technical Recruiter](https://www.linkedin.com/jobs/view/4488489261) | RFgen Software | El Dorado Hills, CA, USA (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488489261) |
+| 74 | [Technical Recruiter (RPO)](https://www.linkedin.com/jobs/view/4486229487) | IBM | Quezon City, National Capital Region, Philippines (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486229487) |
+| 75 | [Senior Technical Recruiter](https://www.linkedin.com/jobs/view/4400454423) | K2 Space Corporation | Los Angeles, CA, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4400454423) |
+| 76 | [Technical Recruiter](https://www.linkedin.com/jobs/view/4477352064) | Howmet Aerospace | Torrance, CA, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4477352064) |
+| 77 | [Technical Recruiter](https://www.linkedin.com/jobs/view/4411574461) | K2 Space Corporation | Los Angeles, CA, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4411574461) |
+| 78 | [Technical Recruiter](https://www.linkedin.com/jobs/view/4477715772) | Piper Companies | Columbia, MD, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4477715772) |
+| 79 | [Technical Recruiter](https://www.linkedin.com/jobs/view/4385394943) | Etched | San Jose, CA, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4385394943) |
+| 80 | [Senior Technical Recruiter](https://www.linkedin.com/jobs/view/4425290584) | Radiant | El Segundo, CA, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4425290584) |
+| 81 | [Technical Recruiter](https://www.linkedin.com/jobs/view/4443501371) | Star Catcher | Jacksonville, FL, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4443501371) |
+| 82 | [International Recruiter (English-Speaking) | No Experience Required](https://www.linkedin.com/jobs/view/4488172213) | Archer - The IT Recruitment Consultancy (Malta) | Sliema, Malta (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488172213) |
+| 83 | [Senior Recruiter](https://www.linkedin.com/jobs/view/4488157707) | Joom | Lisbon, Portugal (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488157707) |
+| 84 | [Senior Recruiter - Global Oil & Gas Industry Client](https://www.linkedin.com/jobs/view/4479152803) | AMS | WP. Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4479152803) |
+| 85 | [Trilingual Senior Recruiter](https://www.linkedin.com/jobs/view/4488162468) | Cielo Talent | São Paulo, São Paulo, Brazil (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488162468) |
+| 86 | [Senior Recruiter](https://www.linkedin.com/jobs/view/4486610247) | 科天国际贸易(上海)有限公司 | Shanghai, Shanghai, China (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486610247) |
+| 87 | [Senior Recruiter, Core AI](https://www.linkedin.com/jobs/view/4463356035) | Microsoft | Redmond, WA, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4463356035) |
+| 88 | [Senior Recruiter](https://www.linkedin.com/jobs/view/4486981172) | AMS | Singapore, Singapore (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486981172) |
+| 89 | [Recruiter/Senior Recruiter - Experienced Hiring -Beijing](https://www.linkedin.com/jobs/view/4471412647) | Deloitte | Beijing, Beijing, China (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4471412647) |
+| 90 | [Senior Recruiter, Leadership](https://www.linkedin.com/jobs/view/4488177861) | Duolingo | New York, NY, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488177861) |
+| 91 | [Senior Recruiter](https://www.linkedin.com/jobs/view/4480154859) | Coinbase | Seattle, WA, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4480154859) |
+| 92 | [Senior Recruiter](https://www.linkedin.com/jobs/view/4484373537) | 11 Investments | City of Cape Town, Western Cape, South Africa (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4484373537) |
+| 93 | [Senior Recruiter, Corporate Operations](https://www.linkedin.com/jobs/view/4488441798) | Anduril Industries | Costa Mesa, CA, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488441798) |
+| 94 | [Senior Recruiter (French/English)](https://www.linkedin.com/jobs/view/4487303330) | ManpowerGroup Talent Solutions | Lima Metropolitan Area (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487303330) |
+| 95 | [Senior Recruiter](https://www.linkedin.com/jobs/view/4486271054) | 3Search | Austin, Texas Metropolitan Area (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486271054) |
+| 96 | [Senior Talent Acquisition Specialist](https://www.linkedin.com/jobs/view/4461359238) | SBM Management Services, LP | St Louis, MO, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4461359238) |
+| 97 | [Senior / Recruitment Consultant](https://www.linkedin.com/jobs/view/4487383302) | Achieve Group | Paya Lebar, East Region, Singapore (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487383302) |
+| 98 | [German-speaking Recruitment Consultant – Berlin](https://www.linkedin.com/jobs/view/4485359324) | NonStop Consulting | Berlin, Berlin, Germany (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4485359324) |
+| 99 | [Executive Recruitment Consultant](https://www.linkedin.com/jobs/view/4487369658) | BOSSHIRE Executive | Jakarta, Indonesia (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487369658) |
+| 100 | [Graduate Recruitment Consultant - March 2027 Start](https://www.linkedin.com/jobs/view/4486258130) | Phaidon International | City Of London, England, UK (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486258130) |
+| 101 | [Graduate Recruitment Consultant - February 2027 Start](https://www.linkedin.com/jobs/view/4486239836) | Phaidon International | City Of London, England, UK (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486239836) |
+| 102 | [Senior Recruitment Consultant - Night Shift - 3PM - 12AM](https://www.linkedin.com/jobs/view/4488153945) | NES Fircroft | Cairo, Egypt (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488153945) |
+| 103 | [Graduate Recruitment Consultant](https://www.linkedin.com/jobs/view/4486254129) | Seven Search and Selection Ltd | Leeds, England, UK (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486254129) |
+| 104 | [Recruitment Consultant](https://www.linkedin.com/jobs/view/4484074919) | Levin | London Area, UK (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4484074919) |
+| 105 | [Junior Recruitment Consultant](https://www.linkedin.com/jobs/view/4486253369) | McFly & Brown | Amsterdam, North Holland, Netherlands (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486253369) |
+| 106 | [Entry Level Recruitment Consultant](https://www.linkedin.com/jobs/view/4488408826) | Levin | Manhattan, NY, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488408826) |
+| 107 | [Recruitment Consultant](https://www.linkedin.com/jobs/view/4486246682) | Fawkes & Reece | London Area, UK (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486246682) |
+| 108 | [Recruitment Consultant : Career Changers Welcome](https://www.linkedin.com/jobs/view/4487736481) | Access Healthcare | Greater Dublin (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487736481) |
+| 109 | [Recruitment Consultant](https://www.linkedin.com/jobs/view/4484666839) | Hays | Exeter, England, UK (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4484666839) |
+| 110 | [Recruitment Consultant](https://www.linkedin.com/jobs/view/4486974818) | Reed | Birmingham, England, UK (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486974818) |
+| 111 | [Graduate Recruitment Consultant | Hedge Funds, Technology & AI](https://www.linkedin.com/jobs/view/4486244578) | Fair Recruitment Limited | City Of Bristol, England, UK (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486244578) |
+| 112 | [Recruitment Consultant](https://www.linkedin.com/jobs/view/4486977470) | Globe Locums | London, England, UK (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 86/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486977470) |
+| 113 | [PMO Specialist](https://in.indeed.com/viewjob?jk=f064b61c41c25807) | BT Group | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 85/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=f064b61c41c25807) |
+| 114 | [Implementation Lead](https://in.indeed.com/viewjob?jk=ed30eca75ed14484) | Uber | KA, India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 85/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=ed30eca75ed14484) |
+| 115 | [Data Analytics & Monitoring Evaluation Specialist](https://in.indeed.com/viewjob?jk=e96cf8229aa30db7) | ETS | Remote, India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 82/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=e96cf8229aa30db7) |
+| 116 | [specialist, talent partnership, enterprise](https://in.indeed.com/viewjob?jk=7be9da69d1b56dbb) | Randstad | TS, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 82/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=7be9da69d1b56dbb) |
+| 117 | [Recruitment Specialist (Non-IT) – Logistics & Supply Chain](https://in.indeed.com/viewjob?jk=73482e79d6b4972c) | Chronicle LLC FZ | Remote, India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 82/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=73482e79d6b4972c) |
+| 118 | [US Recruiter (Non-IT)](https://in.indeed.com/viewjob?jk=00ab5b1f497f5448) | Merrivant Recruitment Group LTD | HR, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 82/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=00ab5b1f497f5448) |
+| 119 | [Systems Engineering Specialist Advisor](https://in.indeed.com/viewjob?jk=7c2cf8cf8c9ca1fa) | NTT DATA | UP, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 82/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=7c2cf8cf8c9ca1fa) |
+| 120 | [Vulnerability Management](https://in.indeed.com/viewjob?jk=e81753f96ee07c6a) | NTT DATA | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 82/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=e81753f96ee07c6a) |
+| 121 | [Specialist - Information Lifecycle Management](https://in.indeed.com/viewjob?jk=6ac8655d6fe1704f) | BT Group | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 82/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=6ac8655d6fe1704f) |
+| 122 | [Technical Software Engineering Lead -Lead Software Engineer II](https://in.indeed.com/viewjob?jk=4e112e08bbc0ef84) | Deloitte | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 82/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=4e112e08bbc0ef84) |
+| 123 | [Strategic Business Planning Analyst](https://in.indeed.com/viewjob?jk=34f1aa2f455d1c4b) | BT Group | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 82/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=34f1aa2f455d1c4b) |
+| 124 | [Agentic AI Developer - AI and Data Science Engineer III](https://in.indeed.com/viewjob?jk=13e643b1ba9d0244) | Deloitte | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 82/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=13e643b1ba9d0244) |
+| 125 | [Systems Engineering Advisor - EUC Applications - Infrastructure Engineer](https://in.indeed.com/viewjob?jk=7f7854b84a8b6edc) | NTT DATA | TS, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 82/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=7f7854b84a8b6edc) |
+| 126 | [Manager - Immigration Compliance](https://in.indeed.com/viewjob?jk=70bcc9cf44b6ede9) | Deloitte | TS, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 82/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=70bcc9cf44b6ede9) |
+| 127 | [Applied AI Product Leader – Group Product Manager](https://in.indeed.com/viewjob?jk=17563683de7f3140) | Deloitte | TS, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 82/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=17563683de7f3140) |
+| 128 | [Oracle Fusion Cloud Integration Senior Technical Consultant- 14496](https://in.indeed.com/viewjob?jk=d335893ee51d7a71) | Fujitsu | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 82/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=d335893ee51d7a71) |
+| 129 | [Senior Full Stack Software Engineer (Python & React)](https://automattic.com/work-with-us/) | Automattic | Worldwide Remote (Remote / WFH) | 2 hours ago (1-6h) | 4-8 years | USD $120,000 - $160,000 | 82/100 | [Direct Apply](https://automattic.com/work-with-us/) |
+| 130 | [FP&A Lead (Strategic Growth & Forecasting)](https://stripe.com/jobs) | Stripe | Remote (Global / USA) (Remote / WFH) | Posted today (12-24h) | 4-8 years | USD $125,000 - $165,000 | 82/100 | [Direct Apply](https://stripe.com/jobs) |
+| 131 | [Technical Talent Sourcing Specialist](https://careers.microsoft.com/us/en/job/1749102) | Microsoft | Bengaluru / Hyderabad, India (Hybrid (3 days WFO / 2 days WFH)) | 2 hours ago (1-6h) | 3-7 years | INR 24,00,000 - 35,00,000 | 82/100 | [Direct Apply](https://careers.microsoft.com/us/en/job/1749102) |
+| 132 | [Sr Talent Acquisition](https://www.naukri.com/job-listings-sr-talent-acquisition-intellics-global-services-jamshedpur-3-to-6-years-071126008731) | Intellics Global Services | India (Remote / WFH) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 100,000 - 225,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-sr-talent-acquisition-intellics-global-services-jamshedpur-3-to-6-years-071126008731) |
+| 133 | [Human Resource Recruiter](https://www.naukri.com/job-listings-human-resource-recruiter-nest-academy-of-management-education-mumbai-all-areas-1-to-4-years-071126008674) | Nest Academy Of Management Education | India (Remote / WFH) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 125,000 - 375,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-human-resource-recruiter-nest-academy-of-management-education-mumbai-all-areas-1-to-4-years-071126008674) |
+| 134 | [Hiring For Talent Acquisition Executive | Recruitment | Day Shift!](https://www.naukri.com/job-listings-hiring-for-talent-acquisition-executive-recruitment-day-shift-rivera-manpower-services-bengaluru-0-to-5-years-071126008484) | Rivera Manpower Services | Bengaluru, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 300,000 - 500,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-hiring-for-talent-acquisition-executive-recruitment-day-shift-rivera-manpower-services-bengaluru-0-to-5-years-071126008484) |
+| 135 | [Jr. Manager - Talent Acquisition](https://www.naukri.com/job-listings-jr-manager-talent-acquisition-gmr-airports-infrastructure-hyderabad-6-to-10-years-071126008469) | GMR Airports Infrastructure | Hyderabad, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 600,000 - 900,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-jr-manager-talent-acquisition-gmr-airports-infrastructure-hyderabad-6-to-10-years-071126008469) |
+| 136 | [Recruiter & TA - Lateral Hiring (Non-IT)|| Bangalore & Mumbai](https://www.naukri.com/job-listings-recruiter-ta-lateral-hiring-non-it-bangalore-mumbai-axis-services-bengaluru-mumbai-all-areas-3-to-6-years-071126008277) | Axis Services | Bengaluru, Mumbai (All Areas), India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 400,000 - 650,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-recruiter-ta-lateral-hiring-non-it-bangalore-mumbai-axis-services-bengaluru-mumbai-all-areas-3-to-6-years-071126008277) |
+| 137 | [Human Resource Recruiter](https://www.naukri.com/job-listings-human-resource-recruiter-crystal-hues-bengaluru-0-to-1-years-071126008216) | Crystal Hues | Bengaluru, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 250,000 - 300,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-human-resource-recruiter-crystal-hues-bengaluru-0-to-1-years-071126008216) |
+| 138 | [Senior AI Engineer - Multi-Agent](https://www.naukri.com/job-listings-senior-ai-engineer-multi-agent-black-and-white-business-solutions-hyderabad-9-to-14-years-071126007958) | Black And White Business Solutions | Hyderabad, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-senior-ai-engineer-multi-agent-black-and-white-business-solutions-hyderabad-9-to-14-years-071126007958) |
+| 139 | [Hr Fresher](https://www.naukri.com/job-listings-hr-fresher-black-and-white-business-solutions-bengaluru-0-to-0-years-071126007714) | Black And White Business Solutions | Bengaluru, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-hr-fresher-black-and-white-business-solutions-bengaluru-0-to-0-years-071126007714) |
+| 140 | [Artificial Intelligence Engineer](https://www.naukri.com/job-listings-artificial-intelligence-engineer-black-and-white-business-solutions-hyderabad-5-to-10-years-071126007409) | Black And White Business Solutions | Hyderabad, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 1,500,000 - 2,000,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-artificial-intelligence-engineer-black-and-white-business-solutions-hyderabad-5-to-10-years-071126007409) |
+| 141 | [Hr Recruitment Professional](https://www.naukri.com/job-listings-hr-recruitment-professional-assort-1-corp-services-mumbai-all-areas-1-to-4-years-071126007223) | Assort 1 Corp Services | Mumbai (All Areas)(Andheri East +3), India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 250,000 - 450,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-hr-recruitment-professional-assort-1-corp-services-mumbai-all-areas-1-to-4-years-071126007223) |
+| 142 | [Senior Industrial/ Manufacturing Recruiter](https://www.linkedin.com/jobs/view/4487386913) | SpeedMart | Gurugram, Haryana, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487386913) |
+| 143 | [Talent Sourcer - 6 Months contract Role](https://www.linkedin.com/jobs/view/4479355277) | Ciena | Gurugram, Haryana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4479355277) |
+| 144 | [Italy-Talent Consultant Support-Onboarding and JobPortability-TS-Supervising Associate-In](https://www.linkedin.com/jobs/view/4486258319) | EY | Gurugram, Haryana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486258319) |
+| 145 | [Service Level Manager](https://www.naukri.com/job-listings-service-level-manager-black-and-white-business-solutions-gurugram-bengaluru-5-to-9-years-071126005979) | Black And White Business Solutions | Gurugram, Bengaluru, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 900,000 - 1,500,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-service-level-manager-black-and-white-business-solutions-gurugram-bengaluru-5-to-9-years-071126005979) |
+| 146 | [US / UK Flight sales agent ll PPC / Meta ll 60k Gurgaon](https://www.naukri.com/job-listings-us-uk-flight-sales-agent-ll-ppc-meta-ll-60k-gurgaon-sharda-consultancy-services-noida-new-delhi-gurugram-1-to-6-years-061126026201) | Sharda Consultancy Services | Gurugram, Noida, New Delhi, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 400,000 - 600,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-us-uk-flight-sales-agent-ll-ppc-meta-ll-60k-gurgaon-sharda-consultancy-services-noida-new-delhi-gurugram-1-to-6-years-061126026201) |
+| 147 | [Talent Acquisition Executive](https://www.naukri.com/job-listings-talent-acquisition-executive-msm-global-education-gurugram-0-to-2-years-061126023955) | MSM Global Education | India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 275,000 - 325,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-talent-acquisition-executive-msm-global-education-gurugram-0-to-2-years-061126023955) |
+| 148 | [Senior Human Resource Executive](https://www.naukri.com/job-listings-senior-human-resource-executive-tecnova-india-gurugram-3-to-6-years-061126023771) | Tecnova India | Gurugram(Udyog Vihar), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-senior-human-resource-executive-tecnova-india-gurugram-3-to-6-years-061126023771) |
+| 149 | [Talent Acquisition Manager](https://www.linkedin.com/jobs/view/4488704189) | Lolly.com | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488704189) |
+| 150 | [Human Resources (HR) Executive in Bangalore](https://www.linkedin.com/jobs/view/4488469147) | Lagorii | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488469147) |
+| 151 | [Talent Acquisition (Internship)](https://www.linkedin.com/jobs/view/4487611065) | BrightCHAMPS | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487611065) |
+| 152 | [Human Resources Intern](https://www.linkedin.com/jobs/view/4486626208) | SkillFlow_Learning | Bengaluru South, Karnataka, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486626208) |
+| 153 | [Tech Sourcer (Contract)](https://www.linkedin.com/jobs/view/4486641364) | Databricks | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486641364) |
+| 154 | [Human Resources Manager](https://www.linkedin.com/jobs/view/4487381541) | Archish Fertility & IVF | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487381541) |
+| 155 | [Placement Executive](https://www.linkedin.com/jobs/view/4487389862) | CliniLaunch Research Institute | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487389862) |
+| 156 | [Talent Acquisition Partner](https://www.linkedin.com/jobs/view/4488158097) | GE Vernova | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488158097) |
+| 157 | [Talent Acquisition Executive (Tech, Product, SaaS)](https://www.linkedin.com/jobs/view/4488164801) | TalentXO | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488164801) |
+| 158 | [Associate - US Recruiting](https://www.linkedin.com/jobs/view/4470991548) | Clean Harbors | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4470991548) |
+| 159 | [Talent Acquisition Recruiter](https://www.linkedin.com/jobs/view/4486997008) | SyncUp | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486997008) |
+| 160 | [Talent Acquisition Consultant - UK Hiring](https://www.linkedin.com/jobs/view/4486264131) | Version 1 | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486264131) |
+| 161 | [Curation Specialist - India](https://www.linkedin.com/jobs/view/4486991496) | Raise | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486991496) |
+| 162 | [Talent Acquisition Trainee](https://www.linkedin.com/jobs/view/4488163434) | NES Fircroft | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488163434) |
+| 163 | [Recruitment Manager](https://www.linkedin.com/jobs/view/4487317655) | Datasoft Technologies, Inc. | Greater Bengaluru Area (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487317655) |
+| 164 | [Talent Operations Coordinator](https://www.linkedin.com/jobs/view/4479991036) | OnePay | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4479991036) |
+| 165 | [Talent Acquisition | Senior Executive Search Consultant | Headhunter](https://www.linkedin.com/jobs/view/4486224940) | Quest Global | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486224940) |
+| 166 | [Executive Recruiter](https://www.linkedin.com/jobs/view/4479878454) | Guidewire Software | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4479878454) |
+| 167 | [Recruiter, TA Stores](https://www.linkedin.com/jobs/view/4471120665) | Amazon | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4471120665) |
+| 168 | [Freelance Field Recruiter](https://www.linkedin.com/jobs/view/4486251012) | Nemat industries | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486251012) |
+| 169 | [Assistant Manager](https://www.linkedin.com/jobs/view/4488141429) | PeopleLogic | Greater Bengaluru Area (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488141429) |
+| 170 | [Human Resources Executive](https://www.linkedin.com/jobs/view/4486253337) | Samarthang Healthcare Private Limited | Bengaluru South, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486253337) |
+| 171 | [Talent Management Coordinator](https://www.linkedin.com/jobs/view/4488453431) | KeyData Cyber | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488453431) |
+| 172 | [Human Resources Executive (Mumbai Candidates Only)](https://www.linkedin.com/jobs/view/4486640458) | Collegepond | Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486640458) |
+| 173 | [HR Officer in Navi Mumbai, Vashi, Navi Mumbai, Thane](https://www.linkedin.com/jobs/view/4488448997) | BNM Business Solutions LLP | Thane, Maharashtra, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488448997) |
+| 174 | [HR Manager – Founder’s Office](https://www.linkedin.com/jobs/view/4486629741) | Animeal | Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486629741) |
+| 175 | [Senior Executive Human Resources](https://www.linkedin.com/jobs/view/4486627870) | SBA Infraprojects Pvt. Ltd. | Navi Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486627870) |
+| 176 | [Talent Acquisition Lead](https://www.linkedin.com/jobs/view/4486624566) | DoubleTick | Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486624566) |
+| 177 | [Human Resources Business Partner](https://www.linkedin.com/jobs/view/4486643230) | DoubleTick | Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486643230) |
+| 178 | [Human Resources (HR) Internship in Mahad, Navi Mumbai, Vashi Navi Mumbai, Turbhe, Navi Mumbai, Navi Mumbai, Belapur, Mumbai, Mumbai, Vashi, Navi Mumbai, Navi Mumbai, Thane, Navi Mumbai](https://www.linkedin.com/jobs/view/4488451768) | BNM Business Solutions LLP | Thane, Maharashtra, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488451768) |
+| 179 | [Senior HR Recruiter F&A (Finance & Accounts)](https://www.linkedin.com/jobs/view/4486971983) | San | Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486971983) |
+| 180 | [Full Life Cycle Recruiter, Amazon Web Services](https://www.linkedin.com/jobs/view/4480362643) | Amazon Web Services (AWS) | Mumbai Metropolitan Region (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4480362643) |
+| 181 | [Sourcing Specialist](https://www.linkedin.com/jobs/view/4486232925) | Randstad Enterprise | Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486232925) |
+| 182 | [APAC Workforce Operations Specialist](https://www.linkedin.com/jobs/view/4486975907) | Murex | Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486975907) |
+| 183 | [Recruitment Manager](https://www.linkedin.com/jobs/view/4486984202) | NetAmbit | Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486984202) |
+| 184 | [Manager, Human Resources](https://www.linkedin.com/jobs/view/4480192340) | Marriott International | Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4480192340) |
+| 185 | [Human Resources Manager](https://www.linkedin.com/jobs/view/4486224863) | Orbit Verify | Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486224863) |
+| 186 | [Junior HR Generalist](https://www.linkedin.com/jobs/view/4486223719) | Holistic Mind Therapy | Mumbai Metropolitan Region (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486223719) |
+| 187 | [Talent Acquisition Consultant (Fixed Term Contract)](https://www.linkedin.com/jobs/view/4471069083) | Piramal Pharma Ltd | Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4471069083) |
+| 188 | [Associate, Client Solution](https://www.linkedin.com/jobs/view/4470092886) | GLG | Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4470092886) |
+| 189 | [HR Recruiter – US Healthcare RCM](https://www.linkedin.com/jobs/view/4488426512) | Globe Centrix | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488426512) |
+| 190 | [Recruiter I](https://www.linkedin.com/jobs/view/4472061632) | Conduent | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4472061632) |
+| 191 | [Services Support Associate II - Talent Acquisition - Business Recruiting Coordination - Hyderabad](https://www.linkedin.com/jobs/view/4463835217) | Deloitte | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4463835217) |
+| 192 | [TA Manager - Trainers POD](https://www.linkedin.com/jobs/view/4488702546) | r3 Consultant | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488702546) |
+| 193 | [HR Manager](https://www.linkedin.com/jobs/view/4487396744) | Neuraleap Group | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487396744) |
+| 194 | [Human Resources Manager](https://www.linkedin.com/jobs/view/4486437659) | JRD Systems | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486437659) |
+| 195 | [Talent Acquisition Partner](https://www.linkedin.com/jobs/view/4488199577) | Invesco | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488199577) |
+| 196 | [Sourcing Specialist - US Recruitment (Non IT)](https://www.linkedin.com/jobs/view/4486227607) | Randstad Enterprise | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486227607) |
+| 197 | [OPT Recruiter](https://www.linkedin.com/jobs/view/4487348855) | SharpAtoms | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487348855) |
+| 198 | [Bench Sales Recruiter](https://www.linkedin.com/jobs/view/4486255920) | HIKMATRIX | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486255920) |
+| 199 | [HR & Franchise Operations Associate](https://www.linkedin.com/jobs/view/4486246537) | Vision Square INC | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486246537) |
+| 200 | [MSP Program Specialist](https://www.linkedin.com/jobs/view/4486282493) | Workspend Inc. | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486282493) |
+| 201 | [Full Lifecycle Recruiter I, WWAS TA](https://www.linkedin.com/jobs/view/4468135510) | Amazon | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4468135510) |
+| 202 | [Non IT Bench Sales Recruiters](https://www.linkedin.com/jobs/view/4488416406) | United Pharma | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488416406) |
+| 203 | [US Non IT BenchSales Recruiter](https://www.linkedin.com/jobs/view/4488430037) | Virtue America | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488430037) |
+| 204 | [Staffing Fronters Consultant - Remote Work](https://www.linkedin.com/jobs/view/4487338610) | BairesDev | Cajamarca, Peru (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487338610) |
+| 205 | [Hiring | Recruiter I lateral Hiring | Mumbai |  UPTO 6.5 LPA |](https://www.naukri.com/job-listings-hiring-recruiter-i-lateral-hiring-mumbai-upto-6-5-lpa-axis-services-mumbai-4-to-6-years-071126006984) | Axis Services | Mumbai, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 500,000 - 600,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-hiring-recruiter-i-lateral-hiring-mumbai-upto-6-5-lpa-axis-services-mumbai-4-to-6-years-071126006984) |
+| 206 | [Hiring Recruiter](https://www.naukri.com/job-listings-hiring-recruiter-pexrise-solutions-bengaluru-5-to-10-years-080926034138) | Pexrise Solutions | Bengaluru, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 2,000,000 - 2,750,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-hiring-recruiter-pexrise-solutions-bengaluru-5-to-10-years-080926034138) |
+| 207 | [Hiring | Recruiter I Lateral Hiring || UPTO 6.5 LPA ||](https://www.naukri.com/job-listings-hiring-recruiter-i-lateral-hiring-upto-6-5-lpa-axis-services-bengaluru-4-to-6-years-071126006875) | Axis Services | Bengaluru, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 500,000 - 650,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-hiring-recruiter-i-lateral-hiring-upto-6-5-lpa-axis-services-bengaluru-4-to-6-years-071126006875) |
+| 208 | [Recruiter](https://www.naukri.com/job-listings-recruiter-petra-silicon-pvt-ltd-hyderabad-2-to-7-years-071126006612) | Petra Silicon Pvt Ltd | Hyderabad, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 300,000 - 425,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-recruiter-petra-silicon-pvt-ltd-hyderabad-2-to-7-years-071126006612) |
+| 209 | [Looking For SAP WM /Immediate/5-15 years/Long term C2H](https://www.naukri.com/job-listings-looking-for-sap-wm-immediate-5-15-years-long-term-c2h-vipany-global-hyderabad-chennai-bengaluru-6-to-11-years-071126006523) | Vipany Global | Hyderabad, Chennai, Bengaluru, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 1,800,000 - 3,300,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-looking-for-sap-wm-immediate-5-15-years-long-term-c2h-vipany-global-hyderabad-chennai-bengaluru-6-to-11-years-071126006523) |
+| 210 | [Looking For Oracle ADF/5-15 Years/immediate/Long term C2H](https://www.naukri.com/job-listings-looking-for-oracle-adf-5-15-years-immediate-long-term-c2h-vipany-global-hyderabad-chennai-bengaluru-5-to-10-years-071126006149) | Vipany Global | Hyderabad, Chennai, Bengaluru, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 1,500,000 - 3,000,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-looking-for-oracle-adf-5-15-years-immediate-long-term-c2h-vipany-global-hyderabad-chennai-bengaluru-5-to-10-years-071126006149) |
+| 211 | [Part Time Recruiters- 4Hrs/Day; 5Days/Week; WFH Only](https://www.naukri.com/job-listings-part-time-4hrs-day-5days-week-wfh-only-linked-globe-consultancy-services-delhi-ncr-1-to-6-years-071126005897) | Linked Globe Consultancy Services | India (Remote / WFH) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-part-time-4hrs-day-5days-week-wfh-only-linked-globe-consultancy-services-delhi-ncr-1-to-6-years-071126005897) |
+| 212 | [Healthcare Senior Specialist1](https://in.indeed.com/viewjob?jk=c39e9949093a25c0) | NTT DATA | UP, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=c39e9949093a25c0) |
+| 213 | [Talent Acquisition Partner](https://www.linkedin.com/jobs/view/4479590422) | emagine | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4479590422) |
+| 214 | [Software Engineer Consultant II -](https://in.indeed.com/viewjob?jk=1ecc2ae1478e9199) | Allstate Insurance | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=1ecc2ae1478e9199) |
+| 215 | [Sr Director, Product Mgmt (UI/UX)](https://in.indeed.com/viewjob?jk=496ab516a9f90195) | NetApp | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=496ab516a9f90195) |
+| 216 | [Systems Integration Senior Analyst](https://in.indeed.com/viewjob?jk=054869d8fb0ad21b) | NTT DATA | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=054869d8fb0ad21b) |
+| 217 | [Messaging Services Senior Specialist-Enterprise Voice Administrator](https://in.indeed.com/viewjob?jk=ce9923c7ed28e97e) | NTT DATA | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=ce9923c7ed28e97e) |
+| 218 | [Practice Leader – Tech, Startups & Venture Capital Ecosystem (PSS07666)](https://www.linkedin.com/jobs/view/4462772632) | Personnel Search Services Group | Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4462772632) |
+| 219 | [Head of Human Resources](https://www.linkedin.com/jobs/view/4486244494) | DoubleTick | Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486244494) |
+| 220 | [Senior Total Reward Analyst](https://in.indeed.com/viewjob?jk=314ffdc053b3afd6) | Eide Bailly | MH, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 3-5 years | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=314ffdc053b3afd6) |
+| 221 | [Permanent Work From Home - HR Recruiter - Commission based](https://www.naukri.com/job-listings-permanent-work-from-home-hr-recruiter-commission-based-wrixty-services-mumbai-all-areas-0-to-3-years-061126024944) | Wrixty Services | India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 50,000 - 300,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-permanent-work-from-home-hr-recruiter-commission-based-wrixty-services-mumbai-all-areas-0-to-3-years-061126024944) |
+| 222 | [Head of TA – IT Lateral Hiring](https://www.linkedin.com/jobs/view/4488710243) | r3 Consultant | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488710243) |
+| 223 | [System Analyst](https://in.indeed.com/viewjob?jk=e4f56c2a00a53481) | Salesforce | TS, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 0-3 years | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=e4f56c2a00a53481) |
+| 224 | [Bench Sales Recruiter - USA](https://in.indeed.com/viewjob?jk=51246bc6356ed3c6) | Derex Technologies inc | TS, India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=51246bc6356ed3c6) |
+| 225 | [Lead Staffing Specialist](https://www.naukri.com/job-listings-lead-staffing-specialist-epam-systems-hyderabad-chennai-bengaluru-8-to-12-years-040926018448) | Epam Systems | Hyderabad, Chennai, Bengaluru, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-lead-staffing-specialist-epam-systems-hyderabad-chennai-bengaluru-8-to-12-years-040926018448) |
+| 226 | [Lead/Senior Functional Consultant - Infor WMS Consultant](https://www.naukri.com/job-listings-lead-senior-functional-consultant-infor-wms-consultant-epam-systems-hyderabad-chennai-bengaluru-8-to-12-years-121026011615) | Epam Systems | Hyderabad, Chennai, Bengaluru, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-lead-senior-functional-consultant-infor-wms-consultant-epam-systems-hyderabad-chennai-bengaluru-8-to-12-years-121026011615) |
+| 227 | [Manager - Technology Consulting - Infor WMS](https://www.naukri.com/job-listings-manager-technology-consulting-infor-wms-epam-systems-hyderabad-chennai-bengaluru-10-to-13-years-121026011791) | Epam Systems | Hyderabad, Chennai, Bengaluru, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-manager-technology-consulting-infor-wms-epam-systems-hyderabad-chennai-bengaluru-10-to-13-years-121026011791) |
+| 228 | [Bench Sales Recruiter](https://www.naukri.com/job-listings-bench-sales-recruiter-alphabyte-insights-vijayawada-hyderabad-2-to-7-years-061126025157) | Alphabyte Insights | Hyderabad(HITEC City), Vijayawada(Bhavanipuram), India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 200,000 - 600,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-bench-sales-recruiter-alphabyte-insights-vijayawada-hyderabad-2-to-7-years-061126025157) |
+| 229 | [SF EC Core HR  - Manager-Bangalore](https://www.linkedin.com/jobs/view/4440192606) | PwC Acceleration Center India | Bengaluru East, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4440192606) |
+| 230 | [SAP ABAP Technical](https://in.indeed.com/viewjob?jk=9036bffee93526e2) | NTT DATA | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 3-5 yrs | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=9036bffee93526e2) |
+| 231 | [Fresh MBA - HR Consultants -IT](https://www.naukri.com/job-listings-fresh-mba-hr-consultants-it-talent-track-services-bengaluru-0-to-0-years-080926027193) | Talent Track Services | Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 250,000 - 250,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-fresh-mba-hr-consultants-it-talent-track-services-bengaluru-0-to-0-years-080926027193) |
+| 232 | [Immediate Hiring For US Recruiter- Only Direct clients](https://www.naukri.com/job-listings-immediate-hiring-for-us-recruiter-only-direct-clients-sunrise-biztech-systems-bengaluru-1-to-6-years-071126000036) | Sunrise Biztech Systems | Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-immediate-hiring-for-us-recruiter-only-direct-clients-sunrise-biztech-systems-bengaluru-1-to-6-years-071126000036) |
+| 233 | [Talent Acquisition Executive](https://www.naukri.com/job-listings-talent-acquisition-executive-novel-office-bengaluru-0-to-1-years-030926028645) | Novel Office | Bengaluru, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 225,000 - 300,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-talent-acquisition-executive-novel-office-bengaluru-0-to-1-years-030926028645) |
+| 234 | [RSC Job dev124 05-11](https://www.linkedin.com/jobs/view/4486966971) | iCIMS Middleware Test Company | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486966971) |
+| 235 | [RSC Job dev115](https://www.linkedin.com/jobs/view/4486988052) | iCIMS Middleware Test Company | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486988052) |
+| 236 | [Manager- Integration Solution & Technical Leadership (US Shift)](https://www.linkedin.com/jobs/view/4480364050) | Darwinbox | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4480364050) |
+| 237 | [Senior Director, India Global Delivery Center (GDC)-Services](https://www.linkedin.com/jobs/view/4471640042) | GE Vernova | Greater Hyderabad Area (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4471640042) |
+| 238 | [RSC Job dev114](https://www.linkedin.com/jobs/view/4486984110) | iCIMS Middleware Test Company | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486984110) |
+| 239 | [Recruiter (IT & Advertising) | Remote](https://www.linkedin.com/jobs/view/4486236978) | NDA | Ukraine (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486236978) |
+| 240 | [Recruiter (Remote, Vitoria)](https://www.linkedin.com/jobs/view/4488405680) | Blacksmith Agency | Brazil (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488405680) |
+| 241 | [Senior Associate - Client Solutions APAC (US Shift)](https://www.linkedin.com/jobs/view/4470038956) | GLG | Gurugram, Haryana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4470038956) |
+| 242 | [CAD Technician - Pavement](https://in.indeed.com/viewjob?jk=a71fe8cdc4fa8a46) | WSP | UP, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=a71fe8cdc4fa8a46) |
+| 243 | [Senior Coordinator, Executive Administrative Support](https://in.indeed.com/viewjob?jk=a7aa59998f81a815) | WSP | UP, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=a7aa59998f81a815) |
+| 244 | [BIM Technician - ELV](https://in.indeed.com/viewjob?jk=220aa7ff54745778) | WSP | UP, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=220aa7ff54745778) |
+| 245 | [Senior Engineer - Building Technology Systems](https://in.indeed.com/viewjob?jk=088333d2afaacdbe) | WSP | UP, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=088333d2afaacdbe) |
+| 246 | [Placement Coordinator](https://www.linkedin.com/jobs/view/4487387987) | CliniLaunch Research Institute | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487387987) |
+| 247 | [Manager - Global Mobility](https://www.linkedin.com/jobs/view/4488424075) | Vialto | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488424075) |
+| 248 | [Global Mobility Manager](https://www.linkedin.com/jobs/view/4488408739) | Vialto | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488408739) |
+| 249 | [Senior Engineer - Electrical](https://in.indeed.com/viewjob?jk=52c8eb0f319c63e9) | WSP | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=52c8eb0f319c63e9) |
+| 250 | [Senior BIM Technician – Electrical](https://in.indeed.com/viewjob?jk=3d7bebcb34627578) | WSP | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=3d7bebcb34627578) |
+| 251 | [Senior BIM Technician – Mechanical](https://in.indeed.com/viewjob?jk=769817c75ef24154) | WSP | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=769817c75ef24154) |
+| 252 | [Immigration Compliance - Tax Consultant II, Tax Services](https://in.indeed.com/viewjob?jk=e426607a3c7625f0) | Deloitte | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 2-5 years | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=e426607a3c7625f0) |
+| 253 | [Technical Program Manager - Voice AI - Automotive (India)](https://in.indeed.com/viewjob?jk=0a4aa8cc233e2353) | SoundHound AI | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=0a4aa8cc233e2353) |
+| 254 | [Voice / Non Voice / Inbound / Outbound / CSR / Fresher / Experience](https://www.naukri.com/job-listings-voice-non-voice-inbound-outbound-csr-fresher-experience-rivera-manpower-services-bengaluru-0-to-5-years-071126008679) | Rivera Manpower Services | Bengaluru, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 300,000 - 800,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-voice-non-voice-inbound-outbound-csr-fresher-experience-rivera-manpower-services-bengaluru-0-to-5-years-071126008679) |
+| 255 | [Company Secretary / Corporate Administration Manager](https://www.naukri.com/job-listings-company-secretary-corporate-administration-manager-rakesh-infinivis-bengaluru-2-to-7-years-071126008453) | Rakesh Infinivis | Bengaluru, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-company-secretary-corporate-administration-manager-rakesh-infinivis-bengaluru-2-to-7-years-071126008453) |
+| 256 | [BPO / Fresher / Non-Voice / Customer Service / Inbound / Technical](https://www.naukri.com/job-listings-bpo-fresher-non-voice-customer-service-inbound-technical-rivera-manpower-services-bengaluru-0-to-5-years-071126008376) | Rivera Manpower Services | Bengaluru, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 350,000 - 650,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-bpo-fresher-non-voice-customer-service-inbound-technical-rivera-manpower-services-bengaluru-0-to-5-years-071126008376) |
+| 257 | [Primary Mathematics Teacher](https://www.naukri.com/job-listings-primary-mathematics-teacher-k12-techno-services-hyderabad-pune-bengaluru-5-to-10-years-021126006013) | K12 Techno Services | Bengaluru, Hyderabad, Pune, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-primary-mathematics-teacher-k12-techno-services-hyderabad-pune-bengaluru-5-to-10-years-021126006013) |
+| 258 | [Specialist - Azure Integration - Leading MNC - Immediate Joiner](https://www.naukri.com/job-listings-specialist-azure-integration-leading-mnc-immediate-joiner-talent-infinity-hyderabad-pune-chennai-bengaluru-mumbai-all-areas-3-to-8-years-071126008083) | Talent Infinity | Bengaluru, Hyderabad, Pune, Chennai, Mumbai (All Areas), India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 1,600,000 - 2,000,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-specialist-azure-integration-leading-mnc-immediate-joiner-talent-infinity-hyderabad-pune-chennai-bengaluru-mumbai-all-areas-3-to-8-years-071126008083) |
+| 259 | [Hiring - Top International & Domestic Call Centers | Customer Service](https://www.naukri.com/job-listings-hiring-top-international-domestic-call-centers-customer-service-circle-consulting-bengaluru-0-to-5-years-290926030892) | Circle Consulting | Bengaluru, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 225,000 - 450,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-hiring-top-international-domestic-call-centers-customer-service-circle-consulting-bengaluru-0-to-5-years-290926030892) |
+| 260 | [Hiring International Voice Process Executive](https://www.naukri.com/job-listings-hiring-international-voice-process-executive-circle-consulting-bengaluru-0-to-3-years-280926031176) | Circle Consulting | Bengaluru, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 275,000 - 425,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-hiring-international-voice-process-executive-circle-consulting-bengaluru-0-to-3-years-280926031176) |
+| 261 | [WE ARE Hiring | Customer Support | International VOICE Process](https://www.naukri.com/job-listings-we-are-hiring-customer-support-international-voice-process-circle-consulting-bengaluru-0-to-3-years-290926022439) | Circle Consulting | Bengaluru, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 275,000 - 425,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-we-are-hiring-customer-support-international-voice-process-circle-consulting-bengaluru-0-to-3-years-290926022439) |
+| 262 | [Hiring International Voice Process | Customer Care | Call Center | BPO](https://www.naukri.com/job-listings-hiring-international-voice-process-customer-care-call-center-bpo-circle-consulting-bengaluru-0-to-4-years-260926005664) | Circle Consulting | Bengaluru, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 275,000 - 450,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-hiring-international-voice-process-customer-care-call-center-bpo-circle-consulting-bengaluru-0-to-4-years-260926005664) |
+| 263 | [Regional HR](https://www.naukri.com/job-listings-regional-hr-axis-bank-chennai-bengaluru-5-to-10-years-131026036186) | Axis Bank | Bengaluru, Chennai, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 500,000 - 800,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-regional-hr-axis-bank-chennai-bengaluru-5-to-10-years-131026036186) |
+| 264 | [Wanted HR Executive and Admin Counsellor- Female Candidates For Hybrid](https://www.naukri.com/job-listings-wanted-hr-executive-and-admin-counsellor-female-candidates-for-hybrid-resolve-itech-corp-kochi-bengaluru-mumbai-all-areas-0-to-2-years-071126007892) | Resolve Itech Corp | Bengaluru, Kochi, Mumbai (All Areas), India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 150,000 - 250,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-wanted-hr-executive-and-admin-counsellor-female-candidates-for-hybrid-resolve-itech-corp-kochi-bengaluru-mumbai-all-areas-0-to-2-years-071126007892) |
+| 265 | [Great Career Opportunity | Customer Support | Immediate Openings](https://www.naukri.com/job-listings-great-career-opportunity-customer-support-immediate-openings-jobshop-bengaluru-0-to-5-years-071126007733) | JobShop | Bengaluru, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 325,000 - 650,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-great-career-opportunity-customer-support-immediate-openings-jobshop-bengaluru-0-to-5-years-071126007733) |
+| 266 | [Company Secretary](https://www.naukri.com/job-listings-company-secretary-honeybeez-consultancy-bengaluru-12-to-18-years-071126007708) | Honeybeez Consultancy | Bengaluru, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 2,000,000 - 3,000,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-company-secretary-honeybeez-consultancy-bengaluru-12-to-18-years-071126007708) |
+| 267 | [Urgent Requirement | BPO |  Customer Support Executive @BLR](https://www.naukri.com/job-listings-urgent-requirement-bpo-customer-support-executive-blr-jobshop-bengaluru-0-to-5-years-071126007698) | JobShop | Bengaluru, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 300,000 - 325,000 | 79/100 | [Direct Apply](https://www.naukri.com/job-listings-urgent-requirement-bpo-customer-support-executive-blr-jobshop-bengaluru-0-to-5-years-071126007698) |
+| 268 | [Crew Coordinator](https://www.linkedin.com/jobs/view/4453080278) | V.Group | Mumbai Metropolitan Region (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4453080278) |
+| 269 | [Project Engineer](https://in.indeed.com/viewjob?jk=1abfe47bb3fd3475) | Koch | MH, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=1abfe47bb3fd3475) |
+| 270 | [HR Executive](https://www.linkedin.com/jobs/view/4486629861) | Vivetha Business Consultancy | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486629861) |
+| 271 | [REMOTE TELECALLER & APPOINTMENT SETTER ( Excellent spoken English skills required)](https://in.indeed.com/viewjob?jk=cfcf45e897181d4f) | QuantM Technologies Inc | Remote, India (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | INR 30,000 - 60,000 | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=cfcf45e897181d4f) |
+| 272 | [Assistant Manager Learning & Development](https://www.linkedin.com/jobs/view/4488495671) | The Hoxton | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488495671) |
+| 273 | [Senior Project Consultant - PAS WKFA - National - CNS - PC - TALENT - Bangalore](https://www.linkedin.com/jobs/view/4486648069) | EY | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486648069) |
+| 274 | [Assistant Manager - HR, Deputy Manager HR](https://www.linkedin.com/jobs/view/4487362420) | Croma | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487362420) |
+| 275 | [HR Manager](https://www.linkedin.com/jobs/view/4487302248) | REGUL SOLUTIONS | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487302248) |
+| 276 | [Organizational Development Manager](https://www.linkedin.com/jobs/view/4486998363) | Infosys | Bengaluru, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486998363) |
+| 277 | [Full-Cycle Recruiter (Remote, Chiclayo)](https://www.linkedin.com/jobs/view/4488419163) | Blacksmith Agency | Peru (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488419163) |
+| 278 | [Remote Enterprise Recruiter — End-to-end Hiring](https://www.linkedin.com/jobs/view/4486281136) | Altametrics | Mandaluyong, National Capital Region, Philippines (Remote / WFH) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486281136) |
+| 279 | [T&T - ET&P - Consultant - SAP HR - Gurugram](https://in.indeed.com/viewjob?jk=e670411007a90028) | Deloitte | HR, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=e670411007a90028) |
+| 280 | [Specialist - Business Analysis](https://in.indeed.com/viewjob?jk=ced3b7fc11d56e44) | LTM Limited | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 5 to 7 years | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=ced3b7fc11d56e44) |
+| 281 | [Senior Grid Connection Engineer](https://in.indeed.com/viewjob?jk=969eccd487a028f0) | Fluence Energy | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=969eccd487a028f0) |
+| 282 | [Manager, Talent Business Partner – Mumbai](https://www.linkedin.com/jobs/view/4477323667) | CPP Investments | Investissements RPC | Mumbai, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4477323667) |
+| 283 | [Team Lead](https://www.linkedin.com/jobs/view/4486626899) | SKILLIT ACADEMY | Hyderabad, Telangana, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 79/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486626899) |
+| 284 | [Lead Technical Talent Partner](https://www.thoughtworks.com/careers/jobs) | Thoughtworks | Hyderabad, India (Hybrid (2 days WFO)) | 5 hours ago (1-6h) | 4-7 years | INR 20,00,000 - 30,00,000 | 79/100 | [Direct Apply](https://www.thoughtworks.com/careers/jobs) |
+| 285 | [Global People Operations & HR Generalist](https://www.deel.com/careers) | Deel | Worldwide Remote (Remote / WFH) | 8 hours ago (6-12h) | 3-6 years | USD $70,000 - $90,000 | 79/100 | [Direct Apply](https://www.deel.com/careers) |
+| 286 | [Applied AI / Machine Learning Engineer](https://huggingface.co/jobs) | Hugging Face | Remote / San Francisco, CA (Remote / WFH) | 5 hours ago (1-6h) | 3-6 years | USD $130,000 - $175,000 | 79/100 | [Direct Apply](https://huggingface.co/jobs) |
+| 287 | [Strategic Partnerships & Enterprise BD Lead](https://www.notion.so/careers) | Notion | San Francisco, CA / Remote (Hybrid / Remote) | Posted today (12-24h) | 4-8 years | USD $130,000 - $165,000 + Equity | 79/100 | [Direct Apply](https://www.notion.so/careers) |
+| 288 | [Technical Content & SEO Strategist](https://www.cloudflare.com/careers/) | Cloudflare | Austin, TX / Remote (Remote / WFH) | Posted today (12-24h) | 3-6 years | USD $90,000 - $120,000 | 79/100 | [Direct Apply](https://www.cloudflare.com/careers/) |
+| 289 | [Senior Financial Analyst (M&A Advisory)](https://www2.deloitte.com/careers) | Deloitte | Mumbai, India (Hybrid (3 days WFO)) | 2 hours ago (1-6h) | 3-6 years | INR 16,00,000 - 24,00,000 | 79/100 | [Direct Apply](https://www2.deloitte.com/careers) |
+| 290 | [Sr. Consultant - Advanced Analytics](https://in.indeed.com/viewjob?jk=7d5373d89d18782b) | Deloitte | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 6–8 years | Not disclosed | 76/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=7d5373d89d18782b) |
+| 291 | [HR Recruiter](https://in.indeed.com/viewjob?jk=001ab1385dde1774) | My Hub | TS, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | 1–3 Years | INR 15,000 - 30,000 | 76/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=001ab1385dde1774) |
+| 292 | [Snr Talent Acquisition Business Partner, India](https://in.indeed.com/viewjob?jk=77ffdf191137f6d1) | OTIS | UP, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 74/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=77ffdf191137f6d1) |
+| 293 | [User Interface/User Experience Designer](https://in.indeed.com/viewjob?jk=f75c11a4300bae69) | Salesforce | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 3 to 6 years | Not disclosed | 74/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=f75c11a4300bae69) |
+| 294 | [Product Accessibility Engineer](https://in.indeed.com/viewjob?jk=9ebf3878504d17bf) | Salesforce | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 74/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=9ebf3878504d17bf) |
+| 295 | [Specialist - Data Sciences](https://in.indeed.com/viewjob?jk=565ac59058f9353d) | LTM Limited | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 74/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=565ac59058f9353d) |
+| 296 | [Principal Consultant](https://in.indeed.com/viewjob?jk=a8a925573195562f) | Chubb Fire & Security | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 74/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=a8a925573195562f) |
+| 297 | [Immigration Compliance - Senior, Tax Services](https://in.indeed.com/viewjob?jk=473863dedf6efbba) | Deloitte | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 5-8 years | Not disclosed | 73/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=473863dedf6efbba) |
+| 298 | [Talent Acquisition Executive](https://in.indeed.com/viewjob?jk=bbf4ad39c959ce1b) | Navata Road Transport | TS, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 1 to 2 Years | INR 20,000 - 25,000 | 73/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=bbf4ad39c959ce1b) |
+| 299 | [Senior Full Stack Developer – .NET Core & React](https://in.indeed.com/viewjob?jk=2b6cf0b040f3fcd5) | WSP | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 6-8 years | Not disclosed | 73/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=2b6cf0b040f3fcd5) |
+| 300 | [Talent Acquisition Partner (Bilingual English and Spanish Speaking Required)](https://www.linkedin.com/jobs/view/4473276718) | FirstService Residential | Miami, FL, USA (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4473276718) |
+| 301 | [Recruteur senior / Senior Specialist, Global Talent Acquisition](https://www.linkedin.com/jobs/view/4470555006) | Evotec | Toulouse, Occitanie, France (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4470555006) |
+| 302 | [Associate/Senior Associate, Talent Acquisition](https://www.linkedin.com/jobs/view/4479875958) | Sea | Singapore, Singapore (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4479875958) |
+| 303 | [Recruiter II](https://www.linkedin.com/jobs/view/4488455458) | Spectrum | Las Vegas, NV, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488455458) |
+| 304 | [Talent Acquisition Partner](https://www.linkedin.com/jobs/view/4488439527) | IHA | Ann Arbor, MI, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488439527) |
+| 305 | [Talent Acquisition Partner - Italian Speaker](https://www.linkedin.com/jobs/view/4471661544) | GE HealthCare | Budapest, Budapest, Hungary (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4471661544) |
+| 306 | [Especialista de Adquisición de Talento](https://www.linkedin.com/jobs/view/4487356271) | The Hershey Company | Monterrey, Nuevo León, Mexico (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487356271) |
+| 307 | [Talent Acquisition Partner](https://www.linkedin.com/jobs/view/4487342008) | Trinity Health | Ann Arbor, MI, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487342008) |
+| 308 | [Recruiter_Pune](https://www.naukri.com/job-listings-recruiter-pune-teamlease-digital-pune-1-to-5-years-071126007796) | TeamLease Digital | Pune, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 200,000 - 500,000 | 71/100 | [Direct Apply](https://www.naukri.com/job-listings-recruiter-pune-teamlease-digital-pune-1-to-5-years-071126007796) |
+| 309 | [Walk-in Any Fresher's/Exp Global MNCs For HR/Operations/Recruiter/Exec](https://www.naukri.com/job-listings-walk-in-any-fresher-s-exp-global-mncs-for-hr-operations-recruiter-exec-wisdom-bridge-consultants-bangarapet-malur-mandya-raichur-kolar-mulbagal-mysuru-koppal-maddur-0-to-5-years-071126007692) | Wisdom Bridge Consultants | Bangarapet, Malur, Mandya, Raichur, Kolar, Mulbagal, Mysuru, Koppal, Maddur, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 250,000 - 500,000 | 71/100 | [Direct Apply](https://www.naukri.com/job-listings-walk-in-any-fresher-s-exp-global-mncs-for-hr-operations-recruiter-exec-wisdom-bridge-consultants-bangarapet-malur-mandya-raichur-kolar-mulbagal-mysuru-koppal-maddur-0-to-5-years-071126007692) |
+| 310 | [Human Resource Recruiter](https://www.naukri.com/job-listings-human-resource-recruiter-dharampal-satyapal-group-ds-group-noida-5-to-10-years-071126007605) | Dharampal Satyapal Group (DS Group) | Noida, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.naukri.com/job-listings-human-resource-recruiter-dharampal-satyapal-group-ds-group-noida-5-to-10-years-071126007605) |
+| 311 | [Talent Acquisition Executive-Non IT](https://www.naukri.com/job-listings-talent-acquisition-executive-non-it-atria-convergence-technologies-act-pune-2-to-7-years-071126007345) | Atria Convergence Technologies (ACT) | Pune, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 300,000 - 550,000 | 71/100 | [Direct Apply](https://www.naukri.com/job-listings-talent-acquisition-executive-non-it-atria-convergence-technologies-act-pune-2-to-7-years-071126007345) |
+| 312 | [Human Resources Executive Recruitment](https://www.linkedin.com/jobs/view/4487391888) | Quikloans | Delhi, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487391888) |
+| 313 | [Hospitality Recruiter](https://www.linkedin.com/jobs/view/4487378378) | Kick Chef | Noida, Uttar Pradesh, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487378378) |
+| 314 | [Recruitment Trainee](https://www.linkedin.com/jobs/view/4487386776) | TraviYo | Noida, Uttar Pradesh, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487386776) |
+| 315 | [HR Recruiter Trainee](https://www.linkedin.com/jobs/view/4487393802) | TraviYo | Noida, Uttar Pradesh, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487393802) |
+| 316 | [Senior Human Resources Recruiter](https://www.linkedin.com/jobs/view/4487601496) | Rex shoes | Tijara, Rajasthan, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487601496) |
+| 317 | [Freelance Recruiter](https://www.linkedin.com/jobs/view/4486617500) | WENdigital | Delhi, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486617500) |
+| 318 | [Operations & People Manager](https://www.linkedin.com/jobs/view/4488487011) | JSIMPLE | Noida, Uttar Pradesh, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488487011) |
+| 319 | [Human Resources Intern](https://www.linkedin.com/jobs/view/4487396706) | VedricX Global | New Delhi, Delhi, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487396706) |
+| 320 | [Freelance Human Resources Consultant](https://www.linkedin.com/jobs/view/4488704577) | DynamicHire Solutions | Delhi, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488704577) |
+| 321 | [HR Internship in Delhi (Hybrid)](https://www.linkedin.com/jobs/view/4488463310) | SMARRTIF AI | Delhi, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488463310) |
+| 322 | [Selection Specialist](https://www.linkedin.com/jobs/view/4486233255) | IBM | Gurgaon, Haryana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486233255) |
+| 323 | [HR Operations & Recruitment Executive (Digital Agency)](https://www.linkedin.com/jobs/view/4487313867) | Krwizard | Defence Colony, Delhi, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487313867) |
+| 324 | [Specialist-Talent Acquisition](https://www.linkedin.com/jobs/view/4488183195) | Ujjivan Small Finance Bank | Noida, Uttar Pradesh, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488183195) |
+| 325 | [Snr Talent Acquisition Business Partner, India](https://www.linkedin.com/jobs/view/4487307091) | Otis Elevator Co. | Noida, Uttar Pradesh, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487307091) |
+| 326 | [HR Executive (Operation + recruitment/ from marketing agency)](https://www.linkedin.com/jobs/view/4487310681) | MG | New Delhi, Delhi, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487310681) |
+| 327 | [Assistant Manager](https://www.linkedin.com/jobs/view/4488135588) | Comviva | Tauru, Haryana, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488135588) |
+| 328 | [Assistant HR Manager](https://www.linkedin.com/jobs/view/4488450166) | All India Football Federation | Delhi, Delhi, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488450166) |
+| 329 | [Human Resources Intern](https://www.linkedin.com/jobs/view/4486231594) | CollegePur | Ghaziabad, Uttar Pradesh, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486231594) |
+| 330 | [Senior Talent Operations Specialist](https://www.linkedin.com/jobs/view/4458005754) | Cialfo | Delhi, Delhi, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4458005754) |
+| 331 | [Associate Manager, HR, India](https://www.linkedin.com/jobs/view/4459154194) | QIAGEN | Delhi, Delhi, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4459154194) |
+| 332 | [GSS - Tech Sourcing Recruiter , WWAS TA C Sourcing](https://www.linkedin.com/jobs/view/4480112593) | Amazon | Bangalore Urban, Karnataka, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4480112593) |
+| 333 | [Branch Manager](https://www.linkedin.com/jobs/view/4487600607) | Itvedant Education Pvt. Ltd. | Panvel, Maharashtra, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487600607) |
+| 334 | [Senior Executive Talent Acquisition](https://www.linkedin.com/jobs/view/4486994422) | Zoo Media | Worli, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486994422) |
+| 335 | [Junior – Human Resources Operations](https://www.linkedin.com/jobs/view/4486988558) | Zoo Media | Worli, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486988558) |
+| 336 | [Human Resources Intern](https://www.linkedin.com/jobs/view/4486228644) | Johnson Matthey | Panvel, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486228644) |
+| 337 | [Admin/EA Executive](https://www.linkedin.com/jobs/view/4487318613) | GLOBELANCE | Eastern Suburbs, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487318613) |
+| 338 | [Tech Talent Scout & It Recruitment Specialist](https://www.linkedin.com/jobs/view/4486633049) | Metacom Careers | Bulacan, Central Luzon, Philippines (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486633049) |
+| 339 | [Senior Talent Acquisition Partner - Software Engineering](https://www.linkedin.com/jobs/view/4462728409) | Capital One | Nottingham, England, UK (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4462728409) |
+| 340 | [Global Senior Talent Acquisition Partner - Strategic Tech Recruiter](https://www.linkedin.com/jobs/view/4486284082) | KMC Careers | Metro Manila (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486284082) |
+| 341 | [Information Technology Recruiter](https://www.linkedin.com/jobs/view/4486248553) | PrimeIT | Morocco (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486248553) |
+| 342 | [Global Senior TA Partner — Strategic Tech Recruiter](https://www.linkedin.com/jobs/view/4486266777) | KMC Careers | Metro Manila (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486266777) |
+| 343 | [Information Technology Recruiter](https://www.linkedin.com/jobs/view/4488415753) | MSI Company | Fort Lauderdale, FL, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488415753) |
+| 344 | [Technical Staffing Recruiter - West Michigan (Grand Rapids)](https://www.linkedin.com/jobs/view/4487352146) | TEKsystems | Grand Rapids, MI, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487352146) |
+| 345 | [Talent Acquisition Partner – Tieto Banktech (m/f/d)](https://www.linkedin.com/jobs/view/4443917634) | Tieto | Oslo, Oslo, Norway (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4443917634) |
+| 346 | [Tech People Recruiter](https://www.linkedin.com/jobs/view/4487310028) | GRiT Solutions | Lisbon, Portugal (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487310028) |
+| 347 | [Recruteur informatique/Recruteuse informatique](https://www.linkedin.com/jobs/view/4486278160) | Fed IT Canada | Montreal, Quebec, Canada (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486278160) |
+| 348 | [Human Resource Recruiter](https://www.naukri.com/job-listings-human-resource-recruiter-acpl-exports-agra-1-to-5-years-071126006452) | Acpl Exports | Agra, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 100,000 - 300,000 | 71/100 | [Direct Apply](https://www.naukri.com/job-listings-human-resource-recruiter-acpl-exports-agra-1-to-5-years-071126006452) |
+| 349 | [Hr Executive And Recruiter](https://www.naukri.com/job-listings-hr-executive-and-recruiter-alankit-new-delhi-3-to-5-years-071126006001) | Alankit | New Delhi(Jhandewalan), India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 225,000 - 450,000 | 71/100 | [Direct Apply](https://www.naukri.com/job-listings-hr-executive-and-recruiter-alankit-new-delhi-3-to-5-years-071126006001) |
+| 350 | [Manager ,Sr Manager ,APV Business Development](https://www.naukri.com/job-listings-manager-sr-manager-apv-business-development-maven-it-solutions-delhi-ncr-10-to-20-years-071126005758) | Maven It Solutions | Delhi / NCR, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 1,000,000 - 2,000,000 | 71/100 | [Direct Apply](https://www.naukri.com/job-listings-manager-sr-manager-apv-business-development-maven-it-solutions-delhi-ncr-10-to-20-years-071126005758) |
+| 351 | [Strategic Client Partner - Data & AI](https://www.linkedin.com/jobs/view/4487314899) | Gegnat Inc. | Noida, Uttar Pradesh, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487314899) |
+| 352 | [Corporate Relationship Executive - Interns](https://in.indeed.com/viewjob?jk=fae6541d08742104) | Infoz IT Solutions | TS, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 8,000 - 10,000 | 71/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=fae6541d08742104) |
+| 353 | [Recruiter – Technology Hiring](https://www.linkedin.com/jobs/view/4469769964) | IBM | Research Park, CA, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4469769964) |
+| 354 | [Recruiter](https://www.linkedin.com/jobs/view/4488179136) | Valarian | London, England, UK (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488179136) |
+| 355 | [Human Resource Recruiter](https://www.naukri.com/job-listings-human-resource-recruiter-vishal-builders-raipur-2-to-5-years-071126008246) | Vishal Builders | Raipur(Fafadih), India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | INR 175,000 - 325,000 | 71/100 | [Direct Apply](https://www.naukri.com/job-listings-human-resource-recruiter-vishal-builders-raipur-2-to-5-years-071126008246) |
+| 356 | [Senior Manager, Learning and Development](https://in.indeed.com/viewjob?jk=1fb988a02cee1b19) | NTT DATA | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=1fb988a02cee1b19) |
+| 357 | [Career Recruiting Staff - Global Talent Acquisition Department, Group Human Resources Supervisory Department (GHRD)](https://www.linkedin.com/jobs/view/4436456877) | Rakuten | Tokyo, Tokyo, Japan (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4436456877) |
+| 358 | [海外招聘（英文/个护/双休）](https://www.linkedin.com/jobs/view/4486608333) | 深圳市理然化妆品有限公司 | Shenzhen, Guangdong, China (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486608333) |
+| 359 | [Executive Recruiter (Consulting)](https://www.linkedin.com/jobs/view/4415924056) | Gartner | Tokyo, Tokyo, Japan (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4415924056) |
+| 360 | [Recruiting Partner – France, Belgium & Luxembourg (f/m/d) – based in Paris area](https://www.linkedin.com/jobs/view/4486255493) | Siemens Healthineers | Paris, Île-de-France, France (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486255493) |
+| 361 | [Recruiting Partner – Belgium, Luxembourg & France (f/m/d) - based in Brussels area](https://www.linkedin.com/jobs/view/4486258391) | Siemens Healthineers | Dilbeek, Flemish Region, Belgium (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486258391) |
+| 362 | [Full Lifecycle Recruiter](https://www.linkedin.com/jobs/view/4488174154) | AMS International UAE | Dubai, United Arab Emirates (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488174154) |
+| 363 | [US Healthcare Recruiter and Sourcer](https://www.linkedin.com/jobs/view/4487346174) | MCM & Associates | Pasig, National Capital Region, Philippines (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487346174) |
+| 364 | [Recruitment Partner - EMEA](https://www.linkedin.com/jobs/view/4460734544) | Elanco | Warsaw, Mazowieckie, Poland (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4460734544) |
+| 365 | [Full Lifecyle Recruiter, Amazon University Talent Acquisition](https://www.linkedin.com/jobs/view/4488155309) | Amazon | Tokyo, Japan (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488155309) |
+| 366 | [Talent Acquisition Partner](https://www.linkedin.com/jobs/view/4486248700) | Adform | Vilnius, Vilniaus, Lithuania (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486248700) |
+| 367 | [Strategic Resourcer (Recruiter) - Middle East](https://www.linkedin.com/jobs/view/4480341092) | Airswift | Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4480341092) |
+| 368 | [Talent Acquisition Manager](https://www.linkedin.com/jobs/view/4488459261) | ScorePlay | Paris, Île-de-France, France (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488459261) |
+| 369 | [Recruiter (High Volume) | Schiphol | Cargo & Passage](https://www.linkedin.com/jobs/view/4422215184) | dnata | Schiphol, North Holland, Netherlands (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4422215184) |
+| 370 | [Talent Sourcing Specialist – EMEA & APAC](https://www.linkedin.com/jobs/view/4486243058) | PeopleScout | Greater London, England, UK (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486243058) |
+| 371 | [Recruitment Specialist with German (F/M)](https://www.linkedin.com/jobs/view/4488163607) | ARCHE Consulting | Katowice, Śląskie, Poland (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488163607) |
+| 372 | [Senior Corporate Recruiter](https://www.linkedin.com/jobs/view/4487388031) | Conexus | Santa Monica, CA, USA (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487388031) |
+| 373 | [Reclutador Senior](https://www.linkedin.com/jobs/view/4486625412) | Grupo Gayosso | Tijuana, Baja California, Mexico (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486625412) |
+| 374 | [Sr. Recruiter](https://www.linkedin.com/jobs/view/4488448681) | New York Power Authority | White Plains, NY, USA (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488448681) |
+| 375 | [Senior Talent Acquisition Partner](https://www.linkedin.com/jobs/view/4480181490) | Versaterm | Ottawa, Ontario, Canada (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4480181490) |
+| 376 | [Senior Talent Acquisition Partner](https://www.linkedin.com/jobs/view/4480186942) | Rosendin | Nashville, TN, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4480186942) |
+| 377 | [Senior Talent Acquisition Partner](https://www.linkedin.com/jobs/view/4488184382) | Coca-Cola HBC | Dunaharaszti, Pest, Hungary (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488184382) |
+| 378 | [Senior Talent Acquisition Recruiter - Colombia](https://www.linkedin.com/jobs/view/4475468839) | Riveron | Medellin, Antioquia, Colombia (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4475468839) |
+| 379 | [Principal Recruiter](https://www.linkedin.com/jobs/view/4480130894) | Coinbase | Seattle, WA, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4480130894) |
+| 380 | [Senior Corporate Recruiter](https://www.linkedin.com/jobs/view/4487351213) | Dexian | McLean, VA, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487351213) |
+| 381 | [Sr. Talent Acquisition Partner- Manufacturing](https://www.linkedin.com/jobs/view/4487352570) | Mars | Waco, TX, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487352570) |
+| 382 | [Manager – Corporate Affairs & Organisation Development](https://www.linkedin.com/jobs/view/4487397272) | Energo Group | New Delhi, Delhi, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487397272) |
+| 383 | [Embedded Delivery Consultant](https://www.linkedin.com/jobs/view/4486996834) | Energize Group | Greater Manchester, England, UK (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486996834) |
+| 384 | [Talent Acquisition Consultant - Piedmont Augusta](https://www.linkedin.com/jobs/view/4488440639) | Piedmont | Augusta, GA, USA (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488440639) |
+| 385 | [Delivery Consultant (London)](https://www.linkedin.com/jobs/view/4426320099) | Experts Group International | London Area, UK (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4426320099) |
+| 386 | [Recruiter](https://www.linkedin.com/jobs/view/4487347234) | Identifiers | Technical Recruiters | Lahore, Punjab, Pakistan (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4487347234) |
+| 387 | [Delivery Consultant (Austin, Texas)](https://www.linkedin.com/jobs/view/4426318271) | Experts Group International | Austin, Texas Metropolitan Area (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4426318271) |
+| 388 | [Senior Recruitment Advisor](https://www.linkedin.com/jobs/view/4486258407) | Duratec | Sydney, New South Wales, Australia (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4486258407) |
+| 389 | [Analyst - Group Retiree](https://in.indeed.com/viewjob?jk=cebece02a279c3d9) | Aptia Group | HR, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=cebece02a279c3d9) |
+| 390 | [Principal Software Engineer– EDI & Integrations, EDI and Integrations](https://in.indeed.com/viewjob?jk=484a43f0854ca719) | GSK | KA, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=484a43f0854ca719) |
+| 391 | [Principal - Program & Project Management](https://in.indeed.com/viewjob?jk=0ee73ff3075e2bdd) | LTM Limited | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=0ee73ff3075e2bdd) |
+| 392 | [Regional Design Technology Lead - Digital Artist](https://in.indeed.com/viewjob?jk=d6201e80c8b96798) | Gensler | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=d6201e80c8b96798) |
+| 393 | [Talent Acquisition Manager (Hospitality)](https://in.indeed.com/viewjob?jk=3e8958ecd9a58ae8) | Locobear | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 5–8 years | INR 60,000 - 90,000 | 71/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=3e8958ecd9a58ae8) |
+| 394 | [SME - SAP Tax](https://in.indeed.com/viewjob?jk=d5ed67bf2f94ef14) | Elanco | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=d5ed67bf2f94ef14) |
+| 395 | [HR and Payroll Executive](https://in.indeed.com/viewjob?jk=85bdbdd30b144187) | Radhakrishna IVF and Multispeciality Hospital | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 2–5 years | INR 15,000 - 25,000 | 71/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=85bdbdd30b144187) |
+| 396 | [Senior HR Business Partner, AMZL HR](https://www.linkedin.com/jobs/view/4488413305) | Amazon | Thane, Maharashtra, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | See JD (Est. 2-6 yrs) | Not disclosed | 71/100 | [Direct Apply](https://www.linkedin.com/jobs/view/4488413305) |
+| 397 | [Head of Talent Acquisition (Global Engineering)](https://www.iimjobs.com/j/head-talent-acquisition-zomato-1748291) | Zomato | Gurugram, India (Hybrid (3 days WFO)) | 3 hours ago (1-6h) | 6-10 years | INR 35,00,000 - 50,00,000 | 70/100 | [Direct Apply](https://www.iimjobs.com/j/head-talent-acquisition-zomato-1748291) |
+| 398 | [HR Compliance Analyst](https://in.indeed.com/viewjob?jk=3195bd3cd1095e66) | Syneos Health | TS, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 1–3 years | Not disclosed | 68/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=3195bd3cd1095e66) |
+| 399 | [Manager - Legal](https://in.indeed.com/viewjob?jk=be684c96d4843375) | WSP | UP, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 7-10 years | Not disclosed | 67/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=be684c96d4843375) |
+| 400 | [R&D Tax Senior Consultant (Technical)](https://in.indeed.com/viewjob?jk=de7711eab1007237) | Version 1 | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 8 to 12 years | Not disclosed | 67/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=de7711eab1007237) |
+| 401 | [Director (Corporate Finance & Strategy)](https://www.iimjobs.com/j/director-corporate-finance-flipkart-1749283) | Flipkart | Bengaluru, India (Hybrid / On-site) | 4 hours ago (1-6h) | 7-12 years | INR 40,00,000 - 58,00,000 | 67/100 | [Direct Apply](https://www.iimjobs.com/j/director-corporate-finance-flipkart-1749283) |
+| 402 | [Senior Security Analyst](https://in.indeed.com/viewjob?jk=77b38060a97dc654) | NetraDyne | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 5–8 years | Not disclosed | 65/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=77b38060a97dc654) |
+| 403 | [HR & Admin Executive](https://in.indeed.com/viewjob?jk=f32b1a7082ed45fb) | Virtual Street Group | UP, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 1–3 years | INR 15,000 - 22,000 | 65/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=f32b1a7082ed45fb) |
+| 404 | [MEP Engineer](https://in.indeed.com/viewjob?jk=12bfa17efdf3eea0) | ANI Integrated Services Limited | MH, India (Hybrid / On-site) | 2026-11-07 (Active Opening) | 5-8 Years | INR 32,777 - 84,220 | 65/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=12bfa17efdf3eea0) |
+| 405 | [Networking (Security/Routing/Switching) - Lead Managed Services Engineer II](https://in.indeed.com/viewjob?jk=822d5686525c99bf) | Deloitte | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 8–14 years | Not disclosed | 64/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=822d5686525c99bf) |
+| 406 | [Specialist - Cloud Engineering](https://in.indeed.com/viewjob?jk=47d384f1c503d9ca) | LTM Limited | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 8- 12 Years | Not disclosed | 64/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=47d384f1c503d9ca) |
+| 407 | [Vice President (Institutional & B2B Sales)](https://www.iimjobs.com/j/vp-institutional-sales-icici-1749811) | ICICI Securities | Mumbai, India (On-site / Hybrid) | 5 hours ago (1-6h) | 8-14 years | INR 38,00,000 - 55,00,000 | 64/100 | [Direct Apply](https://www.iimjobs.com/j/vp-institutional-sales-icici-1749811) |
+| 408 | [End User Computing (EUC) - Lead Managed Services Engineer II](https://in.indeed.com/viewjob?jk=273e24319f95b5bb) | Deloitte | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 10–14 years | Not disclosed | 61/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=273e24319f95b5bb) |
+| 409 | [Human Resources Business Partner Manager - India](https://in.indeed.com/viewjob?jk=34b0f07d7e648e89) | Optiv | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 10-12 years | Not disclosed | 61/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=34b0f07d7e648e89) |
+| 410 | [Lead Functional Engineer AP S2P](https://in.indeed.com/viewjob?jk=a80e90b779a2adb4) | Signify | KA, India (Hybrid / On-site) | 2026-11-06 (Active Opening) | 8–12 years | Not disclosed | 59/100 | [Direct Apply](https://in.indeed.com/viewjob?jk=a80e90b779a2adb4) |
 
 ## Detailed Per-Job Breakdown & Descriptions
 
@@ -666,128 +436,52 @@ Key Responsibilities:
 Requirements:
 - 3-7 years r...
 
-### 2. [Senior Recruiter – Trade Sales Hiring — AMS](https://in.indeed.com/viewjob?jk=1980b544ae52cc7a)
-- **Why your profile matches**: Matches your target role and skills in End-to-end recruitment, LinkedIn Recruiter, Stakeholder management.
-- **Most important skills required**: End-to-end recruitment, LinkedIn Recruiter, Stakeholder management
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=1980b544ae52cc7a](https://in.indeed.com/viewjob?jk=1980b544ae52cc7a)
-- **Concerns**: Requires 5–10 yrs (profile has 4.2 yrs); Salary not disclosed
-- **Job Description Summary**: ### **About Us**
-
-Global, inclusive and innovative - welcome to AMS, where talent connects across cultures and backgrounds to shape the future of work.
-
-We work with leading organizations to design and deliver talent strategies that bring together people, process, data and technology, helping millions of people find meaningful work every year. Our ...
-
-### 3. [Talent Acquisition Specialist — Nextenti Tech Private Limited](https://www.linkedin.com/jobs/view/4486222699)
+### 2. [Talent Acquisition Specialist — OYO](https://www.naukri.com/job-listings-talent-acquisition-specialist-oyo-gurugram-bengaluru-2-to-6-years-290926028823)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486222699](https://www.linkedin.com/jobs/view/4486222699)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 4. [It Recruiter — OrangeMantra](https://www.naukri.com/job-listings-it-recruiter-orangemantra-bengaluru-2-to-4-years-061126012625)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-it-recruiter-orangemantra-bengaluru-2-to-4-years-061126012625](https://www.naukri.com/job-listings-it-recruiter-orangemantra-bengaluru-2-to-4-years-061126012625)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-talent-acquisition-specialist-oyo-gurugram-bengaluru-2-to-6-years-290926028823](https://www.naukri.com/job-listings-talent-acquisition-specialist-oyo-gurugram-bengaluru-2-to-6-years-290926028823)
 - **Concerns**: None identified
 - **Job Description Summary**: 
 
-### 5. [US Non-IT Recruiter — Avani Technology Solutions](https://www.naukri.com/job-listings-us-non-it-recruiter-avani-technology-solutions-visakhapatnam-hyderabad-bengaluru-1-to-6-years-061126026099)
+### 3. [Candidate Manager (IT Recruiter) — Allegis Group](https://www.naukri.com/job-listings-candidate-manager-it-recruiter-allegis-group-hyderabad-1-to-5-years-071126007907)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-us-non-it-recruiter-avani-technology-solutions-visakhapatnam-hyderabad-bengaluru-1-to-6-years-061126026099](https://www.naukri.com/job-listings-us-non-it-recruiter-avani-technology-solutions-visakhapatnam-hyderabad-bengaluru-1-to-6-years-061126026099)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-candidate-manager-it-recruiter-allegis-group-hyderabad-1-to-5-years-071126007907](https://www.naukri.com/job-listings-candidate-manager-it-recruiter-allegis-group-hyderabad-1-to-5-years-071126007907)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 4. [Walk-in || HR- IT Recruiter — Black And White Business Solutions](https://www.naukri.com/job-listings-hr-it-recruiter-black-and-white-business-solutions-bengaluru-0-to-0-years-071126007704)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-hr-it-recruiter-black-and-white-business-solutions-bengaluru-0-to-0-years-071126007704](https://www.naukri.com/job-listings-hr-it-recruiter-black-and-white-business-solutions-bengaluru-0-to-0-years-071126007704)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 5. [Talent Acquisition Specialist — Bluemavericks](https://www.naukri.com/job-listings-talent-acquisition-specialist-bluemavericks-bengaluru-0-to-1-years-071126007354)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-talent-acquisition-specialist-bluemavericks-bengaluru-0-to-1-years-071126007354](https://www.naukri.com/job-listings-talent-acquisition-specialist-bluemavericks-bengaluru-0-to-1-years-071126007354)
 - **Concerns**: None identified
 - **Job Description Summary**: 
 
-### 6. [Walk-in || US Non It Recruiter — Avani Technology Solutions](https://www.naukri.com/job-listings-us-non-it-recruiter-avani-technology-solutions-bengaluru-2-to-5-years-061126026012)
+### 6. [Technical Recruiter (Whitefield, Bangalore) (Contract to Full-time) — WEX](https://www.linkedin.com/jobs/view/4488497522)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-us-non-it-recruiter-avani-technology-solutions-bengaluru-2-to-5-years-061126026012](https://www.naukri.com/job-listings-us-non-it-recruiter-avani-technology-solutions-bengaluru-2-to-5-years-061126026012)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488497522](https://www.linkedin.com/jobs/view/4488497522)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 7. [Job Description Domestic IT Recruiter — The Aes Group](https://www.naukri.com/job-listings-description-domestic-it-recruiter-the-aes-group-hyderabad-2-to-4-years-061126024366)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-description-domestic-it-recruiter-the-aes-group-hyderabad-2-to-4-years-061126024366](https://www.naukri.com/job-listings-description-domestic-it-recruiter-the-aes-group-hyderabad-2-to-4-years-061126024366)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 8. [It Recruiter — TeamLease Digital](https://www.naukri.com/job-listings-it-recruiter-teamlease-digital-bengaluru-0-to-2-years-061126023985)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-it-recruiter-teamlease-digital-bengaluru-0-to-2-years-061126023985](https://www.naukri.com/job-listings-it-recruiter-teamlease-digital-bengaluru-0-to-2-years-061126023985)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 9. [Talent Acquisition Specialist — Knowmax](https://www.linkedin.com/jobs/view/4486789891)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486789891](https://www.linkedin.com/jobs/view/4486789891)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 10. [Consultant - Talent Acquisition Specialist — Godrej Properties](https://www.naukri.com/job-listings-consultant-talent-acquisition-specialist-godrej-properties-gurugram-3-to-8-years-061126013437)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-consultant-talent-acquisition-specialist-godrej-properties-gurugram-3-to-8-years-061126013437](https://www.naukri.com/job-listings-consultant-talent-acquisition-specialist-godrej-properties-gurugram-3-to-8-years-061126013437)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 11. [Talent Acquisition Specialist || Mobikwik || Gurgaon — Mobikwik](https://www.naukri.com/job-listings-talent-acquisition-specialist-mobikwik-gurgaon-mobikwik-gurugram-8-to-12-years-061126012677)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-talent-acquisition-specialist-mobikwik-gurgaon-mobikwik-gurugram-8-to-12-years-061126012677](https://www.naukri.com/job-listings-talent-acquisition-specialist-mobikwik-gurgaon-mobikwik-gurugram-8-to-12-years-061126012677)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 12. [IT Recruiter — Yechte](https://www.naukri.com/job-listings-it-recruiter-yechte-consulting-gurugram-1-to-4-years-061126501305)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-it-recruiter-yechte-consulting-gurugram-1-to-4-years-061126501305](https://www.naukri.com/job-listings-it-recruiter-yechte-consulting-gurugram-1-to-4-years-061126501305)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 13. [Senior Recruiter — Digantara](https://www.linkedin.com/jobs/view/4486970315)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486970315](https://www.linkedin.com/jobs/view/4486970315)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 14. [Senior Technical Recruiter — Dexian India](https://www.linkedin.com/jobs/view/4472384994)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4472384994](https://www.linkedin.com/jobs/view/4472384994)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 15. [Technical Recruiter — ManpowerGroup](https://www.linkedin.com/jobs/view/4484152979)
+### 7. [Technical Recruiter — ManpowerGroup](https://www.linkedin.com/jobs/view/4484152979)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -796,7 +490,7 @@ We work with leading organizations to design and deliver talent strategies that 
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 16. [Senior Recruiter (Non- IT) — Korn Ferry](https://www.linkedin.com/jobs/view/4487300289)
+### 8. [Senior Recruiter (Non- IT) — Korn Ferry](https://www.linkedin.com/jobs/view/4487300289)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -805,7 +499,7 @@ We work with leading organizations to design and deliver talent strategies that 
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 17. [Specialist, Technical Recruiter — Randstad Enterprise](https://www.linkedin.com/jobs/view/4486244163)
+### 9. [Specialist, Technical Recruiter — Randstad Enterprise](https://www.linkedin.com/jobs/view/4486244163)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -814,70 +508,7 @@ We work with leading organizations to design and deliver talent strategies that 
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 18. [Senior Talent Acquisition Specialist (Work From Office) — Solutions Centric Global](https://www.naukri.com/job-listings-senior-talent-acquisition-specialist-work-from-office-solutions-centric-global-bengaluru-3-to-5-years-061126023131)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-senior-talent-acquisition-specialist-work-from-office-solutions-centric-global-bengaluru-3-to-5-years-061126023131](https://www.naukri.com/job-listings-senior-talent-acquisition-specialist-work-from-office-solutions-centric-global-bengaluru-3-to-5-years-061126023131)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 19. [Non IT Recruiter / TA — Delight HR](https://www.naukri.com/job-listings-non-it-recruiter-ta-delight-hr-services-pvt-ltd-bengaluru-2-to-5-years-061126920823)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-non-it-recruiter-ta-delight-hr-services-pvt-ltd-bengaluru-2-to-5-years-061126920823](https://www.naukri.com/job-listings-non-it-recruiter-ta-delight-hr-services-pvt-ltd-bengaluru-2-to-5-years-061126920823)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 20. [Non IT Recruiter — Delight HR](https://www.naukri.com/job-listings-non-it-recruiter-delight-hr-services-pvt-ltd-bengaluru-2-to-5-years-061126920803)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-non-it-recruiter-delight-hr-services-pvt-ltd-bengaluru-2-to-5-years-061126920803](https://www.naukri.com/job-listings-non-it-recruiter-delight-hr-services-pvt-ltd-bengaluru-2-to-5-years-061126920803)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 21. [Talent Acquisition Specialist (contract role)or Recruiter — Delight HR](https://www.naukri.com/job-listings-talent-acquisition-specialist-contract-role-or-recruiter-delight-hr-services-pvt-ltd-bengaluru-4-to-9-years-061126920540)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-talent-acquisition-specialist-contract-role-or-recruiter-delight-hr-services-pvt-ltd-bengaluru-4-to-9-years-061126920540](https://www.naukri.com/job-listings-talent-acquisition-specialist-contract-role-or-recruiter-delight-hr-services-pvt-ltd-bengaluru-4-to-9-years-061126920540)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 22. [Non It Recruiter — Kalyani Motors](https://www.naukri.com/job-listings-non-it-recruiter-kalyani-motors-bengaluru-1-to-4-years-061126013359)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-non-it-recruiter-kalyani-motors-bengaluru-1-to-4-years-061126013359](https://www.naukri.com/job-listings-non-it-recruiter-kalyani-motors-bengaluru-1-to-4-years-061126013359)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 23. [Technical Recruiter — FORNAX TECHNOLOGY SERVICES PRIVATE LIMITED](https://www.naukri.com/job-listings-technical-recruiter-fornax-technology-services-private-limited-bengaluru-1-to-6-years-061126012395)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-technical-recruiter-fornax-technology-services-private-limited-bengaluru-1-to-6-years-061126012395](https://www.naukri.com/job-listings-technical-recruiter-fornax-technology-services-private-limited-bengaluru-1-to-6-years-061126012395)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 24. [Hiring For IT Recruiter-C2h/WFH — Orcapod Consulting Services](https://www.naukri.com/job-listings-hiring-for-it-recruiter-c2h-wfh-orcapod-consulting-services-bengaluru-2-to-4-years-230926025096)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-hiring-for-it-recruiter-c2h-wfh-orcapod-consulting-services-bengaluru-2-to-4-years-230926025096](https://www.naukri.com/job-listings-hiring-for-it-recruiter-c2h-wfh-orcapod-consulting-services-bengaluru-2-to-4-years-230926025096)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 25. [Talent Acquisition Specialist — Randstad Enterprise](https://www.linkedin.com/jobs/view/4486235883)
+### 10. [Talent Acquisition Specialist — Randstad Enterprise](https://www.linkedin.com/jobs/view/4486235883)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -886,34 +517,25 @@ We work with leading organizations to design and deliver talent strategies that 
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 26. [Senior Talent Acquisition Specialist — Randstad Enterprise](https://www.linkedin.com/jobs/view/4486212883)
+### 11. [HR – Talent Acquisition specialist (Hotel Industry) — Madcherry Hospitality](https://in.indeed.com/viewjob?jk=88f3bd9a46beaa99)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486212883](https://www.linkedin.com/jobs/view/4486212883)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 27. [Non IT recruiter - Mumbai — Trigent Software](https://www.naukri.com/job-listings-non-it-recruiter-mumbai-trigent-software-mumbai-all-areas-2-to-7-years-070426030648)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-non-it-recruiter-mumbai-trigent-software-mumbai-all-areas-2-to-7-years-070426030648](https://www.naukri.com/job-listings-non-it-recruiter-mumbai-trigent-software-mumbai-all-areas-2-to-7-years-070426030648)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://in.indeed.com/viewjob?jk=88f3bd9a46beaa99](https://in.indeed.com/viewjob?jk=88f3bd9a46beaa99)
 - **Concerns**: None identified
-- **Job Description Summary**: 
+- **Job Description Summary**: #### **Job Title:** **Human Resources – Talent Acquisition specialist (Hotel Industry)**
 
-### 28. [Talent Acquisition Specialist – EU & LATAM — Intelli Owl](https://www.linkedin.com/jobs/view/4486208080)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
+* Internship
+* Fresher
+* Junior
+* Senior
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486208080](https://www.linkedin.com/jobs/view/4486208080)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
+#### **Job Brief: Human Resources –** **Talent acquisition specialist** **(recruitment)**
 
-### 29. [US IT Technical Recruiter (Night Shift) — Syntek Digital](https://www.linkedin.com/jobs/view/4482228251)
+* We are looking for Human resources – talent acquisition executive, recruiter, from hotel/restaurant industry who can handle t...
+
+### 12. [US IT Technical Recruiter (Night Shift) — Syntek Digital](https://www.linkedin.com/jobs/view/4482228251)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -922,7 +544,25 @@ We work with leading organizations to design and deliver talent strategies that 
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 30. [US Non-IT Recruiter (Pharma & Lifesciences) — ALGOBRAINZ](https://www.linkedin.com/jobs/view/4482162918)
+### 13. [Technical Recruiter — ALL KNOWN SERVICES](https://www.linkedin.com/jobs/view/4487370248)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487370248](https://www.linkedin.com/jobs/view/4487370248)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 14. [US Non-IT - Senior Recruiter — W3Global](https://www.linkedin.com/jobs/view/4460742699)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4460742699](https://www.linkedin.com/jobs/view/4460742699)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 15. [US Non-IT Recruiter (Pharma & Lifesciences) — ALGOBRAINZ](https://www.linkedin.com/jobs/view/4482162918)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -931,7 +571,25 @@ We work with leading organizations to design and deliver talent strategies that 
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 31. [International Recruiter (Night Shift) — Futran Solutions](https://www.linkedin.com/jobs/view/4487539057)
+### 16. [US IT Recruiter (0–3 Years Experience) — Quebec Solution Inc](https://www.linkedin.com/jobs/view/4487354583)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487354583](https://www.linkedin.com/jobs/view/4487354583)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 17. [US IT Recruiter — Headway Tek Inc](https://www.linkedin.com/jobs/view/4486294236)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486294236](https://www.linkedin.com/jobs/view/4486294236)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 18. [International Recruiter (Night Shift) — Futran Solutions](https://www.linkedin.com/jobs/view/4487539057)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -940,16 +598,16 @@ We work with leading organizations to design and deliver talent strategies that 
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 32. [US IT Technical Recruiter — My3Tech](https://www.linkedin.com/jobs/view/4485894811)
+### 19. [Technical Recruiter - Engineering — Headway Tek Inc](https://www.linkedin.com/jobs/view/4486285546)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4485894811](https://www.linkedin.com/jobs/view/4485894811)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486285546](https://www.linkedin.com/jobs/view/4486285546)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 33. [Bench Sales Recruiter & Technical Recruiter – US IT Staffing — TMT IT Solutions](https://www.linkedin.com/jobs/view/4486994877)
+### 20. [Bench Sales Recruiter & Technical Recruiter – US IT Staffing — TMT IT Solutions](https://www.linkedin.com/jobs/view/4486994877)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -958,115 +616,25 @@ We work with leading organizations to design and deliver talent strategies that 
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 34. [US Technical Recruiter — PURVIEW](https://www.linkedin.com/jobs/view/4486920186)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486920186](https://www.linkedin.com/jobs/view/4486920186)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 35. [Talent Acquisition Specialist — Direct Dialogue Initiatives](https://www.naukri.com/job-listings-talent-acquisition-specialist-direct-dialogue-initiatives-hyderabad-1-to-6-years-061126015392)
+### 21. [IT Recruiter - Remote Work — BairesDev](https://www.linkedin.com/jobs/view/4487353077)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-talent-acquisition-specialist-direct-dialogue-initiatives-hyderabad-1-to-6-years-061126015392](https://www.naukri.com/job-listings-talent-acquisition-specialist-direct-dialogue-initiatives-hyderabad-1-to-6-years-061126015392)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487353077](https://www.linkedin.com/jobs/view/4487353077)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 22. [NON-IT Recruiter || Day Shift || UPTO 20k TH || Incentives UPTO 10k — Axis Services](https://www.naukri.com/job-listings-non-it-recruiter-day-shift-upto-20k-th-incentives-upto-10k-axis-services-hyderabad-0-to-1-years-071126006753)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-non-it-recruiter-day-shift-upto-20k-th-incentives-upto-10k-axis-services-hyderabad-0-to-1-years-071126006753](https://www.naukri.com/job-listings-non-it-recruiter-day-shift-upto-20k-th-incentives-upto-10k-axis-services-hyderabad-0-to-1-years-071126006753)
 - **Concerns**: None identified
 - **Job Description Summary**: 
 
-### 36. [It Recruiter — Deloitte Shared Services India](https://www.naukri.com/job-listings-it-recruiter-deloitte-shared-services-india-hyderabad-2-to-7-years-221026015173)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-it-recruiter-deloitte-shared-services-india-hyderabad-2-to-7-years-221026015173](https://www.naukri.com/job-listings-it-recruiter-deloitte-shared-services-india-hyderabad-2-to-7-years-221026015173)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 37. [US IT Technical Recruiter — Innocore Solutions](https://www.naukri.com/job-listings-us-it-technical-recruiter-innocore-solutions-hyderabad-5-to-10-years-061126009378)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-us-it-technical-recruiter-innocore-solutions-hyderabad-5-to-10-years-061126009378](https://www.naukri.com/job-listings-us-it-technical-recruiter-innocore-solutions-hyderabad-5-to-10-years-061126009378)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 38. [BH  Technical Recruiter Salesforce  MarTech Remote US Time — Skynetappdev](https://www.naukri.com/job-listings-bh-technical-recruiter-salesforce-martech-remote-us-time-skynetappdev-hyderabad-1-to-6-years-061126008206)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-bh-technical-recruiter-salesforce-martech-remote-us-time-skynetappdev-hyderabad-1-to-6-years-061126008206](https://www.naukri.com/job-listings-bh-technical-recruiter-salesforce-martech-remote-us-time-skynetappdev-hyderabad-1-to-6-years-061126008206)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 39. [Immediate openings For Freshers: US IT Recruiter/BPO positions. — Mariosoft Technologies](https://www.naukri.com/job-listings-immediate-openings-for-freshers-us-it-recruiter-bpo-positions-mariosoft-technologies-hyderabad-0-to-2-years-280526018923)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-immediate-openings-for-freshers-us-it-recruiter-bpo-positions-mariosoft-technologies-hyderabad-0-to-2-years-280526018923](https://www.naukri.com/job-listings-immediate-openings-for-freshers-us-it-recruiter-bpo-positions-mariosoft-technologies-hyderabad-0-to-2-years-280526018923)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 40. [US IT Talent Acquisition Specialist(60 Days Internship) Night Shifts — Vcloud Technologies Investment](https://www.naukri.com/job-listings-us-it-talent-acquisition-specialist-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126000469)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://www.naukri.com/job-listings-us-it-talent-acquisition-specialist-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126000469](https://www.naukri.com/job-listings-us-it-talent-acquisition-specialist-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126000469)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 41. [US IT Recruiter (60 Days Internship) Night Shifts — Vcloud Technologies Investment](https://www.naukri.com/job-listings-us-it-recruiter-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126000454)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://www.naukri.com/job-listings-us-it-recruiter-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126000454](https://www.naukri.com/job-listings-us-it-recruiter-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126000454)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 42. [IT Recruiter - Remote Work — BairesDev](https://www.linkedin.com/jobs/view/4486792884)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486792884](https://www.linkedin.com/jobs/view/4486792884)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 43. [Technical Recruiter — Techinduct Services Pvt. Ltd](https://www.linkedin.com/jobs/view/4486931651)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486931651](https://www.linkedin.com/jobs/view/4486931651)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 44. [Senior SAP Talent Acquisition Specialist — Thoucentric](https://www.naukri.com/job-listings-senior-sap-talent-acquisition-specialist-thoucentric-bengaluru-6-to-8-years-061126008450)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-senior-sap-talent-acquisition-specialist-thoucentric-bengaluru-6-to-8-years-061126008450](https://www.naukri.com/job-listings-senior-sap-talent-acquisition-specialist-thoucentric-bengaluru-6-to-8-years-061126008450)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 45. [Oracle Technical Recruiter / Sr. Recruitment Specialist — Proffer It Consultancy](https://www.naukri.com/job-listings-oracle-technical-recruiter-sr-recruitment-specialist-proffer-it-consultancy-private-limited-bengaluru-3-to-7-years-061126501897)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-oracle-technical-recruiter-sr-recruitment-specialist-proffer-it-consultancy-private-limited-bengaluru-3-to-7-years-061126501897](https://www.naukri.com/job-listings-oracle-technical-recruiter-sr-recruitment-specialist-proffer-it-consultancy-private-limited-bengaluru-3-to-7-years-061126501897)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 46. [Senior US IT Recruiter — encore infotech services](https://in.indeed.com/viewjob?jk=6867c82cf1babf12)
+### 23. [Senior US IT Recruiter — encore infotech services](https://in.indeed.com/viewjob?jk=6867c82cf1babf12)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1089,43 +657,102 @@ Job Description
 
 Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite...
 
-### 47. [Sr. IT Recruiter — Btranz Technological Solutions](https://www.naukri.com/job-listings-sr-it-recruiter-btranz-technological-solutions-hyderabad-5-to-10-years-061126501248)
+### 24. [US Non-IT Recruiter — Avani Technology Solutions](https://www.naukri.com/job-listings-us-non-it-recruiter-avani-technology-solutions-visakhapatnam-hyderabad-bengaluru-1-to-6-years-061126026099)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-sr-it-recruiter-btranz-technological-solutions-hyderabad-5-to-10-years-061126501248](https://www.naukri.com/job-listings-sr-it-recruiter-btranz-technological-solutions-hyderabad-5-to-10-years-061126501248)
-- **Concerns**: Salary not disclosed
+- **Direct application URL**: [https://www.naukri.com/job-listings-us-non-it-recruiter-avani-technology-solutions-visakhapatnam-hyderabad-bengaluru-1-to-6-years-061126026099](https://www.naukri.com/job-listings-us-non-it-recruiter-avani-technology-solutions-visakhapatnam-hyderabad-bengaluru-1-to-6-years-061126026099)
+- **Concerns**: None identified
 - **Job Description Summary**: 
 
-### 48. [US IT Technical Recruiter (60 Days Internship) Night Shifts — Vcloud Technologies Investment](https://www.naukri.com/job-listings-us-it-technical-recruiter-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126000461)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://www.naukri.com/job-listings-us-it-technical-recruiter-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126000461](https://www.naukri.com/job-listings-us-it-technical-recruiter-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126000461)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 49. [Recruitment Consultant (Remote) — Hongkong Xiqi International Limited](https://www.linkedin.com/jobs/view/4486979662)
+### 25. [Job Description Domestic IT Recruiter — The Aes Group](https://www.naukri.com/job-listings-description-domestic-it-recruiter-the-aes-group-hyderabad-2-to-4-years-061126024366)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486979662](https://www.linkedin.com/jobs/view/4486979662)
-- **Concerns**: Salary not disclosed
+- **Direct application URL**: [https://www.naukri.com/job-listings-description-domestic-it-recruiter-the-aes-group-hyderabad-2-to-4-years-061126024366](https://www.naukri.com/job-listings-description-domestic-it-recruiter-the-aes-group-hyderabad-2-to-4-years-061126024366)
+- **Concerns**: None identified
 - **Job Description Summary**: 
 
-### 50. [Talent Acquisition Specialist — Mohammed Rasool Khoory & Sons](https://www.linkedin.com/jobs/view/4486212066)
+### 26. [It Recruiter — OrangeMantra](https://www.naukri.com/job-listings-it-recruiter-orangemantra-bengaluru-2-to-4-years-061126012625)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486212066](https://www.linkedin.com/jobs/view/4486212066)
+- **Direct application URL**: [https://www.naukri.com/job-listings-it-recruiter-orangemantra-bengaluru-2-to-4-years-061126012625](https://www.naukri.com/job-listings-it-recruiter-orangemantra-bengaluru-2-to-4-years-061126012625)
+- **Concerns**: None identified
+- **Job Description Summary**: 
+
+### 27. [Senior Recruiter — Remote Team Solutions](https://www.linkedin.com/jobs/view/4488457138)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488457138](https://www.linkedin.com/jobs/view/4488457138)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 51. [Bilingual - Sr Talent Acquisition Specialist (French + English) — Epiroc](https://www.linkedin.com/jobs/view/4461306568)
+### 28. [Senior Recruiter (Remote, Cali) — Blacksmith Agency](https://www.linkedin.com/jobs/view/4488415065)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488415065](https://www.linkedin.com/jobs/view/4488415065)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 29. [Technical Recruiter (Whitefield, Bangalore) (Contract to Full-time) — WEX Inc.](https://in.indeed.com/viewjob?jk=f7958dba89cf2e37)
+- **Why your profile matches**: Matches your target role and skills in Boolean search, LinkedIn Recruiter.
+- **Most important skills required**: Boolean search, LinkedIn Recruiter
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://in.indeed.com/viewjob?jk=f7958dba89cf2e37](https://in.indeed.com/viewjob?jk=f7958dba89cf2e37)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: The **Contract Technical Recruiter** is responsible for managing the full-cycle recruitment process for technical roles, from sourcing and screening candidates to extending offers and onboarding new hires.
+
+  
+  
+
+This role partners closely with hiring managers and technical teams to develop and implement strategic hiring plans, ensuring the attrac...
+
+### 30. [Talent Acquisition Specialist - Paris - CDI — WOLD](https://www.linkedin.com/jobs/view/4487392409)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487392409](https://www.linkedin.com/jobs/view/4487392409)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 31. [Talent Acquisition Specialist (US Market) — Level 3 BOS](https://www.linkedin.com/jobs/view/4487382322)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487382322](https://www.linkedin.com/jobs/view/4487382322)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 32. [Talent Acquisition Specialist — Togatha People](https://www.linkedin.com/jobs/view/4487604101)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487604101](https://www.linkedin.com/jobs/view/4487604101)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 33. [Talent Acquisition Specialist — Capgemini Invent](https://www.linkedin.com/jobs/view/4461793403)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4461793403](https://www.linkedin.com/jobs/view/4461793403)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 34. [Bilingual - Sr Talent Acquisition Specialist (French + English) — Epiroc](https://www.linkedin.com/jobs/view/4461306568)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1134,7 +761,7 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 52. [Talent Acquisition Specialist — Castle Trust Bank](https://www.linkedin.com/jobs/view/4488164586)
+### 35. [Talent Acquisition Specialist — Castle Trust Bank](https://www.linkedin.com/jobs/view/4488164586)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1143,7 +770,7 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 53. [Talent Acquisition Specialist — Leavitt Industrial Group](https://www.linkedin.com/jobs/view/4463122222)
+### 36. [Talent Acquisition Specialist — Leavitt Industrial Group](https://www.linkedin.com/jobs/view/4463122222)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1152,16 +779,34 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 54. [Talent Acquisition Specialist — Girteka](https://www.linkedin.com/jobs/view/4486229404)
+### 37. [Bilingual Talent Acquisition Specialist — Confidentiel](https://www.linkedin.com/jobs/view/4487352440)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486229404](https://www.linkedin.com/jobs/view/4486229404)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487352440](https://www.linkedin.com/jobs/view/4487352440)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 55. [Talent Acquisition Specialist — Aria Care Partners](https://www.linkedin.com/jobs/view/4480300297)
+### 38. [Talent Acquisition Specialist — InteLogix](https://www.linkedin.com/jobs/view/4485861689)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4485861689](https://www.linkedin.com/jobs/view/4485861689)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 39. [Global Talent Acquisition Specialist — Eskimi](https://www.linkedin.com/jobs/view/4487361150)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487361150](https://www.linkedin.com/jobs/view/4487361150)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 40. [Talent Acquisition Specialist — Aria Care Partners](https://www.linkedin.com/jobs/view/4480300297)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1170,7 +815,7 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 56. [Talent Acquisition Specialist — Covenant](https://www.linkedin.com/jobs/view/4488175891)
+### 41. [Talent Acquisition Specialist — Covenant](https://www.linkedin.com/jobs/view/4488175891)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1179,7 +824,7 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 57. [Talent Acquisition Specialist - Operations & Supply Chain — Picnic Technologies](https://www.linkedin.com/jobs/view/4471893600)
+### 42. [Talent Acquisition Specialist - Operations & Supply Chain — Picnic Technologies](https://www.linkedin.com/jobs/view/4471893600)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1188,7 +833,7 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 58. [Talent Acquisition Specialist — Michels Corporation](https://www.linkedin.com/jobs/view/4477310133)
+### 43. [Talent Acquisition Specialist — Michels Corporation](https://www.linkedin.com/jobs/view/4477310133)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1197,7 +842,7 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 59. [Senior Talent Acquisition Specialist — HR Path](https://www.linkedin.com/jobs/view/4486252228)
+### 44. [Senior Talent Acquisition Specialist — HR Path](https://www.linkedin.com/jobs/view/4486252228)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1206,7 +851,7 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 60. [Talent Acquisition Specialist — SEGULA Technologies](https://www.linkedin.com/jobs/view/4488189356)
+### 45. [Talent Acquisition Specialist — SEGULA Technologies](https://www.linkedin.com/jobs/view/4488189356)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1215,7 +860,16 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 61. [Talent Acquisition Specialist with French (M/F) — ARCHE Consulting](https://www.linkedin.com/jobs/view/4488155780)
+### 46. [Senior Talent Acquisition Specialist — WNC Corporation](https://www.linkedin.com/jobs/view/4486843932)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486843932](https://www.linkedin.com/jobs/view/4486843932)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 47. [Talent Acquisition Specialist with French (M/F) — ARCHE Consulting](https://www.linkedin.com/jobs/view/4488155780)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1224,7 +878,7 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 62. [Sr. Talent Acquisition Specialist — KLA](https://www.linkedin.com/jobs/view/4486220950)
+### 48. [Sr. Talent Acquisition Specialist — KLA](https://www.linkedin.com/jobs/view/4486220950)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1233,16 +887,7 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 63. [Talent Acquisition Specialist | SEB, Vilnius — SEB](https://www.linkedin.com/jobs/view/4480316883)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4480316883](https://www.linkedin.com/jobs/view/4480316883)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 64. [Talent Acquisition Specialist — Customs Support Group](https://www.linkedin.com/jobs/view/4488161011)
+### 49. [Talent Acquisition Specialist — Customs Support Group](https://www.linkedin.com/jobs/view/4488161011)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1251,52 +896,34 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 65. [Talent Acquisition Specialist — Spore.Bio](https://www.linkedin.com/jobs/view/4486230045)
+### 50. [Sr. Talent Acquisition Specialist — Plexus Corp.](https://www.linkedin.com/jobs/view/4485625234)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486230045](https://www.linkedin.com/jobs/view/4486230045)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4485625234](https://www.linkedin.com/jobs/view/4485625234)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 66. [Talent Acquisition Specialist — InteLogix](https://www.linkedin.com/jobs/view/4485861689)
+### 51. [Talent Acquisition Specialist- Oil& Gas industry — EduRun Group](https://www.linkedin.com/jobs/view/4486629748)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4485861689](https://www.linkedin.com/jobs/view/4485861689)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486629748](https://www.linkedin.com/jobs/view/4486629748)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 67. [Talent Acquisition Specialist / Recruiter — Brunswick Lift Rentals](https://www.linkedin.com/jobs/view/4486798805)
+### 52. [Technical Recruiter (10k/Target based/from Consultancy) — CAREERBLOC ~](https://www.linkedin.com/jobs/view/4487393624)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486798805](https://www.linkedin.com/jobs/view/4486798805)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487393624](https://www.linkedin.com/jobs/view/4487393624)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 68. [Senior Recruiter — Zocdoc](https://www.naukri.com/job-listings-senior-recruiter-zocdoc-pune-4-to-8-years-061126026231)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-senior-recruiter-zocdoc-pune-4-to-8-years-061126026231](https://www.naukri.com/job-listings-senior-recruiter-zocdoc-pune-4-to-8-years-061126026231)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 69. [Talent Acquisition Specialist — Zuci Systems India](https://www.naukri.com/job-listings-talent-acquisition-specialist-zuci-systems-india-chennai-0-to-1-years-061126025820)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-talent-acquisition-specialist-zuci-systems-india-chennai-0-to-1-years-061126025820](https://www.naukri.com/job-listings-talent-acquisition-specialist-zuci-systems-india-chennai-0-to-1-years-061126025820)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 70. [Talent Acquisition Specialist — High On Sales (HOS)](https://www.linkedin.com/jobs/view/4486591383)
+### 53. [Talent Acquisition Specialist – Creative & Marketing Agencies — High On Sales (HOS)](https://www.linkedin.com/jobs/view/4486591383)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1305,43 +932,16 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 71. [Talent Acquisition Specialist — MY NONU](https://www.linkedin.com/jobs/view/4487335652)
+### 54. [US Non-IT Recruiter — InfiCare Staffing](https://www.linkedin.com/jobs/view/4486982731)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487335652](https://www.linkedin.com/jobs/view/4487335652)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486982731](https://www.linkedin.com/jobs/view/4486982731)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 72. [IT Recruiter (10k/Target based/from Consultancy) — CAREERBLOC ~](https://www.linkedin.com/jobs/view/4486992569)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486992569](https://www.linkedin.com/jobs/view/4486992569)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 73. [US Non -IT Recruiter — InfiCare Staffing](https://www.linkedin.com/jobs/view/4475789508)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4475789508](https://www.linkedin.com/jobs/view/4475789508)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 74. [US IT Recruiter — Teamware Solutions](https://www.linkedin.com/jobs/view/4488159927)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488159927](https://www.linkedin.com/jobs/view/4488159927)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 75. [Healthcare & Pharma/Non-IT Recruiter — Select Source International](https://www.linkedin.com/jobs/view/4469786911)
+### 55. [Healthcare & Pharma/Non-IT Recruiter — Select Source International](https://www.linkedin.com/jobs/view/4469786911)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1350,7 +950,7 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 76. [Sr Talent Acquisition Specialist — F5](https://www.linkedin.com/jobs/view/4488138865)
+### 56. [Sr Talent Acquisition Specialist — F5](https://www.linkedin.com/jobs/view/4488138865)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1359,7 +959,43 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 77. [Senior IT Recruiter — Randstad Digital Romania](https://www.linkedin.com/jobs/view/4488162070)
+### 57. [Senior Technical Recruiter — Amjaad Technology](https://www.linkedin.com/jobs/view/4488712183)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488712183](https://www.linkedin.com/jobs/view/4488712183)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 58. [Senior IT Recruiter | Lead End-to-End Talent Acquisition — Emixa](https://www.linkedin.com/jobs/view/4486615924)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486615924](https://www.linkedin.com/jobs/view/4486615924)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 59. [IT Recruitment Consultant — JMT TalentLink](https://www.linkedin.com/jobs/view/4488480088)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488480088](https://www.linkedin.com/jobs/view/4488480088)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 60. [Senior Technical Recruiter — Vibe.co](https://www.linkedin.com/jobs/view/4469694578)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4469694578](https://www.linkedin.com/jobs/view/4469694578)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 61. [Senior IT Recruiter — Randstad Digital Romania](https://www.linkedin.com/jobs/view/4488162070)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1368,7 +1004,16 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 78. [Senior Technical Recruiter — SteerBridge](https://www.linkedin.com/jobs/view/4488190314)
+### 62. [Principal Technical Recruiter — nCino](https://www.linkedin.com/jobs/view/4487357401)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487357401](https://www.linkedin.com/jobs/view/4487357401)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 63. [Senior Technical Recruiter — SteerBridge](https://www.linkedin.com/jobs/view/4488190314)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1377,16 +1022,25 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 79. [Senior UK IT Recruiter — Falcon Smart IT (FalconSmartIT)](https://www.linkedin.com/jobs/view/4486962714)
+### 64. [Technical Recruiter — Dew Software Inc](https://www.linkedin.com/jobs/view/4486290545)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486962714](https://www.linkedin.com/jobs/view/4486962714)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486290545](https://www.linkedin.com/jobs/view/4486290545)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 80. [US IT Recruiter — InfoStride](https://www.linkedin.com/jobs/view/4488170386)
+### 65. [IT Recruiter Semi Senior — Capgemini](https://www.linkedin.com/jobs/view/4480521331)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4480521331](https://www.linkedin.com/jobs/view/4480521331)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 66. [US IT Recruiter — InfoStride](https://www.linkedin.com/jobs/view/4488170386)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1395,7 +1049,7 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 81. [Senior Technical Recruiter — Anduril Industries](https://www.linkedin.com/jobs/view/4480160125)
+### 67. [Senior Technical Recruiter — Anduril Industries](https://www.linkedin.com/jobs/view/4480160125)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1404,7 +1058,7 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 82. [US IT Recruiter / Senior US IT Recruiter - Trichy — Lorven Technologies Inc.](https://www.linkedin.com/jobs/view/4483254409)
+### 68. [US IT Recruiter / Senior US IT Recruiter - Trichy — Lorven Technologies Inc.](https://www.linkedin.com/jobs/view/4483254409)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1413,43 +1067,52 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 83. [IT Recruiter — twenty8](https://www.linkedin.com/jobs/view/4486969534)
+### 69. [Technical Recruiter — STL 1st](https://www.linkedin.com/jobs/view/4488425465)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486969534](https://www.linkedin.com/jobs/view/4486969534)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488425465](https://www.linkedin.com/jobs/view/4488425465)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 84. [Senior Technical Recruiter — HeadFirst Group](https://www.linkedin.com/jobs/view/4488050940)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488050940](https://www.linkedin.com/jobs/view/4488050940)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 85. [Us It Recruiter — Apptad](https://www.naukri.com/job-listings-us-it-recruiter-apptad-chennai-2-to-6-years-061126023640)
+### 70. [US IT Recruiter — Lorven Technologies Inc.](https://www.linkedin.com/jobs/view/4487368432)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-us-it-recruiter-apptad-chennai-2-to-6-years-061126023640](https://www.naukri.com/job-listings-us-it-recruiter-apptad-chennai-2-to-6-years-061126023640)
-- **Concerns**: None identified
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487368432](https://www.linkedin.com/jobs/view/4487368432)
+- **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 86. [US IT Recruiter — InfiCare Staffing](https://www.linkedin.com/jobs/view/4475967052)
+### 71. [US IT Recruiter — Martian Wall](https://www.linkedin.com/jobs/view/4488452318)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4475967052](https://www.linkedin.com/jobs/view/4475967052)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488452318](https://www.linkedin.com/jobs/view/4488452318)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 87. [Technical Recruiter (RPO) — IBM](https://www.linkedin.com/jobs/view/4486229487)
+### 72. [Senior Technical Recruiter — Talentful](https://www.linkedin.com/jobs/view/4319145413)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4319145413](https://www.linkedin.com/jobs/view/4319145413)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 73. [Technical Recruiter — RFgen Software](https://www.linkedin.com/jobs/view/4488489261)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488489261](https://www.linkedin.com/jobs/view/4488489261)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 74. [Technical Recruiter (RPO) — IBM](https://www.linkedin.com/jobs/view/4486229487)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1458,16 +1121,7 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 88. [Technical Recruiter — ZimZee Recruiting](https://www.linkedin.com/jobs/view/4486930302)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486930302](https://www.linkedin.com/jobs/view/4486930302)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 89. [Senior Technical Recruiter — K2 Space Corporation](https://www.linkedin.com/jobs/view/4400454423)
+### 75. [Senior Technical Recruiter — K2 Space Corporation](https://www.linkedin.com/jobs/view/4400454423)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1476,7 +1130,7 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 90. [Technical Recruiter — Howmet Aerospace](https://www.linkedin.com/jobs/view/4477352064)
+### 76. [Technical Recruiter — Howmet Aerospace](https://www.linkedin.com/jobs/view/4477352064)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1485,16 +1139,7 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 91. [Technical Recruiter — Quindar](https://www.linkedin.com/jobs/view/4486208009)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486208009](https://www.linkedin.com/jobs/view/4486208009)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 92. [Technical Recruiter — K2 Space Corporation](https://www.linkedin.com/jobs/view/4411574461)
+### 77. [Technical Recruiter — K2 Space Corporation](https://www.linkedin.com/jobs/view/4411574461)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1503,16 +1148,16 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 93. [Mid-Level Technical Recruiter — Success Matcher Recruitment](https://www.linkedin.com/jobs/view/4488093595)
+### 78. [Technical Recruiter — Piper Companies](https://www.linkedin.com/jobs/view/4477715772)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488093595](https://www.linkedin.com/jobs/view/4488093595)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4477715772](https://www.linkedin.com/jobs/view/4477715772)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 94. [Technical Recruiter — Etched](https://www.linkedin.com/jobs/view/4385394943)
+### 79. [Technical Recruiter — Etched](https://www.linkedin.com/jobs/view/4385394943)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1521,16 +1166,7 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 95. [Technical Recruiter — Haystack](https://www.linkedin.com/jobs/view/4486965573)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486965573](https://www.linkedin.com/jobs/view/4486965573)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 96. [Senior Technical Recruiter — Radiant](https://www.linkedin.com/jobs/view/4425290584)
+### 80. [Senior Technical Recruiter — Radiant](https://www.linkedin.com/jobs/view/4425290584)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1539,16 +1175,16 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 97. [Technical Recruiter — 4Consulting, Inc.](https://www.linkedin.com/jobs/view/4488080088)
+### 81. [Technical Recruiter — Star Catcher](https://www.linkedin.com/jobs/view/4443501371)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488080088](https://www.linkedin.com/jobs/view/4488080088)
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4443501371](https://www.linkedin.com/jobs/view/4443501371)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 98. [International Recruiter (English-Speaking) | No Experience Required — Archer - The IT Recruitment Consultancy (Malta)](https://www.linkedin.com/jobs/view/4488172213)
+### 82. [International Recruiter (English-Speaking) | No Experience Required — Archer - The IT Recruitment Consultancy (Malta)](https://www.linkedin.com/jobs/view/4488172213)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1557,7 +1193,7 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 99. [Senior Recruiter — Joom](https://www.linkedin.com/jobs/view/4488157707)
+### 83. [Senior Recruiter — Joom](https://www.linkedin.com/jobs/view/4488157707)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1566,7 +1202,7 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 100. [Senior Recruiter - Global Oil & Gas Industry Client — AMS](https://www.linkedin.com/jobs/view/4479152803)
+### 84. [Senior Recruiter - Global Oil & Gas Industry Client — AMS](https://www.linkedin.com/jobs/view/4479152803)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1575,16 +1211,7 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 101. [Talent Acquisition Specialist — Abbott](https://www.linkedin.com/jobs/view/4479885339)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4479885339](https://www.linkedin.com/jobs/view/4479885339)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 102. [Trilingual Senior Recruiter — Cielo Talent](https://www.linkedin.com/jobs/view/4488162468)
+### 85. [Trilingual Senior Recruiter — Cielo Talent](https://www.linkedin.com/jobs/view/4488162468)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1593,7 +1220,16 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 103. [Senior Recruiter, Core AI — Microsoft](https://www.linkedin.com/jobs/view/4463356035)
+### 86. [Senior Recruiter — 科天国际贸易(上海)有限公司](https://www.linkedin.com/jobs/view/4486610247)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486610247](https://www.linkedin.com/jobs/view/4486610247)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 87. [Senior Recruiter, Core AI — Microsoft](https://www.linkedin.com/jobs/view/4463356035)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1602,7 +1238,7 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 104. [Senior Recruiter — AMS](https://www.linkedin.com/jobs/view/4486981172)
+### 88. [Senior Recruiter — AMS](https://www.linkedin.com/jobs/view/4486981172)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1611,16 +1247,7 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 105. [Senior Recruiter / Talent Lead — Hawke Media](https://www.linkedin.com/jobs/view/4486972034)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486972034](https://www.linkedin.com/jobs/view/4486972034)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 106. [Recruiter/Senior Recruiter - Experienced Hiring -Beijing — Deloitte](https://www.linkedin.com/jobs/view/4471412647)
+### 89. [Recruiter/Senior Recruiter - Experienced Hiring -Beijing — Deloitte](https://www.linkedin.com/jobs/view/4471412647)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1629,7 +1256,7 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 107. [Senior Recruiter, Leadership — Duolingo](https://www.linkedin.com/jobs/view/4488177861)
+### 90. [Senior Recruiter, Leadership — Duolingo](https://www.linkedin.com/jobs/view/4488177861)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1638,7 +1265,7 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 108. [Senior Recruiter — Coinbase](https://www.linkedin.com/jobs/view/4480154859)
+### 91. [Senior Recruiter — Coinbase](https://www.linkedin.com/jobs/view/4480154859)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1647,7 +1274,7 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 109. [Senior Recruiter — 11 Investments](https://www.linkedin.com/jobs/view/4484373537)
+### 92. [Senior Recruiter — 11 Investments](https://www.linkedin.com/jobs/view/4484373537)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1656,16 +1283,16 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 110. [Senior/Recruitment Consultant - HR — Morgan McKinley](https://www.linkedin.com/jobs/view/4486975011)
+### 93. [Senior Recruiter, Corporate Operations — Anduril Industries](https://www.linkedin.com/jobs/view/4488441798)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486975011](https://www.linkedin.com/jobs/view/4486975011)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488441798](https://www.linkedin.com/jobs/view/4488441798)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 111. [Senior Recruiter (French/English) — ManpowerGroup Talent Solutions](https://www.linkedin.com/jobs/view/4487303330)
+### 94. [Senior Recruiter (French/English) — ManpowerGroup Talent Solutions](https://www.linkedin.com/jobs/view/4487303330)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1674,7 +1301,7 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 112. [Senior Recruiter — 3Search](https://www.linkedin.com/jobs/view/4486271054)
+### 95. [Senior Recruiter — 3Search](https://www.linkedin.com/jobs/view/4486271054)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1683,70 +1310,43 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 113. [Senior Recruiter- Wealth Management — U.S. Bank](https://www.linkedin.com/jobs/view/4488061292)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488061292](https://www.linkedin.com/jobs/view/4488061292)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 114. [Senior Recruiter — Blend](https://www.linkedin.com/jobs/view/4483718982)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4483718982](https://www.linkedin.com/jobs/view/4483718982)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 115. [IT Recruiter ( 2 To 4 Years) — VME Vhire Solutions](https://www.naukri.com/job-listings-it-recruiter-2-to-4-years-vme-vhire-solutions-sholinganallur-2-to-4-years-061126020453)
+### 96. [Senior Talent Acquisition Specialist — SBM Management Services, LP](https://www.linkedin.com/jobs/view/4461359238)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-it-recruiter-2-to-4-years-vme-vhire-solutions-sholinganallur-2-to-4-years-061126020453](https://www.naukri.com/job-listings-it-recruiter-2-to-4-years-vme-vhire-solutions-sholinganallur-2-to-4-years-061126020453)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4461359238](https://www.linkedin.com/jobs/view/4461359238)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 116. [Technical Recruiter Intern — Cloud Synapps](https://www.naukri.com/job-listings-technical-recruiter-intern-cloud-synapps-indore-0-to-1-years-061126023196)
+### 97. [Senior / Recruitment Consultant — Achieve Group](https://www.linkedin.com/jobs/view/4487383302)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (Posted today)
-- **Direct application URL**: [https://www.naukri.com/job-listings-technical-recruiter-intern-cloud-synapps-indore-0-to-1-years-061126023196](https://www.naukri.com/job-listings-technical-recruiter-intern-cloud-synapps-indore-0-to-1-years-061126023196)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 117. [Senior Recruitment Consultant- Health Care and Life Sciences — Michael Page](https://www.linkedin.com/jobs/view/4486134987)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486134987](https://www.linkedin.com/jobs/view/4486134987)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487383302](https://www.linkedin.com/jobs/view/4487383302)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 118. [Human Resource / Recruitment Consultant — SearchAsia Consulting](https://www.linkedin.com/jobs/view/4486940414)
+### 98. [German-speaking Recruitment Consultant – Berlin — NonStop Consulting](https://www.linkedin.com/jobs/view/4485359324)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486940414](https://www.linkedin.com/jobs/view/4486940414)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4485359324](https://www.linkedin.com/jobs/view/4485359324)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 119. [Senior Recruitment Consultant (Consumer Practice) — Kerry Consulting](https://www.linkedin.com/jobs/view/4486202035)
+### 99. [Executive Recruitment Consultant — BOSSHIRE Executive](https://www.linkedin.com/jobs/view/4487369658)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486202035](https://www.linkedin.com/jobs/view/4486202035)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487369658](https://www.linkedin.com/jobs/view/4487369658)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 120. [Graduate Recruitment Consultant - March 2027 Start — Phaidon International](https://www.linkedin.com/jobs/view/4486258130)
+### 100. [Graduate Recruitment Consultant - March 2027 Start — Phaidon International](https://www.linkedin.com/jobs/view/4486258130)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1755,7 +1355,7 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 121. [Graduate Recruitment Consultant - February 2027 Start — Phaidon International](https://www.linkedin.com/jobs/view/4486239836)
+### 101. [Graduate Recruitment Consultant - February 2027 Start — Phaidon International](https://www.linkedin.com/jobs/view/4486239836)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1764,16 +1364,7 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 122. [Recruitment Consultant — Clear IT Recruitment Ltd](https://www.linkedin.com/jobs/view/4486202121)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486202121](https://www.linkedin.com/jobs/view/4486202121)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 123. [Senior Recruitment Consultant - Night Shift - 3PM - 12AM — NES Fircroft](https://www.linkedin.com/jobs/view/4488153945)
+### 102. [Senior Recruitment Consultant - Night Shift - 3PM - 12AM — NES Fircroft](https://www.linkedin.com/jobs/view/4488153945)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1782,7 +1373,7 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 124. [Graduate Recruitment Consultant — Seven Search and Selection Ltd](https://www.linkedin.com/jobs/view/4486254129)
+### 103. [Graduate Recruitment Consultant — Seven Search and Selection Ltd](https://www.linkedin.com/jobs/view/4486254129)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1791,7 +1382,7 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 125. [Recruitment Consultant — Levin](https://www.linkedin.com/jobs/view/4484074919)
+### 104. [Recruitment Consultant — Levin](https://www.linkedin.com/jobs/view/4484074919)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1800,16 +1391,7 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 126. [Recruitment Consultant (Work-From-Home) — PeopleLAKE Group](https://www.linkedin.com/jobs/view/4486934466)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486934466](https://www.linkedin.com/jobs/view/4486934466)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 127. [Junior Recruitment Consultant — McFly & Brown](https://www.linkedin.com/jobs/view/4486253369)
+### 105. [Junior Recruitment Consultant — McFly & Brown](https://www.linkedin.com/jobs/view/4486253369)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1818,16 +1400,7 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 128. [Recruitment Consultant — FastCo](https://www.linkedin.com/jobs/view/4488104299)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488104299](https://www.linkedin.com/jobs/view/4488104299)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 129. [Entry Level Recruitment Consultant — Levin](https://www.linkedin.com/jobs/view/4488408826)
+### 106. [Entry Level Recruitment Consultant — Levin](https://www.linkedin.com/jobs/view/4488408826)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1836,7 +1409,7 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 130. [Recruitment Consultant — Fawkes & Reece](https://www.linkedin.com/jobs/view/4486246682)
+### 107. [Recruitment Consultant — Fawkes & Reece](https://www.linkedin.com/jobs/view/4486246682)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1845,7 +1418,7 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 131. [Recruitment Consultant : Career Changers Welcome — Access Healthcare](https://www.linkedin.com/jobs/view/4487736481)
+### 108. [Recruitment Consultant : Career Changers Welcome — Access Healthcare](https://www.linkedin.com/jobs/view/4487736481)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1854,7 +1427,7 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 132. [Recruitment Consultant — Hays](https://www.linkedin.com/jobs/view/4484666839)
+### 109. [Recruitment Consultant — Hays](https://www.linkedin.com/jobs/view/4484666839)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -1863,16 +1436,34 @@ Encore Consulting Services Inc. is seeking an experienced Senior US IT Recruite.
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 133. [Recruitment Consultant – US Legal Recruitment (London or New York) — Tribeca Recruitment](https://www.linkedin.com/jobs/view/4488062178)
+### 110. [Recruitment Consultant — Reed](https://www.linkedin.com/jobs/view/4486974818)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488062178](https://www.linkedin.com/jobs/view/4488062178)
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486974818](https://www.linkedin.com/jobs/view/4486974818)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 134. [PMO Specialist — BT Group](https://in.indeed.com/viewjob?jk=f064b61c41c25807)
+### 111. [Graduate Recruitment Consultant | Hedge Funds, Technology & AI — Fair Recruitment Limited](https://www.linkedin.com/jobs/view/4486244578)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486244578](https://www.linkedin.com/jobs/view/4486244578)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 112. [Recruitment Consultant — Globe Locums](https://www.linkedin.com/jobs/view/4486977470)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486977470](https://www.linkedin.com/jobs/view/4486977470)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 113. [PMO Specialist — BT Group](https://in.indeed.com/viewjob?jk=f064b61c41c25807)
 - **Why your profile matches**: Matches your target role and skills in Stakeholder management, Power BI.
 - **Most important skills required**: Stakeholder management, Power BI
 
@@ -1902,39 +1493,7 @@ Advertised Salary: Competitive
 **About the role**
 -----------------...
 
-### 135. [Data Governance Controls Manager — BT Group](https://in.indeed.com/viewjob?jk=285678dba7c46d62)
-- **Why your profile matches**: Matches your target role and skills in Stakeholder management, Power BI.
-- **Most important skills required**: Stakeholder management, Power BI
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=285678dba7c46d62](https://in.indeed.com/viewjob?jk=285678dba7c46d62)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: Req ID: 64280
-
-Job Function: Software Engineering
-
-Posting Start Date: 06/11/2026
-
-Posting End Date: 12/11/2026
-
-Division: Digital
-
-Job Location: IND-Bengaluru-RMZ Ecoworld
-
-Advertised Salary: Competitive
-
-**Recruiter: Sowmya Reddy**
-
-**Hiring Manager: Anuran Aich**
-
-**Career Grade: D**
-
-**About the role**
-------------------
-
-The Data Governance Ma...
-
-### 136. [Implementation Lead — Uber](https://in.indeed.com/viewjob?jk=ed30eca75ed14484)
+### 114. [Implementation Lead — Uber](https://in.indeed.com/viewjob?jk=ed30eca75ed14484)
 - **Why your profile matches**: Matches your target role and skills in Stakeholder management, SQL.
 - **Most important skills required**: Stakeholder management, SQL
 
@@ -1947,44 +1506,20 @@ As an Implementation Lead for Employee Transportation Services (ETS), you will o
   
 You will act as the critical bridge between Sales, ...
 
-### 137. [US Technical Sourcer — World Wide Technology](https://in.indeed.com/viewjob?jk=59cfcaee7bb2f793)
-- **Why your profile matches**: Matches your target role and skills in LinkedIn Recruiter, AI tools.
-- **Most important skills required**: LinkedIn Recruiter, AI tools
+### 115. [Data Analytics & Monitoring Evaluation Specialist — ETS](https://in.indeed.com/viewjob?jk=e96cf8229aa30db7)
+- **Why your profile matches**: Matches your target role and skills in Power BI.
+- **Most important skills required**: Power BI
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=59cfcaee7bb2f793](https://in.indeed.com/viewjob?jk=59cfcaee7bb2f793)
+- **Direct application URL**: [https://in.indeed.com/viewjob?jk=e96cf8229aa30db7](https://in.indeed.com/viewjob?jk=e96cf8229aa30db7)
 - **Concerns**: Salary not disclosed
-- **Job Description Summary**: **Qualifications:**  
+- **Job Description Summary**: **Job Description:**
 
-* Minimum 7 years of hands-on experience in US IT/Technical Recruitment
-* Strong hands-on experience with Bullhorn, Beline, and LinkedIn Recruiter (mandatory and non-negotiable
-* Demonstrated success recruiting for complex US technical roles across multiple technology domains, including Networking, Infrastructure, Cloud, and ...
+**About ETS:**
 
-### 138. [SAP Analytics Cloud Developer – Specialist - Hyderabad — Deloitte](https://in.indeed.com/viewjob?jk=7d81319a84d53eba)
-- **Why your profile matches**: Matches your target role and skills in Power BI, SQL.
-- **Most important skills required**: Power BI, SQL
+ETS is a global education and talent solutions organization enabling lifelong learners worldwide to be future-ready. For more than 75 years, we've been advancing the science of measurement to build benchmarks for fair and valid skill assessment across cultures and borders. Our worldwide impact extends through o...
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=7d81319a84d53eba](https://in.indeed.com/viewjob?jk=7d81319a84d53eba)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: **SAP Analytics Cloud Developer – Specialist - Hyderabad**
-==========================================================
-
-**Position Overview**
----------------------
-
-The SAP Analytics Cloud (SAC) Developer – Senior Analyst will develop, enhance, and support reporting and analytics solutions for Global Finance Services. The role is primarily focused o...
-
-### 139. [Looking For Oracle PLSQL Developer/Immediate/8-20 years/Hybrid — Vipany Global](https://www.naukri.com/job-listings-looking-for-oracle-plsql-developer-immediate-8-20-years-hybrid-vipany-global-hyderabad-chennai-bengaluru-8-to-13-years-061126010056)
-- **Why your profile matches**: Matches your target role and skills in SQL.
-- **Most important skills required**: SQL
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-looking-for-oracle-plsql-developer-immediate-8-20-years-hybrid-vipany-global-hyderabad-chennai-bengaluru-8-to-13-years-061126010056](https://www.naukri.com/job-listings-looking-for-oracle-plsql-developer-immediate-8-20-years-hybrid-vipany-global-hyderabad-chennai-bengaluru-8-to-13-years-061126010056)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 140. [specialist, talent partnership, enterprise — Randstad](https://in.indeed.com/viewjob?jk=7be9da69d1b56dbb)
+### 116. [specialist, talent partnership, enterprise — Randstad](https://in.indeed.com/viewjob?jk=7be9da69d1b56dbb)
 - **Why your profile matches**: Matches your target role and skills in Stakeholder management.
 - **Most important skills required**: Stakeholder management
 
@@ -2001,7 +1536,7 @@ job details
 
 Every year, we help hundreds of thousands of people find rewarding jobs in the ever-changing world of work.We understand the importance of a job in peoples lifes and we want to help them find work that feels good. And we’ll help them continue to grow as their needs and ...
 
-### 141. [Recruitment Specialist (Non-IT) – Logistics & Supply Chain — Chronicle LLC FZ](https://in.indeed.com/viewjob?jk=73482e79d6b4972c)
+### 117. [Recruitment Specialist (Non-IT) – Logistics & Supply Chain — Chronicle LLC FZ](https://in.indeed.com/viewjob?jk=73482e79d6b4972c)
 - **Why your profile matches**: Matches your target role and skills in Boolean search.
 - **Most important skills required**: Boolean search
 
@@ -2012,18 +1547,18 @@ Every year, we help hundreds of thousands of people find rewarding jobs in the e
 
 We are hiring a hands-on, non-IT Recruitment Specialist who can research, map, source, assess and recommend candidates independently. This role is for recruiters wi...
 
-### 142. [Senior Product Manager, Data Ingestion & Customer Onboarding — Vertex](https://in.indeed.com/viewjob?jk=c3e22704bc6bb99f)
-- **Why your profile matches**: Matches your target role and skills in Stakeholder management.
-- **Most important skills required**: Stakeholder management
+### 118. [US Recruiter (Non-IT) — Merrivant Recruitment Group LTD](https://in.indeed.com/viewjob?jk=00ab5b1f497f5448)
+- **Why your profile matches**: Matches your target role and skills in Boolean search.
+- **Most important skills required**: Boolean search
 
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=c3e22704bc6bb99f](https://in.indeed.com/viewjob?jk=c3e22704bc6bb99f)
-- **Concerns**: None identified
-- **Job Description Summary**: **Job Description:**
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://in.indeed.com/viewjob?jk=00ab5b1f497f5448](https://in.indeed.com/viewjob?jk=00ab5b1f497f5448)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: Merrivant Recruitment Group is a UK-led company that recruits for global clients. We hire for non-IT roles across construction, engineering, finance, healthcare, and professional services. We’re growing our Gurugram team and want recruiters who are comfortable with the Non-IT US market and can turn requirements into quality submissions fast.
 
-The **Senior Product Manager, Data Ingestion and Customer Onboardin**g is responsible for defining the strategy, roadmap, and execution of Vertex's data ingestion and customer onboarding capabilities. This role owns how customer data is collected, transformed, validated, and activated across Vertex products, ensuring customers...
+**Wha...
 
-### 143. [Systems Engineering Specialist Advisor — NTT DATA](https://in.indeed.com/viewjob?jk=7c2cf8cf8c9ca1fa)
+### 119. [Systems Engineering Specialist Advisor — NTT DATA](https://in.indeed.com/viewjob?jk=7c2cf8cf8c9ca1fa)
 - **Why your profile matches**: Matches your target role and skills in Stakeholder management.
 - **Most important skills required**: Stakeholder management
 
@@ -2038,25 +1573,7 @@ NTT DATA strives to hire exceptional, innovative and passionate individuals who 
   
 We are currently seeking a Systems Engineering Specialist Advisor to join our team in Noida, Uttar Pradesh (IN-UP), Indi...
 
-### 144. [Technical Software Engineering Lead -Lead Software Engineer II — Deloitte](https://in.indeed.com/viewjob?jk=4e112e08bbc0ef84)
-- **Why your profile matches**: Matches your target role and skills in SQL.
-- **Most important skills required**: SQL
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=4e112e08bbc0ef84](https://in.indeed.com/viewjob?jk=4e112e08bbc0ef84)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: **Technical Software Engineering Lead - Manager**
-
-**Deloitte Consulting Products (USI)**
-
-**About the Role**
-==================
-
-Level: Manager
-
-Are you an experienced Software Engineer who has led the development of world-class software or digital products? Are you looking for an opportunity to expand your scope and lead products used by some of ...
-
-### 145. [Vulnerability Management — NTT DATA](https://in.indeed.com/viewjob?jk=e81753f96ee07c6a)
+### 120. [Vulnerability Management — NTT DATA](https://in.indeed.com/viewjob?jk=e81753f96ee07c6a)
 - **Why your profile matches**: Matches your target role and skills in Stakeholder management.
 - **Most important skills required**: Stakeholder management
 
@@ -2072,25 +1589,7 @@ NTT DATA strives to hire exceptional, innovative and passionate individuals who 
   
 We are currently seeking a Vulnerability Management to join our team in Bangalore, Karnātak...
 
-### 146. [Agentic AI Developer - AI and Data Science Engineer III — Deloitte](https://in.indeed.com/viewjob?jk=13e643b1ba9d0244)
-- **Why your profile matches**: Matches your target role and skills in SQL.
-- **Most important skills required**: SQL
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=13e643b1ba9d0244](https://in.indeed.com/viewjob?jk=13e643b1ba9d0244)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: **AI Engineer, Consultant**
-
-**Deloitte Consulting Products (USI)**
-
-**About the Role**
-==================
-
-Level: Consultant
-
-Are you an AI Engineer who has taken LLM-based applications past the prototype stage and into production? Are you looking for an opportunity to build agents that some of the biggest and most influential consumer businesses ...
-
-### 147. [Specialist - Information Lifecycle Management — BT Group](https://in.indeed.com/viewjob?jk=6ac8655d6fe1704f)
+### 121. [Specialist - Information Lifecycle Management — BT Group](https://in.indeed.com/viewjob?jk=6ac8655d6fe1704f)
 - **Why your profile matches**: Matches your target role and skills in Power BI.
 - **Most important skills required**: Power BI
 
@@ -2122,16 +1621,25 @@ Advertised Salary: Competitive
 
 The Data Governance Sp...
 
-### 148. [Lead, Technical Services Engineer - Partners — MongoDB](https://in.indeed.com/viewjob?jk=57ba7f4cc2505e2a)
+### 122. [Technical Software Engineering Lead -Lead Software Engineer II — Deloitte](https://in.indeed.com/viewjob?jk=4e112e08bbc0ef84)
 - **Why your profile matches**: Matches your target role and skills in SQL.
 - **Most important skills required**: SQL
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=57ba7f4cc2505e2a](https://in.indeed.com/viewjob?jk=57ba7f4cc2505e2a)
+- **Direct application URL**: [https://in.indeed.com/viewjob?jk=4e112e08bbc0ef84](https://in.indeed.com/viewjob?jk=4e112e08bbc0ef84)
 - **Concerns**: Salary not disclosed
-- **Job Description Summary**: MongoDB's Technical Services Engineering team uses exceptional problem-solving and customer service skills, along with deep technical experience, to advise customers and solve their complex MongoDB problems: consulting on application and schema design, optimizing performance and scalability, resolving production outages, designing and reviewing ope...
+- **Job Description Summary**: **Technical Software Engineering Lead - Manager**
 
-### 149. [Strategic Business Planning Analyst — BT Group](https://in.indeed.com/viewjob?jk=34f1aa2f455d1c4b)
+**Deloitte Consulting Products (USI)**
+
+**About the Role**
+==================
+
+Level: Manager
+
+Are you an experienced Software Engineer who has led the development of world-class software or digital products? Are you looking for an opportunity to expand your scope and lead products used by some of ...
+
+### 123. [Strategic Business Planning Analyst — BT Group](https://in.indeed.com/viewjob?jk=34f1aa2f455d1c4b)
 - **Why your profile matches**: Matches your target role and skills in Power BI.
 - **Most important skills required**: Power BI
 
@@ -2163,39 +1671,25 @@ Advertised Salary: Competitive
 
 The Strategic Busines...
 
-### 150. [Data Reliability Manager — BT Group](https://in.indeed.com/viewjob?jk=090fd9721c9741cd)
-- **Why your profile matches**: Matches your target role and skills in Stakeholder management.
-- **Most important skills required**: Stakeholder management
+### 124. [Agentic AI Developer - AI and Data Science Engineer III — Deloitte](https://in.indeed.com/viewjob?jk=13e643b1ba9d0244)
+- **Why your profile matches**: Matches your target role and skills in SQL.
+- **Most important skills required**: SQL
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=090fd9721c9741cd](https://in.indeed.com/viewjob?jk=090fd9721c9741cd)
+- **Direct application URL**: [https://in.indeed.com/viewjob?jk=13e643b1ba9d0244](https://in.indeed.com/viewjob?jk=13e643b1ba9d0244)
 - **Concerns**: Salary not disclosed
-- **Job Description Summary**: Req ID: 64183
+- **Job Description Summary**: **AI Engineer, Consultant**
 
-Job Function: Software Engineering
+**Deloitte Consulting Products (USI)**
 
-Posting Start Date: 06/11/2026
+**About the Role**
+==================
 
-Posting End Date: 12/11/2026
+Level: Consultant
 
-Division: Digital
+Are you an AI Engineer who has taken LLM-based applications past the prototype stage and into production? Are you looking for an opportunity to build agents that some of the biggest and most influential consumer businesses ...
 
-Job Location: IND-Bengaluru-RMZ Ecoworld
-
-Advertised Salary: Competitive
-
-**Recruiter: Sowmya Reddy**
-
-**Hiring Manager: Aneesha D'Souza**
-
-**Career Grade: D**
-
-**About the role**
-------------------
-
-The Data Governanc...
-
-### 151. [Systems Engineering Advisor - EUC Applications - Infrastructure Engineer — NTT DATA](https://in.indeed.com/viewjob?jk=7f7854b84a8b6edc)
+### 125. [Systems Engineering Advisor - EUC Applications - Infrastructure Engineer — NTT DATA](https://in.indeed.com/viewjob?jk=7f7854b84a8b6edc)
 - **Why your profile matches**: Matches your target role and skills in Stakeholder management.
 - **Most important skills required**: Stakeholder management
 
@@ -2210,7 +1704,7 @@ NTT DATA strives to hire exceptional, innovative and passionate individuals who 
   
 We are currently seeking a Systems Engineering Advisor - EUC Applications - Infrastructure Engineer to join our team in ...
 
-### 152. [Manager - Immigration Compliance — Deloitte](https://in.indeed.com/viewjob?jk=70bcc9cf44b6ede9)
+### 126. [Manager - Immigration Compliance — Deloitte](https://in.indeed.com/viewjob?jk=70bcc9cf44b6ede9)
 - **Why your profile matches**: Matches your target role and skills in Stakeholder management.
 - **Most important skills required**: Stakeholder management
 
@@ -2221,7 +1715,7 @@ We are currently seeking a Systems Engineering Advisor - EUC Applications - Infr
 
 Deloitte Tax Services India Private Limited (“USI Tax”) commenced operations in June 2004. Since then, nearly all the Deloitte Tax LLP (“Deloitte Tax”) U.S. service offerings have obtained support services through the USI Tax teams. USI Tax offers you opportunities to learn and support U.S. an...
 
-### 153. [Applied AI Product Leader – Group Product Manager — Deloitte](https://in.indeed.com/viewjob?jk=17563683de7f3140)
+### 127. [Applied AI Product Leader – Group Product Manager — Deloitte](https://in.indeed.com/viewjob?jk=17563683de7f3140)
 - **Why your profile matches**: Matches your target role and skills in AI tools.
 - **Most important skills required**: AI tools
 
@@ -2238,7 +1732,7 @@ Deloitte Tax Services India Private Limited (“USI Tax”) commenced operations
 
 The Applied AI Group Product Manager is a senior leadership role responsible for the overall product strategy, profit and loss (P&L), product team development, product operating model effectiveness, and objective attainment within a product area. This role...
 
-### 154. [Oracle Fusion Cloud Integration Senior Technical Consultant- 14496 — Fujitsu](https://in.indeed.com/viewjob?jk=d335893ee51d7a71)
+### 128. [Oracle Fusion Cloud Integration Senior Technical Consultant- 14496 — Fujitsu](https://in.indeed.com/viewjob?jk=d335893ee51d7a71)
 - **Why your profile matches**: Matches your target role and skills in SQL.
 - **Most important skills required**: SQL
 
@@ -2259,17 +1753,7 @@ Posting Start Date: 11/6/26
 
 At Fujitsu, our purpose is to make the world more sustainable by building trust in society through innovation. Founded in...
 
-### 155. [Salesforce Developer — CGI](https://in.indeed.com/viewjob?jk=47ef8f7bb68c9125)
-- **Why your profile matches**: Matches your target role and skills in AI tools.
-- **Most important skills required**: AI tools
-
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=47ef8f7bb68c9125](https://in.indeed.com/viewjob?jk=47ef8f7bb68c9125)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: Company Profile:  
-Founded in 1976, CGI is among the largest independent IT and business consulting services firms in the world. With 94,000 consultants and professionals across the globe, CGI delivers an end-to-end portfolio of capabilities, from strategic IT and business consulting to systems integration, managed IT and business process services ...
-
-### 156. [Senior Full Stack Software Engineer (Python & React) — Automattic](https://automattic.com/work-with-us/)
+### 129. [Senior Full Stack Software Engineer (Python & React) — Automattic](https://automattic.com/work-with-us/)
 - **Why your profile matches**: Matches your target role and skills in SQL.
 - **Most important skills required**: SQL
 
@@ -2286,7 +1770,7 @@ Responsibilities:
 Requirements:
 -...
 
-### 157. [FP&A Lead (Strategic Growth & Forecasting) — Stripe](https://stripe.com/jobs)
+### 130. [FP&A Lead (Strategic Growth & Forecasting) — Stripe](https://stripe.com/jobs)
 - **Why your profile matches**: Matches your target role and skills in SQL.
 - **Most important skills required**: SQL
 
@@ -2303,7 +1787,7 @@ Responsibilities:
 Requirements:
 - 4...
 
-### 158. [Technical Talent Sourcing Specialist — Microsoft](https://careers.microsoft.com/us/en/job/1749102)
+### 131. [Technical Talent Sourcing Specialist — Microsoft](https://careers.microsoft.com/us/en/job/1749102)
 - **Why your profile matches**: Matches your target role and skills in Boolean search.
 - **Most important skills required**: Boolean search
 
@@ -2317,999 +1801,106 @@ Responsibilities:
 - Leverage deep web talent mining, Boolean search strings, and GitHub sourcing.
 - Build diverse talent pipelines and conduct market mapping for emer...
 
-### 159. [Senior Business Execution Consultant — Wells Fargo](https://in.indeed.com/viewjob?jk=68c97bdd98f2d536)
-- **Why your profile matches**: Matches your target role and skills in Stakeholder management, Power BI, SQL.
-- **Most important skills required**: Stakeholder management, Power BI, SQL
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=68c97bdd98f2d536](https://in.indeed.com/viewjob?jk=68c97bdd98f2d536)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: **About this role:**
-
-**Wells Fargo is seeking a Senior Business Execution Consultant** to support strategic transformation initiatives across the Wealth & Investment Management (WIM) business, with a primary focus on Banking, Lending, and Trust. This role will lead and execute multiple concurrent projects involving automation, process optimization...
-
-### 160. [Recruiter- Female — Plan B Consulting](https://www.naukri.com/job-listings-recruiter-female-plan-b-consulting-delhi-ncr-1-to-3-years-250926004506)
+### 132. [Sr Talent Acquisition — Intellics Global Services](https://www.naukri.com/job-listings-sr-talent-acquisition-intellics-global-services-jamshedpur-3-to-6-years-071126008731)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-recruiter-female-plan-b-consulting-delhi-ncr-1-to-3-years-250926004506](https://www.naukri.com/job-listings-recruiter-female-plan-b-consulting-delhi-ncr-1-to-3-years-250926004506)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-sr-talent-acquisition-intellics-global-services-jamshedpur-3-to-6-years-071126008731](https://www.naukri.com/job-listings-sr-talent-acquisition-intellics-global-services-jamshedpur-3-to-6-years-071126008731)
 - **Concerns**: None identified
 - **Job Description Summary**: 
 
-### 161. [Fresh MBA - HR Consultants -IT — Talent Track Services](https://www.naukri.com/job-listings-fresh-mba-hr-consultants-it-talent-track-services-bengaluru-0-to-0-years-080926027193)
+### 133. [Human Resource Recruiter — Nest Academy Of Management Education](https://www.naukri.com/job-listings-human-resource-recruiter-nest-academy-of-management-education-mumbai-all-areas-1-to-4-years-071126008674)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-fresh-mba-hr-consultants-it-talent-track-services-bengaluru-0-to-0-years-080926027193](https://www.naukri.com/job-listings-fresh-mba-hr-consultants-it-talent-track-services-bengaluru-0-to-0-years-080926027193)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-human-resource-recruiter-nest-academy-of-management-education-mumbai-all-areas-1-to-4-years-071126008674](https://www.naukri.com/job-listings-human-resource-recruiter-nest-academy-of-management-education-mumbai-all-areas-1-to-4-years-071126008674)
 - **Concerns**: None identified
 - **Job Description Summary**: 
 
-### 162. [Immediate Hiring For US Recruiter- Only Direct clients — Sunrise Biztech Systems](https://www.naukri.com/job-listings-immediate-hiring-for-us-recruiter-only-direct-clients-sunrise-biztech-systems-bengaluru-1-to-6-years-071126000036)
+### 134. [Hiring For Talent Acquisition Executive | Recruitment | Day Shift! — Rivera Manpower Services](https://www.naukri.com/job-listings-hiring-for-talent-acquisition-executive-recruitment-day-shift-rivera-manpower-services-bengaluru-0-to-5-years-071126008484)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-immediate-hiring-for-us-recruiter-only-direct-clients-sunrise-biztech-systems-bengaluru-1-to-6-years-071126000036](https://www.naukri.com/job-listings-immediate-hiring-for-us-recruiter-only-direct-clients-sunrise-biztech-systems-bengaluru-1-to-6-years-071126000036)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 163. [US / UK Flight sales agent ll PPC / Meta ll 60k Gurgaon — Sharda Consultancy Services](https://www.naukri.com/job-listings-us-uk-flight-sales-agent-ll-ppc-meta-ll-60k-gurgaon-sharda-consultancy-services-noida-new-delhi-gurugram-1-to-6-years-061126026201)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-us-uk-flight-sales-agent-ll-ppc-meta-ll-60k-gurgaon-sharda-consultancy-services-noida-new-delhi-gurugram-1-to-6-years-061126026201](https://www.naukri.com/job-listings-us-uk-flight-sales-agent-ll-ppc-meta-ll-60k-gurgaon-sharda-consultancy-services-noida-new-delhi-gurugram-1-to-6-years-061126026201)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-hiring-for-talent-acquisition-executive-recruitment-day-shift-rivera-manpower-services-bengaluru-0-to-5-years-071126008484](https://www.naukri.com/job-listings-hiring-for-talent-acquisition-executive-recruitment-day-shift-rivera-manpower-services-bengaluru-0-to-5-years-071126008484)
 - **Concerns**: None identified
 - **Job Description Summary**: 
 
-### 164. [Talent Acquisition Executive — Novel Office](https://www.naukri.com/job-listings-talent-acquisition-executive-novel-office-bengaluru-0-to-1-years-030926028645)
+### 135. [Jr. Manager - Talent Acquisition — GMR Airports Infrastructure](https://www.naukri.com/job-listings-jr-manager-talent-acquisition-gmr-airports-infrastructure-hyderabad-6-to-10-years-071126008469)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-talent-acquisition-executive-novel-office-bengaluru-0-to-1-years-030926028645](https://www.naukri.com/job-listings-talent-acquisition-executive-novel-office-bengaluru-0-to-1-years-030926028645)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-jr-manager-talent-acquisition-gmr-airports-infrastructure-hyderabad-6-to-10-years-071126008469](https://www.naukri.com/job-listings-jr-manager-talent-acquisition-gmr-airports-infrastructure-hyderabad-6-to-10-years-071126008469)
 - **Concerns**: None identified
 - **Job Description Summary**: 
 
-### 165. [Assistant Manager (Product Hiring) — Peoplelogic Business Solutions](https://www.naukri.com/job-listings-assistant-manager-product-hiring-peoplelogic-business-solutions-bengaluru-6-to-10-years-070826018621)
+### 136. [Recruiter & TA - Lateral Hiring (Non-IT)|| Bangalore & Mumbai — Axis Services](https://www.naukri.com/job-listings-recruiter-ta-lateral-hiring-non-it-bangalore-mumbai-axis-services-bengaluru-mumbai-all-areas-3-to-6-years-071126008277)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-assistant-manager-product-hiring-peoplelogic-business-solutions-bengaluru-6-to-10-years-070826018621](https://www.naukri.com/job-listings-assistant-manager-product-hiring-peoplelogic-business-solutions-bengaluru-6-to-10-years-070826018621)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 166. [Business Development Executive - IT Staffing — Sequenza Global](https://www.naukri.com/job-listings-business-development-executive-it-staffing-sequenza-global-kochi-bengaluru-thiruvananthapuram-0-to-2-years-061126025355)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-business-development-executive-it-staffing-sequenza-global-kochi-bengaluru-thiruvananthapuram-0-to-2-years-061126025355](https://www.naukri.com/job-listings-business-development-executive-it-staffing-sequenza-global-kochi-bengaluru-thiruvananthapuram-0-to-2-years-061126025355)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 167. [Assistant Manager - HR - Talent Acquisition — Shahi](https://www.naukri.com/job-listings-assistant-manager-hr-talent-acquisition-shahi-bengaluru-3-to-6-years-061126025225)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-assistant-manager-hr-talent-acquisition-shahi-bengaluru-3-to-6-years-061126025225](https://www.naukri.com/job-listings-assistant-manager-hr-talent-acquisition-shahi-bengaluru-3-to-6-years-061126025225)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 168. [Talent Acquisition Executive — Uberlife Consulting](https://www.naukri.com/job-listings-talent-acquisition-executive-uberlife-consulting-bengaluru-4-to-9-years-070426035600)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-talent-acquisition-executive-uberlife-consulting-bengaluru-4-to-9-years-070426035600](https://www.naukri.com/job-listings-talent-acquisition-executive-uberlife-consulting-bengaluru-4-to-9-years-070426035600)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 169. [Bench Sales Recruiter — Alphabyte Insights](https://www.naukri.com/job-listings-bench-sales-recruiter-alphabyte-insights-vijayawada-hyderabad-2-to-7-years-061126025157)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-bench-sales-recruiter-alphabyte-insights-vijayawada-hyderabad-2-to-7-years-061126025157](https://www.naukri.com/job-listings-bench-sales-recruiter-alphabyte-insights-vijayawada-hyderabad-2-to-7-years-061126025157)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-recruiter-ta-lateral-hiring-non-it-bangalore-mumbai-axis-services-bengaluru-mumbai-all-areas-3-to-6-years-071126008277](https://www.naukri.com/job-listings-recruiter-ta-lateral-hiring-non-it-bangalore-mumbai-axis-services-bengaluru-mumbai-all-areas-3-to-6-years-071126008277)
 - **Concerns**: None identified
 - **Job Description Summary**: 
 
-### 170. [Permanent Work From Home - HR Recruiter - Commission based — Wrixty Services](https://www.naukri.com/job-listings-permanent-work-from-home-hr-recruiter-commission-based-wrixty-services-mumbai-all-areas-0-to-3-years-061126024944)
+### 137. [Human Resource Recruiter — Crystal Hues](https://www.naukri.com/job-listings-human-resource-recruiter-crystal-hues-bengaluru-0-to-1-years-071126008216)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-permanent-work-from-home-hr-recruiter-commission-based-wrixty-services-mumbai-all-areas-0-to-3-years-061126024944](https://www.naukri.com/job-listings-permanent-work-from-home-hr-recruiter-commission-based-wrixty-services-mumbai-all-areas-0-to-3-years-061126024944)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-human-resource-recruiter-crystal-hues-bengaluru-0-to-1-years-071126008216](https://www.naukri.com/job-listings-human-resource-recruiter-crystal-hues-bengaluru-0-to-1-years-071126008216)
 - **Concerns**: None identified
 - **Job Description Summary**: 
 
-### 171. [Recruitment Partner (Career Break) with Seventh Contact, Pune (Remote) — Seventh Contact Hiring Solutions](https://www.naukri.com/job-listings-recruitment-partner-career-break-with-seventh-contact-pune-remote-seventh-contact-hiring-solutions-pune-1-to-6-years-200726018175)
+### 138. [Senior AI Engineer - Multi-Agent — Black And White Business Solutions](https://www.naukri.com/job-listings-senior-ai-engineer-multi-agent-black-and-white-business-solutions-hyderabad-9-to-14-years-071126007958)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-recruitment-partner-career-break-with-seventh-contact-pune-remote-seventh-contact-hiring-solutions-pune-1-to-6-years-200726018175](https://www.naukri.com/job-listings-recruitment-partner-career-break-with-seventh-contact-pune-remote-seventh-contact-hiring-solutions-pune-1-to-6-years-200726018175)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-senior-ai-engineer-multi-agent-black-and-white-business-solutions-hyderabad-9-to-14-years-071126007958](https://www.naukri.com/job-listings-senior-ai-engineer-multi-agent-black-and-white-business-solutions-hyderabad-9-to-14-years-071126007958)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 139. [Hr Fresher — Black And White Business Solutions](https://www.naukri.com/job-listings-hr-fresher-black-and-white-business-solutions-bengaluru-0-to-0-years-071126007714)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-hr-fresher-black-and-white-business-solutions-bengaluru-0-to-0-years-071126007714](https://www.naukri.com/job-listings-hr-fresher-black-and-white-business-solutions-bengaluru-0-to-0-years-071126007714)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 140. [Artificial Intelligence Engineer — Black And White Business Solutions](https://www.naukri.com/job-listings-artificial-intelligence-engineer-black-and-white-business-solutions-hyderabad-5-to-10-years-071126007409)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-artificial-intelligence-engineer-black-and-white-business-solutions-hyderabad-5-to-10-years-071126007409](https://www.naukri.com/job-listings-artificial-intelligence-engineer-black-and-white-business-solutions-hyderabad-5-to-10-years-071126007409)
 - **Concerns**: None identified
 - **Job Description Summary**: 
 
-### 172. [Talent Acquisition Executive — MSM Global Education](https://www.naukri.com/job-listings-talent-acquisition-executive-msm-global-education-gurugram-0-to-2-years-061126023955)
+### 141. [Hr Recruitment Professional — Assort 1 Corp Services](https://www.naukri.com/job-listings-hr-recruitment-professional-assort-1-corp-services-mumbai-all-areas-1-to-4-years-071126007223)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-talent-acquisition-executive-msm-global-education-gurugram-0-to-2-years-061126023955](https://www.naukri.com/job-listings-talent-acquisition-executive-msm-global-education-gurugram-0-to-2-years-061126023955)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-hr-recruitment-professional-assort-1-corp-services-mumbai-all-areas-1-to-4-years-071126007223](https://www.naukri.com/job-listings-hr-recruitment-professional-assort-1-corp-services-mumbai-all-areas-1-to-4-years-071126007223)
 - **Concerns**: None identified
 - **Job Description Summary**: 
 
-### 173. [Talent Acquisition Partner — DIAGEO India](https://www.linkedin.com/jobs/view/4488194895)
+### 142. [Senior Industrial/ Manufacturing Recruiter — SpeedMart](https://www.linkedin.com/jobs/view/4487386913)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488194895](https://www.linkedin.com/jobs/view/4488194895)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487386913](https://www.linkedin.com/jobs/view/4487386913)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 174. [Technical Recruiting Specialist — NPS Prism](https://www.linkedin.com/jobs/view/4486204547)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486204547](https://www.linkedin.com/jobs/view/4486204547)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 175. [Executive / Senior Executive — Nation with NaMo](https://www.linkedin.com/jobs/view/4486954935)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486954935](https://www.linkedin.com/jobs/view/4486954935)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 176. [Founder's Office and talent Acquisition Intern — Mirai School of Technology](https://www.linkedin.com/jobs/view/4486969669)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486969669](https://www.linkedin.com/jobs/view/4486969669)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 177. [Senior Human Resource Executive — Tecnova India](https://www.naukri.com/job-listings-senior-human-resource-executive-tecnova-india-gurugram-3-to-6-years-061126023771)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-senior-human-resource-executive-tecnova-india-gurugram-3-to-6-years-061126023771](https://www.naukri.com/job-listings-senior-human-resource-executive-tecnova-india-gurugram-3-to-6-years-061126023771)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 178. [Recruiter — Chartered Club](https://www.naukri.com/job-listings-recruiter-chartered-club-gurugram-10-to-16-years-061126021146)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-recruiter-chartered-club-gurugram-10-to-16-years-061126021146](https://www.naukri.com/job-listings-recruiter-chartered-club-gurugram-10-to-16-years-061126021146)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 179. [History Researcher (Freelancer) — Soul Ai](https://www.naukri.com/job-listings-history-researcher-freelancer-soul-ai-gurugram-1-to-4-years-061126917339)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-history-researcher-freelancer-soul-ai-gurugram-1-to-4-years-061126917339](https://www.naukri.com/job-listings-history-researcher-freelancer-soul-ai-gurugram-1-to-4-years-061126917339)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 180. [Human Resource Executive — 300plus Innovative Solutions](https://www.naukri.com/job-listings-human-resource-executive-300plus-innovative-solutions-new-delhi-gurugram-delhi-ncr-0-to-1-years-061126011416)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-human-resource-executive-300plus-innovative-solutions-new-delhi-gurugram-delhi-ncr-0-to-1-years-061126011416](https://www.naukri.com/job-listings-human-resource-executive-300plus-innovative-solutions-new-delhi-gurugram-delhi-ncr-0-to-1-years-061126011416)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 181. [Talent Acquisition Partner — GE Vernova](https://www.linkedin.com/jobs/view/4488158097)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488158097](https://www.linkedin.com/jobs/view/4488158097)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 182. [Human Resources Specialist — Frutta - Corporate Refreshment & Experience Specialist](https://www.linkedin.com/jobs/view/4486990073)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486990073](https://www.linkedin.com/jobs/view/4486990073)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 183. [Talent Acquisition Executive (Tech, Product, SaaS) — TalentXO](https://www.linkedin.com/jobs/view/4488164801)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488164801](https://www.linkedin.com/jobs/view/4488164801)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 184. [Associate - US Recruiting — Clean Harbors](https://www.linkedin.com/jobs/view/4470993500)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4470993500](https://www.linkedin.com/jobs/view/4470993500)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 185. [Talent Acquisition Recruiter — SyncUp](https://www.linkedin.com/jobs/view/4486997008)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486997008](https://www.linkedin.com/jobs/view/4486997008)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 186. [Associate - Supply Operations in Bangalore — PeopleX Ventures](https://www.linkedin.com/jobs/view/4488076653)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488076653](https://www.linkedin.com/jobs/view/4488076653)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 187. [Talent Acquisition Consultant - UK Hiring — Version 1](https://www.linkedin.com/jobs/view/4486264131)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486264131](https://www.linkedin.com/jobs/view/4486264131)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 188. [Curation Specialist - India — Raise](https://www.linkedin.com/jobs/view/4486991496)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486991496](https://www.linkedin.com/jobs/view/4486991496)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 189. [Assistant Talent Acquisition Manager — Nextenti Tech Private Limited](https://www.linkedin.com/jobs/view/4486217808)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486217808](https://www.linkedin.com/jobs/view/4486217808)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 190. [Talent Acquisition Trainee — NES Fircroft](https://www.linkedin.com/jobs/view/4488163434)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488163434](https://www.linkedin.com/jobs/view/4488163434)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 191. [Program Specialist — Allegis Global Solutions](https://www.linkedin.com/jobs/view/4481124244)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4481124244](https://www.linkedin.com/jobs/view/4481124244)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 192. [Recruitment Manager — Datasoft Technologies, Inc.](https://www.linkedin.com/jobs/view/4487317655)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487317655](https://www.linkedin.com/jobs/view/4487317655)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 193. [Early Careers Program Specialist — Booking Holdings (NASDAQ: BKNG)](https://www.linkedin.com/jobs/view/4477335509)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4477335509](https://www.linkedin.com/jobs/view/4477335509)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 194. [Talent Operations Coordinator — OnePay](https://www.linkedin.com/jobs/view/4479991036)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4479991036](https://www.linkedin.com/jobs/view/4479991036)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 195. [Talent Acquisition | Senior Executive Search Consultant | Headhunter — Quest Global](https://www.linkedin.com/jobs/view/4486224940)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486224940](https://www.linkedin.com/jobs/view/4486224940)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 196. [Associate Consultant – Recruitment — MyCareernet](https://www.linkedin.com/jobs/view/4485896817)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4485896817](https://www.linkedin.com/jobs/view/4485896817)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 197. [Executive Recruiter — Guidewire Software](https://www.linkedin.com/jobs/view/4479878454)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4479878454](https://www.linkedin.com/jobs/view/4479878454)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 198. [Human Resources Executive — Mercom India](https://www.linkedin.com/jobs/view/4486965899)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486965899](https://www.linkedin.com/jobs/view/4486965899)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 199. [Talent Acquisition Intern — Media.net](https://www.linkedin.com/jobs/view/4488116891)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488116891](https://www.linkedin.com/jobs/view/4488116891)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 200. [Recruiter, TA Stores — Amazon](https://www.linkedin.com/jobs/view/4471120665)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4471120665](https://www.linkedin.com/jobs/view/4471120665)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 201. [Freelance Field Recruiter — Nemat industries](https://www.linkedin.com/jobs/view/4486251012)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486251012](https://www.linkedin.com/jobs/view/4486251012)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 202. [Telecalling Executive — MSB Fintech Solutions](https://www.naukri.com/job-listings-telecalling-executive-msb-fintech-solutions-bengaluru-5-to-10-years-061126023026)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-telecalling-executive-msb-fintech-solutions-bengaluru-5-to-10-years-061126023026](https://www.naukri.com/job-listings-telecalling-executive-msb-fintech-solutions-bengaluru-5-to-10-years-061126023026)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 203. [HR Recruiter / TA — Delight HR](https://www.naukri.com/job-listings-hr-recruiter-ta-delight-hr-services-pvt-ltd-bengaluru-1-to-2-years-061126920772)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-hr-recruiter-ta-delight-hr-services-pvt-ltd-bengaluru-1-to-2-years-061126920772](https://www.naukri.com/job-listings-hr-recruiter-ta-delight-hr-services-pvt-ltd-bengaluru-1-to-2-years-061126920772)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 204. [TA / Recruiter / Sr HR Executive — Delight HR](https://www.naukri.com/job-listings-ta-recruiter-sr-hr-executive-delight-hr-services-pvt-ltd-bengaluru-2-to-6-years-061126920686)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-ta-recruiter-sr-hr-executive-delight-hr-services-pvt-ltd-bengaluru-2-to-6-years-061126920686](https://www.naukri.com/job-listings-ta-recruiter-sr-hr-executive-delight-hr-services-pvt-ltd-bengaluru-2-to-6-years-061126920686)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 205. [Key Accounts Manager — Sarvaastra Bangalore](https://www.naukri.com/job-listings-key-accounts-manager-sarvaastra-bangalore-bengaluru-6-to-10-years-061126020595)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-key-accounts-manager-sarvaastra-bangalore-bengaluru-6-to-10-years-061126020595](https://www.naukri.com/job-listings-key-accounts-manager-sarvaastra-bangalore-bengaluru-6-to-10-years-061126020595)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 206. [Looking For SAP Vistex Technical/Immediate/8-20 Years — Vipany Global](https://www.naukri.com/job-listings-looking-for-sap-vistex-technical-immediate-8-20-years-vipany-global-hyderabad-chennai-bengaluru-8-to-13-years-061126018650)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-looking-for-sap-vistex-technical-immediate-8-20-years-vipany-global-hyderabad-chennai-bengaluru-8-to-13-years-061126018650](https://www.naukri.com/job-listings-looking-for-sap-vistex-technical-immediate-8-20-years-vipany-global-hyderabad-chennai-bengaluru-8-to-13-years-061126018650)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 207. [Recruiter - AI & Data Engineering Hiring — Embitel Technologies](https://www.naukri.com/job-listings-recruiter-ai-data-engineering-hiring-embitel-technologies-bengaluru-2-to-5-years-061126017710)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-recruiter-ai-data-engineering-hiring-embitel-technologies-bengaluru-2-to-5-years-061126017710](https://www.naukri.com/job-listings-recruiter-ai-data-engineering-hiring-embitel-technologies-bengaluru-2-to-5-years-061126017710)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 208. [Recruiter — Samvith Technologies](https://www.naukri.com/job-listings-recruiter-samvith-technologies-bengaluru-1-to-5-years-061126010950)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-recruiter-samvith-technologies-bengaluru-1-to-5-years-061126010950](https://www.naukri.com/job-listings-recruiter-samvith-technologies-bengaluru-1-to-5-years-061126010950)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 209. [Oracle Ebs Finance Functional Consultant — Buxton Consulting](https://www.naukri.com/job-listings-oracle-ebs-finance-functional-consultant-buxton-consulting-hyderabad-pune-bengaluru-6-to-10-years-061126008760)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-oracle-ebs-finance-functional-consultant-buxton-consulting-hyderabad-pune-bengaluru-6-to-10-years-061126008760](https://www.naukri.com/job-listings-oracle-ebs-finance-functional-consultant-buxton-consulting-hyderabad-pune-bengaluru-6-to-10-years-061126008760)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 210. [Senior HR Recruiter F&A (Finance & Accounts) — San](https://www.linkedin.com/jobs/view/4486971983)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486971983](https://www.linkedin.com/jobs/view/4486971983)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 211. [Full Life Cycle Recruiter, Amazon Web Services — Amazon Web Services (AWS)](https://www.linkedin.com/jobs/view/4480362643)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4480362643](https://www.linkedin.com/jobs/view/4480362643)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 212. [Assistant Manager Talent Acquisition — Neuberg Diagnostics](https://www.linkedin.com/jobs/view/4487329175)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487329175](https://www.linkedin.com/jobs/view/4487329175)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 213. [APAC Workforce Operations Specialist — Murex](https://www.linkedin.com/jobs/view/4486975907)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486975907](https://www.linkedin.com/jobs/view/4486975907)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 214. [Executive Search Consultant — HR Anexi](https://www.linkedin.com/jobs/view/4484325546)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4484325546](https://www.linkedin.com/jobs/view/4484325546)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 215. [Human Resources Generalist- Immediate Joiner — MummaMitra](https://www.linkedin.com/jobs/view/4486210946)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486210946](https://www.linkedin.com/jobs/view/4486210946)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 216. [Recruitment Manager — NetAmbit](https://www.linkedin.com/jobs/view/4486984202)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486984202](https://www.linkedin.com/jobs/view/4486984202)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 217. [Manager, Human Resources — Marriott International](https://www.linkedin.com/jobs/view/4480192340)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4480192340](https://www.linkedin.com/jobs/view/4480192340)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 218. [HR & Culture Associate — Style Supply](https://www.linkedin.com/jobs/view/4486208602)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486208602](https://www.linkedin.com/jobs/view/4486208602)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 219. [Human Resources Manager — Orbit Verify](https://www.linkedin.com/jobs/view/4486224863)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486224863](https://www.linkedin.com/jobs/view/4486224863)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 220. [Junior HR Generalist — Holistic Mind Therapy](https://www.linkedin.com/jobs/view/4486223719)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486223719](https://www.linkedin.com/jobs/view/4486223719)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 221. [Talent Acquisition Consultant (Fixed Term Contract) — Piramal Pharma Ltd](https://www.linkedin.com/jobs/view/4471069083)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4471069083](https://www.linkedin.com/jobs/view/4471069083)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 222. [Manager - Talent and Culture — Antarang Foundation](https://www.linkedin.com/jobs/view/4486232463)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486232463](https://www.linkedin.com/jobs/view/4486232463)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 223. [Human Resources (HR) Internship in Mumbai — ENPOINTE](https://www.linkedin.com/jobs/view/4488074729)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488074729](https://www.linkedin.com/jobs/view/4488074729)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 224. [Human Resources (HR) Manager in Mumbai — ENPOINTE](https://www.linkedin.com/jobs/view/4488075696)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488075696](https://www.linkedin.com/jobs/view/4488075696)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 225. [Associate, Client Solution — GLG](https://www.linkedin.com/jobs/view/4470092886)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4470092886](https://www.linkedin.com/jobs/view/4470092886)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 226. [Marine Personnel Assistant • Marine HR — Anglo-Eastern](https://www.linkedin.com/jobs/view/4488134052)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488134052](https://www.linkedin.com/jobs/view/4488134052)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 227. [Human Resources Manager — Jesseena Human Resources](https://www.linkedin.com/jobs/view/4486960367)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486960367](https://www.linkedin.com/jobs/view/4486960367)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 228. [Placement Assistant — SVKM Central Office](https://www.linkedin.com/jobs/view/4486210202)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486210202](https://www.linkedin.com/jobs/view/4486210202)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 229. [Human Resources Manager — TajSATS](https://www.linkedin.com/jobs/view/4486219678)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486219678](https://www.linkedin.com/jobs/view/4486219678)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 230. [Retail HRBP — Foodstories](https://www.linkedin.com/jobs/view/4486215783)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486215783](https://www.linkedin.com/jobs/view/4486215783)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 231. [Sourcing Specialist — Randstad Enterprise](https://www.linkedin.com/jobs/view/4486232925)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486232925](https://www.linkedin.com/jobs/view/4486232925)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 232. [Human Resource Intern — Orcapod Consulting Services](https://www.naukri.com/job-listings-human-resource-intern-orcapod-consulting-services-mumbai-all-areas-0-to-2-years-061126020293)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-human-resource-intern-orcapod-consulting-services-mumbai-all-areas-0-to-2-years-061126020293](https://www.naukri.com/job-listings-human-resource-intern-orcapod-consulting-services-mumbai-all-areas-0-to-2-years-061126020293)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 233. [Hr Recruitment Professional — Orcapod Consulting Services](https://www.naukri.com/job-listings-hr-recruitment-professional-orcapod-consulting-services-mumbai-all-areas-1-to-4-years-011026034948)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-hr-recruitment-professional-orcapod-consulting-services-mumbai-all-areas-1-to-4-years-011026034948](https://www.naukri.com/job-listings-hr-recruitment-professional-orcapod-consulting-services-mumbai-all-areas-1-to-4-years-011026034948)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 234. [Ta — HIND RECTIFIERS LTD](https://www.naukri.com/job-listings-ta-hind-rectifiers-ltd-mumbai-mumbai-suburban-navi-mumbai-3-to-8-years-061126013235)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-ta-hind-rectifiers-ltd-mumbai-mumbai-suburban-navi-mumbai-3-to-8-years-061126013235](https://www.naukri.com/job-listings-ta-hind-rectifiers-ltd-mumbai-mumbai-suburban-navi-mumbai-3-to-8-years-061126013235)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 235. [Talent Acquisition Executive — Astaguru](https://www.naukri.com/job-listings-talent-acquisition-executive-astaguru-mumbai-all-areas-2-to-4-years-061126013170)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-talent-acquisition-executive-astaguru-mumbai-all-areas-2-to-4-years-061126013170](https://www.naukri.com/job-listings-talent-acquisition-executive-astaguru-mumbai-all-areas-2-to-4-years-061126013170)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 236. [Associate Talent Acquisition — Hinduja Global Solutions (HGS)](https://www.naukri.com/job-listings-associate-talent-acquisition-hinduja-global-solutions-hgs-mumbai-all-areas-0-to-3-years-061126011861)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-associate-talent-acquisition-hinduja-global-solutions-hgs-mumbai-all-areas-0-to-3-years-061126011861](https://www.naukri.com/job-listings-associate-talent-acquisition-hinduja-global-solutions-hgs-mumbai-all-areas-0-to-3-years-061126011861)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 237. [HR Recruiter — Butterfly Learnings](https://www.naukri.com/job-listings-hr-recruiter-butterfly-learnings-mumbai-thane-0-to-1-years-061126009778)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-hr-recruiter-butterfly-learnings-mumbai-thane-0-to-1-years-061126009778](https://www.naukri.com/job-listings-hr-recruiter-butterfly-learnings-mumbai-thane-0-to-1-years-061126009778)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 238. [Adobe Workfront Specialist — Suzva Software Technologies](https://www.naukri.com/job-listings-adobe-workfront-specialist-suzva-software-technology-mumbai-goregaon-8-to-12-years-061126908719)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-adobe-workfront-specialist-suzva-software-technology-mumbai-goregaon-8-to-12-years-061126908719](https://www.naukri.com/job-listings-adobe-workfront-specialist-suzva-software-technology-mumbai-goregaon-8-to-12-years-061126908719)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 239. [Human Resource Recruiter — Orcapod Consulting Services](https://www.naukri.com/job-listings-human-resource-recruiter-orcapod-consulting-services-mumbai-all-areas-1-to-3-years-131026032981)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-human-resource-recruiter-orcapod-consulting-services-mumbai-all-areas-1-to-3-years-131026032981](https://www.naukri.com/job-listings-human-resource-recruiter-orcapod-consulting-services-mumbai-all-areas-1-to-3-years-131026032981)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 240. [People Associate - Employee Engagement & TA — The 1% Club](https://www.naukri.com/job-listings-people-associate-employee-engagement-ta-1-club-mumbai-1-to-3-years-061126501420)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-people-associate-employee-engagement-ta-1-club-mumbai-1-to-3-years-061126501420](https://www.naukri.com/job-listings-people-associate-employee-engagement-ta-1-club-mumbai-1-to-3-years-061126501420)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 241. [Recruiter — Tata Realty](https://www.naukri.com/job-listings-recruiter-tata-realty-and-infrastructure-mumbai-6-to-10-years-061126500764)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-recruiter-tata-realty-and-infrastructure-mumbai-6-to-10-years-061126500764](https://www.naukri.com/job-listings-recruiter-tata-realty-and-infrastructure-mumbai-6-to-10-years-061126500764)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 242. [Talent Acquisition Partner — Invesco](https://www.linkedin.com/jobs/view/4488199577)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488199577](https://www.linkedin.com/jobs/view/4488199577)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 243. [Sourcing Specialist - US Recruitment (Non IT) — Randstad Enterprise](https://www.linkedin.com/jobs/view/4486227607)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486227607](https://www.linkedin.com/jobs/view/4486227607)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 244. [Recruiter I — Conduent](https://www.linkedin.com/jobs/view/4472061632)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4472061632](https://www.linkedin.com/jobs/view/4472061632)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 245. [Human Resources Executive — Evol Jewels](https://www.linkedin.com/jobs/view/4486966293)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486966293](https://www.linkedin.com/jobs/view/4486966293)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 246. [Bench Sales Recruiter — HIKMATRIX](https://www.linkedin.com/jobs/view/4486255920)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486255920](https://www.linkedin.com/jobs/view/4486255920)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 247. [HR & Franchise Operations Associate — Vision Square INC](https://www.linkedin.com/jobs/view/4486246537)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486246537](https://www.linkedin.com/jobs/view/4486246537)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 248. [Full Lifecycle Recruiter I, WWAS TA — Amazon](https://www.linkedin.com/jobs/view/4468135510)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4468135510](https://www.linkedin.com/jobs/view/4468135510)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 249. [TA Manager - Trainers POD — r3 Consultant](https://www.linkedin.com/jobs/view/4488117003)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488117003](https://www.linkedin.com/jobs/view/4488117003)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 250. [Non IT Bench Sales Recruiters — United Pharma](https://www.linkedin.com/jobs/view/4488416406)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488416406](https://www.linkedin.com/jobs/view/4488416406)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 251. [Human Resources Service Center Support Entry Professional — Hitachi Digital](https://www.linkedin.com/jobs/view/4488081232)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488081232](https://www.linkedin.com/jobs/view/4488081232)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 252. [Manager – Strategic Intelligence Group (Engagement Manager) – Financial Research — D. E. Shaw India Private Limited](https://www.linkedin.com/jobs/view/4480119346)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4480119346](https://www.linkedin.com/jobs/view/4480119346)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 253. [Asst Mgr Sourcing & Proc (IND) — Carelon Global Solutions India](https://www.linkedin.com/jobs/view/4488122045)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488122045](https://www.linkedin.com/jobs/view/4488122045)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 254. [US Non IT BenchSales Recruiter — Virtue America](https://www.linkedin.com/jobs/view/4488430037)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488430037](https://www.linkedin.com/jobs/view/4488430037)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 255. [Engineering Recruiter — Futran Solutions](https://www.linkedin.com/jobs/view/4488043595)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488043595](https://www.linkedin.com/jobs/view/4488043595)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 256. [US IT, Non-IT & Pharma Bench Sales Recruiter — Virtue America](https://www.linkedin.com/jobs/view/4488045283)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488045283](https://www.linkedin.com/jobs/view/4488045283)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 257. [Talent Acquisition Lead — Krasan Consulting Services](https://www.linkedin.com/jobs/view/4488042681)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488042681](https://www.linkedin.com/jobs/view/4488042681)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 258. [US Non-IT & Pharma Bench Sales Recruiter — United Consulting Hub](https://www.linkedin.com/jobs/view/4486791909)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486791909](https://www.linkedin.com/jobs/view/4486791909)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 259. [Senior Human Resource Business Partner — IntouchCX](https://www.naukri.com/job-listings-senior-human-resource-business-partner-intouchcx-hyderabad-2-to-4-years-220926016346)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-senior-human-resource-business-partner-intouchcx-hyderabad-2-to-4-years-220926016346](https://www.naukri.com/job-listings-senior-human-resource-business-partner-intouchcx-hyderabad-2-to-4-years-220926016346)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 260. [Walk-in || Hiring For Recruiters (IT / Non-IT / Pharma) — Cliff Consultancy Services](https://www.naukri.com/job-listings-hiring-for-it-non-it-pharma-cliff-consultancy-services-hyderabad-1-to-5-years-061126020134)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-hiring-for-it-non-it-pharma-cliff-consultancy-services-hyderabad-1-to-5-years-061126020134](https://www.naukri.com/job-listings-hiring-for-it-non-it-pharma-cliff-consultancy-services-hyderabad-1-to-5-years-061126020134)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 261. [Human Resource Recruiter — Hearing Solutions](https://www.naukri.com/job-listings-human-resource-recruiter-hearing-solutions-hyderabad-1-to-5-years-061126013781)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-human-resource-recruiter-hearing-solutions-hyderabad-1-to-5-years-061126013781](https://www.naukri.com/job-listings-human-resource-recruiter-hearing-solutions-hyderabad-1-to-5-years-061126013781)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 262. [Immediate Hiring For HR Recruiter Talent Acquisition — Regalix](https://www.naukri.com/job-listings-immediate-hiring-for-hr-recruiter-talent-acquisition-regalix-hyderabad-1-to-6-years-201026011080)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-immediate-hiring-for-hr-recruiter-talent-acquisition-regalix-hyderabad-1-to-6-years-201026011080](https://www.naukri.com/job-listings-immediate-hiring-for-hr-recruiter-talent-acquisition-regalix-hyderabad-1-to-6-years-201026011080)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 263. [US IT Recruiting Associate (60 Days Internship) Night Shifts — Vcloud Technologies Investment](https://www.naukri.com/job-listings-us-it-recruiting-associate-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126012929)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-us-it-recruiting-associate-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126012929](https://www.naukri.com/job-listings-us-it-recruiting-associate-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126012929)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 264. [Senior Executive Recruiter — Aparna Enterprises (AEL)](https://www.naukri.com/job-listings-senior-executive-recruiter-aparna-enterprises-ael-hyderabad-4-to-6-years-061126011129)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-senior-executive-recruiter-aparna-enterprises-ael-hyderabad-4-to-6-years-061126011129](https://www.naukri.com/job-listings-senior-executive-recruiter-aparna-enterprises-ael-hyderabad-4-to-6-years-061126011129)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 265. [US Recruiter — Panzer Technologies](https://www.naukri.com/job-listings-us-recruiter-panzer-technologies-hyderabad-0-to-1-years-061126909771)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-us-recruiter-panzer-technologies-hyderabad-0-to-1-years-061126909771](https://www.naukri.com/job-listings-us-recruiter-panzer-technologies-hyderabad-0-to-1-years-061126909771)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 266. [HR Recruiter — NareshIT](https://www.naukri.com/job-listings-hr-recruiter-nareshit-hyderabad-0-to-3-years-061126008191)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-hr-recruiter-nareshit-hyderabad-0-to-3-years-061126008191](https://www.naukri.com/job-listings-hr-recruiter-nareshit-hyderabad-0-to-3-years-061126008191)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 267. [Us It Bench Sales Recruiter — Jupiterglobal It](https://www.naukri.com/job-listings-us-it-bench-sales-recruiter-jupiterglobal-it-hyderabad-0-to-4-years-061126000576)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://www.naukri.com/job-listings-us-it-bench-sales-recruiter-jupiterglobal-it-hyderabad-0-to-4-years-061126000576](https://www.naukri.com/job-listings-us-it-bench-sales-recruiter-jupiterglobal-it-hyderabad-0-to-4-years-061126000576)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 268. [US IT Talent Acquisition Partner (60 Days Internship) Night Shifts — Vcloud Technologies Investment](https://www.naukri.com/job-listings-us-it-talent-acquisition-partner-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126000490)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://www.naukri.com/job-listings-us-it-talent-acquisition-partner-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126000490](https://www.naukri.com/job-listings-us-it-talent-acquisition-partner-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126000490)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 269. [Talent Sourcer - 6 Months contract Role — Ciena](https://www.linkedin.com/jobs/view/4479355277)
+### 143. [Talent Sourcer - 6 Months contract Role — Ciena](https://www.linkedin.com/jobs/view/4479355277)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -3318,20 +1909,619 @@ Responsibilities:
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 270. [Staff Mobile Engineer (Engineer, Mobile - 5) — Careers at Tide](https://in.indeed.com/viewjob?jk=86dd0149205fe0bc)
+### 144. [Italy-Talent Consultant Support-Onboarding and JobPortability-TS-Supervising Associate-In — EY](https://www.linkedin.com/jobs/view/4486258319)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=86dd0149205fe0bc](https://in.indeed.com/viewjob?jk=86dd0149205fe0bc)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486258319](https://www.linkedin.com/jobs/view/4486258319)
 - **Concerns**: Salary not disclosed
-- **Job Description Summary**: ### **A****BOUT TIDE**
+- **Job Description Summary**: 
 
-At Tide, we help SMEs save time and money in the running of their businesses by not only offering business accounts and related banking services, but also a comprehensive set of highly usable and connected administrative solutions, from invoicing to accounting.
+### 145. [Service Level Manager — Black And White Business Solutions](https://www.naukri.com/job-listings-service-level-manager-black-and-white-business-solutions-gurugram-bengaluru-5-to-9-years-071126005979)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
 
-Tide is transforming the small business banking market and now ...
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-service-level-manager-black-and-white-business-solutions-gurugram-bengaluru-5-to-9-years-071126005979](https://www.naukri.com/job-listings-service-level-manager-black-and-white-business-solutions-gurugram-bengaluru-5-to-9-years-071126005979)
+- **Concerns**: None identified
+- **Job Description Summary**: 
 
-### 271. [Healthcare Senior Specialist1 — NTT DATA](https://in.indeed.com/viewjob?jk=c39e9949093a25c0)
+### 146. [US / UK Flight sales agent ll PPC / Meta ll 60k Gurgaon — Sharda Consultancy Services](https://www.naukri.com/job-listings-us-uk-flight-sales-agent-ll-ppc-meta-ll-60k-gurgaon-sharda-consultancy-services-noida-new-delhi-gurugram-1-to-6-years-061126026201)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.naukri.com/job-listings-us-uk-flight-sales-agent-ll-ppc-meta-ll-60k-gurgaon-sharda-consultancy-services-noida-new-delhi-gurugram-1-to-6-years-061126026201](https://www.naukri.com/job-listings-us-uk-flight-sales-agent-ll-ppc-meta-ll-60k-gurgaon-sharda-consultancy-services-noida-new-delhi-gurugram-1-to-6-years-061126026201)
+- **Concerns**: None identified
+- **Job Description Summary**: 
+
+### 147. [Talent Acquisition Executive — MSM Global Education](https://www.naukri.com/job-listings-talent-acquisition-executive-msm-global-education-gurugram-0-to-2-years-061126023955)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.naukri.com/job-listings-talent-acquisition-executive-msm-global-education-gurugram-0-to-2-years-061126023955](https://www.naukri.com/job-listings-talent-acquisition-executive-msm-global-education-gurugram-0-to-2-years-061126023955)
+- **Concerns**: None identified
+- **Job Description Summary**: 
+
+### 148. [Senior Human Resource Executive — Tecnova India](https://www.naukri.com/job-listings-senior-human-resource-executive-tecnova-india-gurugram-3-to-6-years-061126023771)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.naukri.com/job-listings-senior-human-resource-executive-tecnova-india-gurugram-3-to-6-years-061126023771](https://www.naukri.com/job-listings-senior-human-resource-executive-tecnova-india-gurugram-3-to-6-years-061126023771)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 149. [Talent Acquisition Manager — Lolly.com](https://www.linkedin.com/jobs/view/4488704189)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488704189](https://www.linkedin.com/jobs/view/4488704189)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 150. [Human Resources (HR) Executive in Bangalore — Lagorii](https://www.linkedin.com/jobs/view/4488469147)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488469147](https://www.linkedin.com/jobs/view/4488469147)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 151. [Talent Acquisition (Internship) — BrightCHAMPS](https://www.linkedin.com/jobs/view/4487611065)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487611065](https://www.linkedin.com/jobs/view/4487611065)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 152. [Human Resources Intern — SkillFlow_Learning](https://www.linkedin.com/jobs/view/4486626208)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486626208](https://www.linkedin.com/jobs/view/4486626208)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 153. [Tech Sourcer (Contract) — Databricks](https://www.linkedin.com/jobs/view/4486641364)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486641364](https://www.linkedin.com/jobs/view/4486641364)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 154. [Human Resources Manager — Archish Fertility & IVF](https://www.linkedin.com/jobs/view/4487381541)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487381541](https://www.linkedin.com/jobs/view/4487381541)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 155. [Placement Executive — CliniLaunch Research Institute](https://www.linkedin.com/jobs/view/4487389862)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487389862](https://www.linkedin.com/jobs/view/4487389862)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 156. [Talent Acquisition Partner — GE Vernova](https://www.linkedin.com/jobs/view/4488158097)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488158097](https://www.linkedin.com/jobs/view/4488158097)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 157. [Talent Acquisition Executive (Tech, Product, SaaS) — TalentXO](https://www.linkedin.com/jobs/view/4488164801)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488164801](https://www.linkedin.com/jobs/view/4488164801)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 158. [Associate - US Recruiting — Clean Harbors](https://www.linkedin.com/jobs/view/4470991548)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4470991548](https://www.linkedin.com/jobs/view/4470991548)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 159. [Talent Acquisition Recruiter — SyncUp](https://www.linkedin.com/jobs/view/4486997008)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486997008](https://www.linkedin.com/jobs/view/4486997008)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 160. [Talent Acquisition Consultant - UK Hiring — Version 1](https://www.linkedin.com/jobs/view/4486264131)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486264131](https://www.linkedin.com/jobs/view/4486264131)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 161. [Curation Specialist - India — Raise](https://www.linkedin.com/jobs/view/4486991496)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486991496](https://www.linkedin.com/jobs/view/4486991496)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 162. [Talent Acquisition Trainee — NES Fircroft](https://www.linkedin.com/jobs/view/4488163434)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488163434](https://www.linkedin.com/jobs/view/4488163434)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 163. [Recruitment Manager — Datasoft Technologies, Inc.](https://www.linkedin.com/jobs/view/4487317655)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487317655](https://www.linkedin.com/jobs/view/4487317655)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 164. [Talent Operations Coordinator — OnePay](https://www.linkedin.com/jobs/view/4479991036)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4479991036](https://www.linkedin.com/jobs/view/4479991036)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 165. [Talent Acquisition | Senior Executive Search Consultant | Headhunter — Quest Global](https://www.linkedin.com/jobs/view/4486224940)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486224940](https://www.linkedin.com/jobs/view/4486224940)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 166. [Executive Recruiter — Guidewire Software](https://www.linkedin.com/jobs/view/4479878454)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4479878454](https://www.linkedin.com/jobs/view/4479878454)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 167. [Recruiter, TA Stores — Amazon](https://www.linkedin.com/jobs/view/4471120665)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4471120665](https://www.linkedin.com/jobs/view/4471120665)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 168. [Freelance Field Recruiter — Nemat industries](https://www.linkedin.com/jobs/view/4486251012)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486251012](https://www.linkedin.com/jobs/view/4486251012)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 169. [Assistant Manager — PeopleLogic](https://www.linkedin.com/jobs/view/4488141429)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488141429](https://www.linkedin.com/jobs/view/4488141429)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 170. [Human Resources Executive — Samarthang Healthcare Private Limited](https://www.linkedin.com/jobs/view/4486253337)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486253337](https://www.linkedin.com/jobs/view/4486253337)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 171. [Talent Management Coordinator — KeyData Cyber](https://www.linkedin.com/jobs/view/4488453431)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488453431](https://www.linkedin.com/jobs/view/4488453431)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 172. [Human Resources Executive (Mumbai Candidates Only) — Collegepond](https://www.linkedin.com/jobs/view/4486640458)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486640458](https://www.linkedin.com/jobs/view/4486640458)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 173. [HR Officer in Navi Mumbai, Vashi, Navi Mumbai, Thane — BNM Business Solutions LLP](https://www.linkedin.com/jobs/view/4488448997)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488448997](https://www.linkedin.com/jobs/view/4488448997)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 174. [HR Manager – Founder’s Office — Animeal](https://www.linkedin.com/jobs/view/4486629741)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486629741](https://www.linkedin.com/jobs/view/4486629741)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 175. [Senior Executive Human Resources — SBA Infraprojects Pvt. Ltd.](https://www.linkedin.com/jobs/view/4486627870)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486627870](https://www.linkedin.com/jobs/view/4486627870)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 176. [Talent Acquisition Lead — DoubleTick](https://www.linkedin.com/jobs/view/4486624566)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486624566](https://www.linkedin.com/jobs/view/4486624566)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 177. [Human Resources Business Partner — DoubleTick](https://www.linkedin.com/jobs/view/4486643230)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486643230](https://www.linkedin.com/jobs/view/4486643230)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 178. [Human Resources (HR) Internship in Mahad, Navi Mumbai, Vashi Navi Mumbai, Turbhe, Navi Mumbai, Navi Mumbai, Belapur, Mumbai, Mumbai, Vashi, Navi Mumbai, Navi Mumbai, Thane, Navi Mumbai — BNM Business Solutions LLP](https://www.linkedin.com/jobs/view/4488451768)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488451768](https://www.linkedin.com/jobs/view/4488451768)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 179. [Senior HR Recruiter F&A (Finance & Accounts) — San](https://www.linkedin.com/jobs/view/4486971983)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486971983](https://www.linkedin.com/jobs/view/4486971983)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 180. [Full Life Cycle Recruiter, Amazon Web Services — Amazon Web Services (AWS)](https://www.linkedin.com/jobs/view/4480362643)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4480362643](https://www.linkedin.com/jobs/view/4480362643)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 181. [Sourcing Specialist — Randstad Enterprise](https://www.linkedin.com/jobs/view/4486232925)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486232925](https://www.linkedin.com/jobs/view/4486232925)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 182. [APAC Workforce Operations Specialist — Murex](https://www.linkedin.com/jobs/view/4486975907)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486975907](https://www.linkedin.com/jobs/view/4486975907)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 183. [Recruitment Manager — NetAmbit](https://www.linkedin.com/jobs/view/4486984202)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486984202](https://www.linkedin.com/jobs/view/4486984202)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 184. [Manager, Human Resources — Marriott International](https://www.linkedin.com/jobs/view/4480192340)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4480192340](https://www.linkedin.com/jobs/view/4480192340)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 185. [Human Resources Manager — Orbit Verify](https://www.linkedin.com/jobs/view/4486224863)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486224863](https://www.linkedin.com/jobs/view/4486224863)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 186. [Junior HR Generalist — Holistic Mind Therapy](https://www.linkedin.com/jobs/view/4486223719)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486223719](https://www.linkedin.com/jobs/view/4486223719)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 187. [Talent Acquisition Consultant (Fixed Term Contract) — Piramal Pharma Ltd](https://www.linkedin.com/jobs/view/4471069083)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4471069083](https://www.linkedin.com/jobs/view/4471069083)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 188. [Associate, Client Solution — GLG](https://www.linkedin.com/jobs/view/4470092886)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4470092886](https://www.linkedin.com/jobs/view/4470092886)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 189. [HR Recruiter – US Healthcare RCM — Globe Centrix](https://www.linkedin.com/jobs/view/4488426512)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488426512](https://www.linkedin.com/jobs/view/4488426512)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 190. [Recruiter I — Conduent](https://www.linkedin.com/jobs/view/4472061632)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4472061632](https://www.linkedin.com/jobs/view/4472061632)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 191. [Services Support Associate II - Talent Acquisition - Business Recruiting Coordination - Hyderabad — Deloitte](https://www.linkedin.com/jobs/view/4463835217)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4463835217](https://www.linkedin.com/jobs/view/4463835217)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 192. [TA Manager - Trainers POD — r3 Consultant](https://www.linkedin.com/jobs/view/4488702546)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488702546](https://www.linkedin.com/jobs/view/4488702546)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 193. [HR Manager — Neuraleap Group](https://www.linkedin.com/jobs/view/4487396744)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487396744](https://www.linkedin.com/jobs/view/4487396744)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 194. [Human Resources Manager — JRD Systems](https://www.linkedin.com/jobs/view/4486437659)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486437659](https://www.linkedin.com/jobs/view/4486437659)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 195. [Talent Acquisition Partner — Invesco](https://www.linkedin.com/jobs/view/4488199577)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488199577](https://www.linkedin.com/jobs/view/4488199577)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 196. [Sourcing Specialist - US Recruitment (Non IT) — Randstad Enterprise](https://www.linkedin.com/jobs/view/4486227607)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486227607](https://www.linkedin.com/jobs/view/4486227607)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 197. [OPT Recruiter — SharpAtoms](https://www.linkedin.com/jobs/view/4487348855)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487348855](https://www.linkedin.com/jobs/view/4487348855)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 198. [Bench Sales Recruiter — HIKMATRIX](https://www.linkedin.com/jobs/view/4486255920)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486255920](https://www.linkedin.com/jobs/view/4486255920)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 199. [HR & Franchise Operations Associate — Vision Square INC](https://www.linkedin.com/jobs/view/4486246537)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486246537](https://www.linkedin.com/jobs/view/4486246537)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 200. [MSP Program Specialist — Workspend Inc.](https://www.linkedin.com/jobs/view/4486282493)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486282493](https://www.linkedin.com/jobs/view/4486282493)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 201. [Full Lifecycle Recruiter I, WWAS TA — Amazon](https://www.linkedin.com/jobs/view/4468135510)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4468135510](https://www.linkedin.com/jobs/view/4468135510)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 202. [Non IT Bench Sales Recruiters — United Pharma](https://www.linkedin.com/jobs/view/4488416406)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488416406](https://www.linkedin.com/jobs/view/4488416406)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 203. [US Non IT BenchSales Recruiter — Virtue America](https://www.linkedin.com/jobs/view/4488430037)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488430037](https://www.linkedin.com/jobs/view/4488430037)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 204. [Staffing Fronters Consultant - Remote Work — BairesDev](https://www.linkedin.com/jobs/view/4487338610)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487338610](https://www.linkedin.com/jobs/view/4487338610)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 205. [Hiring | Recruiter I lateral Hiring | Mumbai |  UPTO 6.5 LPA | — Axis Services](https://www.naukri.com/job-listings-hiring-recruiter-i-lateral-hiring-mumbai-upto-6-5-lpa-axis-services-mumbai-4-to-6-years-071126006984)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-hiring-recruiter-i-lateral-hiring-mumbai-upto-6-5-lpa-axis-services-mumbai-4-to-6-years-071126006984](https://www.naukri.com/job-listings-hiring-recruiter-i-lateral-hiring-mumbai-upto-6-5-lpa-axis-services-mumbai-4-to-6-years-071126006984)
+- **Concerns**: None identified
+- **Job Description Summary**: 
+
+### 206. [Hiring Recruiter — Pexrise Solutions](https://www.naukri.com/job-listings-hiring-recruiter-pexrise-solutions-bengaluru-5-to-10-years-080926034138)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-hiring-recruiter-pexrise-solutions-bengaluru-5-to-10-years-080926034138](https://www.naukri.com/job-listings-hiring-recruiter-pexrise-solutions-bengaluru-5-to-10-years-080926034138)
+- **Concerns**: None identified
+- **Job Description Summary**: 
+
+### 207. [Hiring | Recruiter I Lateral Hiring || UPTO 6.5 LPA || — Axis Services](https://www.naukri.com/job-listings-hiring-recruiter-i-lateral-hiring-upto-6-5-lpa-axis-services-bengaluru-4-to-6-years-071126006875)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-hiring-recruiter-i-lateral-hiring-upto-6-5-lpa-axis-services-bengaluru-4-to-6-years-071126006875](https://www.naukri.com/job-listings-hiring-recruiter-i-lateral-hiring-upto-6-5-lpa-axis-services-bengaluru-4-to-6-years-071126006875)
+- **Concerns**: None identified
+- **Job Description Summary**: 
+
+### 208. [Recruiter — Petra Silicon Pvt Ltd](https://www.naukri.com/job-listings-recruiter-petra-silicon-pvt-ltd-hyderabad-2-to-7-years-071126006612)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-recruiter-petra-silicon-pvt-ltd-hyderabad-2-to-7-years-071126006612](https://www.naukri.com/job-listings-recruiter-petra-silicon-pvt-ltd-hyderabad-2-to-7-years-071126006612)
+- **Concerns**: None identified
+- **Job Description Summary**: 
+
+### 209. [Looking For SAP WM /Immediate/5-15 years/Long term C2H — Vipany Global](https://www.naukri.com/job-listings-looking-for-sap-wm-immediate-5-15-years-long-term-c2h-vipany-global-hyderabad-chennai-bengaluru-6-to-11-years-071126006523)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-looking-for-sap-wm-immediate-5-15-years-long-term-c2h-vipany-global-hyderabad-chennai-bengaluru-6-to-11-years-071126006523](https://www.naukri.com/job-listings-looking-for-sap-wm-immediate-5-15-years-long-term-c2h-vipany-global-hyderabad-chennai-bengaluru-6-to-11-years-071126006523)
+- **Concerns**: None identified
+- **Job Description Summary**: 
+
+### 210. [Looking For Oracle ADF/5-15 Years/immediate/Long term C2H — Vipany Global](https://www.naukri.com/job-listings-looking-for-oracle-adf-5-15-years-immediate-long-term-c2h-vipany-global-hyderabad-chennai-bengaluru-5-to-10-years-071126006149)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-looking-for-oracle-adf-5-15-years-immediate-long-term-c2h-vipany-global-hyderabad-chennai-bengaluru-5-to-10-years-071126006149](https://www.naukri.com/job-listings-looking-for-oracle-adf-5-15-years-immediate-long-term-c2h-vipany-global-hyderabad-chennai-bengaluru-5-to-10-years-071126006149)
+- **Concerns**: None identified
+- **Job Description Summary**: 
+
+### 211. [Part Time Recruiters- 4Hrs/Day; 5Days/Week; WFH Only — Linked Globe Consultancy Services](https://www.naukri.com/job-listings-part-time-4hrs-day-5days-week-wfh-only-linked-globe-consultancy-services-delhi-ncr-1-to-6-years-071126005897)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-part-time-4hrs-day-5days-week-wfh-only-linked-globe-consultancy-services-delhi-ncr-1-to-6-years-071126005897](https://www.naukri.com/job-listings-part-time-4hrs-day-5days-week-wfh-only-linked-globe-consultancy-services-delhi-ncr-1-to-6-years-071126005897)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 212. [Healthcare Senior Specialist1 — NTT DATA](https://in.indeed.com/viewjob?jk=c39e9949093a25c0)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -3347,7 +2537,7 @@ NTT DATA strives to hire exceptional, innovative and passionate individuals who 
 We are currently seeking a Healthcare Senior Specialist1 to join our team in Noida, Uttar Pradesh (IN-UP), India (IN).
  ...
 
-### 272. [Talent Acquisition Partner — emagine](https://www.linkedin.com/jobs/view/4479590422)
+### 213. [Talent Acquisition Partner — emagine](https://www.linkedin.com/jobs/view/4479590422)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -3356,43 +2546,7 @@ We are currently seeking a Healthcare Senior Specialist1 to join our team in Noi
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 273. [Assistant Manager — PeopleLogic](https://www.linkedin.com/jobs/view/4488141429)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488141429](https://www.linkedin.com/jobs/view/4488141429)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 274. [Recruiter — PRI INDIA IT SERVICES PRIVATE LIMITED](https://www.linkedin.com/jobs/view/4488118349)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488118349](https://www.linkedin.com/jobs/view/4488118349)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 275. [Freelance Recruiter ( Sales & Electrical Industry Only) — Talent Integrators](https://www.linkedin.com/jobs/view/4486967337)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486967337](https://www.linkedin.com/jobs/view/4486967337)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 276. [SDC Recruiter — Stripe](https://www.linkedin.com/jobs/view/4475536953)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4475536953](https://www.linkedin.com/jobs/view/4475536953)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 277. [Software Engineer Consultant II - — Allstate Insurance](https://in.indeed.com/viewjob?jk=1ecc2ae1478e9199)
+### 214. [Software Engineer Consultant II - — Allstate Insurance](https://in.indeed.com/viewjob?jk=1ecc2ae1478e9199)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -3401,20 +2555,16 @@ We are currently seeking a Healthcare Senior Specialist1 to join our team in Noi
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: At Allstate, great things happen when our people work together to protect families and their belongings from life’s uncertainties. And for more than 90 years, our innovative drive has kept us a step ahead of our customers’ evolving needs. From advocating for seat belts, air bags and graduated driving laws, to being an industry leader in pricing sop...
 
-### 278. [Staff Quality Engineer - India — JumpCloud](https://in.indeed.com/viewjob?jk=b363a6024c14d3bf)
+### 215. [Sr Director, Product Mgmt (UI/UX) — NetApp](https://in.indeed.com/viewjob?jk=496ab516a9f90195)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=b363a6024c14d3bf](https://in.indeed.com/viewjob?jk=b363a6024c14d3bf)
+- **Direct application URL**: [https://in.indeed.com/viewjob?jk=496ab516a9f90195](https://in.indeed.com/viewjob?jk=496ab516a9f90195)
 - **Concerns**: Salary not disclosed
-- **Job Description Summary**: **All roles at JumpCloud® are Remote unless otherwise specified in the Job Description.**
+- **Job Description Summary**: At NetApp, our High Achievement Principles shape how we work: we innovate to elevate, drive results, and excel as a team. We have a history of helping customers turn challenges into business opportunities. That’s because we bring new thinking to age-old problems, like how to use data most effectively in the most efficient possible way. As an Engine...
 
-### **About JumpCloud®**
-
-JumpCloud® is the AI-powered unified IT management platform designed to secure the modern workforce. By consolidating identity, device, and access management, JumpCloud provides intelligent, secure IT that scales from human users to ...
-
-### 279. [Systems Integration Senior Analyst — NTT DATA](https://in.indeed.com/viewjob?jk=054869d8fb0ad21b)
+### 216. [Systems Integration Senior Analyst — NTT DATA](https://in.indeed.com/viewjob?jk=054869d8fb0ad21b)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -3429,7 +2579,7 @@ NTT DATA strives to hire exceptional, innovative and passionate individuals who 
   
 We are currently seeking a Systems Integration Senior Analyst to join our team in Bangalore, Karnātaka (IN-KA), India (I...
 
-### 280. [Messaging Services Senior Specialist-Enterprise Voice Administrator — NTT DATA](https://in.indeed.com/viewjob?jk=ce9923c7ed28e97e)
+### 217. [Messaging Services Senior Specialist-Enterprise Voice Administrator — NTT DATA](https://in.indeed.com/viewjob?jk=ce9923c7ed28e97e)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -3441,49 +2591,7 @@ We are currently seeking a Systems Integration Senior Analyst to join our team i
   
 We are currently seeking a Messaging Services Senior Specialist-Enterprise Voice Administrator to join our team in Bangalore, Karnātaka (IN-KA), ...
 
-### 281. [Sr Director, Product Mgmt (UI/UX) — NetApp](https://in.indeed.com/viewjob?jk=496ab516a9f90195)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=496ab516a9f90195](https://in.indeed.com/viewjob?jk=496ab516a9f90195)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: At NetApp, our High Achievement Principles shape how we work: we innovate to elevate, drive results, and excel as a team. We have a history of helping customers turn challenges into business opportunities. That’s because we bring new thinking to age-old problems, like how to use data most effectively in the most efficient possible way. As an Engine...
-
-### 282. [Enterprise Resource Planning analyst — NTT DATA](https://in.indeed.com/viewjob?jk=bb941718ee946091)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=bb941718ee946091](https://in.indeed.com/viewjob?jk=bb941718ee946091)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: **Req ID:** 396214
-  
-  
-NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
-  
-  
-We are currently seeking a Enterprise Resource Planning analyst to join our team in Bangalore, Karnātaka (IN-KA), India ...
-
-### 283. [Management Trainee - US Recruitment — Rapsys Tech Solutions](https://www.naukri.com/job-listings-management-trainee-us-recruitment-rapsys-tech-solutions-pvt-ltd-bengaluru-5-to-6-years-061126501813)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-management-trainee-us-recruitment-rapsys-tech-solutions-pvt-ltd-bengaluru-5-to-6-years-061126501813](https://www.naukri.com/job-listings-management-trainee-us-recruitment-rapsys-tech-solutions-pvt-ltd-bengaluru-5-to-6-years-061126501813)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 284. [Sr. Executive — Infinite](https://www.naukri.com/job-listings-sr-executive-infinite-computer-solutions-india-pvt-ltd-bengaluru-5-to-10-years-061126500608)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-sr-executive-infinite-computer-solutions-india-pvt-ltd-bengaluru-5-to-10-years-061126500608](https://www.naukri.com/job-listings-sr-executive-infinite-computer-solutions-india-pvt-ltd-bengaluru-5-to-10-years-061126500608)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 285. [Practice Leader – Tech, Startups & Venture Capital Ecosystem (PSS07666) — Personnel Search Services Group](https://www.linkedin.com/jobs/view/4462772632)
+### 218. [Practice Leader – Tech, Startups & Venture Capital Ecosystem (PSS07666) — Personnel Search Services Group](https://www.linkedin.com/jobs/view/4462772632)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -3492,7 +2600,7 @@ We are currently seeking a Enterprise Resource Planning analyst to join our team
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 286. [Head of Human Resources — DoubleTick](https://www.linkedin.com/jobs/view/4486244494)
+### 219. [Head of Human Resources — DoubleTick](https://www.linkedin.com/jobs/view/4486244494)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -3501,24 +2609,7 @@ We are currently seeking a Enterprise Resource Planning analyst to join our team
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 287. [RECRUITER L2 1 1 — Wipro](https://in.indeed.com/viewjob?jk=020b51bdaa19c7fa)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=020b51bdaa19c7fa](https://in.indeed.com/viewjob?jk=020b51bdaa19c7fa)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: Job Title: RECRUITER L2 1 1
-
-City: Mumbai
-
-State/Province: Maharashtra
-
-Posting Start Date: 11/5/26
-
-Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO) is a leading technology services and consulting company focused on building innovative solutions that address clients’ most complex digital transformation needs. Leveraging our holistic portfolio of...
-
-### 288. [Senior Total Reward Analyst — Eide Bailly](https://in.indeed.com/viewjob?jk=314ffdc053b3afd6)
+### 220. [Senior Total Reward Analyst — Eide Bailly](https://in.indeed.com/viewjob?jk=314ffdc053b3afd6)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -3529,16 +2620,25 @@ Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO) is a leading technology servi
 
 Eide Bailly is one of the top accounting and business advisory firms in the nation. We have over 50 offices in 18 states across the United States and offer our staff and Partners the opportunity to serve a variety of industries. In 2019, we extended our operations to Mumbai, India, and desire to expand our shared services segment there. ...
 
-### 289. [Head of TA – IT Lateral Hiring — r3 Consultant](https://www.linkedin.com/jobs/view/4488126512)
+### 221. [Permanent Work From Home - HR Recruiter - Commission based — Wrixty Services](https://www.naukri.com/job-listings-permanent-work-from-home-hr-recruiter-commission-based-wrixty-services-mumbai-all-areas-0-to-3-years-061126024944)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488126512](https://www.linkedin.com/jobs/view/4488126512)
+- **Direct application URL**: [https://www.naukri.com/job-listings-permanent-work-from-home-hr-recruiter-commission-based-wrixty-services-mumbai-all-areas-0-to-3-years-061126024944](https://www.naukri.com/job-listings-permanent-work-from-home-hr-recruiter-commission-based-wrixty-services-mumbai-all-areas-0-to-3-years-061126024944)
+- **Concerns**: None identified
+- **Job Description Summary**: 
+
+### 222. [Head of TA – IT Lateral Hiring — r3 Consultant](https://www.linkedin.com/jobs/view/4488710243)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488710243](https://www.linkedin.com/jobs/view/4488710243)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 290. [System Analyst — Salesforce](https://in.indeed.com/viewjob?jk=e4f56c2a00a53481)
+### 223. [System Analyst — Salesforce](https://in.indeed.com/viewjob?jk=e4f56c2a00a53481)
 - **Why your profile matches**: Matches your target role and skills in AI tools, SQL.
 - **Most important skills required**: AI tools, SQL
 
@@ -3551,7 +2651,7 @@ Eide Bailly is one of the top accounting and business advisory firms in the nati
 
 Our Futureforce University Recruiting program is dedicated to attracting, retaining and cultivating talent. Our interns and new graduates work on real pro...
 
-### 291. [Bench Sales Recruiter - USA — Derex Technologies inc](https://in.indeed.com/viewjob?jk=51246bc6356ed3c6)
+### 224. [Bench Sales Recruiter - USA — Derex Technologies inc](https://in.indeed.com/viewjob?jk=51246bc6356ed3c6)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -3562,25 +2662,52 @@ Our Futureforce University Recruiting program is dedicated to attracting, retain
 
 Derex Technologies Inc specializes in providing IT consulting, staffing solutions and software services. Globally headquartered in Harrison New Jersey since 1996 Derex delivers the highest quality technology professionals and an array of customized IT talent solutions designed to improve productivity and drive results to gl...
 
-### 292. [Recruiter — Tech Induct Services](https://www.naukri.com/job-listings-recruiter-techinduct-services-private-limited-hyderabad-2-to-3-years-061126501931)
+### 225. [Lead Staffing Specialist — Epam Systems](https://www.naukri.com/job-listings-lead-staffing-specialist-epam-systems-hyderabad-chennai-bengaluru-8-to-12-years-040926018448)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-lead-staffing-specialist-epam-systems-hyderabad-chennai-bengaluru-8-to-12-years-040926018448](https://www.naukri.com/job-listings-lead-staffing-specialist-epam-systems-hyderabad-chennai-bengaluru-8-to-12-years-040926018448)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 226. [Lead/Senior Functional Consultant - Infor WMS Consultant — Epam Systems](https://www.naukri.com/job-listings-lead-senior-functional-consultant-infor-wms-consultant-epam-systems-hyderabad-chennai-bengaluru-8-to-12-years-121026011615)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-lead-senior-functional-consultant-infor-wms-consultant-epam-systems-hyderabad-chennai-bengaluru-8-to-12-years-121026011615](https://www.naukri.com/job-listings-lead-senior-functional-consultant-infor-wms-consultant-epam-systems-hyderabad-chennai-bengaluru-8-to-12-years-121026011615)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 227. [Manager - Technology Consulting - Infor WMS — Epam Systems](https://www.naukri.com/job-listings-manager-technology-consulting-infor-wms-epam-systems-hyderabad-chennai-bengaluru-10-to-13-years-121026011791)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-manager-technology-consulting-infor-wms-epam-systems-hyderabad-chennai-bengaluru-10-to-13-years-121026011791](https://www.naukri.com/job-listings-manager-technology-consulting-infor-wms-epam-systems-hyderabad-chennai-bengaluru-10-to-13-years-121026011791)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 228. [Bench Sales Recruiter — Alphabyte Insights](https://www.naukri.com/job-listings-bench-sales-recruiter-alphabyte-insights-vijayawada-hyderabad-2-to-7-years-061126025157)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-recruiter-techinduct-services-private-limited-hyderabad-2-to-3-years-061126501931](https://www.naukri.com/job-listings-recruiter-techinduct-services-private-limited-hyderabad-2-to-3-years-061126501931)
-- **Concerns**: Salary not disclosed
+- **Direct application URL**: [https://www.naukri.com/job-listings-bench-sales-recruiter-alphabyte-insights-vijayawada-hyderabad-2-to-7-years-061126025157](https://www.naukri.com/job-listings-bench-sales-recruiter-alphabyte-insights-vijayawada-hyderabad-2-to-7-years-061126025157)
+- **Concerns**: None identified
 - **Job Description Summary**: 
 
-### 293. [Industry Lead / Recruitment manager / Recruitment senior manager — Uberlife Consulting](https://www.naukri.com/job-listings-industry-lead-recruitment-manager-recruitment-senior-manager-uberlife-consulting-bengaluru-7-to-11-years-170426029736)
+### 229. [SF EC Core HR  - Manager-Bangalore — PwC Acceleration Center India](https://www.linkedin.com/jobs/view/4440192606)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-industry-lead-recruitment-manager-recruitment-senior-manager-uberlife-consulting-bengaluru-7-to-11-years-170426029736](https://www.naukri.com/job-listings-industry-lead-recruitment-manager-recruitment-senior-manager-uberlife-consulting-bengaluru-7-to-11-years-170426029736)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4440192606](https://www.linkedin.com/jobs/view/4440192606)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 294. [SAP ABAP Technical — NTT DATA](https://in.indeed.com/viewjob?jk=9036bffee93526e2)
+### 230. [SAP ABAP Technical — NTT DATA](https://in.indeed.com/viewjob?jk=9036bffee93526e2)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -3598,7 +2725,34 @@ We are currently seeking a SAP ABAP Technical to join our team in Bangalore, Kar
   
 SAP - ...
 
-### 295. [RSC Job dev124 05-11 — iCIMS Middleware Test Company](https://www.linkedin.com/jobs/view/4486966971)
+### 231. [Fresh MBA - HR Consultants -IT — Talent Track Services](https://www.naukri.com/job-listings-fresh-mba-hr-consultants-it-talent-track-services-bengaluru-0-to-0-years-080926027193)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.naukri.com/job-listings-fresh-mba-hr-consultants-it-talent-track-services-bengaluru-0-to-0-years-080926027193](https://www.naukri.com/job-listings-fresh-mba-hr-consultants-it-talent-track-services-bengaluru-0-to-0-years-080926027193)
+- **Concerns**: None identified
+- **Job Description Summary**: 
+
+### 232. [Immediate Hiring For US Recruiter- Only Direct clients — Sunrise Biztech Systems](https://www.naukri.com/job-listings-immediate-hiring-for-us-recruiter-only-direct-clients-sunrise-biztech-systems-bengaluru-1-to-6-years-071126000036)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.naukri.com/job-listings-immediate-hiring-for-us-recruiter-only-direct-clients-sunrise-biztech-systems-bengaluru-1-to-6-years-071126000036](https://www.naukri.com/job-listings-immediate-hiring-for-us-recruiter-only-direct-clients-sunrise-biztech-systems-bengaluru-1-to-6-years-071126000036)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 233. [Talent Acquisition Executive — Novel Office](https://www.naukri.com/job-listings-talent-acquisition-executive-novel-office-bengaluru-0-to-1-years-030926028645)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.naukri.com/job-listings-talent-acquisition-executive-novel-office-bengaluru-0-to-1-years-030926028645](https://www.naukri.com/job-listings-talent-acquisition-executive-novel-office-bengaluru-0-to-1-years-030926028645)
+- **Concerns**: None identified
+- **Job Description Summary**: 
+
+### 234. [RSC Job dev124 05-11 — iCIMS Middleware Test Company](https://www.linkedin.com/jobs/view/4486966971)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -3607,7 +2761,7 @@ SAP - ...
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 296. [RSC Job dev115 — iCIMS Middleware Test Company](https://www.linkedin.com/jobs/view/4486988052)
+### 235. [RSC Job dev115 — iCIMS Middleware Test Company](https://www.linkedin.com/jobs/view/4486988052)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -3616,7 +2770,7 @@ SAP - ...
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 297. [Manager- Integration Solution & Technical Leadership (US Shift) — Darwinbox](https://www.linkedin.com/jobs/view/4480364050)
+### 236. [Manager- Integration Solution & Technical Leadership (US Shift) — Darwinbox](https://www.linkedin.com/jobs/view/4480364050)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -3625,7 +2779,7 @@ SAP - ...
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 298. [Senior Director, India Global Delivery Center (GDC)-Services — GE Vernova](https://www.linkedin.com/jobs/view/4471640042)
+### 237. [Senior Director, India Global Delivery Center (GDC)-Services — GE Vernova](https://www.linkedin.com/jobs/view/4471640042)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -3634,16 +2788,16 @@ SAP - ...
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 299. [Senior Executive- Industry Relations — Neil Gogte Institute of Technology](https://www.linkedin.com/jobs/view/4485893832)
+### 238. [RSC Job dev114 — iCIMS Middleware Test Company](https://www.linkedin.com/jobs/view/4486984110)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4485893832](https://www.linkedin.com/jobs/view/4485893832)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486984110](https://www.linkedin.com/jobs/view/4486984110)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 300. [Recruiter (IT & Advertising) | Remote — NDA](https://www.linkedin.com/jobs/view/4486236978)
+### 239. [Recruiter (IT & Advertising) | Remote — NDA](https://www.linkedin.com/jobs/view/4486236978)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -3652,61 +2806,25 @@ SAP - ...
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 301. [Territory Operations Manager - India & Subcontinent — Accuray](https://www.naukri.com/job-listings-territory-operations-manager-india-subcontinent-accuray-remote-7-to-11-years-061126504555)
+### 240. [Recruiter (Remote, Vitoria) — Blacksmith Agency](https://www.linkedin.com/jobs/view/4488405680)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-territory-operations-manager-india-subcontinent-accuray-remote-7-to-11-years-061126504555](https://www.naukri.com/job-listings-territory-operations-manager-india-subcontinent-accuray-remote-7-to-11-years-061126504555)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488405680](https://www.linkedin.com/jobs/view/4488405680)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 302. [Technical Support Engineer 2 — Twilio](https://www.naukri.com/job-listings-technical-support-engineer-2-twilio-remote-3-to-8-years-061126503106)
+### 241. [Senior Associate - Client Solutions APAC (US Shift) — GLG](https://www.linkedin.com/jobs/view/4470038956)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-technical-support-engineer-2-twilio-remote-3-to-8-years-061126503106](https://www.naukri.com/job-listings-technical-support-engineer-2-twilio-remote-3-to-8-years-061126503106)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4470038956](https://www.linkedin.com/jobs/view/4470038956)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 303. [eLearning Developer, Articulate Rise Contractror — Crossfit](https://www.naukri.com/job-listings-elearning-developer-articulate-rise-contractror-crossfit-gym-remote-0-to-5-years-061126503059)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-elearning-developer-articulate-rise-contractror-crossfit-gym-remote-0-to-5-years-061126503059](https://www.naukri.com/job-listings-elearning-developer-articulate-rise-contractror-crossfit-gym-remote-0-to-5-years-061126503059)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 304. [Human Resources Executive — Learntastic](https://www.naukri.com/job-listings-human-resources-executive-learntastic-remote-1-to-3-years-061126503065)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-human-resources-executive-learntastic-remote-1-to-3-years-061126503065](https://www.naukri.com/job-listings-human-resources-executive-learntastic-remote-1-to-3-years-061126503065)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 305. [Patient Screening & Enrollment Research Coordinator — Cardiovascular Associates Of America](https://www.naukri.com/job-listings-patient-screening-enrollment-research-coordinator-cvausa-remote-0-to-3-years-061126503050)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-patient-screening-enrollment-research-coordinator-cvausa-remote-0-to-3-years-061126503050](https://www.naukri.com/job-listings-patient-screening-enrollment-research-coordinator-cvausa-remote-0-to-3-years-061126503050)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 306. [Sr Developer, AI and Agentforce — Neuraflash India](https://www.naukri.com/job-listings-sr-developer-ai-and-agentforce-neuraflash-india-pvt-ltd-remote-3-to-8-years-061126501691)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-sr-developer-ai-and-agentforce-neuraflash-india-pvt-ltd-remote-3-to-8-years-061126501691](https://www.naukri.com/job-listings-sr-developer-ai-and-agentforce-neuraflash-india-pvt-ltd-remote-3-to-8-years-061126501691)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 307. [CAD Technician - Pavement — WSP](https://in.indeed.com/viewjob?jk=a71fe8cdc4fa8a46)
+### 242. [CAD Technician - Pavement — WSP](https://in.indeed.com/viewjob?jk=a71fe8cdc4fa8a46)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -3720,28 +2838,16 @@ SAP - ...
 * Responsible for basic CAD and BIM design tasks as directed by the Engineer.
 * Responsible for all drafting for a particular disci...
 
-### 308. [Senior Consultant - Sales Support — WSP](https://in.indeed.com/viewjob?jk=5735068a950a9090)
+### 243. [Senior Coordinator, Executive Administrative Support — WSP](https://in.indeed.com/viewjob?jk=a7aa59998f81a815)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=5735068a950a9090](https://in.indeed.com/viewjob?jk=5735068a950a9090)
+- **Direct application URL**: [https://in.indeed.com/viewjob?jk=a7aa59998f81a815](https://in.indeed.com/viewjob?jk=a7aa59998f81a815)
 - **Concerns**: Salary not disclosed
-- **Job Description Summary**: To lead our tender opportunity distribution processes as part of the GCC Strategic Growth Team
-  
+- **Job Description Summary**: The Project Secretary will be responsible for ensuring the accurate preparation, formatting, and management of project-related documentation in line with WSP standards and brand guidelines. This role supports project teams by maintaining document control procedures, ensuring compliance with quality management systems, and facilitating timely submis...
 
-* Managing distribution of correspondence relating to tender opportunities
-* Managing procurement portal accounts
-* Supervising two team members.
-
-  
-
-The person will be responsible for daily tasks including:
-  
-
-* Management of opportunity distributi...
-
-### 309. [BIM Technician - ELV — WSP](https://in.indeed.com/viewjob?jk=220aa7ff54745778)
+### 244. [BIM Technician - ELV — WSP](https://in.indeed.com/viewjob?jk=220aa7ff54745778)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -3757,16 +2863,7 @@ The person will be responsible for daily tasks including:
 * Create Parametric Revit Families
 * Provide specialist support to design teams preparing analysis ...
 
-### 310. [Senior Coordinator, Executive Administrative Support — WSP](https://in.indeed.com/viewjob?jk=a7aa59998f81a815)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=a7aa59998f81a815](https://in.indeed.com/viewjob?jk=a7aa59998f81a815)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: The Project Secretary will be responsible for ensuring the accurate preparation, formatting, and management of project-related documentation in line with WSP standards and brand guidelines. This role supports project teams by maintaining document control procedures, ensuring compliance with quality management systems, and facilitating timely submis...
-
-### 311. [Senior Engineer - Building Technology Systems — WSP](https://in.indeed.com/viewjob?jk=088333d2afaacdbe)
+### 245. [Senior Engineer - Building Technology Systems — WSP](https://in.indeed.com/viewjob?jk=088333d2afaacdbe)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -3775,226 +2872,34 @@ The person will be responsible for daily tasks including:
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: The Senior Engineer – Building Technology Systems (BTS) will support the design and delivery of Information & Communication Technology (ICT), Audio Visual (AV), Security, Telecommunications, Smart Building, and ELV systems for commercial, hospitality, residential, mixed-use, healthcare, transportation, data centre, and infrastructure projects. The ...
 
-### 312. [Delhi- Health Insurance Manager- Aditya Birla Health Insurance Co. — Ideal Jobs Staffing Solution](https://www.naukri.com/job-listings-delhi-health-insurance-manager-aditya-birla-health-insurance-co-ideal-jobs-staffing-solution-noida-ghaziabad-new-delhi-faridabad-gurugram-delhi-ncr-1-to-6-years-061126026512)
+### 246. [Placement Coordinator — CliniLaunch Research Institute](https://www.linkedin.com/jobs/view/4487387987)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-delhi-health-insurance-manager-aditya-birla-health-insurance-co-ideal-jobs-staffing-solution-noida-ghaziabad-new-delhi-faridabad-gurugram-delhi-ncr-1-to-6-years-061126026512](https://www.naukri.com/job-listings-delhi-health-insurance-manager-aditya-birla-health-insurance-co-ideal-jobs-staffing-solution-noida-ghaziabad-new-delhi-faridabad-gurugram-delhi-ncr-1-to-6-years-061126026512)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 313. [Delhi/NCR- Sales Manager- Axis Max Life Insurance Co. — Ideal Jobs Staffing Solution](https://www.naukri.com/job-listings-delhi-ncr-sales-manager-axis-max-life-insurance-co-ideal-jobs-staffing-solution-noida-ghaziabad-new-delhi-faridabad-gurugram-delhi-ncr-1-to-6-years-061126026496)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-delhi-ncr-sales-manager-axis-max-life-insurance-co-ideal-jobs-staffing-solution-noida-ghaziabad-new-delhi-faridabad-gurugram-delhi-ncr-1-to-6-years-061126026496](https://www.naukri.com/job-listings-delhi-ncr-sales-manager-axis-max-life-insurance-co-ideal-jobs-staffing-solution-noida-ghaziabad-new-delhi-faridabad-gurugram-delhi-ncr-1-to-6-years-061126026496)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 314. [Inside Sales Executive — Paradise Recruitment Consultant](https://www.naukri.com/job-listings-inside-sales-executive-paradise-recruitment-consultant-noida-gurugram-delhi-ncr-2-to-5-years-281026034711)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-inside-sales-executive-paradise-recruitment-consultant-noida-gurugram-delhi-ncr-2-to-5-years-281026034711](https://www.naukri.com/job-listings-inside-sales-executive-paradise-recruitment-consultant-noida-gurugram-delhi-ncr-2-to-5-years-281026034711)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 315. [Associate Centre Manager — Paradise Recruitment Consultant](https://www.naukri.com/job-listings-associate-centre-manager-paradise-recruitment-consultant-noida-gurugram-delhi-ncr-2-to-5-years-281026034686)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-associate-centre-manager-paradise-recruitment-consultant-noida-gurugram-delhi-ncr-2-to-5-years-281026034686](https://www.naukri.com/job-listings-associate-centre-manager-paradise-recruitment-consultant-noida-gurugram-delhi-ncr-2-to-5-years-281026034686)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 316. [Human Resource & Admin Coordinator — Retrotech](https://www.naukri.com/job-listings-human-resource-admin-coordinator-retrotech-gurugram-3-to-5-years-061126026291)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-human-resource-admin-coordinator-retrotech-gurugram-3-to-5-years-061126026291](https://www.naukri.com/job-listings-human-resource-admin-coordinator-retrotech-gurugram-3-to-5-years-061126026291)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 317. [CHRO / Head HR / TA Lead - Leading Large Organization — Anjraj Talent Network](https://www.naukri.com/job-listings-chro-head-hr-ta-lead-leading-large-organization-anjraj-talent-network-noida-gurugram-delhi-ncr-15-to-24-years-061126025403)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-chro-head-hr-ta-lead-leading-large-organization-anjraj-talent-network-noida-gurugram-delhi-ncr-15-to-24-years-061126025403](https://www.naukri.com/job-listings-chro-head-hr-ta-lead-leading-large-organization-anjraj-talent-network-noida-gurugram-delhi-ncr-15-to-24-years-061126025403)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487387987](https://www.linkedin.com/jobs/view/4487387987)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 318. [Hiring For Freshers || Experience II Voice Process || Gurgaon — THE Career Artist](https://www.naukri.com/job-listings-hiring-for-freshers-experience-ii-voice-process-gurgaon-the-career-artist-noida-gurugram-delhi-ncr-0-to-4-years-061126025391)
+### 247. [Manager - Global Mobility — Vialto](https://www.linkedin.com/jobs/view/4488424075)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-hiring-for-freshers-experience-ii-voice-process-gurgaon-the-career-artist-noida-gurugram-delhi-ncr-0-to-4-years-061126025391](https://www.naukri.com/job-listings-hiring-for-freshers-experience-ii-voice-process-gurgaon-the-career-artist-noida-gurugram-delhi-ncr-0-to-4-years-061126025391)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 319. [Hiring For || Voice || Blended || Experience || Fresher || Gurgaon || — THE Career Artist](https://www.naukri.com/job-listings-hiring-for-voice-blended-experience-fresher-gurgaon-the-career-artist-new-delhi-gurugram-delhi-ncr-0-to-4-years-061126025315)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-hiring-for-voice-blended-experience-fresher-gurgaon-the-career-artist-new-delhi-gurugram-delhi-ncr-0-to-4-years-061126025315](https://www.naukri.com/job-listings-hiring-for-voice-blended-experience-fresher-gurgaon-the-career-artist-new-delhi-gurugram-delhi-ncr-0-to-4-years-061126025315)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 320. [Walk-in || Customer Care Executive II 6 months experience — Globiva](https://www.naukri.com/job-listings-customer-care-executive-ii-6-months-experience-globiva-gurugram-0-to-2-years-291026035527)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-customer-care-executive-ii-6-months-experience-globiva-gurugram-0-to-2-years-291026035527](https://www.naukri.com/job-listings-customer-care-executive-ii-6-months-experience-globiva-gurugram-0-to-2-years-291026035527)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 321. [Senior HR Manager — Tagbin Services](https://www.naukri.com/job-listings-senior-hr-manager-tagbin-services-private-limited-gurugram-india-haryana-2-to-5-years-061126024408)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-senior-hr-manager-tagbin-services-private-limited-gurugram-india-haryana-2-to-5-years-061126024408](https://www.naukri.com/job-listings-senior-hr-manager-tagbin-services-private-limited-gurugram-india-haryana-2-to-5-years-061126024408)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488424075](https://www.linkedin.com/jobs/view/4488424075)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 322. [Administration Executive — Independent Recruitment Consultant (freelancer)](https://www.naukri.com/job-listings-administration-executive-independent-recruitment-consultant-freelancer-gurugram-2-to-5-years-061126024166)
+### 248. [Global Mobility Manager — Vialto](https://www.linkedin.com/jobs/view/4488408739)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-administration-executive-independent-recruitment-consultant-freelancer-gurugram-2-to-5-years-061126024166](https://www.naukri.com/job-listings-administration-executive-independent-recruitment-consultant-freelancer-gurugram-2-to-5-years-061126024166)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 323. [CA Fresher - Statutory Audit - Non FS — Acme Services](https://www.naukri.com/job-listings-ca-fresher-statutory-audit-non-fs-acme-services-gurugram-0-to-1-years-061126023477)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-ca-fresher-statutory-audit-non-fs-acme-services-gurugram-0-to-1-years-061126023477](https://www.naukri.com/job-listings-ca-fresher-statutory-audit-non-fs-acme-services-gurugram-0-to-1-years-061126023477)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488408739](https://www.linkedin.com/jobs/view/4488408739)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 324. [Associate Manager — Select Source International](https://www.naukri.com/job-listings-associate-manager-select-source-international-gurugram-8-to-13-years-061126023467)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-associate-manager-select-source-international-gurugram-8-to-13-years-061126023467](https://www.naukri.com/job-listings-associate-manager-select-source-international-gurugram-8-to-13-years-061126023467)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 325. [Development/Relationship Manager - Health Agency — ICICI Lombard](https://www.naukri.com/job-listings-development-relationship-manager-health-agency-icici-lombard-gurugram-1-to-6-years-280926028512)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-development-relationship-manager-health-agency-icici-lombard-gurugram-1-to-6-years-280926028512](https://www.naukri.com/job-listings-development-relationship-manager-health-agency-icici-lombard-gurugram-1-to-6-years-280926028512)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 326. [HR Recruiter_1 Year Contractual Role_Fintech Company_Gurgaon — True Credits](https://www.naukri.com/job-listings-hr-recruiter-1-year-contractual-role-fintech-company-gurgaon-true-credits-gurugram-0-to-3-years-061126022948)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-hr-recruiter-1-year-contractual-role-fintech-company-gurgaon-true-credits-gurugram-0-to-3-years-061126022948](https://www.naukri.com/job-listings-hr-recruiter-1-year-contractual-role-fintech-company-gurgaon-true-credits-gurugram-0-to-3-years-061126022948)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 327. [Food And Beverage Executive — Artemis Medicare](https://www.naukri.com/job-listings-food-and-beverage-executive-artemis-medicare-gurugram-1-to-4-years-061126022915)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-food-and-beverage-executive-artemis-medicare-gurugram-1-to-4-years-061126022915](https://www.naukri.com/job-listings-food-and-beverage-executive-artemis-medicare-gurugram-1-to-4-years-061126022915)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 328. [International Customer Support Associate — Thriving Talent Recruitment Services](https://www.naukri.com/job-listings-international-customer-support-associate-thriving-talent-recruitment-services-noida-gurugram-delhi-ncr-0-to-5-years-281026008714)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-international-customer-support-associate-thriving-talent-recruitment-services-noida-gurugram-delhi-ncr-0-to-5-years-281026008714](https://www.naukri.com/job-listings-international-customer-support-associate-thriving-talent-recruitment-services-noida-gurugram-delhi-ncr-0-to-5-years-281026008714)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 329. [Human Resource Generalist — Genius Consultants](https://www.naukri.com/job-listings-human-resource-generalist-genius-consultants-gurugram-1-to-3-years-061126021846)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-human-resource-generalist-genius-consultants-gurugram-1-to-3-years-061126021846](https://www.naukri.com/job-listings-human-resource-generalist-genius-consultants-gurugram-1-to-3-years-061126021846)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 330. [Bulk Hiring !! Customer Care Executive !! Apply Now !! — Globiva](https://www.naukri.com/job-listings-bulk-hiring-customer-care-executive-apply-now-globiva-gurugram-0-to-3-years-311026014301)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-bulk-hiring-customer-care-executive-apply-now-globiva-gurugram-0-to-3-years-311026014301](https://www.naukri.com/job-listings-bulk-hiring-customer-care-executive-apply-now-globiva-gurugram-0-to-3-years-311026014301)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 331. [Customer support || Urgent Hiring || Immediate Joiners — Globiva](https://www.naukri.com/job-listings-customer-support-urgent-hiring-immediate-joiners-globiva-gurugram-0-to-2-years-240926016961)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-customer-support-urgent-hiring-immediate-joiners-globiva-gurugram-0-to-2-years-240926016961](https://www.naukri.com/job-listings-customer-support-urgent-hiring-immediate-joiners-globiva-gurugram-0-to-2-years-240926016961)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 332. [Bulk Hiring || Customer Support Executive || Immediate joiners — Globiva](https://www.naukri.com/job-listings-bulk-hiring-customer-support-executive-immediate-joiners-globiva-gurugram-0-to-4-years-211026021745)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-bulk-hiring-customer-support-executive-immediate-joiners-globiva-gurugram-0-to-4-years-211026021745](https://www.naukri.com/job-listings-bulk-hiring-customer-support-executive-immediate-joiners-globiva-gurugram-0-to-4-years-211026021745)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 333. [Hiring For Customer Support Executive || Fresher and experienced — Globiva](https://www.naukri.com/job-listings-hiring-for-customer-support-executive-fresher-and-experienced-globiva-gurugram-0-to-3-years-120826011369)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-hiring-for-customer-support-executive-fresher-and-experienced-globiva-gurugram-0-to-3-years-120826011369](https://www.naukri.com/job-listings-hiring-for-customer-support-executive-fresher-and-experienced-globiva-gurugram-0-to-3-years-120826011369)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 334. [Marine and Coastal Modeller — WSP](https://in.indeed.com/viewjob?jk=93ab075780d54f83)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=93ab075780d54f83](https://in.indeed.com/viewjob?jk=93ab075780d54f83)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: The Marine Environmental Modeler will support marine and coastal projects through numerical modelling of sediment transport, hydrodynamics, water quality and environmental impacts associated with infrastructure, dredging, ports, offshore energy and coastal developments.
-
-The role will work closely with WSP Italia and international marine specialist...
-
-### 335. [Assistant Consultant- Ecology — WSP](https://in.indeed.com/viewjob?jk=ab92c1c2d10651dd)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=ab92c1c2d10651dd](https://in.indeed.com/viewjob?jk=ab92c1c2d10651dd)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: * WSP is seeking an Assistant Consultants to join our large and growing technical support team.
-* The successful applicant will lead a team of data handling professionals who will be part of WSP GCC Ecology Team, delivering the highest standards of technical work and aiding the continued success of the ecology business by assisting us in our client...
-
-### 336. [Senior Engineer - Electrical — WSP](https://in.indeed.com/viewjob?jk=52c8eb0f319c63e9)
+### 249. [Senior Engineer - Electrical — WSP](https://in.indeed.com/viewjob?jk=52c8eb0f319c63e9)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -4008,18 +2913,7 @@ The role will work closely with WSP Italia and international marine specialist..
 * The applicant will have proven experience in the design of Building Services with significant experience in a similar role or demonstration of a good track record.
 * The applicants ...
 
-### 337. [Immigration Compliance - Tax Consultant II, Tax Services — Deloitte](https://in.indeed.com/viewjob?jk=e426607a3c7625f0)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=e426607a3c7625f0](https://in.indeed.com/viewjob?jk=e426607a3c7625f0)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: **Tax Consultant II- Expatriate management**
-
-Deloitte Tax Services India Private Limited (“Deloitte Tax in India”) supports Deloitte Tax U.S. service lines through aligned professionals who deliver services to clients across global tax and mobility programs. As a Service Delivery Enablement, Tax Consultant II, you will support global mobility mana...
-
-### 338. [Senior BIM Technician – Electrical — WSP](https://in.indeed.com/viewjob?jk=3d7bebcb34627578)
+### 250. [Senior BIM Technician – Electrical — WSP](https://in.indeed.com/viewjob?jk=3d7bebcb34627578)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -4035,7 +2929,35 @@ Deloitte Tax Services India Private Limited (“Deloitte Tax in India”) suppor
 * Create Parametric Revit Families
 * Provide specialist support to design teams preparing analysis ...
 
-### 339. [Technical Program Manager - Voice AI - Automotive (India) — SoundHound AI](https://in.indeed.com/viewjob?jk=0a4aa8cc233e2353)
+### 251. [Senior BIM Technician – Mechanical — WSP](https://in.indeed.com/viewjob?jk=769817c75ef24154)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://in.indeed.com/viewjob?jk=769817c75ef24154](https://in.indeed.com/viewjob?jk=769817c75ef24154)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: This role is to work as part of an engineering consultancy design team in India and be involved in exciting new projects and liaison with the WSP South Africa Team.
+
+  
+
+* Prepare MEP 3D Revit coordinated models
+* Responsible for modelling of Mechanical systems.
+* Clash detection and clash resolution
+* Create Parametric Revit Families
+* Provide spe...
+
+### 252. [Immigration Compliance - Tax Consultant II, Tax Services — Deloitte](https://in.indeed.com/viewjob?jk=e426607a3c7625f0)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://in.indeed.com/viewjob?jk=e426607a3c7625f0](https://in.indeed.com/viewjob?jk=e426607a3c7625f0)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: **Tax Consultant II- Expatriate management**
+
+Deloitte Tax Services India Private Limited (“Deloitte Tax in India”) supports Deloitte Tax U.S. service lines through aligned professionals who deliver services to clients across global tax and mobility programs. As a Service Delivery Enablement, Tax Consultant II, you will support global mobility mana...
+
+### 253. [Technical Program Manager - Voice AI - Automotive (India) — SoundHound AI](https://in.indeed.com/viewjob?jk=0a4aa8cc233e2353)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -4056,195 +2978,133 @@ Full-time
 
 Ready to join something big? At SoundHound AI, we bring voice, generative, and conversational AI together to transform how people interact with products and services. From voice-enabled vehicles to food ordering and customer support, our multiling...
 
-### 340. [Senior BIM Technician – Mechanical — WSP](https://in.indeed.com/viewjob?jk=769817c75ef24154)
+### 254. [Voice / Non Voice / Inbound / Outbound / CSR / Fresher / Experience — Rivera Manpower Services](https://www.naukri.com/job-listings-voice-non-voice-inbound-outbound-csr-fresher-experience-rivera-manpower-services-bengaluru-0-to-5-years-071126008679)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=769817c75ef24154](https://in.indeed.com/viewjob?jk=769817c75ef24154)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: This role is to work as part of an engineering consultancy design team in India and be involved in exciting new projects and liaison with the WSP South Africa Team.
-
-  
-
-* Prepare MEP 3D Revit coordinated models
-* Responsible for modelling of Mechanical systems.
-* Clash detection and clash resolution
-* Create Parametric Revit Families
-* Provide spe...
-
-### 341. [Business Development — Yellow Box Hr Services](https://www.naukri.com/job-listings-business-development-yellow-box-hr-services-kolkata-bengaluru-2-to-5-years-061126010522)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-business-development-yellow-box-hr-services-kolkata-bengaluru-2-to-5-years-061126010522](https://www.naukri.com/job-listings-business-development-yellow-box-hr-services-kolkata-bengaluru-2-to-5-years-061126010522)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-voice-non-voice-inbound-outbound-csr-fresher-experience-rivera-manpower-services-bengaluru-0-to-5-years-071126008679](https://www.naukri.com/job-listings-voice-non-voice-inbound-outbound-csr-fresher-experience-rivera-manpower-services-bengaluru-0-to-5-years-071126008679)
 - **Concerns**: None identified
 - **Job Description Summary**: 
 
-### 342. [International chat support | 4.3 CTC | 2ways cab — Campusmarg Innovative Tech Services Llp](https://www.naukri.com/job-listings-international-chat-support-4-3-ctc-2ways-cab-campusmarg-innovative-tech-services-llp-visakhapatnam-hyderabad-bengaluru-1-to-6-years-031126021452)
+### 255. [Company Secretary / Corporate Administration Manager — Rakesh Infinivis](https://www.naukri.com/job-listings-company-secretary-corporate-administration-manager-rakesh-infinivis-bengaluru-2-to-7-years-071126008453)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-international-chat-support-4-3-ctc-2ways-cab-campusmarg-innovative-tech-services-llp-visakhapatnam-hyderabad-bengaluru-1-to-6-years-031126021452](https://www.naukri.com/job-listings-international-chat-support-4-3-ctc-2ways-cab-campusmarg-innovative-tech-services-llp-visakhapatnam-hyderabad-bengaluru-1-to-6-years-031126021452)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 343. [Bangalore - Sales Manager- Axis Max Life Insurance Co. — Ideal Jobs Staffing Solution](https://www.naukri.com/job-listings-bangalore-sales-manager-axis-max-life-insurance-co-ideal-jobs-staffing-solution-mysuru-bengaluru-1-to-6-years-061126026523)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-bangalore-sales-manager-axis-max-life-insurance-co-ideal-jobs-staffing-solution-mysuru-bengaluru-1-to-6-years-061126026523](https://www.naukri.com/job-listings-bangalore-sales-manager-axis-max-life-insurance-co-ideal-jobs-staffing-solution-mysuru-bengaluru-1-to-6-years-061126026523)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 344. [Tele Sales Executive — Paradise Recruitment Consultant](https://www.naukri.com/job-listings-tele-sales-executive-paradise-recruitment-consultant-hyderabad-chennai-bengaluru-2-to-5-years-281026034704)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-tele-sales-executive-paradise-recruitment-consultant-hyderabad-chennai-bengaluru-2-to-5-years-281026034704](https://www.naukri.com/job-listings-tele-sales-executive-paradise-recruitment-consultant-hyderabad-chennai-bengaluru-2-to-5-years-281026034704)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 345. [Electrical Engineer — CV Information](https://www.naukri.com/job-listings-electrical-engineer-cv-information-bengaluru-1-to-3-years-061126026281)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-electrical-engineer-cv-information-bengaluru-1-to-3-years-061126026281](https://www.naukri.com/job-listings-electrical-engineer-cv-information-bengaluru-1-to-3-years-061126026281)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 346. [HR Executive - LADY — Hoysala Consultants](https://www.naukri.com/job-listings-hr-executive-lady-hoysala-consultants-bengaluru-4-to-7-years-061126026262)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-hr-executive-lady-hoysala-consultants-bengaluru-4-to-7-years-061126026262](https://www.naukri.com/job-listings-hr-executive-lady-hoysala-consultants-bengaluru-4-to-7-years-061126026262)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 347. [International Voice & Chat Support Executive — Crafle Consulting Mumbai](https://www.naukri.com/job-listings-international-voice-chat-support-executive-crafle-consulting-mumbai-noida-chandigarh-bengaluru-0-to-5-years-061126025883)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-international-voice-chat-support-executive-crafle-consulting-mumbai-noida-chandigarh-bengaluru-0-to-5-years-061126025883](https://www.naukri.com/job-listings-international-voice-chat-support-executive-crafle-consulting-mumbai-noida-chandigarh-bengaluru-0-to-5-years-061126025883)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-company-secretary-corporate-administration-manager-rakesh-infinivis-bengaluru-2-to-7-years-071126008453](https://www.naukri.com/job-listings-company-secretary-corporate-administration-manager-rakesh-infinivis-bengaluru-2-to-7-years-071126008453)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 348. [Product Owner — Boots2suits Consultancy](https://www.naukri.com/job-listings-product-owner-boots2suits-consultancy-bengaluru-3-to-7-years-061126025781)
+### 256. [BPO / Fresher / Non-Voice / Customer Service / Inbound / Technical — Rivera Manpower Services](https://www.naukri.com/job-listings-bpo-fresher-non-voice-customer-service-inbound-technical-rivera-manpower-services-bengaluru-0-to-5-years-071126008376)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-product-owner-boots2suits-consultancy-bengaluru-3-to-7-years-061126025781](https://www.naukri.com/job-listings-product-owner-boots2suits-consultancy-bengaluru-3-to-7-years-061126025781)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-bpo-fresher-non-voice-customer-service-inbound-technical-rivera-manpower-services-bengaluru-0-to-5-years-071126008376](https://www.naukri.com/job-listings-bpo-fresher-non-voice-customer-service-inbound-technical-rivera-manpower-services-bengaluru-0-to-5-years-071126008376)
 - **Concerns**: None identified
 - **Job Description Summary**: 
 
-### 349. [Hiring Fresher CAT- Gold Loan (BLR-2) — Muthoot Finance](https://www.naukri.com/job-listings-hiring-fresher-cat-gold-loan-blr-2-muthoot-finance-bengaluru-0-to-0-years-061126025648)
+### 257. [Primary Mathematics Teacher — K12 Techno Services](https://www.naukri.com/job-listings-primary-mathematics-teacher-k12-techno-services-hyderabad-pune-bengaluru-5-to-10-years-021126006013)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-hiring-fresher-cat-gold-loan-blr-2-muthoot-finance-bengaluru-0-to-0-years-061126025648](https://www.naukri.com/job-listings-hiring-fresher-cat-gold-loan-blr-2-muthoot-finance-bengaluru-0-to-0-years-061126025648)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-primary-mathematics-teacher-k12-techno-services-hyderabad-pune-bengaluru-5-to-10-years-021126006013](https://www.naukri.com/job-listings-primary-mathematics-teacher-k12-techno-services-hyderabad-pune-bengaluru-5-to-10-years-021126006013)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 350. [Internal- SM/Director — EY](https://www.naukri.com/job-listings-internal-sm-director-ey-bengaluru-10-to-16-years-081026028895)
+### 258. [Specialist - Azure Integration - Leading MNC - Immediate Joiner — Talent Infinity](https://www.naukri.com/job-listings-specialist-azure-integration-leading-mnc-immediate-joiner-talent-infinity-hyderabad-pune-chennai-bengaluru-mumbai-all-areas-3-to-8-years-071126008083)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-internal-sm-director-ey-bengaluru-10-to-16-years-081026028895](https://www.naukri.com/job-listings-internal-sm-director-ey-bengaluru-10-to-16-years-081026028895)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-specialist-azure-integration-leading-mnc-immediate-joiner-talent-infinity-hyderabad-pune-chennai-bengaluru-mumbai-all-areas-3-to-8-years-071126008083](https://www.naukri.com/job-listings-specialist-azure-integration-leading-mnc-immediate-joiner-talent-infinity-hyderabad-pune-chennai-bengaluru-mumbai-all-areas-3-to-8-years-071126008083)
 - **Concerns**: None identified
 - **Job Description Summary**: 
 
-### 351. [WALK-IN DRIVE | Engineering & Finance Professionals | Fertilizer & EPC — Ballestra Engineering And Projects and Pvt Ltd](https://www.naukri.com/job-listings-walk-in-drive-engineering-finance-professionals-fertilizer-epc-ballestra-engineering-and-projects-and-pvt-ltd-bengaluru-8-to-13-years-061126025620)
+### 259. [Hiring - Top International & Domestic Call Centers | Customer Service — Circle Consulting](https://www.naukri.com/job-listings-hiring-top-international-domestic-call-centers-customer-service-circle-consulting-bengaluru-0-to-5-years-290926030892)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-walk-in-drive-engineering-finance-professionals-fertilizer-epc-ballestra-engineering-and-projects-and-pvt-ltd-bengaluru-8-to-13-years-061126025620](https://www.naukri.com/job-listings-walk-in-drive-engineering-finance-professionals-fertilizer-epc-ballestra-engineering-and-projects-and-pvt-ltd-bengaluru-8-to-13-years-061126025620)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 352. [Hiring Fresher CAT -Gold Loan (BLR-1) — Muthoot Finance](https://www.naukri.com/job-listings-hiring-fresher-cat-gold-loan-blr-1-muthoot-finance-bengaluru-0-to-0-years-061126025597)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-hiring-fresher-cat-gold-loan-blr-1-muthoot-finance-bengaluru-0-to-0-years-061126025597](https://www.naukri.com/job-listings-hiring-fresher-cat-gold-loan-blr-1-muthoot-finance-bengaluru-0-to-0-years-061126025597)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 353. [Revenue Operations Manager — Hiregenie](https://www.naukri.com/job-listings-revenue-operations-manager-hiregenie-bengaluru-5-to-10-years-061126025466)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-revenue-operations-manager-hiregenie-bengaluru-5-to-10-years-061126025466](https://www.naukri.com/job-listings-revenue-operations-manager-hiregenie-bengaluru-5-to-10-years-061126025466)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-hiring-top-international-domestic-call-centers-customer-service-circle-consulting-bengaluru-0-to-5-years-290926030892](https://www.naukri.com/job-listings-hiring-top-international-domestic-call-centers-customer-service-circle-consulting-bengaluru-0-to-5-years-290926030892)
 - **Concerns**: None identified
 - **Job Description Summary**: 
 
-### 354. [Operation Intelligence Lead — Woolworths](https://www.naukri.com/job-listings-operation-intelligence-lead-woolworths-bengaluru-10-to-15-years-061126025366)
+### 260. [Hiring International Voice Process Executive — Circle Consulting](https://www.naukri.com/job-listings-hiring-international-voice-process-executive-circle-consulting-bengaluru-0-to-3-years-280926031176)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-operation-intelligence-lead-woolworths-bengaluru-10-to-15-years-061126025366](https://www.naukri.com/job-listings-operation-intelligence-lead-woolworths-bengaluru-10-to-15-years-061126025366)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 355. [Procurement Manager - Opex — Bhive Workspace](https://www.naukri.com/job-listings-procurement-manager-opex-bhive-workspace-bengaluru-8-to-12-years-061126025139)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-procurement-manager-opex-bhive-workspace-bengaluru-8-to-12-years-061126025139](https://www.naukri.com/job-listings-procurement-manager-opex-bhive-workspace-bengaluru-8-to-12-years-061126025139)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-hiring-international-voice-process-executive-circle-consulting-bengaluru-0-to-3-years-280926031176](https://www.naukri.com/job-listings-hiring-international-voice-process-executive-circle-consulting-bengaluru-0-to-3-years-280926031176)
 - **Concerns**: None identified
 - **Job Description Summary**: 
 
-### 356. [Walk-in || Process Associate- International Voice — 24 7 ai](https://www.naukri.com/job-listings-process-associate-international-voice-24-7-ai-bengaluru-0-to-2-years-061026029711)
+### 261. [WE ARE Hiring | Customer Support | International VOICE Process — Circle Consulting](https://www.naukri.com/job-listings-we-are-hiring-customer-support-international-voice-process-circle-consulting-bengaluru-0-to-3-years-290926022439)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-process-associate-international-voice-24-7-ai-bengaluru-0-to-2-years-061026029711](https://www.naukri.com/job-listings-process-associate-international-voice-24-7-ai-bengaluru-0-to-2-years-061026029711)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-we-are-hiring-customer-support-international-voice-process-circle-consulting-bengaluru-0-to-3-years-290926022439](https://www.naukri.com/job-listings-we-are-hiring-customer-support-international-voice-process-circle-consulting-bengaluru-0-to-3-years-290926022439)
 - **Concerns**: None identified
 - **Job Description Summary**: 
 
-### 357. [HR Recruiter Intern — Novel Office](https://www.naukri.com/job-listings-hr-recruiter-intern-novel-office-bengaluru-0-to-1-years-261026010285)
+### 262. [Hiring International Voice Process | Customer Care | Call Center | BPO — Circle Consulting](https://www.naukri.com/job-listings-hiring-international-voice-process-customer-care-call-center-bpo-circle-consulting-bengaluru-0-to-4-years-260926005664)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (Posted today)
-- **Direct application URL**: [https://www.naukri.com/job-listings-hr-recruiter-intern-novel-office-bengaluru-0-to-1-years-261026010285](https://www.naukri.com/job-listings-hr-recruiter-intern-novel-office-bengaluru-0-to-1-years-261026010285)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-hiring-international-voice-process-customer-care-call-center-bpo-circle-consulting-bengaluru-0-to-4-years-260926005664](https://www.naukri.com/job-listings-hiring-international-voice-process-customer-care-call-center-bpo-circle-consulting-bengaluru-0-to-4-years-260926005664)
 - **Concerns**: None identified
 - **Job Description Summary**: 
 
-### 358. [Talent Acquisition Intern — Novel Office](https://www.naukri.com/job-listings-talent-acquisition-intern-novel-office-bengaluru-0-to-1-years-261026010103)
+### 263. [Regional HR — Axis Bank](https://www.naukri.com/job-listings-regional-hr-axis-bank-chennai-bengaluru-5-to-10-years-131026036186)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (Posted today)
-- **Direct application URL**: [https://www.naukri.com/job-listings-talent-acquisition-intern-novel-office-bengaluru-0-to-1-years-261026010103](https://www.naukri.com/job-listings-talent-acquisition-intern-novel-office-bengaluru-0-to-1-years-261026010103)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-regional-hr-axis-bank-chennai-bengaluru-5-to-10-years-131026036186](https://www.naukri.com/job-listings-regional-hr-axis-bank-chennai-bengaluru-5-to-10-years-131026036186)
 - **Concerns**: None identified
 - **Job Description Summary**: 
 
-### 359. [Associate/Senior Associate-Global Mobility-Mumbai — BDO India](https://www.linkedin.com/jobs/view/4488117411)
+### 264. [Wanted HR Executive and Admin Counsellor- Female Candidates For Hybrid — Resolve Itech Corp](https://www.naukri.com/job-listings-wanted-hr-executive-and-admin-counsellor-female-candidates-for-hybrid-resolve-itech-corp-kochi-bengaluru-mumbai-all-areas-0-to-2-years-071126007892)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488117411](https://www.linkedin.com/jobs/view/4488117411)
-- **Concerns**: Salary not disclosed
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-wanted-hr-executive-and-admin-counsellor-female-candidates-for-hybrid-resolve-itech-corp-kochi-bengaluru-mumbai-all-areas-0-to-2-years-071126007892](https://www.naukri.com/job-listings-wanted-hr-executive-and-admin-counsellor-female-candidates-for-hybrid-resolve-itech-corp-kochi-bengaluru-mumbai-all-areas-0-to-2-years-071126007892)
+- **Concerns**: None identified
 - **Job Description Summary**: 
 
-### 360. [Crew Coordinator — V.Group](https://www.linkedin.com/jobs/view/4453080278)
+### 265. [Great Career Opportunity | Customer Support | Immediate Openings — JobShop](https://www.naukri.com/job-listings-great-career-opportunity-customer-support-immediate-openings-jobshop-bengaluru-0-to-5-years-071126007733)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-great-career-opportunity-customer-support-immediate-openings-jobshop-bengaluru-0-to-5-years-071126007733](https://www.naukri.com/job-listings-great-career-opportunity-customer-support-immediate-openings-jobshop-bengaluru-0-to-5-years-071126007733)
+- **Concerns**: None identified
+- **Job Description Summary**: 
+
+### 266. [Company Secretary — Honeybeez Consultancy](https://www.naukri.com/job-listings-company-secretary-honeybeez-consultancy-bengaluru-12-to-18-years-071126007708)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-company-secretary-honeybeez-consultancy-bengaluru-12-to-18-years-071126007708](https://www.naukri.com/job-listings-company-secretary-honeybeez-consultancy-bengaluru-12-to-18-years-071126007708)
+- **Concerns**: None identified
+- **Job Description Summary**: 
+
+### 267. [Urgent Requirement | BPO |  Customer Support Executive @BLR — JobShop](https://www.naukri.com/job-listings-urgent-requirement-bpo-customer-support-executive-blr-jobshop-bengaluru-0-to-5-years-071126007698)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-urgent-requirement-bpo-customer-support-executive-blr-jobshop-bengaluru-0-to-5-years-071126007698](https://www.naukri.com/job-listings-urgent-requirement-bpo-customer-support-executive-blr-jobshop-bengaluru-0-to-5-years-071126007698)
+- **Concerns**: None identified
+- **Job Description Summary**: 
+
+### 268. [Crew Coordinator — V.Group](https://www.linkedin.com/jobs/view/4453080278)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -4253,475 +3113,29 @@ Ready to join something big? At SoundHound AI, we bring voice, generative, and c
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 361. [Executive Assistant — HR PLACEMENT CONSULTANTS (HRPC)](https://www.linkedin.com/jobs/view/4488110658)
+### 269. [Project Engineer — Koch](https://in.indeed.com/viewjob?jk=1abfe47bb3fd3475)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488110658](https://www.linkedin.com/jobs/view/4488110658)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://in.indeed.com/viewjob?jk=1abfe47bb3fd3475](https://in.indeed.com/viewjob?jk=1abfe47bb3fd3475)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: **Your Job**
+
+John Zink, a Koch Engineered Solutions business, is looking for a **Project Engineer** to join our team in Navi Mumbai.
+
+In this role, you will lead and coordinate multidisciplinary engineering activities for system projects from design through execution. You will work across Process, Mechanical, Electrical & Instrumentation, Structur...
+
+### 270. [HR Executive — Vivetha Business Consultancy](https://www.linkedin.com/jobs/view/4486629861)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486629861](https://www.linkedin.com/jobs/view/4486629861)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 362. [Human Resources Manager — Numoo Hiring Solutions](https://www.linkedin.com/jobs/view/4486928746)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486928746](https://www.linkedin.com/jobs/view/4486928746)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 363. [AVP Enterprise Applications — Lighthouse Learning](https://www.naukri.com/job-listings-avp-enterprise-applications-lighthouse-learning-mumbai-all-areas-10-to-15-years-231026010204)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-avp-enterprise-applications-lighthouse-learning-mumbai-all-areas-10-to-15-years-231026010204](https://www.naukri.com/job-listings-avp-enterprise-applications-lighthouse-learning-mumbai-all-areas-10-to-15-years-231026010204)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 364. [Tasc Relationship Manager — Bharti Consultants](https://www.naukri.com/job-listings-tasc-relationship-manager-bharti-consultants-mumbai-3-to-8-years-061126023625)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-tasc-relationship-manager-bharti-consultants-mumbai-3-to-8-years-061126023625](https://www.naukri.com/job-listings-tasc-relationship-manager-bharti-consultants-mumbai-3-to-8-years-061126023625)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 365. [Sales And Marketing Executive — Quadrangle Solutions](https://www.naukri.com/job-listings-sales-and-marketing-executive-quadrangle-solutions-mumbai-all-areas-0-to-3-years-071126000029)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-sales-and-marketing-executive-quadrangle-solutions-mumbai-all-areas-0-to-3-years-071126000029](https://www.naukri.com/job-listings-sales-and-marketing-executive-quadrangle-solutions-mumbai-all-areas-0-to-3-years-071126000029)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 366. [Marketing and Growth Associate — Goodword](https://www.naukri.com/job-listings-marketing-and-growth-associate-goodword-mumbai-all-areas-0-to-1-years-061126026493)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-marketing-and-growth-associate-goodword-mumbai-all-areas-0-to-1-years-061126026493](https://www.naukri.com/job-listings-marketing-and-growth-associate-goodword-mumbai-all-areas-0-to-1-years-061126026493)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 367. [Voice process  Shipping and Logistics Process — Paradise Recruitment Consultant](https://www.naukri.com/job-listings-voice-process-shipping-and-logistics-process-paradise-recruitment-consultant-thane-navi-mumbai-1-to-5-years-061126026378)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-voice-process-shipping-and-logistics-process-paradise-recruitment-consultant-thane-navi-mumbai-1-to-5-years-061126026378](https://www.naukri.com/job-listings-voice-process-shipping-and-logistics-process-paradise-recruitment-consultant-thane-navi-mumbai-1-to-5-years-061126026378)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 368. [French Language Expert  Travel process — Paradise Recruitment Consultant](https://www.naukri.com/job-listings-french-language-expert-travel-process-paradise-recruitment-consultant-thane-navi-mumbai-0-to-5-years-061126026363)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-french-language-expert-travel-process-paradise-recruitment-consultant-thane-navi-mumbai-0-to-5-years-061126026363](https://www.naukri.com/job-listings-french-language-expert-travel-process-paradise-recruitment-consultant-thane-navi-mumbai-0-to-5-years-061126026363)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 369. [Mumbai- Sales Manager-Axis Max Life Ins — Ideal Jobs Staffing Solution](https://www.naukri.com/job-listings-mumbai-sales-manager-axis-max-life-ins-ideal-jobs-staffing-solution-mumbai-panvel-1-to-6-years-061126026321)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-mumbai-sales-manager-axis-max-life-ins-ideal-jobs-staffing-solution-mumbai-panvel-1-to-6-years-061126026321](https://www.naukri.com/job-listings-mumbai-sales-manager-axis-max-life-ins-ideal-jobs-staffing-solution-mumbai-panvel-1-to-6-years-061126026321)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 370. [International Voice Process Executive — Paradise Recruitment Consultant](https://www.naukri.com/job-listings-international-voice-process-executive-paradise-recruitment-consultant-navi-mumbai-1-to-5-years-061126026308)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-international-voice-process-executive-paradise-recruitment-consultant-navi-mumbai-1-to-5-years-061126026308](https://www.naukri.com/job-listings-international-voice-process-executive-paradise-recruitment-consultant-navi-mumbai-1-to-5-years-061126026308)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 371. [Back Office Executive — Paradise Recruitment Consultant](https://www.naukri.com/job-listings-back-office-executive-paradise-recruitment-consultant-navi-mumbai-1-to-5-years-061126026307)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-back-office-executive-paradise-recruitment-consultant-navi-mumbai-1-to-5-years-061126026307](https://www.naukri.com/job-listings-back-office-executive-paradise-recruitment-consultant-navi-mumbai-1-to-5-years-061126026307)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 372. [US Voice Process — Paradise Recruitment Consultant](https://www.naukri.com/job-listings-us-voice-process-paradise-recruitment-consultant-navi-mumbai-1-to-5-years-061126026290)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-us-voice-process-paradise-recruitment-consultant-navi-mumbai-1-to-5-years-061126026290](https://www.naukri.com/job-listings-us-voice-process-paradise-recruitment-consultant-navi-mumbai-1-to-5-years-061126026290)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 373. [Mutual Fund Sales — Paradise Recruitment Consultant](https://www.naukri.com/job-listings-mutual-fund-sales-paradise-recruitment-consultant-navi-mumbai-0-to-1-years-061126026247)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-mutual-fund-sales-paradise-recruitment-consultant-navi-mumbai-0-to-1-years-061126026247](https://www.naukri.com/job-listings-mutual-fund-sales-paradise-recruitment-consultant-navi-mumbai-0-to-1-years-061126026247)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 374. [Chartered Accountant - Borivali — New Horizon](https://www.naukri.com/job-listings-chartered-accountant-borivali-new-horizon-mumbai-all-areas-2-to-5-years-061126026217)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-chartered-accountant-borivali-new-horizon-mumbai-all-areas-2-to-5-years-061126026217](https://www.naukri.com/job-listings-chartered-accountant-borivali-new-horizon-mumbai-all-areas-2-to-5-years-061126026217)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 375. [Insurance Renewal Executive — Paradise Recruitment Consultant](https://www.naukri.com/job-listings-insurance-renewal-executive-paradise-recruitment-consultant-navi-mumbai-0-to-1-years-061126026211)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-insurance-renewal-executive-paradise-recruitment-consultant-navi-mumbai-0-to-1-years-061126026211](https://www.naukri.com/job-listings-insurance-renewal-executive-paradise-recruitment-consultant-navi-mumbai-0-to-1-years-061126026211)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 376. [Facility Executive - Soft Service — Genius Consultants](https://www.naukri.com/job-listings-facility-executive-soft-service-genius-consultants-navi-mumbai-mumbai-all-areas-2-to-5-years-061126025159)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-facility-executive-soft-service-genius-consultants-navi-mumbai-mumbai-all-areas-2-to-5-years-061126025159](https://www.naukri.com/job-listings-facility-executive-soft-service-genius-consultants-navi-mumbai-mumbai-all-areas-2-to-5-years-061126025159)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 377. [IT Bid Manager — Mafatlal Industries](https://www.naukri.com/job-listings-it-bid-manager-mafatlal-industries-mumbai-5-to-6-years-061126024881)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-it-bid-manager-mafatlal-industries-mumbai-5-to-6-years-061126024881](https://www.naukri.com/job-listings-it-bid-manager-mafatlal-industries-mumbai-5-to-6-years-061126024881)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 378. [Shift Incharge - CFS Operations — Roots Recruitment](https://www.naukri.com/job-listings-shift-incharge-cfs-operations-roots-recruitment-navi-mumbai-3-to-6-years-061126024789)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-shift-incharge-cfs-operations-roots-recruitment-navi-mumbai-3-to-6-years-061126024789](https://www.naukri.com/job-listings-shift-incharge-cfs-operations-roots-recruitment-navi-mumbai-3-to-6-years-061126024789)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 379. [Plant Head HR ( IR Only + Manufacturing / Chemical) Beyond Thane — Quotient Consultancy](https://www.naukri.com/job-listings-plant-head-hr-ir-only-manufacturing-chemical-beyond-thane-quotient-consultancy-mumbai-all-areas-15-to-20-years-200126040578)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-plant-head-hr-ir-only-manufacturing-chemical-beyond-thane-quotient-consultancy-mumbai-all-areas-15-to-20-years-200126040578](https://www.naukri.com/job-listings-plant-head-hr-ir-only-manufacturing-chemical-beyond-thane-quotient-consultancy-mumbai-all-areas-15-to-20-years-200126040578)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 380. [Walk-in || Sales head ( Gym, Fitness ) — Proficient Hr Services Thane](https://www.naukri.com/job-listings-sales-head-gym-fitness-proficient-hr-services-thane-mumbai-6-to-10-years-061126024688)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-sales-head-gym-fitness-proficient-hr-services-thane-mumbai-6-to-10-years-061126024688](https://www.naukri.com/job-listings-sales-head-gym-fitness-proficient-hr-services-thane-mumbai-6-to-10-years-061126024688)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 381. [Service  Relationship Manager — WOW Softech](https://www.naukri.com/job-listings-service-relationship-manager-wow-softech-hyderabad-bengaluru-mumbai-all-areas-4-to-9-years-061126024605)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-service-relationship-manager-wow-softech-hyderabad-bengaluru-mumbai-all-areas-4-to-9-years-061126024605](https://www.naukri.com/job-listings-service-relationship-manager-wow-softech-hyderabad-bengaluru-mumbai-all-areas-4-to-9-years-061126024605)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 382. [Leading Private Bank - Credit Analyst - SCF - Mumbai & Bangalore — Amogh Software Solutions](https://www.naukri.com/job-listings-leading-private-bank-credit-analyst-scf-mumbai-bangalore-amogh-software-solutions-bengaluru-mumbai-all-areas-4-to-9-years-061126024506)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-leading-private-bank-credit-analyst-scf-mumbai-bangalore-amogh-software-solutions-bengaluru-mumbai-all-areas-4-to-9-years-061126024506](https://www.naukri.com/job-listings-leading-private-bank-credit-analyst-scf-mumbai-bangalore-amogh-software-solutions-bengaluru-mumbai-all-areas-4-to-9-years-061126024506)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 383. [Walk-in || Recruiter Coordinator — Soundlines Consultancy](https://www.naukri.com/job-listings-recruiter-coordinator-soundlines-consultancy-mumbai-all-areas-0-to-2-years-061126024386)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-recruiter-coordinator-soundlines-consultancy-mumbai-all-areas-0-to-2-years-061126024386](https://www.naukri.com/job-listings-recruiter-coordinator-soundlines-consultancy-mumbai-all-areas-0-to-2-years-061126024386)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 384. [Analytical Manager — Thyrocare](https://www.naukri.com/job-listings-analytical-manager-thyrocare-navi-mumbai-5-to-9-years-070926005579)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-analytical-manager-thyrocare-navi-mumbai-5-to-9-years-070926005579](https://www.naukri.com/job-listings-analytical-manager-thyrocare-navi-mumbai-5-to-9-years-070926005579)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 385. [Walk-in || Sourcing Executive — Soundlines Consultancy](https://www.naukri.com/job-listings-sourcing-executive-soundlines-consultancy-mumbai-all-areas-0-to-1-years-061126024099)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-sourcing-executive-soundlines-consultancy-mumbai-all-areas-0-to-1-years-061126024099](https://www.naukri.com/job-listings-sourcing-executive-soundlines-consultancy-mumbai-all-areas-0-to-1-years-061126024099)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 386. [Walk-in || HR Admin — Soundlines Consultancy](https://www.naukri.com/job-listings-hr-admin-soundlines-consultancy-mumbai-all-areas-0-to-2-years-061126023928)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-hr-admin-soundlines-consultancy-mumbai-all-areas-0-to-2-years-061126023928](https://www.naukri.com/job-listings-hr-admin-soundlines-consultancy-mumbai-all-areas-0-to-2-years-061126023928)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 387. [Freelance Electrical Engineer (Mumbai, Bhiwandi,Thane) — Stem Consultancy](https://www.naukri.com/job-listings-freelance-electrical-engineer-mumbai-bhiwandi-thane-stem-consultancy-thane-bhiwandi-navi-mumbai-8-to-12-years-061126023890)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-freelance-electrical-engineer-mumbai-bhiwandi-thane-stem-consultancy-thane-bhiwandi-navi-mumbai-8-to-12-years-061126023890](https://www.naukri.com/job-listings-freelance-electrical-engineer-mumbai-bhiwandi-thane-stem-consultancy-thane-bhiwandi-navi-mumbai-8-to-12-years-061126023890)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 388. [Tele Caller — Sharp Hrd Services](https://www.naukri.com/job-listings-tele-caller-sharp-hrd-services-mumbai-1-to-4-years-061126023887)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-tele-caller-sharp-hrd-services-mumbai-1-to-4-years-061126023887](https://www.naukri.com/job-listings-tele-caller-sharp-hrd-services-mumbai-1-to-4-years-061126023887)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 389. [Mainframe Specialist — Experity Global Hr Solutionz](https://www.naukri.com/job-listings-mainframe-specialist-experity-global-hr-solutionz-mumbai-pune-10-to-14-years-061126023634)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-mainframe-specialist-experity-global-hr-solutionz-mumbai-pune-10-to-14-years-061126023634](https://www.naukri.com/job-listings-mainframe-specialist-experity-global-hr-solutionz-mumbai-pune-10-to-14-years-061126023634)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 390. [Hdfc Sales hiring Home Loan Officer / Mortgage loan. — Ayka Communication](https://www.naukri.com/job-listings-hdfc-sales-hiring-home-loan-officer-mortgage-loan-ayka-communication-mumbai-bengaluru-delhi-ncr-0-to-5-years-061126023632)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-hdfc-sales-hiring-home-loan-officer-mortgage-loan-ayka-communication-mumbai-bengaluru-delhi-ncr-0-to-5-years-061126023632](https://www.naukri.com/job-listings-hdfc-sales-hiring-home-loan-officer-mortgage-loan-ayka-communication-mumbai-bengaluru-delhi-ncr-0-to-5-years-061126023632)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 391. [Global External Communications & Business Partnering — Bigwig Ship Management](https://www.naukri.com/job-listings-global-external-communications-business-partnering-bigwig-ship-management-mumbai-9-to-14-years-061126023545)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-global-external-communications-business-partnering-bigwig-ship-management-mumbai-9-to-14-years-061126023545](https://www.naukri.com/job-listings-global-external-communications-business-partnering-bigwig-ship-management-mumbai-9-to-14-years-061126023545)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 392. [Walk-in || Mega Walkin Drive For Blended Process-Only Exp Imm Joiner — IntouchCX](https://www.naukri.com/job-listings-mega-walkin-drive-for-blended-process-only-exp-imm-joiner-intouchcx-hyderabad-1-to-4-years-071126000026)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-mega-walkin-drive-for-blended-process-only-exp-imm-joiner-intouchcx-hyderabad-1-to-4-years-071126000026](https://www.naukri.com/job-listings-mega-walkin-drive-for-blended-process-only-exp-imm-joiner-intouchcx-hyderabad-1-to-4-years-071126000026)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 393. [Walk-in || Immediate Joiner-International Voice Process-Excellent communication — IntouchCX](https://www.naukri.com/job-listings-immediate-joiner-international-voice-process-excellent-communication-intouchcx-hyderabad-0-to-3-years-061126026558)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-immediate-joiner-international-voice-process-excellent-communication-intouchcx-hyderabad-0-to-3-years-061126026558](https://www.naukri.com/job-listings-immediate-joiner-international-voice-process-excellent-communication-intouchcx-hyderabad-0-to-3-years-061126026558)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 394. [Hr Admin — Softworld Technologies Llc](https://www.naukri.com/job-listings-hr-admin-softworld-technologies-llc-hyderabad-0-to-0-years-061126026532)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-hr-admin-softworld-technologies-llc-hyderabad-0-to-0-years-061126026532](https://www.naukri.com/job-listings-hr-admin-softworld-technologies-llc-hyderabad-0-to-0-years-061126026532)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 395. [Bench Sales Recruiter — Softworld Technologies Llc](https://www.naukri.com/job-listings-bench-sales-recruiter-softworld-technologies-llc-hyderabad-1-to-4-years-061126026529)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-bench-sales-recruiter-softworld-technologies-llc-hyderabad-1-to-4-years-061126026529](https://www.naukri.com/job-listings-bench-sales-recruiter-softworld-technologies-llc-hyderabad-1-to-4-years-061126026529)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 396. [Business Development Manager - Inside Sales B2B — Talentsync Solutions](https://www.naukri.com/job-listings-business-development-manager-inside-sales-b2b-talentsync-solutions-hyderabad-2-to-7-years-071026046919)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-business-development-manager-inside-sales-b2b-talentsync-solutions-hyderabad-2-to-7-years-071026046919](https://www.naukri.com/job-listings-business-development-manager-inside-sales-b2b-talentsync-solutions-hyderabad-2-to-7-years-071026046919)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 397. [Admission Counsellor — Talentsync Solutions](https://www.naukri.com/job-listings-admission-counsellor-talentsync-solutions-hyderabad-3-to-7-years-041126018806)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-admission-counsellor-talentsync-solutions-hyderabad-3-to-7-years-041126018806](https://www.naukri.com/job-listings-admission-counsellor-talentsync-solutions-hyderabad-3-to-7-years-041126018806)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 398. [Inside Sales Associate — Talentsync Solutions](https://www.naukri.com/job-listings-inside-sales-associate-talentsync-solutions-hyderabad-2-to-7-years-090526005528)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-inside-sales-associate-talentsync-solutions-hyderabad-2-to-7-years-090526005528](https://www.naukri.com/job-listings-inside-sales-associate-talentsync-solutions-hyderabad-2-to-7-years-090526005528)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 399. [Fleet Manager — Jobs Territory](https://www.naukri.com/job-listings-fleet-manager-jobs-territory-kochi-hyderabad-2-to-4-years-061126026339)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-fleet-manager-jobs-territory-kochi-hyderabad-2-to-4-years-061126026339](https://www.naukri.com/job-listings-fleet-manager-jobs-territory-kochi-hyderabad-2-to-4-years-061126026339)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 400. [Walk-in || Mega Walk-in  Drive For International Voice process — IntouchCX](https://www.naukri.com/job-listings-mega-walk-in-drive-for-international-voice-process-intouchcx-hyderabad-1-to-6-years-061126026284)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-mega-walk-in-drive-for-international-voice-process-intouchcx-hyderabad-1-to-6-years-061126026284](https://www.naukri.com/job-listings-mega-walk-in-drive-for-international-voice-process-intouchcx-hyderabad-1-to-6-years-061126026284)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 401. [Revenue Data Operations Specialist — Crowe](https://www.naukri.com/job-listings-revenue-data-operations-specialist-crowe-hyderabad-0-to-4-years-061126026215)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-revenue-data-operations-specialist-crowe-hyderabad-0-to-4-years-061126026215](https://www.naukri.com/job-listings-revenue-data-operations-specialist-crowe-hyderabad-0-to-4-years-061126026215)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 402. [Walk-in || International Voice Process-Only Experienced Are Eligible — IntouchCX](https://www.naukri.com/job-listings-international-voice-process-only-experienced-are-eligible-intouchcx-hyderabad-1-to-3-years-061126025252)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-international-voice-process-only-experienced-are-eligible-intouchcx-hyderabad-1-to-3-years-061126025252](https://www.naukri.com/job-listings-international-voice-process-only-experienced-are-eligible-intouchcx-hyderabad-1-to-3-years-061126025252)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 403. [Field credit card sales — Genius Consultants](https://www.naukri.com/job-listings-field-credit-card-sales-genius-consultants-hyderabad-0-to-0-years-061126025137)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-field-credit-card-sales-genius-consultants-hyderabad-0-to-0-years-061126025137](https://www.naukri.com/job-listings-field-credit-card-sales-genius-consultants-hyderabad-0-to-0-years-061126025137)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 404. [Walk-in || International Voice Process-Only International voice Exp. Required — IntouchCX](https://www.naukri.com/job-listings-international-voice-process-only-international-voice-exp-required-intouchcx-hyderabad-1-to-3-years-051026018307)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-international-voice-process-only-international-voice-exp-required-intouchcx-hyderabad-1-to-3-years-051026018307](https://www.naukri.com/job-listings-international-voice-process-only-international-voice-exp-required-intouchcx-hyderabad-1-to-3-years-051026018307)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 405. [Wanted Teachers (All subjects) — Beta Education](https://www.naukri.com/job-listings-wanted-teachers-all-subjects-beta-education-hyderabad-telangana-andhra-pradesh-2-to-7-years-061126024712)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-wanted-teachers-all-subjects-beta-education-hyderabad-telangana-andhra-pradesh-2-to-7-years-061126024712](https://www.naukri.com/job-listings-wanted-teachers-all-subjects-beta-education-hyderabad-telangana-andhra-pradesh-2-to-7-years-061126024712)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 406. [R&D HEAD/Academic Head (Primary school)Hyderabad-2 (Females only) — Nspira Management Services](https://www.naukri.com/job-listings-r-d-head-academic-head-primary-school-hyderabad-2-females-only-nspira-management-services-hyderabad-9-to-14-years-230625001679)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-r-d-head-academic-head-primary-school-hyderabad-2-females-only-nspira-management-services-hyderabad-9-to-14-years-230625001679](https://www.naukri.com/job-listings-r-d-head-academic-head-primary-school-hyderabad-2-females-only-nspira-management-services-hyderabad-9-to-14-years-230625001679)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 407. [Team Lead - Banking Chat Process — Turiyam Consultancy](https://www.naukri.com/job-listings-team-lead-banking-chat-process-turiyam-consultancy-hyderabad-1-to-6-years-061126023747)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-team-lead-banking-chat-process-turiyam-consultancy-hyderabad-1-to-6-years-061126023747](https://www.naukri.com/job-listings-team-lead-banking-chat-process-turiyam-consultancy-hyderabad-1-to-6-years-061126023747)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 408. [Mainframe Storage System Administrator — Zettamine Labs](https://www.naukri.com/job-listings-mainframe-storage-system-administrator-zettamine-labs-noida-hyderabad-bengaluru-15-to-25-years-061126023326)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-mainframe-storage-system-administrator-zettamine-labs-noida-hyderabad-bengaluru-15-to-25-years-061126023326](https://www.naukri.com/job-listings-mainframe-storage-system-administrator-zettamine-labs-noida-hyderabad-bengaluru-15-to-25-years-061126023326)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 409. [International voice — Tech Mahindra](https://www.naukri.com/job-listings-international-voice-tech-mahindra-hyderabad-1-to-5-years-061126022647)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-international-voice-tech-mahindra-hyderabad-1-to-5-years-061126022647](https://www.naukri.com/job-listings-international-voice-tech-mahindra-hyderabad-1-to-5-years-061126022647)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 410. [People Partner — Cyient](https://www.naukri.com/job-listings-people-partner-cyient-limited-hyderabad-5-to-9-years-061126022065)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-people-partner-cyient-limited-hyderabad-5-to-9-years-061126022065](https://www.naukri.com/job-listings-people-partner-cyient-limited-hyderabad-5-to-9-years-061126022065)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 411. [Walk-in | AR Voice Process Executive AR | Fresher — Omega Healthcare](https://www.naukri.com/job-listings-walk-in-ar-voice-process-executive-ar-fresher-omega-healthcare-hyderabad-0-to-1-years-061126021905)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-walk-in-ar-voice-process-executive-ar-fresher-omega-healthcare-hyderabad-0-to-1-years-061126021905](https://www.naukri.com/job-listings-walk-in-ar-voice-process-executive-ar-fresher-omega-healthcare-hyderabad-0-to-1-years-061126021905)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 412. [Managing Partner Advocates, — Aj Solutions](https://www.naukri.com/job-listings-managing-partner-advocates-aj-solutions-hyderabad-15-to-18-years-061126021515)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-managing-partner-advocates-aj-solutions-hyderabad-15-to-18-years-061126021515](https://www.naukri.com/job-listings-managing-partner-advocates-aj-solutions-hyderabad-15-to-18-years-061126021515)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 413. [REMOTE TELECALLER & APPOINTMENT SETTER ( Excellent spoken English skills required) — QuantM Technologies Inc](https://in.indeed.com/viewjob?jk=cfcf45e897181d4f)
+### 271. [REMOTE TELECALLER & APPOINTMENT SETTER ( Excellent spoken English skills required) — QuantM Technologies Inc](https://in.indeed.com/viewjob?jk=cfcf45e897181d4f)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -4733,79 +3147,52 @@ U.S. Staffing Company (New York, USA)
 
 We are a fast-growing New York–based staffing company seeking a reliable, articulate, and self-driven Remote Tele-caller & Appointment Setter to support our recruiting team. This role is ideal for someone who has a background in HR, recruitment, BPO talent sourcing, or client coordination, and...
 
-### 414. [Sr Recruiter executive (Recruitment) Work from Home — Ayka Communication](https://www.naukri.com/job-listings-sr-recruiter-executive-recruitment-work-from-home-ayka-communication-ranchi-1-to-6-years-061126023801)
+### 272. [Assistant Manager Learning & Development — The Hoxton](https://www.linkedin.com/jobs/view/4488495671)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-sr-recruiter-executive-recruitment-work-from-home-ayka-communication-ranchi-1-to-6-years-061126023801](https://www.naukri.com/job-listings-sr-recruiter-executive-recruitment-work-from-home-ayka-communication-ranchi-1-to-6-years-061126023801)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 415. [Recruitment Partner with Seventh Contact, Pune (Remote) — Seventh Contact Hiring Solutions](https://www.naukri.com/job-listings-recruitment-partner-with-seventh-contact-pune-remote-seventh-contact-hiring-solutions-pune-1-to-4-years-020426028255)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-recruitment-partner-with-seventh-contact-pune-remote-seventh-contact-hiring-solutions-pune-1-to-4-years-020426028255](https://www.naukri.com/job-listings-recruitment-partner-with-seventh-contact-pune-remote-seventh-contact-hiring-solutions-pune-1-to-4-years-020426028255)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 416. [IT Female Recruiter — Intellics Global Services](https://www.naukri.com/job-listings-it-female-recruiter-intellics-global-services-delhi-ncr-3-to-7-years-030926016373)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-it-female-recruiter-intellics-global-services-delhi-ncr-3-to-7-years-030926016373](https://www.naukri.com/job-listings-it-female-recruiter-intellics-global-services-delhi-ncr-3-to-7-years-030926016373)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 417. [Regional Human Resources Business Partner — Axis Mutual Fund](https://www.linkedin.com/jobs/view/4488123703)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488123703](https://www.linkedin.com/jobs/view/4488123703)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488495671](https://www.linkedin.com/jobs/view/4488495671)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 418. [Senior Associate Recruiter (Contract) — Pearl](https://www.naukri.com/job-listings-senior-associate-recruiter-contract-pearl-bengaluru-3-to-6-years-061126011795)
+### 273. [Senior Project Consultant - PAS WKFA - National - CNS - PC - TALENT - Bangalore — EY](https://www.linkedin.com/jobs/view/4486648069)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486648069](https://www.linkedin.com/jobs/view/4486648069)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 274. [Assistant Manager - HR, Deputy Manager HR — Croma](https://www.linkedin.com/jobs/view/4487362420)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-senior-associate-recruiter-contract-pearl-bengaluru-3-to-6-years-061126011795](https://www.naukri.com/job-listings-senior-associate-recruiter-contract-pearl-bengaluru-3-to-6-years-061126011795)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487362420](https://www.linkedin.com/jobs/view/4487362420)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 419. [Workday Recruiting Consultant / Sr. Specialist — Clovio Consulting](https://www.naukri.com/job-listings-workday-recruiting-consultant-sr-specialist-clovio-consulting-bengaluru-4-to-9-years-061126502002)
+### 275. [HR Manager — REGUL SOLUTIONS](https://www.linkedin.com/jobs/view/4487302248)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-workday-recruiting-consultant-sr-specialist-clovio-consulting-bengaluru-4-to-9-years-061126502002](https://www.naukri.com/job-listings-workday-recruiting-consultant-sr-specialist-clovio-consulting-bengaluru-4-to-9-years-061126502002)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487302248](https://www.linkedin.com/jobs/view/4487302248)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 420. [Recruiting Senior Manager — Accenture](https://www.naukri.com/job-listings-recruiting-senior-manager-accenture-solutions-pvt-ltd-navi-mumbai-16-to-25-years-061126914279)
+### 276. [Organizational Development Manager — Infosys](https://www.linkedin.com/jobs/view/4486998363)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-recruiting-senior-manager-accenture-solutions-pvt-ltd-navi-mumbai-16-to-25-years-061126914279](https://www.naukri.com/job-listings-recruiting-senior-manager-accenture-solutions-pvt-ltd-navi-mumbai-16-to-25-years-061126914279)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486998363](https://www.linkedin.com/jobs/view/4486998363)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 421. [Staffing Fronters Consultant - Remote Work — BairesDev](https://www.linkedin.com/jobs/view/4487338610)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487338610](https://www.linkedin.com/jobs/view/4487338610)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 422. [Full-Cycle Recruiter (Remote, Chiclayo) — Blacksmith Agency](https://www.linkedin.com/jobs/view/4488419163)
+### 277. [Full-Cycle Recruiter (Remote, Chiclayo) — Blacksmith Agency](https://www.linkedin.com/jobs/view/4488419163)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -4814,34 +3201,16 @@ We are a fast-growing New York–based staffing company seeking a reliable, arti
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 423. [Remote Enterprise Recruiter — End-to-end Hiring — Altametrics](https://www.linkedin.com/jobs/view/4486267807)
+### 278. [Remote Enterprise Recruiter — End-to-end Hiring — Altametrics](https://www.linkedin.com/jobs/view/4486281136)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486267807](https://www.linkedin.com/jobs/view/4486267807)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486281136](https://www.linkedin.com/jobs/view/4486281136)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 424. [Salesforce QA — Carnation Infotech](https://www.naukri.com/job-listings-salesforce-qa-carnation-infotech-remote-6-to-9-years-061126503082)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-salesforce-qa-carnation-infotech-remote-6-to-9-years-061126503082](https://www.naukri.com/job-listings-salesforce-qa-carnation-infotech-remote-6-to-9-years-061126503082)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 425. [Graphic Designer (Fully Remote) — Voxturr](https://www.naukri.com/job-listings-graphic-designer-fully-remote-voxturr-consulting-private-limited-remote-2-to-7-years-061126503055)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-graphic-designer-fully-remote-voxturr-consulting-private-limited-remote-2-to-7-years-061126503055](https://www.naukri.com/job-listings-graphic-designer-fully-remote-voxturr-consulting-private-limited-remote-2-to-7-years-061126503055)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 426. [T&T - ET&P - Consultant - SAP HR - Gurugram — Deloitte](https://in.indeed.com/viewjob?jk=e670411007a90028)
+### 279. [T&T - ET&P - Consultant - SAP HR - Gurugram — Deloitte](https://in.indeed.com/viewjob?jk=e670411007a90028)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -4860,87 +3229,24 @@ We are a fast-growing New York–based staffing company seeking a reliable, arti
 
 Enterprise technology must do much more than keep the wheels turning; it is the engine that drives functional excellence and the enabler of innovation and long-term growt...
 
-### 427. [Consultant — Guidehouse](https://in.indeed.com/viewjob?jk=942aafedb572c54f)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
+### 280. [Specialist - Business Analysis — LTM Limited](https://in.indeed.com/viewjob?jk=ced3b7fc11d56e44)
+- **Why your profile matches**: Matches your target role and skills in Power BI, SQL.
+- **Most important skills required**: Power BI, SQL
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=942aafedb572c54f](https://in.indeed.com/viewjob?jk=942aafedb572c54f)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: **Job Family****:**
+- **Direct application URL**: [https://in.indeed.com/viewjob?jk=ced3b7fc11d56e44](https://in.indeed.com/viewjob?jk=ced3b7fc11d56e44)
+- **Concerns**: Requires 5–7 yrs (profile has 4.2 yrs); Salary not disclosed
+- **Job Description Summary**: **Role description**
 
-BICM Consulting (India)
+Business Analyst for Procurement Analytics or Supply Chain with 5 to 7 years of total IT experience
 
-**Travel Required****:**
+Working Location Client office Bengaluru AVINYA Campus 3 days in a week
 
-Up to 10%
+Primary skillsets Domain expertize in Procuremnt or Supply chain domain
 
-**Clearance Required****:**
+Good knowledge in Confluence JIRA or Azure DevOps Sharepoint Power BI SQL Tableau...
 
-None
-
-**What You Will Do:**
-
-* Carry out risk and control assessments
-* Review current controls for adequacy and suggest improvements where needed
-* Track remediation progress for identified control gaps
-* Evaluate and design internal con...
-
-### 428. [Walk-in || Wipro is Hiring Freshers | NON-VOICE Backend Process — Wipro](https://www.naukri.com/job-listings-wipro-is-hiring-freshers-non-voice-backend-process-wipro-gurugram-0-to-1-years-061126020474)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-wipro-is-hiring-freshers-non-voice-backend-process-wipro-gurugram-0-to-1-years-061126020474](https://www.naukri.com/job-listings-wipro-is-hiring-freshers-non-voice-backend-process-wipro-gurugram-0-to-1-years-061126020474)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 429. [Civil Engineer | Exp. in Plants (Power, Oil & Gas Or Water) 10-12 Lacs — Seligo Consultants](https://www.naukri.com/job-listings-civil-engineer-exp-in-plants-power-oil-gas-or-water-10-12-lacs-seligo-consultants-gurugram-2-to-6-years-061126017331)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-civil-engineer-exp-in-plants-power-oil-gas-or-water-10-12-lacs-seligo-consultants-gurugram-2-to-6-years-061126017331](https://www.naukri.com/job-listings-civil-engineer-exp-in-plants-power-oil-gas-or-water-10-12-lacs-seligo-consultants-gurugram-2-to-6-years-061126017331)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 430. [Technical Documentation Writer — Tagbin Services](https://www.naukri.com/job-listings-technical-documentation-writer-tagbin-services-private-limited-gurugram-2-to-5-years-061126016131)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-technical-documentation-writer-tagbin-services-private-limited-gurugram-2-to-5-years-061126016131](https://www.naukri.com/job-listings-technical-documentation-writer-tagbin-services-private-limited-gurugram-2-to-5-years-061126016131)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 431. [Customer Care Specialist - Customer Value — Talent Advisors](https://www.naukri.com/job-listings-customer-care-specialist-customer-value-talent-advisors-gurugram-1-to-6-years-160626031597)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-customer-care-specialist-customer-value-talent-advisors-gurugram-1-to-6-years-160626031597](https://www.naukri.com/job-listings-customer-care-specialist-customer-value-talent-advisors-gurugram-1-to-6-years-160626031597)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 432. [Software Engineer And Developer — Independent Recruitment Consultant (freelancer)](https://www.naukri.com/job-listings-software-engineer-and-developer-independent-recruitment-consultant-freelancer-noida-gurugram-delhi-ncr-0-to-5-years-040824001512)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-software-engineer-and-developer-independent-recruitment-consultant-freelancer-noida-gurugram-delhi-ncr-0-to-5-years-040824001512](https://www.naukri.com/job-listings-software-engineer-and-developer-independent-recruitment-consultant-freelancer-noida-gurugram-delhi-ncr-0-to-5-years-040824001512)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 433. [Hiring International Travel Sales Exe. || CTC upto 6.5LPA || Gurgaon — THR Consultants](https://www.naukri.com/job-listings-hiring-international-travel-sales-exe-ctc-upto-6-5lpa-gurgaon-thr-consultants-gurugram-0-to-4-years-100926019894)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-hiring-international-travel-sales-exe-ctc-upto-6-5lpa-gurgaon-thr-consultants-gurugram-0-to-4-years-100926019894](https://www.naukri.com/job-listings-hiring-international-travel-sales-exe-ctc-upto-6-5lpa-gurgaon-thr-consultants-gurugram-0-to-4-years-100926019894)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 434. [Senior Grid Connection Engineer — Fluence Energy](https://in.indeed.com/viewjob?jk=969eccd487a028f0)
+### 281. [Senior Grid Connection Engineer — Fluence Energy](https://in.indeed.com/viewjob?jk=969eccd487a028f0)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -4949,430 +3255,25 @@ None
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: Fluence (Nasdaq: FLNC) is a global market leader delivering intelligent energy storage and optimization software for renewables and storage. Our solutions and operational services are helping to create a more resilient grid and unlock the full potential of renewable portfolios. With gigawatts of successful implementations across nearly 50 markets, ...
 
-### 435. [Corporate Travel Coordinator | On-Site, Bangalore — Optiv](https://in.indeed.com/viewjob?jk=c5f47641a341ee9d)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=c5f47641a341ee9d](https://in.indeed.com/viewjob?jk=c5f47641a341ee9d)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: *This position is required to be on-site at our Bangalore office 3 days per week*
-
-Optiv is seeking a customer-focused, detail-oriented Corporate Travel Consultant to join the Optiv Travel Department in India. This position supports Optiv employees across the organization by providing professional, timely, and cost-effective corporate travel servic...
-
-### 436. [Senior Accountant Specialist — TYA Business Solutions](https://www.naukri.com/job-listings-senior-accountant-specialist-tya-business-solutions-bengaluru-8-to-10-years-061126025126)
+### 282. [Manager, Talent Business Partner – Mumbai — CPP Investments | Investissements RPC](https://www.linkedin.com/jobs/view/4477323667)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-senior-accountant-specialist-tya-business-solutions-bengaluru-8-to-10-years-061126025126](https://www.naukri.com/job-listings-senior-accountant-specialist-tya-business-solutions-bengaluru-8-to-10-years-061126025126)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 437. [Human Resource Coordinator — Synmac Consultants Pvt. Ltd.](https://www.naukri.com/job-listings-human-resource-coordinator-synmac-consultants-pvt-ltd-chennai-bengaluru-0-to-2-years-061126024909)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-human-resource-coordinator-synmac-consultants-pvt-ltd-chennai-bengaluru-0-to-2-years-061126024909](https://www.naukri.com/job-listings-human-resource-coordinator-synmac-consultants-pvt-ltd-chennai-bengaluru-0-to-2-years-061126024909)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 438. [Human Resource Associate — Cropin Technology Solutions](https://www.naukri.com/job-listings-human-resource-associate-cropin-technology-solutions-bengaluru-0-to-1-years-061126023204)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-human-resource-associate-cropin-technology-solutions-bengaluru-0-to-1-years-061126023204](https://www.naukri.com/job-listings-human-resource-associate-cropin-technology-solutions-bengaluru-0-to-1-years-061126023204)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4477323667](https://www.linkedin.com/jobs/view/4477323667)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 439. [Specialist-HR-BGV — Alten](https://www.naukri.com/job-listings-specialist-hr-bgv-altenindia-bengaluru-0-to-0-years-061126021822)
+### 283. [Team Lead — SKILLIT ACADEMY](https://www.linkedin.com/jobs/view/4486626899)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-specialist-hr-bgv-altenindia-bengaluru-0-to-0-years-061126021822](https://www.naukri.com/job-listings-specialist-hr-bgv-altenindia-bengaluru-0-to-0-years-061126021822)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 440. [Sales Assistant (Non-Voice) - German Language — Ensales](https://www.naukri.com/job-listings-sales-assistant-non-voice-german-language-ensales-mumbai-chennai-bengaluru-0-to-3-years-061126021083)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-sales-assistant-non-voice-german-language-ensales-mumbai-chennai-bengaluru-0-to-3-years-061126021083](https://www.naukri.com/job-listings-sales-assistant-non-voice-german-language-ensales-mumbai-chennai-bengaluru-0-to-3-years-061126021083)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 441. [Charactered accountant — Delight HR](https://www.naukri.com/job-listings-charactered-accountant-delight-hr-services-pvt-ltd-bengaluru-6-to-11-years-061126920788)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-charactered-accountant-delight-hr-services-pvt-ltd-bengaluru-6-to-11-years-061126920788](https://www.naukri.com/job-listings-charactered-accountant-delight-hr-services-pvt-ltd-bengaluru-6-to-11-years-061126920788)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486626899](https://www.linkedin.com/jobs/view/4486626899)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 442. [Qa Engineer — Delight HR](https://www.naukri.com/job-listings-qa-engineer-delight-hr-services-pvt-ltd-bengaluru-3-to-8-years-061126920775)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-qa-engineer-delight-hr-services-pvt-ltd-bengaluru-3-to-8-years-061126920775](https://www.naukri.com/job-listings-qa-engineer-delight-hr-services-pvt-ltd-bengaluru-3-to-8-years-061126920775)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 443. [Technical Trainer's WFH--(AI/ML and Python/.Net full stack ) — Sharda Consultancy Services](https://www.naukri.com/job-listings-technical-trainer-s-wfh-ai-ml-and-python-net-full-stack-sharda-consultancy-services-kanpur-pune-bengaluru-6-to-11-years-061126020576)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-technical-trainer-s-wfh-ai-ml-and-python-net-full-stack-sharda-consultancy-services-kanpur-pune-bengaluru-6-to-11-years-061126020576](https://www.naukri.com/job-listings-technical-trainer-s-wfh-ai-ml-and-python-net-full-stack-sharda-consultancy-services-kanpur-pune-bengaluru-6-to-11-years-061126020576)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 444. [HR Manager — CIEL HR](https://www.naukri.com/job-listings-hr-manager-ciel-hr-bengaluru-8-to-12-years-240926031823)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-hr-manager-ciel-hr-bengaluru-8-to-12-years-240926031823](https://www.naukri.com/job-listings-hr-manager-ciel-hr-bengaluru-8-to-12-years-240926031823)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 445. [Settlement Specialist — Altisource](https://www.naukri.com/job-listings-settlement-specialist-altisource-bengaluru-2-to-7-years-061126014666)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-settlement-specialist-altisource-bengaluru-2-to-7-years-061126014666](https://www.naukri.com/job-listings-settlement-specialist-altisource-bengaluru-2-to-7-years-061126014666)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 446. [HR recruitment and Admin — Talent Grade](https://www.naukri.com/job-listings-hr-recruitment-and-admin-talent-grade-bengaluru-1-to-2-years-061126013115)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-hr-recruitment-and-admin-talent-grade-bengaluru-1-to-2-years-061126013115](https://www.naukri.com/job-listings-hr-recruitment-and-admin-talent-grade-bengaluru-1-to-2-years-061126013115)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 447. [Hiring Software Engineers - Fresher & Experienced Both — Independent Recruitment Consultant (freelancer)](https://www.naukri.com/job-listings-hiring-software-engineers-fresher-experienced-both-independent-recruitment-consultant-freelancer-hyderabad-chennai-bengaluru-0-to-5-years-110323003865)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-hiring-software-engineers-fresher-experienced-both-independent-recruitment-consultant-freelancer-hyderabad-chennai-bengaluru-0-to-5-years-110323003865](https://www.naukri.com/job-listings-hiring-software-engineers-fresher-experienced-both-independent-recruitment-consultant-freelancer-hyderabad-chennai-bengaluru-0-to-5-years-110323003865)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 448. [Leading Software Company - Web Developers — Independent Recruitment Consultant (freelancer)](https://www.naukri.com/job-listings-leading-software-company-web-developers-independent-recruitment-consultant-freelancer-hyderabad-chennai-bengaluru-0-to-5-years-090924014779)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-leading-software-company-web-developers-independent-recruitment-consultant-freelancer-hyderabad-chennai-bengaluru-0-to-5-years-090924014779](https://www.naukri.com/job-listings-leading-software-company-web-developers-independent-recruitment-consultant-freelancer-hyderabad-chennai-bengaluru-0-to-5-years-090924014779)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 449. [Principal Engineer Agentic AI & Python — Globallogic](https://www.naukri.com/job-listings-principal-engineer-agentic-ai-python-globallogic-bengaluru-10-to-15-years-061126012359)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-principal-engineer-agentic-ai-python-globallogic-bengaluru-10-to-15-years-061126012359](https://www.naukri.com/job-listings-principal-engineer-agentic-ai-python-globallogic-bengaluru-10-to-15-years-061126012359)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 450. [Business Development Executive — Numoo Hiring Solutions](https://www.linkedin.com/jobs/view/4486949242)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486949242](https://www.linkedin.com/jobs/view/4486949242)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 451. [Civil Engineer - Infrastructure — Arup](https://in.indeed.com/viewjob?jk=005b1e4accf942f1)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=005b1e4accf942f1](https://in.indeed.com/viewjob?jk=005b1e4accf942f1)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: #### **Mumbai, -, India**
-
-Civil Engineering
-
-UKIMEA Region
-
-  
-
-MUM0000BF Requisition #
-
-**Joining Arup**
-  
-  
-Arup’s purpose, shared values and collaborative approach has set us apart for over 80 years, guiding how we shape a better world. Arup is a UK-headquartered independent firm of designers, planners, engineers, consultants, and technica...
-
-### 452. [Travel Process Associate — Paradise Recruitment Consultant](https://www.naukri.com/job-listings-travel-process-associate-paradise-recruitment-consultant-navi-mumbai-0-to-1-years-061126021401)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-travel-process-associate-paradise-recruitment-consultant-navi-mumbai-0-to-1-years-061126021401](https://www.naukri.com/job-listings-travel-process-associate-paradise-recruitment-consultant-navi-mumbai-0-to-1-years-061126021401)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 453. [Customer Service Executive — Paradise Recruitment Consultant](https://www.naukri.com/job-listings-customer-service-executive-paradise-recruitment-consultant-navi-mumbai-0-to-1-years-061126019855)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-customer-service-executive-paradise-recruitment-consultant-navi-mumbai-0-to-1-years-061126019855](https://www.naukri.com/job-listings-customer-service-executive-paradise-recruitment-consultant-navi-mumbai-0-to-1-years-061126019855)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 454. [1147: Talent Brand (APAC) - Senior Analyst — Accenture](https://www.naukri.com/job-listings-1147-talent-brand-apac-senior-analyst-accenture-solutions-pvt-ltd-mumbai-5-to-10-years-061126914152)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-1147-talent-brand-apac-senior-analyst-accenture-solutions-pvt-ltd-mumbai-5-to-10-years-061126914152](https://www.naukri.com/job-listings-1147-talent-brand-apac-senior-analyst-accenture-solutions-pvt-ltd-mumbai-5-to-10-years-061126914152)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 455. [Legal Research Associate — Lumina Datamatics](https://www.naukri.com/job-listings-legal-research-associate-lumina-datamatics-noida-new-delhi-mumbai-all-areas-0-to-0-years-061126009795)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-legal-research-associate-lumina-datamatics-noida-new-delhi-mumbai-all-areas-0-to-0-years-061126009795](https://www.naukri.com/job-listings-legal-research-associate-lumina-datamatics-noida-new-delhi-mumbai-all-areas-0-to-0-years-061126009795)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 456. [Online Teacher - Part time (Work from Home) — PlanetSpark](https://www.naukri.com/job-listings-online-teacher-part-time-work-from-home-planetspark-mumbai-hyderabad-bengaluru-0-to-5-years-130125003318)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-online-teacher-part-time-work-from-home-planetspark-mumbai-hyderabad-bengaluru-0-to-5-years-130125003318](https://www.naukri.com/job-listings-online-teacher-part-time-work-from-home-planetspark-mumbai-hyderabad-bengaluru-0-to-5-years-130125003318)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 457. [Work From Home Tutor - Part time — PlanetSpark](https://www.naukri.com/job-listings-work-from-home-tutor-part-time-planetspark-kolkata-mumbai-faridabad-1-to-5-years-100125006129)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-work-from-home-tutor-part-time-planetspark-kolkata-mumbai-faridabad-1-to-5-years-100125006129](https://www.naukri.com/job-listings-work-from-home-tutor-part-time-planetspark-kolkata-mumbai-faridabad-1-to-5-years-100125006129)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 458. [Work from Home Teacher - Part Time — PlanetSpark](https://www.naukri.com/job-listings-work-from-home-teacher-part-time-planetspark-mumbai-hyderabad-bengaluru-1-to-5-years-010823010124)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-work-from-home-teacher-part-time-planetspark-mumbai-hyderabad-bengaluru-1-to-5-years-010823010124](https://www.naukri.com/job-listings-work-from-home-teacher-part-time-planetspark-mumbai-hyderabad-bengaluru-1-to-5-years-010823010124)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 459. [Company Secretary & Legal Counsel (E-com)- Remote — Symphoni Hr](https://www.naukri.com/job-listings-company-secretary-legal-counsel-e-com-remote-symphoni-hr-mumbai-all-areas-3-to-8-years-221026030291)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-company-secretary-legal-counsel-e-com-remote-symphoni-hr-mumbai-all-areas-3-to-8-years-221026030291](https://www.naukri.com/job-listings-company-secretary-legal-counsel-e-com-remote-symphoni-hr-mumbai-all-areas-3-to-8-years-221026030291)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 460. [online econimics Teacher — Artisan Field](https://www.naukri.com/job-listings-online-econimics-teacher-artisan-field-inc-mumbai-1-to-3-years-061126501808)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-online-econimics-teacher-artisan-field-inc-mumbai-1-to-3-years-061126501808](https://www.naukri.com/job-listings-online-econimics-teacher-artisan-field-inc-mumbai-1-to-3-years-061126501808)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 461. [Virtual Assistant - Work from Home — Faff Technologies](https://www.naukri.com/job-listings-virtual-assistant-work-from-home-faff-technologies-mumbai-all-areas-0-to-1-years-071126000052)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (Posted today)
-- **Direct application URL**: [https://www.naukri.com/job-listings-virtual-assistant-work-from-home-faff-technologies-mumbai-all-areas-0-to-1-years-071126000052](https://www.naukri.com/job-listings-virtual-assistant-work-from-home-faff-technologies-mumbai-all-areas-0-to-1-years-071126000052)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 462. [Account Executive - Talent Solutions — LinkedIn](https://www.linkedin.com/jobs/view/4488113815)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488113815](https://www.linkedin.com/jobs/view/4488113815)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 463. [Managing Partner — Antal International](https://www.linkedin.com/jobs/view/4486930799)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486930799](https://www.linkedin.com/jobs/view/4486930799)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 464. [HR Recruiter — shaik consultancy](https://in.indeed.com/viewjob?jk=b75871e0dcc41faa)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=b75871e0dcc41faa](https://in.indeed.com/viewjob?jk=b75871e0dcc41faa)
-- **Concerns**: None identified
-- **Job Description Summary**: \*\*HIRING: HR RECRUITER – DAY SHIFT\*\*
-
-\*\*Company:\*\* Waterleaf Consultants
-
-\*\*Work Location:\*\* Panjagutta, Hyderabad
-
-\*\*Position:\*\* HR Recruiter
-
-\*\*Salary:\*\* ₹13,000 – ₹15,000 per month (In-Hand) + Performance-Based Incentives
-
-### JOB DESCRIPTION
-
-We are hiring enthusiastic and communication-focused candidates for the \*\*HR Recr...
-
-### 465. [Process Executive — Evoke Technologies](https://www.naukri.com/job-listings-process-executive-evoke-technologies-hyderabad-1-to-6-years-061126025564)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-process-executive-evoke-technologies-hyderabad-1-to-6-years-061126025564](https://www.naukri.com/job-listings-process-executive-evoke-technologies-hyderabad-1-to-6-years-061126025564)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 466. [Production Support — Mphasis](https://www.naukri.com/job-listings-production-support-mphasis-hyderabad-5-to-10-years-061126024554)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-production-support-mphasis-hyderabad-5-to-10-years-061126024554](https://www.naukri.com/job-listings-production-support-mphasis-hyderabad-5-to-10-years-061126024554)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 467. [IELTS Affiliate Trainer — Next Education India](https://www.naukri.com/job-listings-ielts-affiliate-trainer-next-education-india-hyderabad-1-to-2-years-061126013384)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-ielts-affiliate-trainer-next-education-india-hyderabad-1-to-2-years-061126013384](https://www.naukri.com/job-listings-ielts-affiliate-trainer-next-education-india-hyderabad-1-to-2-years-061126013384)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 468. [US IT Client Acquisition Specialist (60 Days Internship) Night Shifts — Vcloud Technologies Investment](https://www.naukri.com/job-listings-us-it-client-acquisition-specialist-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126012836)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-us-it-client-acquisition-specialist-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126012836](https://www.naukri.com/job-listings-us-it-client-acquisition-specialist-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126012836)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 469. [Inside Sales Executives  US B2C  Remote — Optim Hire](https://www.naukri.com/job-listings-inside-sales-executives-us-b2c-remote-optim-hire-hyderabad-2-to-6-years-061126012557)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-inside-sales-executives-us-b2c-remote-optim-hire-hyderabad-2-to-6-years-061126012557](https://www.naukri.com/job-listings-inside-sales-executives-us-b2c-remote-optim-hire-hyderabad-2-to-6-years-061126012557)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 470. [Junior Executive - Talent Acquisition — NTT DATA BUSINESS SOLUTIONS](https://www.naukri.com/job-listings-junior-executive-talent-acquisition-ntt-data-business-solutions-hyderabad-0-to-1-years-061126011568)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-junior-executive-talent-acquisition-ntt-data-business-solutions-hyderabad-0-to-1-years-061126011568](https://www.naukri.com/job-listings-junior-executive-talent-acquisition-ntt-data-business-solutions-hyderabad-0-to-1-years-061126011568)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 471. [HR Recruiter | Freshers & Experienced | Up To 15-20K | Day Shift | HYD — Axis Services](https://www.naukri.com/job-listings-hr-recruiter-freshers-experienced-up-to-15-20k-day-shift-hyd-axis-services-hyderabad-0-to-3-years-061126009767)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-hr-recruiter-freshers-experienced-up-to-15-20k-day-shift-hyd-axis-services-hyderabad-0-to-3-years-061126009767](https://www.naukri.com/job-listings-hr-recruiter-freshers-experienced-up-to-15-20k-day-shift-hyd-axis-services-hyderabad-0-to-3-years-061126009767)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 472. [Tutor (Part time) - Work From Home — PlanetSpark](https://www.naukri.com/job-listings-tutor-part-time-work-from-home-planetspark-noida-hyderabad-bengaluru-1-to-5-years-090724004710)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-tutor-part-time-work-from-home-planetspark-noida-hyderabad-bengaluru-1-to-5-years-090724004710](https://www.naukri.com/job-listings-tutor-part-time-work-from-home-planetspark-noida-hyderabad-bengaluru-1-to-5-years-090724004710)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 473. [Key Account Manager (IT Infra & System Integration MNC) 10-12LPA — Adonis Recruitment Consultants](https://www.naukri.com/job-listings-key-account-manager-it-infra-system-integration-mnc-10-12lpa-adonis-recruitment-consultants-hyderabad-chennai-bengaluru-5-to-8-years-061126009230)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-key-account-manager-it-infra-system-integration-mnc-10-12lpa-adonis-recruitment-consultants-hyderabad-chennai-bengaluru-5-to-8-years-061126009230](https://www.naukri.com/job-listings-key-account-manager-it-infra-system-integration-mnc-10-12lpa-adonis-recruitment-consultants-hyderabad-chennai-bengaluru-5-to-8-years-061126009230)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 474. [Opening For Biotechnology Engineer & Biomedical Engineer — Achievers Spot](https://www.naukri.com/job-listings-opening-for-biotechnology-engineer-biomedical-engineer-achievers-spot-hyderabad-chennai-kanyakumari-0-to-0-years-061126009130)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-opening-for-biotechnology-engineer-biomedical-engineer-achievers-spot-hyderabad-chennai-kanyakumari-0-to-0-years-061126009130](https://www.naukri.com/job-listings-opening-for-biotechnology-engineer-biomedical-engineer-achievers-spot-hyderabad-chennai-kanyakumari-0-to-0-years-061126009130)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 475. [Whatsapp Chat Fresher/Work From Home / Non Voice Support/Remote / WFH — Ujobs Consulting](https://www.naukri.com/job-listings-whatsapp-chat-fresher-work-from-home-non-voice-support-remote-wfh-ujobs-consulting-vijayawada-warangal-hyderabad-0-to-0-years-061126008098)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-whatsapp-chat-fresher-work-from-home-non-voice-support-remote-wfh-ujobs-consulting-vijayawada-warangal-hyderabad-0-to-0-years-061126008098](https://www.naukri.com/job-listings-whatsapp-chat-fresher-work-from-home-non-voice-support-remote-wfh-ujobs-consulting-vijayawada-warangal-hyderabad-0-to-0-years-061126008098)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 476. [US IT Hiring Coordinator (60 Days Internship) Night Shifts — Vcloud Technologies Investment](https://www.naukri.com/job-listings-us-it-hiring-coordinator-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126000499)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://www.naukri.com/job-listings-us-it-hiring-coordinator-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126000499](https://www.naukri.com/job-listings-us-it-hiring-coordinator-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126000499)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 477. [US Recruitment Specialist (60 Days Internship) Night Shifts — Vcloud Technologies Investment](https://www.naukri.com/job-listings-us-recruitment-specialist-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126000483)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://www.naukri.com/job-listings-us-recruitment-specialist-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126000483](https://www.naukri.com/job-listings-us-recruitment-specialist-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126000483)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 478. [US IT Staffing Specialist (60 Days Internship) Night Shifts — Vcloud Technologies Investment](https://www.naukri.com/job-listings-us-it-staffing-specialist-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126000476)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://www.naukri.com/job-listings-us-it-staffing-specialist-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126000476](https://www.naukri.com/job-listings-us-it-staffing-specialist-60-days-internship-night-shifts-vcloud-technologies-investment-hyderabad-0-to-0-years-061126000476)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 479. [Lead Technical Talent Partner — Thoughtworks](https://www.thoughtworks.com/careers/jobs)
+### 284. [Lead Technical Talent Partner — Thoughtworks](https://www.thoughtworks.com/careers/jobs)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -5386,7 +3287,7 @@ Responsibilities:
 - Promote diversity and inclusion across tech recruitment funnels.
 - Partner with Technical Directors on capacity planning and headcount ...
 
-### 480. [Global People Operations & HR Generalist — Deel](https://www.deel.com/careers)
+### 285. [Global People Operations & HR Generalist — Deel](https://www.deel.com/careers)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -5402,7 +3303,7 @@ Responsibilities:
 
 Requiremen...
 
-### 481. [Applied AI / Machine Learning Engineer — Hugging Face](https://huggingface.co/jobs)
+### 286. [Applied AI / Machine Learning Engineer — Hugging Face](https://huggingface.co/jobs)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -5419,7 +3320,7 @@ Responsibilities:
 Requirements:
 - ...
 
-### 482. [Strategic Partnerships & Enterprise BD Lead — Notion](https://www.notion.so/careers)
+### 287. [Strategic Partnerships & Enterprise BD Lead — Notion](https://www.notion.so/careers)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -5433,7 +3334,7 @@ Responsibilities:
 - Collaborate with Product, Marketing, and Legal teams on partner go-to-market.
 - Deepen ecosystem relationships with cloud providers and enterprise consultants....
 
-### 483. [Technical Content & SEO Strategist — Cloudflare](https://www.cloudflare.com/careers/)
+### 288. [Technical Content & SEO Strategist — Cloudflare](https://www.cloudflare.com/careers/)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -5447,7 +3348,7 @@ Responsibilities:
 - Conduct technical SEO audits, keyword research, and search ranking optimizations.
 - Collaborate with engineering teams to translate complex cloud features into...
 
-### 484. [Senior Financial Analyst (M&A Advisory) — Deloitte](https://www2.deloitte.com/careers)
+### 289. [Senior Financial Analyst (M&A Advisory) — Deloitte](https://www2.deloitte.com/careers)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -5464,7 +3365,7 @@ Responsibilities:
 Requirements:
 - 3-6 years ex...
 
-### 485. [Sr. Consultant - Advanced Analytics — Deloitte](https://in.indeed.com/viewjob?jk=7d5373d89d18782b)
+### 290. [Sr. Consultant - Advanced Analytics — Deloitte](https://in.indeed.com/viewjob?jk=7d5373d89d18782b)
 - **Why your profile matches**: Matches your target role and skills in Power BI, SQL.
 - **Most important skills required**: Power BI, SQL
 
@@ -5473,26 +3374,26 @@ Requirements:
 - **Concerns**: Requires 6–8 yrs (profile has 4.2 yrs); Salary not disclosed
 - **Job Description Summary**: We are one of the business leaders in the risk market. We work with a vision to make the world more prosperous, trustworthy, and safe. Deloitte's clients, primarily based outside of India, are large, complex organizations that constantly evolve and innovate to build better products and services. In the process, they encounter various risks and the ...
 
-### 486. [Products Operations Support – Associate II - Hyderabad — Deloitte](https://in.indeed.com/viewjob?jk=f6dcfda3282d444c)
-- **Why your profile matches**: Matches your target role and skills in AI tools.
-- **Most important skills required**: AI tools
+### 291. [HR Recruiter — My Hub](https://in.indeed.com/viewjob?jk=001ab1385dde1774)
+- **Why your profile matches**: Matches your target role and skills in End-to-end recruitment.
+- **Most important skills required**: End-to-end recruitment
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=f6dcfda3282d444c](https://in.indeed.com/viewjob?jk=f6dcfda3282d444c)
-- **Concerns**: Junior role (1–3 yrs); Salary not disclosed
-- **Job Description Summary**: **Products Operations Support – Associate II - Hyderabad**
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://in.indeed.com/viewjob?jk=001ab1385dde1774](https://in.indeed.com/viewjob?jk=001ab1385dde1774)
+- **Concerns**: Junior role (1–3 yrs)
+- **Job Description Summary**: Job Description – HR Recruiter
 
-**Business Unit**
+**Company:** MyHub Technologies Limited  
+**Location:** Hyderabad  
+**Work Mode:** Work from Office  
+**Employment Type:** Full-Time  
+**Experience:** 1–3 Years
 
-GFS-GPO
+Job Summary
 
-Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization.
+We are looking for a proactive and result-oriented HR Recruiter to manage end-to-end recruitment activities. The ideal candidate should have go...
 
-**Work You’ll Do**
-
-**Product Analysis ...
-
-### 487. [Snr Talent Acquisition Business Partner, India — OTIS](https://in.indeed.com/viewjob?jk=77ffdf191137f6d1)
+### 292. [Snr Talent Acquisition Business Partner, India — OTIS](https://in.indeed.com/viewjob?jk=77ffdf191137f6d1)
 - **Why your profile matches**: Matches your target role and skills in End-to-end recruitment.
 - **Most important skills required**: End-to-end recruitment
 
@@ -5516,22 +3417,7 @@ The Corenthum, Tower B, Unit No. B-53/2, 3rd Floor, A-41, Sector-62, Noida (Utta
 
 **The Talent Acquisition Business Partner will lead end-to-end hiring for assigned businesses. The role will combine strong stakeholder partnership, discipli...
 
-### 488. [HR Executive (HR Recruiter / Talent Acquisition) — HavStrategy](https://in.indeed.com/viewjob?jk=5fa75cd31d4933b2)
-- **Why your profile matches**: Matches your target role and skills in End-to-end recruitment, LinkedIn Recruiter, Stakeholder management.
-- **Most important skills required**: End-to-end recruitment, LinkedIn Recruiter, Stakeholder management
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=5fa75cd31d4933b2](https://in.indeed.com/viewjob?jk=5fa75cd31d4933b2)
-- **Concerns**: Junior role (1–3 yrs)
-- **Job Description Summary**: **About HavStrategy**
-
-HavStrategy is a data-driven D2C & performance growth agency based in Sector 135, Noida. We help D2C, eCommerce, fashion, beauty and lifestyle brands scale through performance marketing, branding, content, analytics and business consulting.
-
-**About the Role**
-
-We are hiring an HR Executive (HR Recruiter / Talent Acquisition)...
-
-### 489. [User Interface/User Experience Designer — Salesforce](https://in.indeed.com/viewjob?jk=f75c11a4300bae69)
+### 293. [User Interface/User Experience Designer — Salesforce](https://in.indeed.com/viewjob?jk=f75c11a4300bae69)
 - **Why your profile matches**: Matches your target role and skills in AI tools.
 - **Most important skills required**: AI tools
 
@@ -5550,16 +3436,7 @@ Job Details
 
 Salesforce is the #1 AI CRM, where humans with agents drive customer success together. Here, ambition meets action. Tech meets trust....
 
-### 490. [Senior Software Engineer — Fivetran](https://in.indeed.com/viewjob?jk=2d07cf4fdce0cc9c)
-- **Why your profile matches**: Matches your target role and skills in SQL.
-- **Most important skills required**: SQL
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=2d07cf4fdce0cc9c](https://in.indeed.com/viewjob?jk=2d07cf4fdce0cc9c)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: From Fivetran's founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We're proud that more organizations continue to leverage our technology every day to...
-
-### 491. [Product Accessibility Engineer — Salesforce](https://in.indeed.com/viewjob?jk=9ebf3878504d17bf)
+### 294. [Product Accessibility Engineer — Salesforce](https://in.indeed.com/viewjob?jk=9ebf3878504d17bf)
 - **Why your profile matches**: Matches your target role and skills in AI tools.
 - **Most important skills required**: AI tools
 
@@ -5572,37 +3449,22 @@ Salesforce is the #1 AI CRM, where humans with agents drive customer success tog
 
 Our Futureforce University Recruiting program is dedicated to attracting, retaining and cultivating talent. Our interns and new graduates work on real pro...
 
-### 492. [HR Recruiter — Bioweal Product Pvt Ltd](https://in.indeed.com/viewjob?jk=afb3dce40b042d78)
-- **Why your profile matches**: Matches your target role and skills in End-to-end recruitment.
-- **Most important skills required**: End-to-end recruitment
+### 295. [Specialist - Data Sciences — LTM Limited](https://in.indeed.com/viewjob?jk=565ac59058f9353d)
+- **Why your profile matches**: Matches your target role and skills in SQL.
+- **Most important skills required**: SQL
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=afb3dce40b042d78](https://in.indeed.com/viewjob?jk=afb3dce40b042d78)
-- **Concerns**: None identified
-- **Job Description Summary**: Job Description – HR Recruiter (Non-IT / FMCG)
+- **Direct application URL**: [https://in.indeed.com/viewjob?jk=565ac59058f9353d](https://in.indeed.com/viewjob?jk=565ac59058f9353d)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: **Role description**
 
-Company: Bioweal Products Pvt. Ltd ,Job Title: HR RecruiterExperience: 3 Years,Industry: FMCG / Non-IT Recruitment, Location: Fincity, Hebbal, Bangalore
+Position Summary
 
-Job Summary
+This role will be responsible for translating analytics and generating insights from data with high level of autonomy Individual is expected to have strong technical expertise in data science and analytics space generating insights from data and providing solutions to the business as needed
 
-We are looking for an experienced and proactive HR Recruiter with around 3 years of experience in Non-IT recruitment, preferably in the...
+Principal Respons...
 
-### 493. [HR Recruiter — LivetechIndia Institute](https://in.indeed.com/viewjob?jk=fafc93df13877ac1)
-- **Why your profile matches**: Matches your target role and skills in End-to-end recruitment.
-- **Most important skills required**: End-to-end recruitment
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=fafc93df13877ac1](https://in.indeed.com/viewjob?jk=fafc93df13877ac1)
-- **Concerns**: None identified
-- **Job Description Summary**: **Job Description – HR Executive**
-
-**Company:** LivetechINDIA Pvt. Ltd.
-
-Job Summary
-
-LivetechINDIA Pvt. Ltd. is an organization focused on education, professional training, and skill development. The company aims to help students and professionals enhance their technical knowledge, develop industry-relevant skills, and prepare for career opportun...
-
-### 494. [Principal Consultant — Chubb Fire & Security](https://in.indeed.com/viewjob?jk=a8a925573195562f)
+### 296. [Principal Consultant — Chubb Fire & Security](https://in.indeed.com/viewjob?jk=a8a925573195562f)
 - **Why your profile matches**: Matches your target role and skills in Stakeholder management.
 - **Most important skills required**: Stakeholder management
 
@@ -5614,25 +3476,7 @@ LivetechINDIA Pvt. Ltd. is an organization focused on education, professional tr
 
 We are seeking an experienced **Oracle HCM Cloud SME – Production Support** to lead the support, stabilization, and continuous improvement of Oracle HCM Cloud applications in a live enterprise environment. The role requires strong functional expertise across **Core HR, Oracle Recruiting Cloud (ORC), Journeys, and HCM Secu...
 
-### 495. [Senior Specialist - Package Implementation — LTM Limited](https://in.indeed.com/viewjob?jk=546cc679e443ad4f)
-- **Why your profile matches**: Matches your target role and skills in Stakeholder management.
-- **Most important skills required**: Stakeholder management
-
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=546cc679e443ad4f](https://in.indeed.com/viewjob?jk=546cc679e443ad4f)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: **Role description**
-
-JD is as below:
-
-* **Strong experience in enterprise IT solution delivery.**
-* **Strong SAP Fiori and SAP UI5 development skills.**
-* **Experience with SAP DM, SAP Fiori Elements, SAP UI5, and SAP BTP are an advantage.**
-* **Good understanding of SAP architecture and integration.**
-
-**Description:** We are looking for an exper...
-
-### 496. [Immigration Compliance - Senior, Tax Services — Deloitte](https://in.indeed.com/viewjob?jk=473863dedf6efbba)
+### 297. [Immigration Compliance - Senior, Tax Services — Deloitte](https://in.indeed.com/viewjob?jk=473863dedf6efbba)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -5643,7 +3487,7 @@ JD is as below:
 
 Deloitte Tax Services India Private Limited (“Deloitte Tax in India”) supports Deloitte Tax U.S. service lines through aligned professionals who deliver services to clients across global tax and mobility programs. We are seeking a **Service Delivery Enablement, Senior** to support global mobility managed serv...
 
-### 497. [Talent Acquisition Executive — Navata Road Transport](https://in.indeed.com/viewjob?jk=bbf4ad39c959ce1b)
+### 298. [Talent Acquisition Executive — Navata Road Transport](https://in.indeed.com/viewjob?jk=bbf4ad39c959ce1b)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -5664,7 +3508,7 @@ Key Responsibilities
 
 * Source candidates through Naukri, LinkedIn, and other job...
 
-### 498. [Senior Full Stack Developer – .NET Core & React — WSP](https://in.indeed.com/viewjob?jk=2b6cf0b040f3fcd5)
+### 299. [Senior Full Stack Developer – .NET Core & React — WSP](https://in.indeed.com/viewjob?jk=2b6cf0b040f3fcd5)
 - **Why your profile matches**: Matches your target role and skills in SQL.
 - **Most important skills required**: SQL
 
@@ -5673,60 +3517,25 @@ Key Responsibilities
 - **Concerns**: Requires 6–8 yrs (profile has 4.2 yrs); Salary not disclosed
 - **Job Description Summary**: We are looking for a Senior Full Stack Engineer with deep expertise in backend application development and Microsoft Azure deployment engineering. The role will primarily own backend services, APIs, integrations, data access, application security, CI/CD, cloud hosting, observability, and production readiness. The ideal candidate will also have work...
 
-### 499. [Assistant Engineer - Bridges — WSP](https://in.indeed.com/viewjob?jk=cf07664060d756ce)
+### 300. [Talent Acquisition Partner (Bilingual English and Spanish Speaking Required) — FirstService Residential](https://www.linkedin.com/jobs/view/4473276718)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=cf07664060d756ce](https://in.indeed.com/viewjob?jk=cf07664060d756ce)
-- **Concerns**: Junior role (2–3 yrs); Salary not disclosed
-- **Job Description Summary**: * Engineering design, assessment, design and inspection report writing.
-* Technical Excellence and delivery of projects taking account of Health & Safety.
-* Agree Priorities and deadlines; ensure timely delivery within fee allocation.
-* Align work with WoW and maintain Document Control for all work.
-* Proactively raising queries and identifying nec...
-
-### 500. [Senior Consultant - System Management — LTM Limited](https://in.indeed.com/viewjob?jk=daab77c71d046cec)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=daab77c71d046cec](https://in.indeed.com/viewjob?jk=daab77c71d046cec)
-- **Concerns**: Requires 5–8 yrs (profile has 4.2 yrs); Salary not disclosed
-- **Job Description Summary**: **Role description**
-
-Storage Automation Engineer
-
-Experience - 5-8 yrs
-
-Joining location - Pune/Hyderabad
-
-Primary skills - Storage Automation Engineering  
-SAN & NAS Storage Administration (Dell EMC, NetApp, Hitachi, IBM Storage)  
-Python Automation & Scripting  
-Ansible Automation  
-REST API Integration  
-Storage Provisioning & Lifecycle Managem...
-
-### 501. [Officer / Sr. Officer - Recruiter — Renault Nissan Technology & Business Centre India](https://www.linkedin.com/jobs/view/4487309624)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487309624](https://www.linkedin.com/jobs/view/4487309624)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4473276718](https://www.linkedin.com/jobs/view/4473276718)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 502. [Starszy Specjalista/ka ds. Rekrutacji — e-work HR Company Poland Sp. z o.o.](https://www.linkedin.com/jobs/view/4486969462)
+### 301. [Recruteur senior / Senior Specialist, Global Talent Acquisition — Evotec](https://www.linkedin.com/jobs/view/4470555006)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486969462](https://www.linkedin.com/jobs/view/4486969462)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4470555006](https://www.linkedin.com/jobs/view/4470555006)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 503. [Associate/Senior Associate, Talent Acquisition — Sea](https://www.linkedin.com/jobs/view/4479875958)
+### 302. [Associate/Senior Associate, Talent Acquisition — Sea](https://www.linkedin.com/jobs/view/4479875958)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -5735,34 +3544,25 @@ Storage Provisioning & Lifecycle Managem...
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 504. [HR Recruiter Executive — Selfcraft Media](https://www.linkedin.com/jobs/view/4486250077)
+### 303. [Recruiter II — Spectrum](https://www.linkedin.com/jobs/view/4488455458)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486250077](https://www.linkedin.com/jobs/view/4486250077)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488455458](https://www.linkedin.com/jobs/view/4488455458)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 505. [Talent Acquisition Graduate (TikTok Shop) - 2027 Start — TikTok](https://www.linkedin.com/jobs/view/4460603661)
+### 304. [Talent Acquisition Partner — IHA](https://www.linkedin.com/jobs/view/4488439527)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4460603661](https://www.linkedin.com/jobs/view/4460603661)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488439527](https://www.linkedin.com/jobs/view/4488439527)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 506. [Especialista de reclutamiento — J&T Express México](https://www.linkedin.com/jobs/view/4486222304)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486222304](https://www.linkedin.com/jobs/view/4486222304)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 507. [Talent Acquisition Partner - Italian Speaker — GE HealthCare](https://www.linkedin.com/jobs/view/4471661544)
+### 305. [Talent Acquisition Partner - Italian Speaker — GE HealthCare](https://www.linkedin.com/jobs/view/4471661544)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -5771,7 +3571,16 @@ Storage Provisioning & Lifecycle Managem...
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 508. [Talent Acquisition Partner — Trinity Health](https://www.linkedin.com/jobs/view/4487342008)
+### 306. [Especialista de Adquisición de Talento — The Hershey Company](https://www.linkedin.com/jobs/view/4487356271)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487356271](https://www.linkedin.com/jobs/view/4487356271)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 307. [Talent Acquisition Partner — Trinity Health](https://www.linkedin.com/jobs/view/4487342008)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -5780,97 +3589,133 @@ Storage Provisioning & Lifecycle Managem...
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 509. [HR Specialist/Recruiting Specialist — RDO Equipment Co.](https://www.linkedin.com/jobs/view/4488408701)
+### 308. [Recruiter_Pune — TeamLease Digital](https://www.naukri.com/job-listings-recruiter-pune-teamlease-digital-pune-1-to-5-years-071126007796)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488408701](https://www.linkedin.com/jobs/view/4488408701)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 510. [Talent Acquisition Executive — BACHPAN](https://www.naukri.com/job-listings-talent-acquisition-executive-bachpan-new-delhi-1-to-2-years-221026011610)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-talent-acquisition-executive-bachpan-new-delhi-1-to-2-years-221026011610](https://www.naukri.com/job-listings-talent-acquisition-executive-bachpan-new-delhi-1-to-2-years-221026011610)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 511. [Hiring For a NON-IT ( BFSI ) recruiter For Work From Home & Pune — BharatHire.Com Private Limited](https://www.naukri.com/job-listings-hiring-for-a-non-it-bfsi-recruiter-for-work-from-home-pune-bharathire-com-private-limited-pune-1-to-6-years-290925910523)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-hiring-for-a-non-it-bfsi-recruiter-for-work-from-home-pune-bharathire-com-private-limited-pune-1-to-6-years-290925910523](https://www.naukri.com/job-listings-hiring-for-a-non-it-bfsi-recruiter-for-work-from-home-pune-bharathire-com-private-limited-pune-1-to-6-years-290925910523)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 512. [Walk-in || TL/Recruiter - Non IT/BFSI — BharatHire.Com Private Limited](https://www.naukri.com/job-listings-tl-recruiter-non-it-bfsi-bharathire-com-private-limited-pune-0-to-7-years-210826020776)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-tl-recruiter-non-it-bfsi-bharathire-com-private-limited-pune-0-to-7-years-210826020776](https://www.naukri.com/job-listings-tl-recruiter-non-it-bfsi-bharathire-com-private-limited-pune-0-to-7-years-210826020776)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 513. [Walk-in || Recruiter  and Tele calle — Abhi Resource Management](https://www.naukri.com/job-listings-recruiter-and-tele-calle-abhi-resource-management-kanpur-0-to-6-years-061126012343)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-recruiter-and-tele-calle-abhi-resource-management-kanpur-0-to-6-years-061126012343](https://www.naukri.com/job-listings-recruiter-and-tele-calle-abhi-resource-management-kanpur-0-to-6-years-061126012343)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 514. [Walk-in || Talent Acquisition — INFINX](https://www.naukri.com/job-listings-talent-acquisition-infinx-visakhapatnam-1-to-3-years-061126025720)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-talent-acquisition-infinx-visakhapatnam-1-to-3-years-061126025720](https://www.naukri.com/job-listings-talent-acquisition-infinx-visakhapatnam-1-to-3-years-061126025720)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 515. [Walk-in || Urgent Hiring - Talent Acquisition Executive — HDB Financial Services](https://www.naukri.com/job-listings-urgent-hiring-talent-acquisition-executive-hdb-financial-services-alandur-chennai-1-to-5-years-061126024931)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-urgent-hiring-talent-acquisition-executive-hdb-financial-services-alandur-chennai-1-to-5-years-061126024931](https://www.naukri.com/job-listings-urgent-hiring-talent-acquisition-executive-hdb-financial-services-alandur-chennai-1-to-5-years-061126024931)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 516. [Senior Human Resource Executive (On Contract) — Emerson](https://www.naukri.com/job-listings-senior-human-resource-executive-on-contract-emerson-pune-4-to-7-years-061126024280)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-senior-human-resource-executive-on-contract-emerson-pune-4-to-7-years-061126024280](https://www.naukri.com/job-listings-senior-human-resource-executive-on-contract-emerson-pune-4-to-7-years-061126024280)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-recruiter-pune-teamlease-digital-pune-1-to-5-years-071126007796](https://www.naukri.com/job-listings-recruiter-pune-teamlease-digital-pune-1-to-5-years-071126007796)
 - **Concerns**: None identified
 - **Job Description Summary**: 
 
-### 517. [Candidate Manager/Senior Candidate Manager — Allegis Group](https://www.naukri.com/job-listings-candidate-manager-senior-candidate-manager-allegis-group-chennai-3-to-6-years-061126024171)
+### 309. [Walk-in Any Fresher's/Exp Global MNCs For HR/Operations/Recruiter/Exec — Wisdom Bridge Consultants](https://www.naukri.com/job-listings-walk-in-any-fresher-s-exp-global-mncs-for-hr-operations-recruiter-exec-wisdom-bridge-consultants-bangarapet-malur-mandya-raichur-kolar-mulbagal-mysuru-koppal-maddur-0-to-5-years-071126007692)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-candidate-manager-senior-candidate-manager-allegis-group-chennai-3-to-6-years-061126024171](https://www.naukri.com/job-listings-candidate-manager-senior-candidate-manager-allegis-group-chennai-3-to-6-years-061126024171)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-walk-in-any-fresher-s-exp-global-mncs-for-hr-operations-recruiter-exec-wisdom-bridge-consultants-bangarapet-malur-mandya-raichur-kolar-mulbagal-mysuru-koppal-maddur-0-to-5-years-071126007692](https://www.naukri.com/job-listings-walk-in-any-fresher-s-exp-global-mncs-for-hr-operations-recruiter-exec-wisdom-bridge-consultants-bangarapet-malur-mandya-raichur-kolar-mulbagal-mysuru-koppal-maddur-0-to-5-years-071126007692)
 - **Concerns**: None identified
 - **Job Description Summary**: 
 
-### 518. [HR- Retainer Contractual — Piramal Finance](https://www.naukri.com/job-listings-hr-retainer-contractual-piramal-finance-kolkata-0-to-1-years-061126024061)
+### 310. [Human Resource Recruiter — Dharampal Satyapal Group (DS Group)](https://www.naukri.com/job-listings-human-resource-recruiter-dharampal-satyapal-group-ds-group-noida-5-to-10-years-071126007605)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-hr-retainer-contractual-piramal-finance-kolkata-0-to-1-years-061126024061](https://www.naukri.com/job-listings-hr-retainer-contractual-piramal-finance-kolkata-0-to-1-years-061126024061)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-human-resource-recruiter-dharampal-satyapal-group-ds-group-noida-5-to-10-years-071126007605](https://www.naukri.com/job-listings-human-resource-recruiter-dharampal-satyapal-group-ds-group-noida-5-to-10-years-071126007605)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 311. [Talent Acquisition Executive-Non IT — Atria Convergence Technologies (ACT)](https://www.naukri.com/job-listings-talent-acquisition-executive-non-it-atria-convergence-technologies-act-pune-2-to-7-years-071126007345)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-talent-acquisition-executive-non-it-atria-convergence-technologies-act-pune-2-to-7-years-071126007345](https://www.naukri.com/job-listings-talent-acquisition-executive-non-it-atria-convergence-technologies-act-pune-2-to-7-years-071126007345)
 - **Concerns**: None identified
 - **Job Description Summary**: 
 
-### 519. [Selection Specialist — IBM](https://www.linkedin.com/jobs/view/4486233255)
+### 312. [Human Resources Executive Recruitment — Quikloans](https://www.linkedin.com/jobs/view/4487391888)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487391888](https://www.linkedin.com/jobs/view/4487391888)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 313. [Hospitality Recruiter — Kick Chef](https://www.linkedin.com/jobs/view/4487378378)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487378378](https://www.linkedin.com/jobs/view/4487378378)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 314. [Recruitment Trainee — TraviYo](https://www.linkedin.com/jobs/view/4487386776)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487386776](https://www.linkedin.com/jobs/view/4487386776)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 315. [HR Recruiter Trainee — TraviYo](https://www.linkedin.com/jobs/view/4487393802)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487393802](https://www.linkedin.com/jobs/view/4487393802)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 316. [Senior Human Resources Recruiter — Rex shoes](https://www.linkedin.com/jobs/view/4487601496)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487601496](https://www.linkedin.com/jobs/view/4487601496)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 317. [Freelance Recruiter — WENdigital](https://www.linkedin.com/jobs/view/4486617500)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486617500](https://www.linkedin.com/jobs/view/4486617500)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 318. [Operations & People Manager — JSIMPLE](https://www.linkedin.com/jobs/view/4488487011)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488487011](https://www.linkedin.com/jobs/view/4488487011)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 319. [Human Resources Intern — VedricX Global](https://www.linkedin.com/jobs/view/4487396706)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487396706](https://www.linkedin.com/jobs/view/4487396706)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 320. [Freelance Human Resources Consultant — DynamicHire Solutions](https://www.linkedin.com/jobs/view/4488704577)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488704577](https://www.linkedin.com/jobs/view/4488704577)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 321. [HR Internship in Delhi (Hybrid) — SMARRTIF AI](https://www.linkedin.com/jobs/view/4488463310)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488463310](https://www.linkedin.com/jobs/view/4488463310)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 322. [Selection Specialist — IBM](https://www.linkedin.com/jobs/view/4486233255)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -5879,7 +3724,7 @@ Storage Provisioning & Lifecycle Managem...
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 520. [HR Operations & Recruitment Executive (Digital Agency) — Krwizard](https://www.linkedin.com/jobs/view/4487313867)
+### 323. [HR Operations & Recruitment Executive (Digital Agency) — Krwizard](https://www.linkedin.com/jobs/view/4487313867)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -5888,25 +3733,7 @@ Storage Provisioning & Lifecycle Managem...
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 521. [HR-Talent Acquistion — Tsaaro People Consulting](https://www.linkedin.com/jobs/view/4487327772)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487327772](https://www.linkedin.com/jobs/view/4487327772)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 522. [HR Operations and Delivery Associate IV — Conduent](https://www.linkedin.com/jobs/view/4485231292)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4485231292](https://www.linkedin.com/jobs/view/4485231292)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 523. [Specialist-Talent Acquisition — Ujjivan Small Finance Bank](https://www.linkedin.com/jobs/view/4488183195)
+### 324. [Specialist-Talent Acquisition — Ujjivan Small Finance Bank](https://www.linkedin.com/jobs/view/4488183195)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -5915,16 +3742,7 @@ Storage Provisioning & Lifecycle Managem...
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 524. [US Healthcare / Senior Healthcare Recruiter — InfiCare Staffing](https://www.linkedin.com/jobs/view/4486980006)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486980006](https://www.linkedin.com/jobs/view/4486980006)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 525. [Snr Talent Acquisition Business Partner, India — Otis Elevator Co.](https://www.linkedin.com/jobs/view/4487307091)
+### 325. [Snr Talent Acquisition Business Partner, India — Otis Elevator Co.](https://www.linkedin.com/jobs/view/4487307091)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -5933,7 +3751,7 @@ Storage Provisioning & Lifecycle Managem...
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 526. [HR Executive (Operation + recruitment/ from marketing agency) — MG](https://www.linkedin.com/jobs/view/4487310681)
+### 326. [HR Executive (Operation + recruitment/ from marketing agency) — MG](https://www.linkedin.com/jobs/view/4487310681)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -5942,25 +3760,7 @@ Storage Provisioning & Lifecycle Managem...
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 527. [JOB Hr Recruiter For Consultancy End to End Recruitment (TA) Only Female — Niyukti Systems, Inc](https://www.linkedin.com/jobs/view/4486970270)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486970270](https://www.linkedin.com/jobs/view/4486970270)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 528. [Talent Acquisition Lead - US IT Recruitment — WhilterAI](https://www.linkedin.com/jobs/view/4486966448)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486966448](https://www.linkedin.com/jobs/view/4486966448)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 529. [Assistant Manager — Comviva](https://www.linkedin.com/jobs/view/4488135588)
+### 327. [Assistant Manager — Comviva](https://www.linkedin.com/jobs/view/4488135588)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -5969,73 +3769,43 @@ Storage Provisioning & Lifecycle Managem...
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 530. [HR Solutions Services Associate II — Conduent](https://www.linkedin.com/jobs/view/4485232271)
+### 328. [Assistant HR Manager — All India Football Federation](https://www.linkedin.com/jobs/view/4488450166)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4485232271](https://www.linkedin.com/jobs/view/4485232271)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488450166](https://www.linkedin.com/jobs/view/4488450166)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 531. [HR Intern – Talent Acquisition — Tsaaro People Consulting](https://www.linkedin.com/jobs/view/4486951920)
+### 329. [Human Resources Intern — CollegePur](https://www.linkedin.com/jobs/view/4486231594)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486951920](https://www.linkedin.com/jobs/view/4486951920)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486231594](https://www.linkedin.com/jobs/view/4486231594)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 532. [Senior Recruitment Specialist — ACL Digital](https://www.linkedin.com/jobs/view/4486915010)
+### 330. [Senior Talent Operations Specialist — Cialfo](https://www.linkedin.com/jobs/view/4458005754)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486915010](https://www.linkedin.com/jobs/view/4486915010)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 533. [Senior Information Technology Recruiter — CFACT India Pvt Ltd](https://www.linkedin.com/jobs/view/4488057912)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488057912](https://www.linkedin.com/jobs/view/4488057912)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 534. [Assistant Recruitment Manager — Success Pact](https://www.linkedin.com/jobs/view/4485876555)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4485876555](https://www.linkedin.com/jobs/view/4485876555)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 535. [Talent Acquisition Executive — BYLD Group](https://in.indeed.com/viewjob?jk=f9b42af28ae406e6)
-- **Why your profile matches**: Matches your target role and skills in Stakeholder management, Talent mapping.
-- **Most important skills required**: Stakeholder management, Talent mapping
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=f9b42af28ae406e6](https://in.indeed.com/viewjob?jk=f9b42af28ae406e6)
-- **Concerns**: Junior role (2–3 yrs)
-- **Job Description Summary**: Job Brief (Talent Acquisition Specialist)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4458005754](https://www.linkedin.com/jobs/view/4458005754)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
 
-We are seeking a proactive and driven Talent Acquisition Specialist to manage end-to-end hiring and build a
+### 331. [Associate Manager, HR, India — QIAGEN](https://www.linkedin.com/jobs/view/4459154194)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
 
-strong talent pipeline. The role involves sourcing, screening, and engaging top talent aligned with business
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4459154194](https://www.linkedin.com/jobs/view/4459154194)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
 
-requirements.
-
-2 Job Description
-
-JobResponsibility
-
-The Talent Acquisition Specialist w...
-
-### 536. [GSS - Tech Sourcing Recruiter , WWAS TA C Sourcing — Amazon](https://www.linkedin.com/jobs/view/4480112593)
+### 332. [GSS - Tech Sourcing Recruiter , WWAS TA C Sourcing — Amazon](https://www.linkedin.com/jobs/view/4480112593)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -6044,16 +3814,16 @@ The Talent Acquisition Specialist w...
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 537. [BPO HR Recruiter — Wroots Global](https://www.naukri.com/job-listings-bpo-hr-recruiter-wroots-global-private-limited-bangalore-rural-0-to-1-years-081026932388)
+### 333. [Branch Manager — Itvedant Education Pvt. Ltd.](https://www.linkedin.com/jobs/view/4487600607)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-bpo-hr-recruiter-wroots-global-private-limited-bangalore-rural-0-to-1-years-081026932388](https://www.naukri.com/job-listings-bpo-hr-recruiter-wroots-global-private-limited-bangalore-rural-0-to-1-years-081026932388)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487600607](https://www.linkedin.com/jobs/view/4487600607)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 538. [Senior Executive Talent Acquisition — Zoo Media](https://www.linkedin.com/jobs/view/4486994422)
+### 334. [Senior Executive Talent Acquisition — Zoo Media](https://www.linkedin.com/jobs/view/4486994422)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -6062,7 +3832,7 @@ The Talent Acquisition Specialist w...
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 539. [Junior – Human Resources Operations — Zoo Media](https://www.linkedin.com/jobs/view/4486988558)
+### 335. [Junior – Human Resources Operations — Zoo Media](https://www.linkedin.com/jobs/view/4486988558)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -6071,7 +3841,7 @@ The Talent Acquisition Specialist w...
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 540. [Human Resources Intern — Johnson Matthey](https://www.linkedin.com/jobs/view/4486228644)
+### 336. [Human Resources Intern — Johnson Matthey](https://www.linkedin.com/jobs/view/4486228644)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -6080,7 +3850,7 @@ The Talent Acquisition Specialist w...
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 541. [Admin/EA Executive — GLOBELANCE](https://www.linkedin.com/jobs/view/4487318613)
+### 337. [Admin/EA Executive — GLOBELANCE](https://www.linkedin.com/jobs/view/4487318613)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -6089,25 +3859,16 @@ The Talent Acquisition Specialist w...
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 542. [Recruiter — Neuland Laboratories Limited](https://www.linkedin.com/jobs/view/4486271098)
+### 338. [Tech Talent Scout & It Recruitment Specialist — Metacom Careers](https://www.linkedin.com/jobs/view/4486633049)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486271098](https://www.linkedin.com/jobs/view/4486271098)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486633049](https://www.linkedin.com/jobs/view/4486633049)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 543. [Post-Placement Operations & Compliance Specialist (US IT Staffing) — MAES Solutions](https://www.linkedin.com/jobs/view/4485873503)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4485873503](https://www.linkedin.com/jobs/view/4485873503)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 544. [Senior Talent Acquisition Partner - Software Engineering — Capital One](https://www.linkedin.com/jobs/view/4462728409)
+### 339. [Senior Talent Acquisition Partner - Software Engineering — Capital One](https://www.linkedin.com/jobs/view/4462728409)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -6116,16 +3877,16 @@ The Talent Acquisition Specialist w...
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 545. [Talent Specialist - Technology & Projects Recruitment — Hudson](https://www.linkedin.com/jobs/view/4486972170)
+### 340. [Global Senior Talent Acquisition Partner - Strategic Tech Recruiter — KMC Careers](https://www.linkedin.com/jobs/view/4486284082)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486972170](https://www.linkedin.com/jobs/view/4486972170)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486284082](https://www.linkedin.com/jobs/view/4486284082)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 546. [Information Technology Recruiter — PrimeIT](https://www.linkedin.com/jobs/view/4486248553)
+### 341. [Information Technology Recruiter — PrimeIT](https://www.linkedin.com/jobs/view/4486248553)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -6134,34 +3895,34 @@ The Talent Acquisition Specialist w...
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 547. [Recruiter — Halian | Managed Services, Recruitment Agency & Contract Staffing](https://www.linkedin.com/jobs/view/4486954260)
+### 342. [Global Senior TA Partner — Strategic Tech Recruiter — KMC Careers](https://www.linkedin.com/jobs/view/4486266777)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486954260](https://www.linkedin.com/jobs/view/4486954260)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486266777](https://www.linkedin.com/jobs/view/4486266777)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 548. [Talent Acquisition Partner — Morgan McKinley](https://www.linkedin.com/jobs/view/4486956493)
+### 343. [Information Technology Recruiter — MSI Company](https://www.linkedin.com/jobs/view/4488415753)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486956493](https://www.linkedin.com/jobs/view/4486956493)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488415753](https://www.linkedin.com/jobs/view/4488415753)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 549. [Conseiller ou conseillère en attraction de talents en technologies de l’information (TI) — Alithya](https://www.linkedin.com/jobs/view/4465682669)
+### 344. [Technical Staffing Recruiter - West Michigan (Grand Rapids) — TEKsystems](https://www.linkedin.com/jobs/view/4487352146)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4465682669](https://www.linkedin.com/jobs/view/4465682669)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487352146](https://www.linkedin.com/jobs/view/4487352146)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 550. [Talent Acquisition Partner – Tieto Banktech (m/f/d) — Tieto](https://www.linkedin.com/jobs/view/4443917634)
+### 345. [Talent Acquisition Partner – Tieto Banktech (m/f/d) — Tieto](https://www.linkedin.com/jobs/view/4443917634)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -6170,7 +3931,7 @@ The Talent Acquisition Specialist w...
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 551. [Tech People Recruiter — GRiT Solutions](https://www.linkedin.com/jobs/view/4487310028)
+### 346. [Tech People Recruiter — GRiT Solutions](https://www.linkedin.com/jobs/view/4487310028)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -6179,100 +3940,66 @@ The Talent Acquisition Specialist w...
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 552. [Rekrutteringspartner med erfaring inden for IT-rekrutteringer — Politiets Efterretningstjeneste (PET)](https://www.linkedin.com/jobs/view/4485068984)
+### 347. [Recruteur informatique/Recruteuse informatique — Fed IT Canada](https://www.linkedin.com/jobs/view/4486278160)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4485068984](https://www.linkedin.com/jobs/view/4485068984)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486278160](https://www.linkedin.com/jobs/view/4486278160)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 553. [Rekruter IT — Ness Solution](https://www.linkedin.com/jobs/view/4486915878)
+### 348. [Human Resource Recruiter — Acpl Exports](https://www.naukri.com/job-listings-human-resource-recruiter-acpl-exports-agra-1-to-5-years-071126006452)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486915878](https://www.linkedin.com/jobs/view/4486915878)
-- **Concerns**: Salary not disclosed
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-human-resource-recruiter-acpl-exports-agra-1-to-5-years-071126006452](https://www.naukri.com/job-listings-human-resource-recruiter-acpl-exports-agra-1-to-5-years-071126006452)
+- **Concerns**: None identified
 - **Job Description Summary**: 
 
-### 554. [Tech Talent Scout & IT Recruitment Specialist — Metacom Careers](https://www.linkedin.com/jobs/view/4485864109)
+### 349. [Hr Executive And Recruiter — Alankit](https://www.naukri.com/job-listings-hr-executive-and-recruiter-alankit-new-delhi-3-to-5-years-071126006001)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4485864109](https://www.linkedin.com/jobs/view/4485864109)
-- **Concerns**: Salary not disclosed
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-hr-executive-and-recruiter-alankit-new-delhi-3-to-5-years-071126006001](https://www.naukri.com/job-listings-hr-executive-and-recruiter-alankit-new-delhi-3-to-5-years-071126006001)
+- **Concerns**: None identified
 - **Job Description Summary**: 
 
-### 555. [Recruiter — Long View Systems](https://www.linkedin.com/jobs/view/4485881284)
+### 350. [Manager ,Sr Manager ,APV Business Development — Maven It Solutions](https://www.naukri.com/job-listings-manager-sr-manager-apv-business-development-maven-it-solutions-delhi-ncr-10-to-20-years-071126005758)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4485881284](https://www.linkedin.com/jobs/view/4485881284)
-- **Concerns**: Salary not disclosed
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-manager-sr-manager-apv-business-development-maven-it-solutions-delhi-ncr-10-to-20-years-071126005758](https://www.naukri.com/job-listings-manager-sr-manager-apv-business-development-maven-it-solutions-delhi-ncr-10-to-20-years-071126005758)
+- **Concerns**: None identified
 - **Job Description Summary**: 
 
-### 556. [Senior Hr recruiter /Manager For Job Solutions — Job Solutions](https://www.naukri.com/job-listings-senior-hr-recruiter-manager-for-solutions-solutions-zirakpur-3-to-8-years-090126024445)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-senior-hr-recruiter-manager-for-solutions-solutions-zirakpur-3-to-8-years-090126024445](https://www.naukri.com/job-listings-senior-hr-recruiter-manager-for-solutions-solutions-zirakpur-3-to-8-years-090126024445)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 557. [HR Admin-Surat-3 LPA — Rishi Jobs](https://www.naukri.com/job-listings-hr-admin-surat-3-lpa-rishi-jobs-surat-5-to-9-years-061126923370)
+### 351. [Strategic Client Partner - Data & AI — Gegnat Inc.](https://www.linkedin.com/jobs/view/4487314899)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-hr-admin-surat-3-lpa-rishi-jobs-surat-5-to-9-years-061126923370](https://www.naukri.com/job-listings-hr-admin-surat-3-lpa-rishi-jobs-surat-5-to-9-years-061126923370)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487314899](https://www.linkedin.com/jobs/view/4487314899)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 558. [HR Executive-Surat-4 LPA — Rishi Jobs](https://www.naukri.com/job-listings-hr-executive-surat-4-lpa-rishi-jobs-surat-2-to-5-years-061126923368)
+### 352. [Corporate Relationship Executive - Interns — Infoz IT Solutions](https://in.indeed.com/viewjob?jk=fae6541d08742104)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-hr-executive-surat-4-lpa-rishi-jobs-surat-2-to-5-years-061126923368](https://www.naukri.com/job-listings-hr-executive-surat-4-lpa-rishi-jobs-surat-2-to-5-years-061126923368)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://in.indeed.com/viewjob?jk=fae6541d08742104](https://in.indeed.com/viewjob?jk=fae6541d08742104)
+- **Concerns**: None identified
+- **Job Description Summary**: **About the Role**  
+We are looking for a proactive Placement Intern to support our placement cell in connecting students with hiring companies. You will coordinate between students, trainers, and recruiters to help ensure students are interview-ready and placed in suitable roles.
 
-### 559. [Recruiting Intern — Yellow Octo LLP](https://www.linkedin.com/jobs/view/4486582372)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
+**Key Responsibilities**
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486582372](https://www.linkedin.com/jobs/view/4486582372)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
+* Maintain student placement database (pr...
 
-### 560. [Human Resources Manager — Vedic Legal & Co.](https://www.linkedin.com/jobs/view/4486939868)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486939868](https://www.linkedin.com/jobs/view/4486939868)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 561. [Global Capability Lead – DFIR and Crisis Response — NTT DATA](https://in.indeed.com/viewjob?jk=67df6d36faf73805)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=67df6d36faf73805](https://in.indeed.com/viewjob?jk=67df6d36faf73805)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: **Make an impact with NTT DATA**  
-Join a company that is pushing the boundaries of what is possible. We are renowned for our technical excellence and leading innovations, and for making a difference to our clients and society. Our workplace embraces diversity and inclusion – it’s a place where you can grow, belong and thrive.
-
-**Your day at NTT DA...
-
-### 562. [Recruiter – Technology Hiring — IBM](https://www.linkedin.com/jobs/view/4469769964)
+### 353. [Recruiter – Technology Hiring — IBM](https://www.linkedin.com/jobs/view/4469769964)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -6281,34 +4008,25 @@ Join a company that is pushing the boundaries of what is possible. We are renown
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 563. [Technology Recruiter | Leading Quantitative Research Firm — Hawkwood](https://www.linkedin.com/jobs/view/4485873108)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4485873108](https://www.linkedin.com/jobs/view/4485873108)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 564. [On-Site Tech Recruiter: End-to-End Hiring Expert — Alsons/AWS Information Systems Inc.](https://www.linkedin.com/jobs/view/4485858487)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4485858487](https://www.linkedin.com/jobs/view/4485858487)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 565. [Human Resources Intern — Cook N Klean](https://www.linkedin.com/jobs/view/4486929534)
+### 354. [Recruiter — Valarian](https://www.linkedin.com/jobs/view/4488179136)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486929534](https://www.linkedin.com/jobs/view/4486929534)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488179136](https://www.linkedin.com/jobs/view/4488179136)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 566. [Senior Manager, Learning and Development — NTT DATA](https://in.indeed.com/viewjob?jk=1fb988a02cee1b19)
+### 355. [Human Resource Recruiter — Vishal Builders](https://www.naukri.com/job-listings-human-resource-recruiter-vishal-builders-raipur-2-to-5-years-071126008246)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.naukri.com/job-listings-human-resource-recruiter-vishal-builders-raipur-2-to-5-years-071126008246](https://www.naukri.com/job-listings-human-resource-recruiter-vishal-builders-raipur-2-to-5-years-071126008246)
+- **Concerns**: None identified
+- **Job Description Summary**: 
+
+### 356. [Senior Manager, Learning and Development — NTT DATA](https://in.indeed.com/viewjob?jk=1fb988a02cee1b19)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -6320,34 +4038,34 @@ Join a company that is pushing the boundaries of what is possible. We are renown
 
 **Your day at NTT DA...
 
-### 567. [Trainers, Engineers, Interns and Administrative staff — Central Institute of Tool Design](https://www.linkedin.com/jobs/view/4486240740)
+### 357. [Career Recruiting Staff - Global Talent Acquisition Department, Group Human Resources Supervisory Department (GHRD) — Rakuten](https://www.linkedin.com/jobs/view/4436456877)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486240740](https://www.linkedin.com/jobs/view/4486240740)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4436456877](https://www.linkedin.com/jobs/view/4436456877)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 568. [Recruiter, GTM - Seoul — Anthropic](https://www.linkedin.com/jobs/view/4486978065)
+### 358. [海外招聘（英文/个护/双休） — 深圳市理然化妆品有限公司](https://www.linkedin.com/jobs/view/4486608333)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486978065](https://www.linkedin.com/jobs/view/4486978065)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486608333](https://www.linkedin.com/jobs/view/4486608333)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 569. [Junior Recruiter — Akkodis](https://www.linkedin.com/jobs/view/4486222494)
+### 359. [Executive Recruiter (Consulting) — Gartner](https://www.linkedin.com/jobs/view/4415924056)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486222494](https://www.linkedin.com/jobs/view/4486222494)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4415924056](https://www.linkedin.com/jobs/view/4415924056)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 570. [Recruiting Partner – France, Belgium & Luxembourg (f/m/d) – based in Paris area — Siemens Healthineers](https://www.linkedin.com/jobs/view/4486255493)
+### 360. [Recruiting Partner – France, Belgium & Luxembourg (f/m/d) – based in Paris area — Siemens Healthineers](https://www.linkedin.com/jobs/view/4486255493)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -6356,16 +4074,7 @@ Join a company that is pushing the boundaries of what is possible. We are renown
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 571. [Recruiter, International — Venture Global LNG](https://www.linkedin.com/jobs/view/4486935913)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486935913](https://www.linkedin.com/jobs/view/4486935913)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 572. [Recruiting Partner – Belgium, Luxembourg & France (f/m/d) - based in Brussels area — Siemens Healthineers](https://www.linkedin.com/jobs/view/4486258391)
+### 361. [Recruiting Partner – Belgium, Luxembourg & France (f/m/d) - based in Brussels area — Siemens Healthineers](https://www.linkedin.com/jobs/view/4486258391)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -6374,16 +4083,7 @@ Join a company that is pushing the boundaries of what is possible. We are renown
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 573. [Talent Acquisition — Global Recruitment — Mars Renewable](https://www.linkedin.com/jobs/view/4486954429)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486954429](https://www.linkedin.com/jobs/view/4486954429)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 574. [Full Lifecycle Recruiter — AMS International UAE](https://www.linkedin.com/jobs/view/4488174154)
+### 362. [Full Lifecycle Recruiter — AMS International UAE](https://www.linkedin.com/jobs/view/4488174154)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -6392,25 +4092,16 @@ Join a company that is pushing the boundaries of what is possible. We are renown
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 575. [Global Recruitment and HR — United World Inc](https://www.linkedin.com/jobs/view/4486951117)
+### 363. [US Healthcare Recruiter and Sourcer — MCM & Associates](https://www.linkedin.com/jobs/view/4487346174)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486951117](https://www.linkedin.com/jobs/view/4486951117)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487346174](https://www.linkedin.com/jobs/view/4487346174)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 576. [海外招聘专员 — United Service Technology Ltd.](https://www.linkedin.com/jobs/view/4485885658)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4485885658](https://www.linkedin.com/jobs/view/4485885658)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 577. [Recruitment Partner - EMEA — Elanco](https://www.linkedin.com/jobs/view/4460734544)
+### 364. [Recruitment Partner - EMEA — Elanco](https://www.linkedin.com/jobs/view/4460734544)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -6419,7 +4110,7 @@ Join a company that is pushing the boundaries of what is possible. We are renown
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 578. [Full Lifecyle Recruiter, Amazon University Talent Acquisition — Amazon](https://www.linkedin.com/jobs/view/4488155309)
+### 365. [Full Lifecyle Recruiter, Amazon University Talent Acquisition — Amazon](https://www.linkedin.com/jobs/view/4488155309)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -6428,7 +4119,7 @@ Join a company that is pushing the boundaries of what is possible. We are renown
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 579. [Talent Acquisition Partner — Adform](https://www.linkedin.com/jobs/view/4486248700)
+### 366. [Talent Acquisition Partner — Adform](https://www.linkedin.com/jobs/view/4486248700)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -6437,25 +4128,7 @@ Join a company that is pushing the boundaries of what is possible. We are renown
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 580. [Recruiter, GTM - Singapore — Anthropic](https://www.linkedin.com/jobs/view/4486968724)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486968724](https://www.linkedin.com/jobs/view/4486968724)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 581. [RPO Recruiter (Global Real Estate Services Firm), Tokyo — Korn Ferry](https://www.linkedin.com/jobs/view/4464897080)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4464897080](https://www.linkedin.com/jobs/view/4464897080)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 582. [Strategic Resourcer (Recruiter) - Middle East — Airswift](https://www.linkedin.com/jobs/view/4480341092)
+### 367. [Strategic Resourcer (Recruiter) - Middle East — Airswift](https://www.linkedin.com/jobs/view/4480341092)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -6464,16 +4137,16 @@ Join a company that is pushing the boundaries of what is possible. We are renown
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 583. [Talent Acquisition Partner Europe — Anonymous](https://www.linkedin.com/jobs/view/4488122652)
+### 368. [Talent Acquisition Manager — ScorePlay](https://www.linkedin.com/jobs/view/4488459261)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488122652](https://www.linkedin.com/jobs/view/4488122652)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488459261](https://www.linkedin.com/jobs/view/4488459261)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 584. [Recruiter (High Volume) | Schiphol | Cargo & Passage — dnata](https://www.linkedin.com/jobs/view/4422215184)
+### 369. [Recruiter (High Volume) | Schiphol | Cargo & Passage — dnata](https://www.linkedin.com/jobs/view/4422215184)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -6482,7 +4155,7 @@ Join a company that is pushing the boundaries of what is possible. We are renown
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 585. [Talent Sourcing Specialist – EMEA & APAC — PeopleScout](https://www.linkedin.com/jobs/view/4486243058)
+### 370. [Talent Sourcing Specialist – EMEA & APAC — PeopleScout](https://www.linkedin.com/jobs/view/4486243058)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -6491,49 +4164,43 @@ Join a company that is pushing the boundaries of what is possible. We are renown
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 586. [Global Overseas Talent Acquisition Partner- Tech Hiring-Sunnyvale — Alibaba Cloud](https://www.linkedin.com/jobs/view/4486220706)
+### 371. [Recruitment Specialist with German (F/M) — ARCHE Consulting](https://www.linkedin.com/jobs/view/4488163607)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486220706](https://www.linkedin.com/jobs/view/4486220706)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488163607](https://www.linkedin.com/jobs/view/4488163607)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 587. [Associate Manager, HR, India — QIAGEN](https://www.linkedin.com/jobs/view/4459154194)
+### 372. [Senior Corporate Recruiter — Conexus](https://www.linkedin.com/jobs/view/4487388031)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4459154194](https://www.linkedin.com/jobs/view/4459154194)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487388031](https://www.linkedin.com/jobs/view/4487388031)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 588. [Senior Analyst — Northern Trust Corp.](https://in.indeed.com/viewjob?jk=38f0127d365153f3)
+### 373. [Reclutador Senior — Grupo Gayosso](https://www.linkedin.com/jobs/view/4486625412)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=38f0127d365153f3](https://in.indeed.com/viewjob?jk=38f0127d365153f3)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: **About Northern Trust**
-
-As a global leader in innovative wealth management, asset servicing, asset management and banking services, Northern Trust (Nasdaq: NTRS) is proud to guide the world’s most successful individuals, families, corporations and institutions.
-
-  
-
-Since 1889, we have aligned our efforts with our three guiding Principles That En...
-
-### 589. [Team Leader — Global Services](https://www.linkedin.com/jobs/view/4486960514)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486960514](https://www.linkedin.com/jobs/view/4486960514)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486625412](https://www.linkedin.com/jobs/view/4486625412)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 590. [Senior Talent Acquisition Partner — Versaterm](https://www.linkedin.com/jobs/view/4480181490)
+### 374. [Sr. Recruiter — New York Power Authority](https://www.linkedin.com/jobs/view/4488448681)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488448681](https://www.linkedin.com/jobs/view/4488448681)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 375. [Senior Talent Acquisition Partner — Versaterm](https://www.linkedin.com/jobs/view/4480181490)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -6542,7 +4209,7 @@ Since 1889, we have aligned our efforts with our three guiding Principles That E
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 591. [Senior Talent Acquisition Partner — Rosendin](https://www.linkedin.com/jobs/view/4480186942)
+### 376. [Senior Talent Acquisition Partner — Rosendin](https://www.linkedin.com/jobs/view/4480186942)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -6551,7 +4218,7 @@ Since 1889, we have aligned our efforts with our three guiding Principles That E
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 592. [Senior Talent Acquisition Partner — Coca-Cola HBC](https://www.linkedin.com/jobs/view/4488184382)
+### 377. [Senior Talent Acquisition Partner — Coca-Cola HBC](https://www.linkedin.com/jobs/view/4488184382)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -6560,25 +4227,7 @@ Since 1889, we have aligned our efforts with our three guiding Principles That E
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 593. [Sr. Client Lead Recruiter, Space Vehicles — Blue Origin](https://www.linkedin.com/jobs/view/4472986425)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4472986425](https://www.linkedin.com/jobs/view/4472986425)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 594. [Sr. Talent Acquisition Partner — Acadia Pharmaceuticals](https://www.linkedin.com/jobs/view/4486935929)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486935929](https://www.linkedin.com/jobs/view/4486935929)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 595. [Senior Talent Acquisition Recruiter - Colombia — Riveron](https://www.linkedin.com/jobs/view/4475468839)
+### 378. [Senior Talent Acquisition Recruiter - Colombia — Riveron](https://www.linkedin.com/jobs/view/4475468839)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -6587,7 +4236,7 @@ Since 1889, we have aligned our efforts with our three guiding Principles That E
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 596. [Principal Recruiter — Coinbase](https://www.linkedin.com/jobs/view/4480130894)
+### 379. [Principal Recruiter — Coinbase](https://www.linkedin.com/jobs/view/4480130894)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -6596,124 +4245,34 @@ Since 1889, we have aligned our efforts with our three guiding Principles That E
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 597. [Senior Employee Recruiter — Salesforce](https://www.linkedin.com/jobs/view/4488095751)
+### 380. [Senior Corporate Recruiter — Dexian](https://www.linkedin.com/jobs/view/4487351213)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488095751](https://www.linkedin.com/jobs/view/4488095751)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487351213](https://www.linkedin.com/jobs/view/4487351213)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 598. [Global Senior TA Partner — Strategic Tech Recruiter — KMC Careers](https://www.linkedin.com/jobs/view/4486266777)
+### 381. [Sr. Talent Acquisition Partner- Manufacturing — Mars](https://www.linkedin.com/jobs/view/4487352570)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486266777](https://www.linkedin.com/jobs/view/4486266777)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487352570](https://www.linkedin.com/jobs/view/4487352570)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 599. [Sr. Recruiter — Jabil](https://www.linkedin.com/jobs/view/4486918286)
+### 382. [Manager – Corporate Affairs & Organisation Development — Energo Group](https://www.linkedin.com/jobs/view/4487397272)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486918286](https://www.linkedin.com/jobs/view/4486918286)
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4487397272](https://www.linkedin.com/jobs/view/4487397272)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 600. [Senior Executive Talent Acquisition Partner – Wealth & USCC — Citi](https://www.linkedin.com/jobs/view/4486903942)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486903942](https://www.linkedin.com/jobs/view/4486903942)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 601. [Senior Bench Sales Recruiter — Sainar Solutions](https://www.naukri.com/job-listings-senior-bench-sales-recruiter-sainar-solutions-private-limited-visakhapatnam-0-to-6-years-061126025902)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-senior-bench-sales-recruiter-sainar-solutions-private-limited-visakhapatnam-0-to-6-years-061126025902](https://www.naukri.com/job-listings-senior-bench-sales-recruiter-sainar-solutions-private-limited-visakhapatnam-0-to-6-years-061126025902)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 602. [Wanted Primary and Middle school teachers — Beta Education](https://www.naukri.com/job-listings-wanted-primary-and-middle-school-teachers-beta-education-karimnagar-khammam-nalgonda-2-to-7-years-061126024649)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-wanted-primary-and-middle-school-teachers-beta-education-karimnagar-khammam-nalgonda-2-to-7-years-061126024649](https://www.naukri.com/job-listings-wanted-primary-and-middle-school-teachers-beta-education-karimnagar-khammam-nalgonda-2-to-7-years-061126024649)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 603. [English Teacher — Beta Education](https://www.naukri.com/job-listings-english-teacher-beta-education-kadapa-siddipet-nizamabad-2-to-7-years-061126023548)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-english-teacher-beta-education-kadapa-siddipet-nizamabad-2-to-7-years-061126023548](https://www.naukri.com/job-listings-english-teacher-beta-education-kadapa-siddipet-nizamabad-2-to-7-years-061126023548)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 604. [Urgent Hiring || Team Leaders — Ienergizer](https://www.naukri.com/job-listings-urgent-hiring-team-leaders-ienergizer-noida-1-to-6-years-061126022694)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-urgent-hiring-team-leaders-ienergizer-noida-1-to-6-years-061126022694](https://www.naukri.com/job-listings-urgent-hiring-team-leaders-ienergizer-noida-1-to-6-years-061126022694)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 605. [Talent Acquisition Executive — Endurance Technologies](https://www.naukri.com/job-listings-talent-acquisition-executive-endurance-technologies-pune-2-to-5-years-310826025230)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-talent-acquisition-executive-endurance-technologies-pune-2-to-5-years-310826025230](https://www.naukri.com/job-listings-talent-acquisition-executive-endurance-technologies-pune-2-to-5-years-310826025230)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 606. [Talent Acquisition Executive (Non-IT) Female Chennai — Shivoham Infosolutions](https://www.naukri.com/job-listings-talent-acquisition-executive-non-it-female-chennai-shivoham-infosolutions-chennai-1-to-4-years-061126020717)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-talent-acquisition-executive-non-it-female-chennai-shivoham-infosolutions-chennai-1-to-4-years-061126020717](https://www.naukri.com/job-listings-talent-acquisition-executive-non-it-female-chennai-shivoham-infosolutions-chennai-1-to-4-years-061126020717)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 607. [Hiring For FnA Team Leader Profile !! Salary Upto 10lpa — Ishmeet Consultant](https://www.naukri.com/job-listings-hiring-for-fna-team-leader-profile-salary-upto-10lpa-ishmeet-consultant-chandigarh-jaipur-4-to-8-years-061126020668)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.naukri.com/job-listings-hiring-for-fna-team-leader-profile-salary-upto-10lpa-ishmeet-consultant-chandigarh-jaipur-4-to-8-years-061126020668](https://www.naukri.com/job-listings-hiring-for-fna-team-leader-profile-salary-upto-10lpa-ishmeet-consultant-chandigarh-jaipur-4-to-8-years-061126020668)
-- **Concerns**: None identified
-- **Job Description Summary**: 
-
-### 608. [Human Resources Business Manager — Amitoje India](https://www.linkedin.com/jobs/view/4488111660)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488111660](https://www.linkedin.com/jobs/view/4488111660)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 609. [Consultant(e) en recrutement — Catamania](https://www.linkedin.com/jobs/view/4469707751)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4469707751](https://www.linkedin.com/jobs/view/4469707751)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: 
-
-### 610. [Embedded Delivery Consultant — Energize Group](https://www.linkedin.com/jobs/view/4486996834)
+### 383. [Embedded Delivery Consultant — Energize Group](https://www.linkedin.com/jobs/view/4486996834)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -6722,7 +4281,16 @@ Since 1889, we have aligned our efforts with our three guiding Principles That E
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 611. [Delivery Consultant (London) — Experts Group International](https://www.linkedin.com/jobs/view/4426320099)
+### 384. [Talent Acquisition Consultant - Piedmont Augusta — Piedmont](https://www.linkedin.com/jobs/view/4488440639)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488440639](https://www.linkedin.com/jobs/view/4488440639)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 385. [Delivery Consultant (London) — Experts Group International](https://www.linkedin.com/jobs/view/4426320099)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -6731,7 +4299,7 @@ Since 1889, we have aligned our efforts with our three guiding Principles That E
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 612. [Recruiter — Identifiers | Technical Recruiters](https://www.linkedin.com/jobs/view/4487347234)
+### 386. [Recruiter — Identifiers | Technical Recruiters](https://www.linkedin.com/jobs/view/4487347234)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -6740,16 +4308,25 @@ Since 1889, we have aligned our efforts with our three guiding Principles That E
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 613. [Recruiter Intern — Iklavya](https://www.linkedin.com/jobs/view/4486950209)
+### 387. [Delivery Consultant (Austin, Texas) — Experts Group International](https://www.linkedin.com/jobs/view/4426318271)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486950209](https://www.linkedin.com/jobs/view/4486950209)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4426318271](https://www.linkedin.com/jobs/view/4426318271)
 - **Concerns**: Salary not disclosed
 - **Job Description Summary**: 
 
-### 614. [Analyst - Group Retiree — Aptia Group](https://in.indeed.com/viewjob?jk=cebece02a279c3d9)
+### 388. [Senior Recruitment Advisor — Duratec](https://www.linkedin.com/jobs/view/4486258407)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4486258407](https://www.linkedin.com/jobs/view/4486258407)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
+
+### 389. [Analyst - Group Retiree — Aptia Group](https://in.indeed.com/viewjob?jk=cebece02a279c3d9)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -6760,7 +4337,77 @@ Since 1889, we have aligned our efforts with our three guiding Principles That E
 
 Founded to shape the future of pensions, health, and insurance solutions, Aptia is a leading professional services firm dedicated to simplifying complexity for businesses and individuals. We bring together cutting-edge technology and deep industry expertise to help organisations navigate an evolving landscape with clarity and confi...
 
-### 615. [Talent Acquisition Manager (Hospitality) — Locobear](https://in.indeed.com/viewjob?jk=3e8958ecd9a58ae8)
+### 390. [Principal Software Engineer– EDI & Integrations, EDI and Integrations — GSK](https://in.indeed.com/viewjob?jk=484a43f0854ca719)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://in.indeed.com/viewjob?jk=484a43f0854ca719](https://in.indeed.com/viewjob?jk=484a43f0854ca719)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: **About the role:**
+
+We are seeking a Software Engineer specializing in EDI & Integrations, with experience in enterprise B2B/EDI integration and Integrations middleware technologies, to drive technical excellence, platform ownership, and seamless integration across GSK's Commercial and External Partner ecosystems. This role demands deep technical ...
+
+### 391. [Principal - Program & Project Management — LTM Limited](https://in.indeed.com/viewjob?jk=0ee73ff3075e2bdd)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://in.indeed.com/viewjob?jk=0ee73ff3075e2bdd](https://in.indeed.com/viewjob?jk=0ee73ff3075e2bdd)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: **Role description**
+
+RoleTechnical Project Manager Applications
+
+Lead endtoend delivery of the 695application discovery program and coordinate the Application Active Directory and IAM workstreams
+
+Key responsibilities
+
+Own the integrated 10week project plan and applicationwave execution
+
+Manage the 695application tracker RAID dependencies and esca...
+
+### 392. [Regional Design Technology Lead - Digital Artist — Gensler](https://in.indeed.com/viewjob?jk=d6201e80c8b96798)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://in.indeed.com/viewjob?jk=d6201e80c8b96798](https://in.indeed.com/viewjob?jk=d6201e80c8b96798)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: **General Information**
+-----------------------
+
+Posting Date
+
+11-06-2026
+
+Time Type
+
+Full-Time
+
+Job ID
+
+9372
+
+Areas of Expertise
+
+Design Technology
+
+Job Category
+
+Applications and Digital Design
+
+**Locations**
+-------------
+
+Bangalore, India
+
+**Description**
+---------------
+
+Gensler is a global architecture and design firm grounded in the belief t...
+
+### 393. [Talent Acquisition Manager (Hospitality) — Locobear](https://in.indeed.com/viewjob?jk=3e8958ecd9a58ae8)
 - **Why your profile matches**: Matches your target role and skills in End-to-end recruitment, Stakeholder management.
 - **Most important skills required**: End-to-end recruitment, Stakeholder management
 
@@ -6771,22 +4418,7 @@ Founded to shape the future of pensions, health, and insurance solutions, Aptia 
 
 Whitelane Holdings Limited is a diversified business group with interests across Food & Beverage, Hospitality, Sports & Entertainment Facilities, and Kitchen Equipment Trading. With an expanding business presence across India and the UAE, and planned expansion into markets such as the USA and Saudi Arabia, the orga...
 
-### 616. [Senior Engineer EHS & Security — GlobalFoundries](https://in.indeed.com/viewjob?jk=ed14e8bd44e71fae)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=ed14e8bd44e71fae](https://in.indeed.com/viewjob?jk=ed14e8bd44e71fae)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: **Title: Senior Engineer EHS & Security**
-
-  
-
-**About GF**
-
-GlobalFoundries (GF) is a leading manufacturer of essential semiconductors that enable AI at scale, from the cloud to the physical world. We partner closely with our customers to deliver differentiated, power-efficient, high-performance solutions for high-growth markets. Across our global...
-
-### 617. [SME - SAP Tax — Elanco](https://in.indeed.com/viewjob?jk=d5ed67bf2f94ef14)
+### 394. [SME - SAP Tax — Elanco](https://in.indeed.com/viewjob?jk=d5ed67bf2f94ef14)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -6797,7 +4429,7 @@ GlobalFoundries (GF) is a leading manufacturer of essential semiconductors that 
 
 **As a global leader in animal health, we are dedicated to innovation and delivering products and services to prevent and treat disease in farm animals and pets.** **At Elanco, we are driven by our vision of Food and Companionship Enriching Life and our purpose – all to Go Beyond for Animals...
 
-### 618. [HR and Payroll Executive — Radhakrishna IVF and Multispeciality Hospital](https://in.indeed.com/viewjob?jk=85bdbdd30b144187)
+### 395. [HR and Payroll Executive — Radhakrishna IVF and Multispeciality Hospital](https://in.indeed.com/viewjob?jk=85bdbdd30b144187)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -6814,69 +4446,16 @@ Job Summary
 
 The HR Executive – Talent Acquisition & Payroll will be responsible for **recruitment, candidate shortlisting, and payroll processing**...
 
-### 619. [Associate Principal - Architecture — LTM Limited](https://in.indeed.com/viewjob?jk=d7c586c05cbd7e7c)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=d7c586c05cbd7e7c](https://in.indeed.com/viewjob?jk=d7c586c05cbd7e7c)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: **Role description**
-
-Role Forward Deployed Engineer Anthropic Claude Agentic AI
-
-Skill cluster GENAIAGENTICSolution Job name as Forward Deployed Engineer
-
-Grade P5
-
-Location India
-
-Role Overview
-
-We are seeking a highly skilled Forward Deployed Engineer FDE to work directly with customers to identify business challenges shape AI opportunities and ...
-
-### 620. [Advanced People Capability Business Partner — Light & Wonder](https://in.indeed.com/viewjob?jk=0389866d9607df5d)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=0389866d9607df5d](https://in.indeed.com/viewjob?jk=0389866d9607df5d)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: **Gaming:**
-
-Welcome to the world of land-based gaming. At Light & Wonder, it’s all about the games, and our Gaming team builds cutting-edge technology, products, and content for the most iconic casinos and operators across the globe.
-
-**Position Summary**
-
-Works closely with management in the implementation of corporate policies related to human r...
-
-### 621. [L40: Assistant Manager – Business Information Security Officer (CONSULTING BISO) — Deloitte](https://in.indeed.com/viewjob?jk=fc9ec0ba42daa33a)
+### 396. [Senior HR Business Partner, AMZL HR — Amazon](https://www.linkedin.com/jobs/view/4488413305)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=fc9ec0ba42daa33a](https://in.indeed.com/viewjob?jk=fc9ec0ba42daa33a)
-- **Concerns**: Requires 6–9 yrs (profile has 4.2 yrs); Salary not disclosed
-- **Job Description Summary**: **Job Title: Assistant Manager – US Consulting Services BISO (L40)**
+- **Direct application URL**: [https://www.linkedin.com/jobs/view/4488413305](https://www.linkedin.com/jobs/view/4488413305)
+- **Concerns**: Salary not disclosed
+- **Job Description Summary**: 
 
-  
-
-Do you have the drive to engage in cyber security to protect organizations from potential security exposures or threats? If your answer is yes, we have the right opportunity for you!
-
-**Work you’ll do**
-
-This role would be part of the Cyber Security team and would support app...
-
-### 622. [Talent Acquisition Manager — VFORM TECNOPACKS LTD](https://in.indeed.com/viewjob?jk=a46a4864c6ba1852)
-- **Why your profile matches**: Matches your target role and skills in End-to-end recruitment, Stakeholder management.
-- **Most important skills required**: End-to-end recruitment, Stakeholder management
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=a46a4864c6ba1852](https://in.indeed.com/viewjob?jk=a46a4864c6ba1852)
-- **Concerns**: Requires 8–12 yrs (profile has 4.2 yrs)
-- **Job Description Summary**: *Job Title- Talent Acquisition Manager Department: Human Resources Location: Head Office – Turbhe, Navi Mumbai Reporting To: Head – Human Resources Company Overview VFORM Group is one of India's leading manufacturers of plastic packaging solutions, serving the Beverage, Liquor, Pharmaceutical, FMCG, Food, Personal Care, and Cosmetic industries thro...
-
-### 623. [Head of Talent Acquisition (Global Engineering) — Zomato](https://www.iimjobs.com/j/head-talent-acquisition-zomato-1748291)
+### 397. [Head of Talent Acquisition (Global Engineering) — Zomato](https://www.iimjobs.com/j/head-talent-acquisition-zomato-1748291)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -6892,95 +4471,21 @@ Responsibilities:
 
 Re...
 
-### 624. [HR Recruiter — Aadvay manufacturing pvt .ltd](https://in.indeed.com/viewjob?jk=17c18f5a26f99ec0)
-- **Why your profile matches**: Matches your target role and skills in End-to-end recruitment.
-- **Most important skills required**: End-to-end recruitment
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=17c18f5a26f99ec0](https://in.indeed.com/viewjob?jk=17c18f5a26f99ec0)
-- **Concerns**: Junior role (1–3 yrs)
-- **Job Description Summary**: ***Job Description – HR Recruiter***
-
-**Company Name:** Trivoid Electronics Pvt. Ltd.  
-**Job Location:** Noida  
-**Department:** Human Resources  
-**Experience:** 1–3 Years  
-**Employment Type:** Full-Time
-
-**Job Summary**
-
-We are looking for a proactive and result-oriented HR Recruiter responsible for managing the end-to-end recruitment process, ...
-
-### 625. [Senior Specialist - Architecture — LTM Limited](https://in.indeed.com/viewjob?jk=1fb4fb3d1f67d3cc)
-- **Why your profile matches**: Matches your target role and skills in SQL.
-- **Most important skills required**: SQL
-
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=1fb4fb3d1f67d3cc](https://in.indeed.com/viewjob?jk=1fb4fb3d1f67d3cc)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: **Role description**
-
-Experience - 10- 12years  
-Location- Bangalore  
-  
-We should have new developer with below skills
-
-  
-
-**Primary skills-** **Java 8, Spring/Spring Boot, EJB, REST API, JMS, JPA/JDBC/Hibernate, SQL**  
-  
-**Secondary skills- GitHub, Docker, JBOSS/ARO, Java 21, AngularJS, DevSecOps, Cloud, Azure CI/CD Pipelines**
-
-Java 8
-
-Middl...
-
-### 626. [Senior Specialist - Program & Project Management — LTM Limited](https://in.indeed.com/viewjob?jk=a6bf78cababaf63b)
-- **Why your profile matches**: Matches your target role and skills in Stakeholder management.
-- **Most important skills required**: Stakeholder management
-
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=a6bf78cababaf63b](https://in.indeed.com/viewjob?jk=a6bf78cababaf63b)
-- **Concerns**: Salary not disclosed
-- **Job Description Summary**: **Role description**
-
-Location- Bangalore  
-Experience- 8- 12years  
-Work mode- Hybrid
-
-SAP Program Manager SAP EWM Automation
-
-Role Overview
-
-We are seeking an experienced SAP Program Manager to lead largescale **SAP EWM and Warehouse Automation** transformation programs across multiple sites and geographies The role will be responsible for drivin...
-
-### 627. [Senior Business Execution Consultant [ISO 20022, Business Requirements, JIRA, Payments] — Wells Fargo](https://in.indeed.com/viewjob?jk=f51e98ae8882d8f7)
+### 398. [HR Compliance Analyst — Syneos Health](https://in.indeed.com/viewjob?jk=3195bd3cd1095e66)
 - **Why your profile matches**: Matches your target role and skills in Stakeholder management.
 - **Most important skills required**: Stakeholder management
 
 - **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=f51e98ae8882d8f7](https://in.indeed.com/viewjob?jk=f51e98ae8882d8f7)
-- **Concerns**: Junior role (3–4 yrs); Salary not disclosed
-- **Job Description Summary**: **About this role:**
+- **Direct application URL**: [https://in.indeed.com/viewjob?jk=3195bd3cd1095e66](https://in.indeed.com/viewjob?jk=3195bd3cd1095e66)
+- **Concerns**: Junior role (1–3 yrs); Salary not disclosed
+- **Job Description Summary**: HR Compliance Analyst
 
-Wells Fargo is seeking a Senior Business Execution Consultant to support key business priorities within the Chief Operating Office. The role offers an opportunity to contribute to initiatives that strengthen execution discipline, operational excellence, risk management, and customer centricity. The Chief Operating Office focus...
+Syneos Health® is a leading fully-integrated life sciences services organization built to accelerate customer success. We partner with innovators at every point across the drug development and commercialization continuum, helping them navigate complexity, anticipate change and accelerate progress.
+  
+  
+Every day we perform b...
 
-### 628. [Talent Acquisition Partner — Siemens](https://in.indeed.com/viewjob?jk=b43219f9abeb6f6b)
-- **Why your profile matches**: Matches your target role and skills in LinkedIn Recruiter.
-- **Most important skills required**: LinkedIn Recruiter
-
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=b43219f9abeb6f6b](https://in.indeed.com/viewjob?jk=b43219f9abeb6f6b)
-- **Concerns**: Requires 8–12 yrs (profile has 4.2 yrs); Salary not disclosed
-- **Job Description Summary**: **Senior Talent Acquisition Partner – Siemens Energy India Limited**
-
-Location: Navi Mumbai, Kalwa, India | Function: People & Organization – Talent Acquisition | Experience: 8–12 years
-
-**Looking for a challenging role? If you really want to make a difference - Make it with us.**
-
-At Siemens Energy India Limited, we are more than just an energy te...
-
-### 629. [Manager - Legal — WSP](https://in.indeed.com/viewjob?jk=be684c96d4843375)
+### 399. [Manager - Legal — WSP](https://in.indeed.com/viewjob?jk=be684c96d4843375)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -6991,7 +4496,7 @@ At Siemens Energy India Limited, we are more than just an energy te...
 
 The candidate must be organised, display excellent English written/communication skills and have the abi...
 
-### 630. [R&D Tax Senior Consultant (Technical) — Version 1](https://in.indeed.com/viewjob?jk=de7711eab1007237)
+### 400. [R&D Tax Senior Consultant (Technical) — Version 1](https://in.indeed.com/viewjob?jk=de7711eab1007237)
 - **Why your profile matches**: Matches your target role and skills in Power BI.
 - **Most important skills required**: Power BI
 
@@ -7002,7 +4507,7 @@ The candidate must be organised, display excellent English written/communication
 
 Version 1 has celebrated 30 years in business and continues to be trusted by global brands to deliver technology and transformation solutions that drive customer success. Our deep expertise enables our customers to navigate the rapidly evolving technology landscape. We foster strong partnerships with global technology leade...
 
-### 631. [Director (Corporate Finance & Strategy) — Flipkart](https://www.iimjobs.com/j/director-corporate-finance-flipkart-1749283)
+### 401. [Director (Corporate Finance & Strategy) — Flipkart](https://www.iimjobs.com/j/director-corporate-finance-flipkart-1749283)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -7016,18 +4521,7 @@ Responsibilities:
 - Evaluate M&A targets and joint-venture opportunities in e-commerce and quick commerce.
 - Present quarterly financial decks to the Board of Directo...
 
-### 632. [Solution Test Engineer with 2-4 years experience - Bangalore — Cisco](https://in.indeed.com/viewjob?jk=4099785e3221b829)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
-
-- **Posting time verified**: Yes (2026-11-06)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=4099785e3221b829](https://in.indeed.com/viewjob?jk=4099785e3221b829)
-- **Concerns**: Junior role (2–4 yrs); Salary not disclosed
-- **Job Description Summary**: Job Description
-  
-Cisco provides you with an excellent opportunity to take your career dreams forward. You will bring your talents to the group that works on Cisco's solutions which touch the latest and greatest technologies. In your role as Software Engineer, you will validate and integrate Cisco Enterprise solutions that are deployed by some of ...
-
-### 633. [Senior Security Analyst — NetraDyne](https://in.indeed.com/viewjob?jk=77b38060a97dc654)
+### 402. [Senior Security Analyst — NetraDyne](https://in.indeed.com/viewjob?jk=77b38060a97dc654)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -7036,7 +4530,7 @@ Cisco provides you with an excellent opportunity to take your career dreams forw
 - **Concerns**: Requires 5–8 yrs (profile has 4.2 yrs); Salary not disclosed
 - **Job Description Summary**: **Netradyne** harnesses the power of Computer Vision and Edge Computing to revolutionize the modern-day transportation ecosystem. We are a leader in fleet safety solutions. With growth exceeding 4x year over year, our solution is quickly being recognized as a significant disruptive technology. Our team is growing, and we need forward-thinking, unco...
 
-### 634. [HR & Admin Executive — Virtual Street Group](https://in.indeed.com/viewjob?jk=f32b1a7082ed45fb)
+### 403. [HR & Admin Executive — Virtual Street Group](https://in.indeed.com/viewjob?jk=f32b1a7082ed45fb)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -7057,30 +4551,25 @@ Experience: 1–3 years
 
 Role Overview :We are looking for a proactive and organised HR & Administration Executive to ma...
 
-### 635. [Business & AI Transformation Consultant — Cargill](https://in.indeed.com/viewjob?jk=568d50df51d2dba0)
+### 404. [MEP Engineer — ANI Integrated Services Limited](https://in.indeed.com/viewjob?jk=12bfa17efdf3eea0)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=568d50df51d2dba0](https://in.indeed.com/viewjob?jk=568d50df51d2dba0)
-- **Concerns**: Junior role (2–3 yrs); Salary not disclosed
-- **Job Description Summary**: **Job Purpose and Impact**
---------------------------
+- **Posting time verified**: Yes (2026-11-07)
+- **Direct application URL**: [https://in.indeed.com/viewjob?jk=12bfa17efdf3eea0](https://in.indeed.com/viewjob?jk=12bfa17efdf3eea0)
+- **Concerns**: Requires 5–8 yrs (profile has 4.2 yrs)
+- **Job Description Summary**: **Job Title : MEP Engineer – Mechanical**
 
-The Process Excellence team works across the business to solve complex problems, improve end-to-end processes and deliver transformation initiatives that strengthen performance, enable growth and simplify how work is done. The team partners with business units, functions and technology teams to...
+**Job Location:** Sanand, Gujarat  
+**Experience:** **5-8 Years**  
+**Qualification: B.E. / B.Tech in Mechanical Engineering**  
+**Industry:** **Semiconductor Manufacturing / Battery Manufacturing / Industrial Projects**
 
-### 636. [Senior Consultant - Package Implementation — LTM Limited](https://in.indeed.com/viewjob?jk=3ae7a3d0b3d4da52)
-- **Why your profile matches**: Matches your target role and skills in See JD.
-- **Most important skills required**: See JD
+**Job Summary**
 
-- **Posting time verified**: Yes (2026-11-05)
-- **Direct application URL**: [https://in.indeed.com/viewjob?jk=3ae7a3d0b3d4da52](https://in.indeed.com/viewjob?jk=3ae7a3d0b3d4da52)
-- **Concerns**: Junior role (1–4 yrs); Salary not disclosed
-- **Job Description Summary**: **Role description**
+We are looking for an experienced **MEP Engineer – Mechanical** with...
 
-Job Description The Associate Professional Application Development job maintains integrates and implements routine software applications within the organization Under close supervision this job performs basic software application testing quality assurance configuration installation and support to ensure smooth stable and timel...
-
-### 637. [Networking (Security/Routing/Switching) - Lead Managed Services Engineer II — Deloitte](https://in.indeed.com/viewjob?jk=822d5686525c99bf)
+### 405. [Networking (Security/Routing/Switching) - Lead Managed Services Engineer II — Deloitte](https://in.indeed.com/viewjob?jk=822d5686525c99bf)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -7091,7 +4580,25 @@ Job Description The Associate Professional Application Development job maintains
 
 AI & Engineering leverages cutting-edge engineering capabilities to help build, deploy, and operate integrated/verticalized sector solutions in software, data, AI, network, and hybrid cloud infrastructure. These insights are powered by engineering for business advantage, helping transform mission-critical ...
 
-### 638. [Vice President (Institutional & B2B Sales) — ICICI Securities](https://www.iimjobs.com/j/vp-institutional-sales-icici-1749811)
+### 406. [Specialist - Cloud Engineering — LTM Limited](https://in.indeed.com/viewjob?jk=47d384f1c503d9ca)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://in.indeed.com/viewjob?jk=47d384f1c503d9ca](https://in.indeed.com/viewjob?jk=47d384f1c503d9ca)
+- **Concerns**: Requires 8–12 yrs (profile has 4.2 yrs); Salary not disclosed
+- **Job Description Summary**: **Role description**
+
+Location- Bengaluru  
+Experience- 8- 12 Years
+
+  
+
+Platform Engineer II Cloud Ecosystems
+
+Our mission is to create transformative innovative and personalized travel experiences for millions of customers all across the world We want customers to have an amazing experience wherever and whenever they choose mobile web and through...
+
+### 407. [Vice President (Institutional & B2B Sales) — ICICI Securities](https://www.iimjobs.com/j/vp-institutional-sales-icici-1749811)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -7107,7 +4614,7 @@ Responsibilities:
 
 Re...
 
-### 639. [End User Computing (EUC) - Lead Managed Services Engineer II — Deloitte](https://in.indeed.com/viewjob?jk=273e24319f95b5bb)
+### 408. [End User Computing (EUC) - Lead Managed Services Engineer II — Deloitte](https://in.indeed.com/viewjob?jk=273e24319f95b5bb)
 - **Why your profile matches**: Matches your target role and skills in See JD.
 - **Most important skills required**: See JD
 
@@ -7118,7 +4625,18 @@ Re...
 
 AI & Engineering leverages cutting-edge engineering capabilities to help build, deploy, and operate integrated/verticalized sector solutions in software, data, AI, network, and hybrid cloud infrastructure. These insights are powered by engineering for business advantage, helping transform mission-critical ...
 
-### 640. [Lead Functional Engineer AP S2P — Signify](https://in.indeed.com/viewjob?jk=a80e90b779a2adb4)
+### 409. [Human Resources Business Partner Manager - India — Optiv](https://in.indeed.com/viewjob?jk=34b0f07d7e648e89)
+- **Why your profile matches**: Matches your target role and skills in See JD.
+- **Most important skills required**: See JD
+
+- **Posting time verified**: Yes (2026-11-06)
+- **Direct application URL**: [https://in.indeed.com/viewjob?jk=34b0f07d7e648e89](https://in.indeed.com/viewjob?jk=34b0f07d7e648e89)
+- **Concerns**: Requires 10–12 yrs (profile has 4.2 yrs); Salary not disclosed
+- **Job Description Summary**: **Who we are looking for**
+
+The Human Resources Business Partner Manager leads and facilitates all HR people programs and strategies to support the needs of their assigned line of business through collaboration with the clients, HR specialty teams and other HR business partners. This role will serve as an expert consultant to Optiv’s India entity a...
+
+### 410. [Lead Functional Engineer AP S2P — Signify](https://in.indeed.com/viewjob?jk=a80e90b779a2adb4)
 - **Why your profile matches**: Matches your target role and skills in Stakeholder management.
 - **Most important skills required**: Stakeholder management
 
